@@ -1,0 +1,86 @@
+project: 
+  type: website
+  output-dir: docs
+website:
+  open-graph: true
+  page-navigation: true  
+  title: "Außerschulische Lernorte"
+  site-url: https://OGERhubgithub.io/aslo
+  repo-url: https://github.com/OGERhub/aslo
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: "OGERhub (2024) [Impressum](unit00/impressum.html)" 
+  twitter-card:
+    creator: "@gisma"
+  comments:
+   utterances:
+     repo: OGERhub/aslo
+  navbar:
+    logo: /images/thumbbanner.webp
+    left:
+      - icon: question-square-fill
+        text: FAQ
+        href: unit00/unit00-faq.qmd
+      - icon: file-slides-fill
+        text: Slides
+        href: slides/slidelist.qmd
+      - icon: check2-square
+
+  sidebar:
+    # logo: /images/logo.jpg
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+    contents:
+      - section: "HowTo AsLo"
+        contents:
+          - index.md
+          - unit00/unit00-02-stupruef.qmd
+          
+      - text: "---"   
+      - section: "Ausserschulische Lernorte"
+        contents: 
+          - href: unit01/unit01-01.qmd
+            text: "Theorie und Konzepte"
+          - href: unit01/unit01-02.qmd
+            text: "Anwendungsbeispiele"
+
+      - text: "---"
+      - section: "Ressourcen"
+        contents:
+          - href: unit02/unit02-01.qmd
+            text: "TaskCards"
+          - href: unit02/unit02-02.qmd
+            text: Quarto Markdown
+      - text: "---"
+      - section: "AsLos"
+        contents:
+          - href: unit03/unit01-01.qmd
+            text: "Projekt 1"
+      #- text: "---"
+      #- section: "Machine Learning"
+      #  contents:
+      #    - Machine_Learning_Session/ML_AOA.qmd
+          # - href: https://gisma-courses.github.io/LV-uav-workflow/modules/module-introduction/
+          #   text: Basic Readings        
+          # - href: https://gisma-courses.github.io/LV-uav-workflow/modules/module-fieldwork/
+          #   text: uav/Flight Planning
+      - text: "---"
+##format: dokuwiki
+format:
+  html:
+    theme:
+      light: lumen
+      dark: [lumen, css/theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: css/styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+# filters:
+#   - include-files.lua
+#   - quarto

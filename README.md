@@ -1,4 +1,4 @@
-![Course Header](https://gisma-courses.github.io/geoinfo-basis-qgis/assets/images/aslo1.webp "Image source: C.Reudenbach")
+![Course Header](https://ogerhub.github.io/aslo/assets/images/aslo1.webp "Image source: C.Reudenbach")
 
 
 

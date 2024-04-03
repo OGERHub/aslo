@@ -2,10 +2,10 @@
 title: ""
 open-graph:
   description: "Außerschulische Lernorte 2024"
-  image: /images/banneraslo.webp
+  image: /images/banneraslo.png
 twitter-card:
   description: "Außerschulische Lernorte 2024"
-  image: /images/banneraslo.webp
+  image: /images/banneraslo.png
 
 comments: false
 ---
@@ -20,7 +20,7 @@ comments: false
   
 </style>
 ```
-![](/images/banneraslo.webp)
+![](/images/banneraslo.png)
 Einführungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
 
 ## Allgemeines

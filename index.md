@@ -23,7 +23,7 @@ comments: false
 ![](/images/banneraslo.png)
 Einführungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
 
-## Allgemeines
+## Einführung
 
 Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung mobiler digitaler Medien didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
 
@@ -36,7 +36,7 @@ Am Ende des Kurses sollen Sie in der Lage sein \* ausgehend von einer fachlichen
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
 ::: {.callout-tip appearance="minimal"}
-Information zum Format des Kurses: Der Kurs gliedert sich in zwei Blockeinheiten, je einer vor Beginn und einer nach Ende des Vorlesungszeitraums und vereinzelte Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter [How-to ASLO](unit00/unit00-01-howto.qmd) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=3174856&cmdClass=ilrepositorygui&cmdNode=z7&baseClass=ilrepositorygui).
+Information zum Format des Kurses: Der Kurs gliedert sich in eine Blockeinheit vor Beginn des Vorlesungszeitraums und Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter [How-to ASLO](unit00/unit00-01-howto.qmd) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php).
 :::
 
 ## Gruppenarbeit und Gruppenbildung
@@ -52,8 +52,15 @@ Sie werden dieses Modul in Kleingruppen durchlaufen.
 Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten. Häufig auftretende Fragen und Probleme (auch aus den vergangenen Semestern) werden wir im Bereich [FAQs](unit00/unit00-faq.qmd) auf dieser Webseite aufbereiten und für alle TeilnehmerInnen zur Verfügung stellen.
 
 ## Kurszeiten
+* Dienstag 10-12 Uhr (Dörfel)
+* Donnerstag 10-12 Uhr (Ammoneit)
+* Donnerstag 14 -16 Uhr (Reudenbach)
 
-## Ablauf Block 1
+## Ablauf Block 
+
+* Blocktage sind 7./8./9. April 9.00 Uhr bis 17.00 Uhr
+
+
 
 ## Team
 

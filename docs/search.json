@@ -291,7 +291,7 @@
     "href": "index.html#kursmerkmale",
     "title": "Außerschulische Lernorte",
     "section": "Kursmerkmale",
-    "text": "Kursmerkmale\nDer Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.\n\n\n\n\n\n\nInformation zum Format des Kurses: Der Kurs gliedert sich in zwei Blockeinheiten, je einer vor Beginn und einer nach Ende des Vorlesungszeitraums und vereinzelte Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter How-to ASLO auf dieser Webseite oder im geschlossenen Kursbereich der ILIAS-Lernplattform."
+    "text": "Kursmerkmale\nDer Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.\n\n\n\n\n\n\nInformation zum Format des Kurses: Der Kurs gliedert sich in eine Blockeinheit vor Beginn des Vorlesungszeitraums und Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter How-to ASLO auf dieser Webseite oder im geschlossenen Kursbereich der ILIAS-Lernplattform."
   },
   {
     "objectID": "index.html#gruppenarbeit-und-gruppenbildung",
@@ -312,7 +312,7 @@
     "href": "index.html#kurszeiten",
     "title": "Außerschulische Lernorte",
     "section": "Kurszeiten",
-    "text": "Kurszeiten"
+    "text": "Kurszeiten\n\nDienstag 10-12 Uhr (Dörfel)\nDonnerstag 10-12 Uhr (Ammoneit)\nDonnerstag 14 -16 Uhr (Reudenbach)"
   },
   {
     "objectID": "index.html#ablauf-block-1",
@@ -327,5 +327,19 @@
     "title": "Außerschulische Lernorte",
     "section": "Team",
     "text": "Team\nViel Spaß in unserem Kurs und beim Lernen an der Universität Marburg!"
+  },
+  {
+    "objectID": "index.html#einführung",
+    "href": "index.html#einführung",
+    "title": "Außerschulische Lernorte",
+    "section": "Einführung",
+    "text": "Einführung\nAußerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung mobiler digitaler Medien didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert."
+  },
+  {
+    "objectID": "index.html#ablauf-block",
+    "href": "index.html#ablauf-block",
+    "title": "Außerschulische Lernorte",
+    "section": "Ablauf Block",
+    "text": "Ablauf Block\n\nBlocktage sind 7./8./9. April 9.00 Uhr bis 17.00 Uhr"
   }
 ]

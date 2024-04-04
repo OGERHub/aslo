@@ -1,0 +1,17 @@
+---
+title: "Zuḱunftsvisionen"
+---
+
+
+
+::: {.callout-warning collapse="true"}
+## Meine Vision 
+
+![](/images/vison.webp){width=50%}
+:::
+
+::: {.callout-warning collapse="true"}
+## Bitte beantworten Sie diese Fragen
+
+[Umfrage](partici.fi/13349343)
+:::

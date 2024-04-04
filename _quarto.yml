@@ -44,6 +44,8 @@ website:
         contents: 
           - href: unit01/unit01-01.qmd
             text: "Theorie und Konzepte"
+          - href: unit01/unit01-03.qmd
+            text: "Meine Zukunft"
           - href: unit01/unit01-02.qmd
             text: "Anwendungsbeispiele"
 

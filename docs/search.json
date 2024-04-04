@@ -105,11 +105,11 @@
     "text": "This is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
   },
   {
-    "objectID": "slides/slidelist.html",
-    "href": "slides/slidelist.html",
-    "title": "Presentations",
+    "objectID": "unit01/unit01-03.html",
+    "href": "unit01/unit01-03.html",
+    "title": "Zuḱunftsvisionen",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSlides and extensions\n\n\ngisma team\n\n\n\n\n\n\nNo matching items"
+    "text": "Meine Vision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBitte beantworten Sie diese Fragen\n\n\n\n\n\nUmfrage"
   },
   {
     "objectID": "slides/slide1.html#header-12",
@@ -203,6 +203,13 @@
     "text": "Basic Reference\nFind more informations at Quarto RevealJS Documentation\n\n\n&lt;gisma 2023&gt;\n\n\n\n\n\n\n \n\n\nThis is the header extension"
   },
   {
+    "objectID": "slides/slidelist.html",
+    "href": "slides/slidelist.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSlides and extensions\n\n\ngisma team\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "unit01/unit01-02.html",
     "href": "unit01/unit01-02.html",
     "title": "Anwendungsbeispiele",
@@ -273,11 +280,11 @@
     "text": "Einführungskurs im Lehramtsstudium Erdkunde an der Philipps Universität Marburg"
   },
   {
-    "objectID": "index.html#allgemeines",
-    "href": "index.html#allgemeines",
+    "objectID": "index.html#einführung",
+    "href": "index.html#einführung",
     "title": "Außerschulische Lernorte",
-    "section": "Allgemeines",
-    "text": "Allgemeines\nAußerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung mobiler digitaler Medien didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert."
+    "section": "Einführung",
+    "text": "Einführung\nAußerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung mobiler digitaler Medien didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert."
   },
   {
     "objectID": "index.html#lernziele",
@@ -315,11 +322,11 @@
     "text": "Kurszeiten\n\nDienstag 10-12 Uhr (Dörfel)\nDonnerstag 10-12 Uhr (Ammoneit)\nDonnerstag 14 -16 Uhr (Reudenbach)"
   },
   {
-    "objectID": "index.html#ablauf-block-1",
-    "href": "index.html#ablauf-block-1",
+    "objectID": "index.html#ablauf-block",
+    "href": "index.html#ablauf-block",
     "title": "Außerschulische Lernorte",
-    "section": "Ablauf Block 1",
-    "text": "Ablauf Block 1"
+    "section": "Ablauf Block",
+    "text": "Ablauf Block\n\nBlocktage sind 7./8./9. April 9.00 Uhr bis 17.00 Uhr"
   },
   {
     "objectID": "index.html#team",
@@ -327,19 +334,5 @@
     "title": "Außerschulische Lernorte",
     "section": "Team",
     "text": "Team\nViel Spaß in unserem Kurs und beim Lernen an der Universität Marburg!"
-  },
-  {
-    "objectID": "index.html#einführung",
-    "href": "index.html#einführung",
-    "title": "Außerschulische Lernorte",
-    "section": "Einführung",
-    "text": "Einführung\nAußerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung mobiler digitaler Medien didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert."
-  },
-  {
-    "objectID": "index.html#ablauf-block",
-    "href": "index.html#ablauf-block",
-    "title": "Außerschulische Lernorte",
-    "section": "Ablauf Block",
-    "text": "Ablauf Block\n\nBlocktage sind 7./8./9. April 9.00 Uhr bis 17.00 Uhr"
   }
 ]

@@ -4,14 +4,29 @@ title: "Zuḱunftsvisionen"
 
 
 
-::: {.callout-warning collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Meine Vision 
 
-![](/images/vison.webp){width=50%}
+![](/images/vision.webp){width=50%}
 :::
 
-::: {.callout-warning collapse="true"}
+::: {.callout-tip collapse="true"}
 ## Bitte beantworten Sie diese Fragen
 
-[Umfrage](partici.fi/13349343)
+
+<iframe src="https://partici.fi/13349343" style="border:0px;width:100%;height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+
+:::
+
+
+::: {.callout-tip collapse="true"}
+## Bitte bewerten Sie
+
+
+<iframe src="https://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1" style="border:0px;width:100%;height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+
 :::

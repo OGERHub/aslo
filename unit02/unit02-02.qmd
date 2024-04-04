@@ -1,20 +1,9 @@
 ---
 title: "Quarto Markdown"
+title-block-banner: ../images/publish-header.png
 ---
-![](/images/res2.webp)
+# Inhalte veröffentlichen mit Markdown und Quarto
 
-## Make sense topic
+## StackIt der online Editor
 
-::: {.callout-warning appearance="minimal"}
-This is a senseless question to meet a meaningfull answer
-:::
-
-::: {.callout-tip appearance="simple"}
-This is a meaningful answer to a senseless question
-:::
-
-::: {.callout-warning collapse="true"}
-## Learn More...
-
-This is a even **more** meaningful answer to a senseless question
-:::
+[StackIt](https://stackedit.io/)

@@ -56,11 +56,18 @@
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
   },
   {
-    "objectID": "unit02/unit02-02.html#make-sense-topic",
-    "href": "unit02/unit02-02.html#make-sense-topic",
+    "objectID": "unit02/unit02-02.html",
+    "href": "unit02/unit02-02.html",
     "title": "Quarto Markdown",
-    "section": "Make sense topic",
-    "text": "Make sense topic\n\n\n\n\n\n\nThis is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
+    "section": "",
+    "text": "StackIt"
+  },
+  {
+    "objectID": "unit02/unit02-02.html#stackit-der-online-editor",
+    "href": "unit02/unit02-02.html#stackit-der-online-editor",
+    "title": "Quarto Markdown",
+    "section": "",
+    "text": "StackIt"
   },
   {
     "objectID": "unit00/unit00-02-stupruef.html#studien--und-prüfungsleistung",
@@ -250,6 +257,13 @@
     "title": "Frequently asked Questions",
     "section": "",
     "text": "This is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
+  },
+  {
+    "objectID": "unit02/unit02-01.html",
+    "href": "unit02/unit02-01.html",
+    "title": "TaskCards",
+    "section": "",
+    "text": "TaskCards\n\nOrganisiere Ideen und Orte\n\n\n\n\nScan den Zugang mit deinem mobilen Gerät"
   },
   {
     "objectID": "index.html",

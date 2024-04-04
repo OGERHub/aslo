@@ -1,9 +1,13 @@
 ---
 title: "TaskCards"
+
+title-block-banner: ../images/taskcard-header.png
 ---
 
-![](/images/res2.webp)
+# TaskCards
+### Organisiere Ideen und Orte
 
-<iframe src="https://www.taskcards.de/#/board/5bf6b048-ad03-456a-8dd9-cd509b4a2467?token=170a8896-4624-4a6c-b60c-d7c2c86f2c78" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://www.taskcards.de/#/board/5bf6b048-ad03-456a-8dd9-cd509b4a2467?token=170a8896-4624-4a6c-b60c-d7c2c86f2c78" style="border:0px;width:100%;height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-![](/images/qrtaskcard.png)
+### Scan den Zugang mit deinem mobilen Gerät
+![](/images/qrtaskcard.png){width=50%}

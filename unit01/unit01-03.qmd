@@ -1,18 +1,18 @@
 ---
 title: "Zuḱunftsvisionen"
-
-title-block-banner-color: black
+title-block-banner: ../images/banner.png
+title-block-banner-color: orange
 ---
 
 
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip }
 ## Meine Vision 
 
 ![](/images/vision.webp){width=50%}
 :::
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip }
 ## Bitte beantworten Sie diese Fragen
 
 
@@ -23,7 +23,7 @@ title-block-banner-color: black
 :::
 
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip }
 ## Bitte bewerten Sie
 
 

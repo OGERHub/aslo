@@ -16,23 +16,22 @@ format:
     menu: true
 ---
 
-# Herzlich Willkommen
+## Herzlich Willkommen
 
 Kurs besteht aus:
 
-drei Blocktagen
+- drei Blocktagen
 
-Semesterbegleitender Veranstaltung
+- Semesterbegleitender Veranstaltung
 
-Semesterbegleitende Veranstaltung:
 
 ::: r-stack
-::: {data-id="box1" style="background: #2780e3; text-align: left; width: 550px; height: 250px; border-square: 200px;"}
+::: {data-id="box1" style="background: #2780e3; text-align: left; width: 550px; height: 180px; border-square: 200px;"}
 Dienstag 10-12 (Dörfel)
 
 Donnerstag 12-14 (Ammoneit)
 
-Donnerstag 14-16\
+Donnerstag 14-16 (Reudenbach)
 :::
 :::
 

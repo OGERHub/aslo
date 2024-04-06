@@ -1,0 +1,533 @@
+---
+title: "Außerschulische Lernorte"
+subtitle: ""
+author: "Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach"
+title-slide-attributes:
+  data-background-image: ../images/banneraslo.webp
+  data-background-size: contain
+  data-background-opacity: "0.5"
+
+format:
+  illinois-revealjs: default
+
+
+---
+
+
+# Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach
+Sommersemester 2024
+
+# Herzlich Willkommen
+<br>
+Kurs besteht aus:
+
+* [ drei Blocktagen ]{.rn}
+* [Semesterbegleitende Veranstaltung:]{.rn rn-type=underline rn-color=red}
+
+Dienstag 10\-12 \(Dörfel\)
+
+Donnerstag 12\-14 \(Ammoneit\)
+
+Donnerstag 14\-16 \(Reudenbach\)
+
+<br>
+
+# Studien- und Prüfungsleistung
+
+Studienleistung:
+
+Entwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton\*innen \(1\,5 Stunden\) in Dreiergruppen
+
+Exkursionstagebuch\, das Sie während der anderen Exkursionen führen
+
+Prüfungsleistung:
+
+Anpassung des Konzeptes für die Schule
+
+Bündige Darstellung\, die Veröffentlichung auf Homepage erlaubt
+
+# Abfrage Terminlichen Präferenzen
+
+Melden Sie sich bitte bei Particify an\!
+
+# Thematischer Schwerpunkt: Resilient in die Zukunft
+
+# Die Blocktage
+
+<span style="color:#FFC000"> __Hörsaal__ </span> \,  <span style="color:#D1ECA7"> __draußen__ </span> \,  <span style="color:#7030A0"> __Seminarräume__ </span>
+
+Präsentationen der Ideen
+
+Freie Arbeit und Bearbeitung
+
+Resilienz\-Spurensuche
+
+interaktive Einführung
+
+Sammlung und Besprechung
+
+Reflektion der eigenen Position
+
+Terminabsprachen und Orga
+
+Austausch und Ideenskizzen
+
+<span style="color:#C00000">Reflexion bis 24:00 Uhr abgeben</span>
+
+<span style="color:#C00000">Ideenskizze bis 24:00 Uhr abgeben</span>
+
+<span style="color:#C00000">Exposé bis 24:00 Uhr abgeben</span>
+
+# Interaktive Einführung: Zukunftsvisionen
+
+Versuchen Sie die Zukunft zu visualisieren\. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen\. Sie sind frei in der Wahl Ihrer  Schwerpunkte und Zeithorizonten\. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich\.
+
+Sie haben 15 Minuten Zeit\.
+
+# Zukunftsvisionen
+
+Tauschen Sie sich nun mit Ihren Sitznachbar\*innen\, und den Kommiliton\*innen\, die hinter ihnen bzw\. vor ihnen sitzen aus\, sodass Sie ein Sechserteam bilden\. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist\.
+
+Welche Gemeinsamkeiten stellen Sie fest?
+
+Welche Unterschiede bestehen?
+
+Spiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein\, warum nicht?
+
+# Übersicht über die Szenarien
+
+![](img/Resilienz0.png)
+
+Melden Sie sich bitte bei Partifiy an\!
+
+# Der Klimawandel – Einstellungen und Perspektiven
+
+Für die nächste Übung gehen Sie bitte raus\. Wir treffen uns in 5 Minuten vor den Tugenden
+
+# Wissenschaftliche Erkenntnisse
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams\.
+
+_[https://www\.ipcc\.ch/report/ar6/syr/figures/csb\-2\-figure\-1](https://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1)_
+
+Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
+
+Was können Gründe dafür sein\, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
+
+Was bedeutet die Prozentzahl in Klammern in Sektion b\)?
+
+Was bedeuten die flächigen Einfärbungen in den Graphen?
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams\.
+
+_[https://www\.ipcc\.ch/report/ar6/syr/figures/figure\-spm\-5](https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5)_
+
+Welche Szenarien finden Sie in der Abbildung wieder?
+
+Was bedeuten die flächigen Einfärbungen in den Graphen?
+
+Haben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?
+
+Was bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams\.
+
+_[https://www\.ipcc\.ch/report/ar6/syr/figures/figure\-spm\-1](https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1)_
+
+_[https://www\.ipcc\.ch/report/ar6/syr/figures/csb\-2\-figure\-1](https://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1)_
+
+_[https://www\.ipcc\.ch/report/ar6/syr/figures/figure\-spm\-5](https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5)_
+
+Wenn Sie die Informationen aus den drei Abbildungen kombinieren welche Prognose treffen Sie für die Temperatur\, wenn Sie 50 Jahre alt sind?
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams\.
+
+_[https://www\.ipcc\.ch/report/ar6/syr/figures/figure\-spm\-1](https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1)_
+
+Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
+
+Wie warm wird es auf der Erde sein\, wenn Sie 50 sind?
+
+Was können Gründe dafür sein\, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
+
+![](img/Resilienz1.png)
+
+# Cross-Section Box.2, Figure 1
+
+![](img/Resilienz2.png)
+
+# Figure SPM.5
+
+# Figure SPM.1
+
+![](img/Resilienz3.png)
+
+# Figure 4.2
+
+![](img/Resilienz4.png)
+
+# 
+
+Was bedeuten neuere politischen Meldung
+
+Was bedeutet die Pfadentwicklung für Bildungsarbeit
+
+# Lehrkraft in Zeiten unsicherer Zukünfte
+
+Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten\.
+
+Welche Werte und Kompetenzen\, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
+
+Welche Bedeutung hat die BNE für Ihre Über…
+
+Was motiviert Sie die nachwachsende Generation auszubilden?
+
+Machen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias\-Ordner hoch\.
+
+Wordcloud oder Notizen in Particify?
+
+# 
+
+_[https://www\.ipcc\.ch/report/ar6/syr/figures/figure\-3\-3](https://www.ipcc.ch/report/ar6/syr/figures/figure-3-3)_
+
+# Resilience
+
+<span style="color:#000000">The ability of an individual\, a community\, society or ecosystem to withstand\, survive and adapt to the stress and shock waves of some dramatic\, traumatic and often unanticipated event or development\. The ability to rebuild is a mark of resilience\. </span>
+
+<span style="color:#000000">Adapted from Pike\, G\. and Selby\, D\. \(2011\) </span>  <span style="color:#000000"> _In the Global Classroom _ </span>
+
+# Übung im Zweierteam
+
+In welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?
+
+Berichten Sie von einer Situation\, die Ihnen im Gespräch mit Ihren Kommiliton\*innen nicht zu privat ist\.
+
+Was hat Ihnen dabei geholfen?
+
+# 
+
+\.
+
+Diskutieren Sie nun welche Faktoren\, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen\.
+
+Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify\.
+
+# Dimensions of Resilience
+
+<span style="color:#000000">The Five Dimensions of Resilient Well\-being</span>
+
+Biological
+
+Material
+
+Social \(including Cultural\)
+
+<span style="color:#000000"> Cognitive \(Knowing and Understanding\)</span>  <span style="color:#FCCA24"> </span>
+
+<span style="color:#000000"> Emotional </span>
+
+<span style="color:#F2E5B0"> </span>  <span style="color:#000000">After Williamson\, J\. & Robinson\, M\. \(2006\)\. ‘</span>  <span style="color:#000000"> _Psychosocial programs or programs aimed at general well\-being?_ </span>  <span style="color:#000000">’ </span>
+
+# Vulnerability
+
+![](img/Resilienz5.png)
+
+<span style="color:#000000">The degree to which an individual\, a community\, a society or ecosystem is unable to cope with the stress and shock waves of some dramatic\, traumatic and often unexpected event or development\. </span>
+
+<span style="color:#000000">Adapted from Pike \,G\. & Selby\, D\. \(2011\)\. </span>  <span style="color:#000000"> _In the Global Classroom _ </span>
+
+# Climate Change Vulnerability
+
+<span style="color:#000000">The degree to which a person\, community or society or ecosystem is susceptible to and unable to cope with the threats\, hazards\, disasters\, shocks and stresses brought about by dangerous climate change\. </span>  <span style="color:#F2E5B0"> </span>
+
+<span style="color:#000000">Features/measures of vulnerability: </span>
+
+<span style="color:#000000">A sense of </span>  <span style="color:#000000">defencelessness</span>  <span style="color:#000000"> </span>  <span style="color:#FCCA24"> </span>
+
+<span style="color:#000000">Physical breakdown </span>
+
+<span style="color:#000000">Cultural collapse </span>
+
+<span style="color:#000000">Emotional or psychological injury or inability to cope </span>
+
+<span style="color:#000000">Breakdown of social structures and social and environmental processes </span>  <span style="color:#FCCA24"> </span>
+
+<span style="color:#000000">Inability to adapt </span>
+
+<span style="color:#000000">Aggression and conflict </span>
+
+<span style="color:#F2E5B0"> </span>  <span style="color:#000000">Adapted from Pike\, G\. & Selby\, D\. \(2011\)\. </span>  <span style="color:#000000"> _In the Global Classroom _ </span>
+
+# Climate Change Resilience
+
+<span style="color:#000000">The ability of a person\, community or society or ecosystem to survive the threats\, hazards\, disasters\, shocks and stresses brought about by climate change\, and to rebuild itself in the aftermath\. </span>
+
+<span style="color:#000000">Features/measures of resilience: </span>
+
+<span style="color:#000000">Emotional\, psychological and cultural sturdiness </span>
+
+<span style="color:#000000">The </span> ability to remain positive and hopeful
+
+The  <span style="color:#000000">ability to adapt and transform </span>
+
+<span style="color:#000000">The rate and sturdiness of return to a stable condition\. </span>
+
+<span style="color:#000000">Adapted from </span>  <span style="color:#000000">Pike\,G</span>  <span style="color:#000000">\. & </span>  <span style="color:#000000">Selby\,D</span>  <span style="color:#000000">\. \(2011\)\. </span>  <span style="color:#000000"> _In the Global Classroom _ </span>
+
+# Resilience vs. Vulnerability
+
+<span style="color:#000000">The degree of resilience and vulnerability will depend upon the nature and size of the climate threat and the extent to which individuals\, communities and societies have considered the future and\, especially\, readied themselves to handle shock and uncertainty\. </span>  <span style="color:#EEE0A1">"</span>  <span style="color:#F2E5B0">\! </span>
+
+<span style="color:#000000">Adapted from </span>  <span style="color:#000000">Pike\,G</span>  <span style="color:#000000">\. & </span>  <span style="color:#000000">Selby\,D</span>  <span style="color:#000000">\. \(2011\)\. </span>  <span style="color:#000000"> _In the Global Classroom _ </span>
+
+# Priorities for Action
+
+<span style="color:#000000"> _Five Priorities for Action in the Hyogo Framework for Action \(HFA\) 2005\-2015: Building the Resilience of Nations and Communities to Disasters _ </span>
+
+<span style="color:#000000"> _Priority Action 1_ </span>  <span style="color:#000000">: Ensure that disaster risk reduction is a national and a local priority with a strong institutional basis for implementation\. </span>
+
+<span style="color:#000000"> _Priority Action 2_ </span>  <span style="color:#000000">: Identify\, assess and monitor disaster risks and enhance early warning\. </span>
+
+<span style="color:#000000"> _Priority Action 3_ </span>  <span style="color:#000000"> __: Use knowledge\, innovation and education to build a culture of safety and resilience at all levels __ </span>
+
+<span style="color:#000000"> _Priority Action 4_ </span>  <span style="color:#000000">: Reduce the underlying risk factors\. </span>
+
+<span style="color:#000000"> _Priority Action 5_ </span>  <span style="color:#000000">: Strengthen disaster preparedness for effective response at all levels </span>
+
+# Klimawandelbildung
+
+Nachhaltige Entwicklung
+
+Katastrophenprävention
+
+<span style="color:#002060">Werte\, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten\.</span>
+
+<span style="color:#002060">Werte\, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen\, die den Klimawandel abschwächen\.</span>
+
+<span style="color:#002060">Durch Bildung Vulnarabilität von Communities reduzieren\.</span>
+
+<span style="color:#002060">Handlungs\-fähigkeit für Natur\-katsrophen präventiv ausbilden\.</span>
+
+<span style="color:#003366"> _Fig 3\. Klimawandelbilung\. Nach: UNEP\, UNESCO 2011_ </span>
+
+# Resilienzbildung
+
+Katastrophen\-prävention
+
+<span style="color:#003366"> _Fig 4\. Resilienzbildung_ </span>
+
+<span style="color:#003366">Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen\. </span>
+
+# Lehrkraft in Zeiten unsicherer Zukünfte
+
+Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten\.
+
+Welche Werte und Kompetenzen\, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
+
+Welche Bedeutung hat die BNE für Ihre Über…
+
+Was motiviert Sie die nachwachsende Generation auszubilden?
+
+Machen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias\-Ordner hoch\.
+
+Wordcloud oder Notizen in Particify?
+
+# Tag 2
+
+# Resilienzspurensuche
+
+* Sie sollen nun in Dreierteams Resilienz\- und Vulnerabilitätsspuren suchen\, d\.h\.
+  * alles was von akuteller oder vergangener Adaptionsleistung zeugt
+  * alles was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint
+  * wo sehen Sie vulnerable
+* Sie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen\. Fotographieren und dokumentieren Sie die Spuren unmittelbar
+
+# Field Trip: Purposes
+
+<span style="color:#000000">To gather information on local challenges in the face of climate change </span>
+
+<span style="color:#000000">To find out about local initiatives for climate change mitigation\, adaptation\, risk reduction and resilience building </span>
+
+<span style="color:#000000">To collect views on potential school/community climate change initiatives as well as data on any current initiatives\. </span>
+
+# Vorgaben
+
+Ziel des Außerschulischen Lernortes soll es zunächst sein Ihren Kommiliton\*innen den Bedarf oder das Potenzial für eine Klimaadaption zu vermitteln\, um die Resilienz der Gesellschaft zu stärken\.
+
+Es soll ein vulnerability Factor oder die Schnittmenge zwischen mehreren thematisiert werden\.
+
+Der Lernort soll zunächst auf universitärem Niveau erschlossen werden\, d\.h\. Ihre Kommiliton\*innen sollen fachlich etwas zur Klimaresilienz bzw\. \-vulnerabiltät Marburgs lernen\.
+
+![](img/Resilienz6.png)
+
+# Projektskizze
+
+Thema:
+
+Wo:
+
+Wie:
+
+Ziel:
+
+![](img/Resilienz7.jpg)
+
+# 
+
+__© __ Seifert  _[Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons)_   _[CC0 1\.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)_
+
+![](img/Resilienz8.jpg)
+
+__© __ mbtrama  _[Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons)_   _[Attribution 2\.0 Generic](https://creativecommons.org/licenses/by/2.0/deed.en)_
+
+![](img/Resilienz9.jpg)
+
+__© __ Bienenfreund2018  _[Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons)_   _[Attribution\-Share Alike 4\.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)_
+
+# Zukunftsszenarien
+
+![](img/Resilienz10.png)
+
+<span style="color:#003366"> _Fig 1 _ </span>  <span style="color:#003366"> _Zukunfsszenarien_ </span>  <span style="color:#003366"> _ in _ </span>  <span style="color:#003366"> _Abbhängikeit_ </span>  <span style="color:#003366"> _ von _ </span>  <span style="color:#003366"> _Emissionen_ </span>  <span style="color:#003366"> _ _ </span>  <span style="color:#003366"> _aus_ </span>  <span style="color:#003366"> _: IPCC\, 2023: Summary for Policymakers\. Figure _ </span>  <span style="color:#003366"> _SPM\.1:\(c\) _ </span>
+
+# Klimaangst junger Menschen
+
+__Deutschland __
+
+\(14\-17 Jahre\)
+
+64 % Angst \(37% große\, 27% eher\)
+
+15% kaum & keine Angst
+
+55% Angst vor der Zunahme von Extrenwetterereignissen
+
+10% vermuten\, dass Depression durch den Klimawandel hervorgerufen wird
+
+_SINUS\-Studie 2022_
+
+__International__
+
+\(16\-25 Jahre\)
+
+84% besorgt \(27% extrem\, 32 % sehr\, 25% moderat\)
+
+61\.8% Angst
+
+82\.6% Menschen haben versagt den Planeten zu schützen
+
+39\.1% zögert eigene Kinder zu haben
+
+_Hickman et al\. 2021_
+
+# Klimaangst
+
+Klimaangst ist eine „erhöhte emotionale\, mentale oder somatische Belastung als Reaktion auf gefährliche Veränderungen im Klimasystem“  _\(Climate Psychology Alliance 2020: 22\)_
+
+Klimaangst ist eine gesunde Reaktion auf den Klimawandel\, im Gegensatz zu Apathie und Verleugnung
+
+Klimaangst Symptome wie Panikattacken\, Schlaflosigkeit\, Grübeln beinhalten\.
+
+Klimaangst kann zu Angststören\, Suchtkrankeiten und Depression führen
+
+Anhaltene psychische Probleme während der Jugend können lebenslange Auswirkungen haben
+
+_\(Wu et al\. 2020\, Dodds 2021\)_
+
+# Die Zeit läuft aus...
+
+![](img/Resilienz11.png)
+
+<span style="color:#003366"> _Fig 2\. _ </span>  <span style="color:#003366"> _Entwicklung_ </span>  <span style="color:#003366"> _ der _ </span>  <span style="color:#003366"> _Emissionen_ </span>  <span style="color:#003366"> _ _ </span>  <span style="color:#003366"> _aus_ </span>  <span style="color:#003366"> _: IPCC\, 2023: Summary for Policymakers\. Figure 2\.5_ </span>
+
+„Ich glaube\, dass es auch wichtig ist\, dass wir gesellschaftlich anerkennen\, dass nicht ein paar Kinder und Jugendliche das Problem für uns lösen werden\.“
+
+Pauline Brünger \(Fridays for Future\)
+
+_Tagesschau 08\.08\.2023_
+
+# Externe Abbildungen und Bilder
+
+* Bild Ahrtal:
+  * https://commons\.wikimedia\.org/wiki/File:Hochwasser\_in\_Altenahr\_Altenburg\.jpg
+* Bild Feuer:
+  * https://commons\.wikimedia\.org/wiki/File:Station\_Fire\_over\_La\_Ca%C3%B1ada\_Flintridge\.jpg
+* Bild Borkenkäfer
+  * https://commons\.wikimedia\.org/wiki/File:Tote\_B%C3%A4ume\_im\_Harz\.\_Der\_Borkenk%C3%A4fer\_ist\_aktiv\.jpg
+* IPCC Fig 1\.\(c\)
+  * https://www\.ipcc\.ch/report/ar6/syr/figures/figure\-2\-5
+* IPCC Fig 2\.5
+  * https://www\.ipcc\.ch/report/ar6/syr/figures/figure\-spm\-1
+
+# Literatur
+
+Baudon & Jachens 2021\. A scoping Review of Interventions for Treatment of Eco\-Anxiety\. Int\. J\. Environ\. Res\. Public Health 2021\, 18\(18\)\, 9636; https://doi\.org/10\.3390/ijerph18189636\.
+
+Climate Psychology Alliance 2020\. The Handbook of Climate Psychology\.
+
+Deeb\, A\.  Et al\. 2011\. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners\. UNEP\.
+
+Dodds 2021\. The psychology of climate anxiety\. BJPsych Bulletin\, 45\(4\)\, 222\-226\.
+
+DGfG 2020\. Bildungsstandards für den mittleren Schulabschluss\. Bonn\.
+
+Hickmann\, C\.et al\. 2021\. Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey\. The Lancet Planetary Health 5\(12\)\, p\.863 – 873\.
+
+IPCC\, 2023: Summary for Policymakers\. In: Climate Change 2023: Synthesis Report\. Contribution of Working Groups I\, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change \[Core Writing Team\, H\. Lee and J\. Romero \(eds\.\)\]\. IPCC\, Geneva\, Switzerland\, pp\. 1\-34\, doi: 10\.59327/IPCC/AR6\-9789291691647\.001
+
+Ojala\, M\.\, Cunsolo\, A\.\, Ogunbode\, C\. A\.\, & Middleton\, J\. 2021\. Anxiety\, worry\, and grief in a time of environmental and climate crisis: A narrative review\. Annual review of environment and resources\, 46\, 35\-58\.
+
+Sinus\-Jugendforschung 2022\. Ergebnisse einer Repräsentativ\-Umfrage unter Jugendlichen 2022/2023\. Heidelberg\. https://www\.sinus\-institut\.de/media\-center/studien/barmer\-jugendstudie\-2022\-23
+
+Taylor 2020\. Anxiety disorders\, climate change\, and the challenges ahead: Introduction to the special issue\. Journal of Anxiety Disorders\, 47\, 102313\, https://doi\.org/10\.1016/j\.janxdis\.2020\.102313\.
+
+Tageschau am 08\.08\.2023\. https://www\.tagesschau\.de/inland/gesellschaft/fridays\-for\-future\-246\.html\.
+
+Wu\, Snell\, Samji 2020\. Climate anxiety in young people: a call to action\. The Lancet Planetary Health\, 4\(10\)\.
+
+# Geographische Resilienzbildung
+
+Geographische Konzepte sind grundlegend für die Bewertung der Resilienz eines Ortes
+
+Geographische Analysen ermöglichen eine Gefahrenbeurteilung
+
+Geographische Kompetenz hilft die Resilienz eines Raumes zu stärken indem Handlungsoptionen für die Stärkerung humaner und physischer Systeme erarbeitet werden können
+
+# Community Resilienz
+
+Soziale\, natürliche und bauliche Infrasturktur sind entscheidene Größen
+
+Maßstab und Zeit sind fundamentale Konzepte um die Resilienz einer Community zu bewerten
+
+Ökologische Reszilienz ist bedingt durch Biodiversiät\, response diversity\, spatiality und Mangamentkonzepte
+
+Soziale Resilienz ist bedingt durch die Vernetzung der Akteuere\, soziale Kohäsion\, Kommunikation\, Risikobewusstsein und Vorbereitung \(preparedness\)\. Sie ist besser bei höhrer Resilienz ihrer Individuen
+
+Resilienz der Infrastruktur ist erhört je unabhängiger die einzelnen Bestandteile sind
+
+Ländliche Räume zeigen sich meist resilienter als Großstädte
+
+# Geographische Resilienzbildung
+
+Thematisierung von Ängsten bezüglicher globaler Entwicklung
+
+Fokussierung der eigenen Wirksamkeit innerhalb globaler Entwicklungen
+
+Fokus auf Adaption \(höhrere Selbstwirksamkeit und direkter Umgang mit Ängsten\)
+
+Fokus auf Places anstatt das Individium \(Wie kann einem Raum bei der Adaption geholfen werden? Was kann kein Raum zu Mitigation beitragen?\)
+
+Fokus auf lokale und regionale Prozesse
+
+Aktive Arbreit mit lokalen Akteuren
+
+# Resilienzbildung für eine resiliente Gesellschaft
+
+aktiver Umgang mit Zukunft
+
+Bildung für Klimaresilienz
+
+resilienten Individuen
+
+Resilienten Community
+

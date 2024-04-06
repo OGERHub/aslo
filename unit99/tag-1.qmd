@@ -57,8 +57,14 @@ Bündige Darstellung, die Veröffentlichung auf Homepage erlaubt
 </iframe>
 
 ## Einverständniserklärung
+::: {.callout-important }
 Bitte melden Sie sich bei Particifi an und geben Sie an, ob wir Ihre Ergebnisse für wissenschaftliche Zwecke nutzen dürfen. Tragen Sie in jedem Fall Ihren Namen ein.
-![](../images/img/Tag10.png)
+:::
+<iframe src="https://partici.fi/13349343" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+[Source: www.ipcc.ch AR6 Synthesis Report](https://partici.fi/13349343){.lightbox width="75%" fig-align="center"}
+
+
 
 ## Interaktive Einführung: Zukunftsvisionen
 
@@ -165,7 +171,7 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 
 ## Lehrkraft in Zeiten unsicherer Zukünfte
-
+::: {.callout-important title="Arbeitsauftrag"}
 Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
 
 -   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
@@ -175,26 +181,11 @@ Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung 
 -   Was motiviert Sie die neue Generationen auszubilden?
 
 Machen Sie Notizen.
+::: 
 
 ## Resilienz
 
 Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, den Stress- und Schockwellen eines dramatischen, traumatischen und oft unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten, zu überleben und sich an sie anzupassen. Die Fähigkeit zum Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.
-
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-## Übung im Zweierteam
-
--   In welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?
-
--   Berichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton\*innen nicht zu privat ist.
-
--   Was hat Ihnen dabei geholfen?
-
-## Persönliche und gesellschaftliche Resilienz
-
--   Diskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.
-
--   Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.
 
 ## Resilienzdimensionen
 
@@ -209,6 +200,28 @@ Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder ei
 -   Emotional
 
 ^After Williamson, J. & Robinson, M. (2006). ‘ Psychosocial programs or programs aimed at general well-being?^
+
+
+^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
+
+## Übung zur Reslienz im Zweierteam
+
+::: {.callout-important title="Arbeitsauftrag"}
+-   In welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?
+
+-   Berichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton\*innen nicht zu privat ist.
+
+-   Was hat Ihnen dabei geholfen?
+:::
+
+## Übung zur persönlichen und gesellschaftlichen Resilienz
+
+::: {.callout-important title="Arbeitsauftrag"}
+-   Diskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.
+
+-   Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.
+::::
+
 
 ## Vulnerabilität
 
@@ -254,6 +267,7 @@ Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines �
 
 Der Grad der Resilienz und Vulnerabilität wird von der Art und dem Ausmaß der Klimabedrohung und dem Ausmaß abhängen, in dem Einzelpersonen, Gemeinschaften und Gesellschaften über die Zukunft nachgedacht und sich insbesondere auf den Umgang mit Schock und Unsicherheit vorbereitet haben.
 
+
 ^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
 
 ## Institutionalisierung der Resilienz
@@ -287,38 +301,29 @@ Barrieren gegen den Anstieg des Meeresspiegels oder Aufforstung von Hängen, um 
 weg von steilen Berghängen und/oder dorthin, wo es eine sicherere Wasserquelle gibt
 6.  Wiederherstellung von Orten mit zweckdienlichem Schutz, beispielsweise Wiederaufbau einer heiligen Stätte an einem gefährlichen Ort mit Schutzmaßnahmen
 
-Inspiriert von: UNEP & UNFCCC, (2002). Information Kit zum Klimawandel,
-Informationsblatt zum Klimawandel 9.
+Inspiriert von: UNEP & UNFCCC, (2002). Information Kit zum Klimawandel, Informationsblatt zum Klimawandel 9.
 
 ## Maladaption
-Maladaption ist eine „Maßnahme, die vordergründlich ergriffen wird, um die Anfälligkeit für den Klimawandel zu vermeiden oder zu verringern, die sich negativ auf andere Systeme, Sektoren oder soziale Gruppen auswirkt oder deren Anfälligkeit erhöht.“
+
+Fehlanpassungen (Maladaption) sind „Maßnahmen, die in erster Linie ergriffen werden, um die Verwundbarkeit gegenüber dem Klimawandel zu vermeiden oder zu verringern, die jedoch negative Auswirkungen auf andere Systeme, Sektoren oder soziale Gruppen haben oder deren Verwundbarkeit erhöhen“.
+
 ^Barnett & O’Neill, 2013, S. 88.
 
 
 ## Klimawandelbildung
 
--   Nachhaltige Entwicklung
+Bildung für:
 
--   Katastrophenprävention
-
--   [Werte, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten.]{style="color:#002060"}
-
--   [Werte, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen, die den Klimawandel abschwächen.]{style="color:#002060"}
-
--   [Durch Bildung Vulnarabilität von Communities reduzieren.]{style="color:#002060"}
-
--   [Handlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.]{style="color:#002060"}
-
-^Fig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011^
+![Klimawandelbilung. Nach: UNEP, UNESCO 2011](../images/un4.png){fig-align="center"}
 
 
 ## Resilienzbildung
 
-Katastrophen-prävention
+![Resilienzbildung](../images/resilienzhaus.png){fig-align="center"}
 
-^Fig 4. Resilienzbildung^
 
-[Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen.]{style="color:#003366"}
+
+Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen
 
 
 ## Lehrkraft in Zeiten unsicherer Zukünfte

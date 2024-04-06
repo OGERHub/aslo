@@ -45,7 +45,13 @@ website:
             text: "Meine Zukunft"
           - href: unit01/unit01-02.qmd
             text: "Anwendungsbeispiele"
-
+      - text: "---"
+      - section: "Folien Einführung"
+        contents:
+          - href: unit99/tag-1.qmd
+            text: "Blocktag 1"      
+          - href: unit99/tag-2.qmd
+            text: "Blocktag 2"              
       - text: "---"
       - section: "Ressourcen"
         contents:
@@ -54,15 +60,11 @@ website:
           - href: unit02/unit02-02.qmd
             text: Quarto Markdown
       - text: "---"
-      - section: "AsLos"
+      - section: "AsLo Projekte"
         contents:
           - href: unit03/unit03-01.qmd
             text: "Projekt 1"
-      - text: "---"
-      - section: "Folien"
-        contents:
-          - href: unit99/tag-1.qmd
-            text: "Blocktag 1"           
+
       #- text: "---"
       #- section: "Machine Learning"
       #  contents:

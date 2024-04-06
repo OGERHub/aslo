@@ -21,24 +21,29 @@ editor:
 
 
 ## Resilienzspurensuche
+::: {.callout-important title="Arbeitsauftrag"}
 Sie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h. 
 -   alles, was von akuteller oder vergangener Adaptionsleistung zeugt (gut und schlecht)
 -   alles, was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint
 -   alles, was die vulnariabilität unseres Systems sichtbar macht
+:::
 
 Sie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards.
 
 ## Vorgaben für den Lernort
+
 Ziel des Außerschulischen Lernortes soll es zunächst sein Ihren Kommiliton*innen den Bedarf oder das Potenzial für eine Klimaadaption zu vermitteln, um die Resilienz der Gesellschaft zu stärken. 
 
-Der Lernort soll zunächst auf universitärem Niveau erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas zur Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.
+- Der Lernort soll zunächst auf universitärem Niveau erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas zur Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.
 
-Sie können Beispiele für Adaption, Maladaption, Resilienz und Vulnerabilität aufarbeiten.
+- Sie können Beispiele für Adaption, Maladaption, Resilienz und Vulnerabilität aufarbeiten.
 
-Ihre Beispiele können das physische, ökologische, soziale oder wirtschaftliche System betreffen, auch Schnittbereich sind möglich. 
+- Ihre Beispiele können das physische, ökologische, soziale oder wirtschaftliche System betreffen, auch Schnittbereich sind möglich. 
 
 ## Vorgaben für die Skizze
+::: {.callout-important }
 Die Skizze Ihres Dreierteams soll bis 23:55 Uhr heute Abend im Ilias-Ordner hochgeladen sein.
+:::
 
 Darin enthalten sollen sein: 
 -   Thema:

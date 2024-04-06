@@ -1,5 +1,7 @@
 ---
 title: "Theorie und Konzepte"
+title-block-banner: ../images/banner.png
+title-block-banner-color: orange
 ---
 
 ## Make sense topic

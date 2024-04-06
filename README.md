@@ -1,4 +1,4 @@
-![Course Header](https://ogerhub.github.io/aslo/images/banneraslo.webp "Image source: C.Reudenbach")
+![Course Header](https://ogerhub.github.io/aslo/images/banneraslo.png "Image source: C.Reudenbach")
 
 
 

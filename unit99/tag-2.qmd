@@ -22,13 +22,16 @@ editor:
 
 ## Resilienzspurensuche
 ::: {.callout-important title="Arbeitsauftrag"}
-Sie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h. 
+Sie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h.:
+
 -   alles, was von akuteller oder vergangener Adaptionsleistung zeugt (gut und schlecht)
 -   alles, was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint
 -   alles, was die vulnariabilität unseres Systems sichtbar macht
-:::
 
 Sie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards.
+:::
+
+
 
 ## Vorgaben für den Lernort
 

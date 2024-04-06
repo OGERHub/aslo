@@ -1,66 +1,185 @@
 [
   {
-    "objectID": "templates/slides-template.html#section",
-    "href": "templates/slides-template.html#section",
-    "title": "YOUR TITLE",
-    "section": "",
-    "text": "This is a slide with a background image"
+    "objectID": "templates/metro-template.html#hello-there",
+    "href": "templates/metro-template.html#hello-there",
+    "title": "Quarto demo presentation",
+    "section": "Hello, There",
+    "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
   },
   {
-    "objectID": "templates/slides-template.html#bullets",
-    "href": "templates/slides-template.html#bullets",
-    "title": "YOUR TITLE",
-    "section": "Bullets",
-    "text": "Bullets\nRemove the incremental ::: bracketed div for plain lists\n\n\nthe quick\nbrown fox\njumps over\nthe lazy dog"
+    "objectID": "templates/metro-template.html#pretty-code",
+    "href": "templates/metro-template.html#pretty-code",
+    "title": "Quarto demo presentation",
+    "section": "Pretty Code",
+    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting"
   },
   {
-    "objectID": "templates/slides-template.html#columns",
-    "href": "templates/slides-template.html#columns",
-    "title": "YOUR TITLE",
-    "section": "Columns",
-    "text": "Columns\n\n\nSome text on the left of the slide\n\nSome text on the right of the slide"
+    "objectID": "templates/metro-template.html#code-animations",
+    "href": "templates/metro-template.html#code-animations",
+    "title": "Quarto demo presentation",
+    "section": "Code Animations",
+    "text": "Code Animations\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n    barplot(WorldPhones[,input$region]*1000,\n            main=input$region,\n            ylab=\"Number of Telephones\",\n            xlab=\"Year\")\n  })\n}\n\nLearn more: Code Animations"
   },
   {
-    "objectID": "templates/slides-template.html#smaller-slide",
-    "href": "templates/slides-template.html#smaller-slide",
-    "title": "YOUR TITLE",
-    "section": "Smaller Slide",
-    "text": "Smaller Slide\nThe text on this slide will be, um, smaller."
+    "objectID": "templates/metro-template.html#line-highlighting",
+    "href": "templates/metro-template.html#line-highlighting",
+    "title": "Quarto demo presentation",
+    "section": "Line Highlighting",
+    "text": "Line Highlighting\n\nHighlight specific lines for emphasis\nIncrementally highlight additional lines\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nLearn more: Line Highlighting"
   },
   {
-    "objectID": "templates/slides-template.html#sneaky-info-asides-bootnotes",
-    "href": "templates/slides-template.html#sneaky-info-asides-bootnotes",
-    "title": "YOUR TITLE",
-    "section": "Sneaky Info (Asides & Bootnotes)",
-    "text": "Sneaky Info (Asides & Bootnotes)\nThis is cool! 1\nAdd reference-location: document to the YAML for end notes.\n\n\nI am at the bottom of the slide\nNo it is not"
+    "objectID": "templates/metro-template.html#executable-code",
+    "href": "templates/metro-template.html#executable-code",
+    "title": "Quarto demo presentation",
+    "section": "Executable Code",
+    "text": "Executable Code\n\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +  geom_smooth(formula = y ~ x, method = \"loess\")\n\n\n\nLearn more: Executable Code"
   },
   {
-    "objectID": "templates/slides-template.html#scrolly-slide",
-    "href": "templates/slides-template.html#scrolly-slide",
-    "title": "YOUR TITLE",
-    "section": "Scrolly Slide",
-    "text": "Scrolly Slide\nOverflowed content will be scrollable on this slide."
+    "objectID": "templates/metro-template.html#latex-equations",
+    "href": "templates/metro-template.html#latex-equations",
+    "title": "Quarto demo presentation",
+    "section": "LaTeX Equations",
+    "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations"
   },
   {
-    "objectID": "templates/slides-template.html#bootnotes",
-    "href": "templates/slides-template.html#bootnotes",
-    "title": "YOUR TITLE",
-    "section": "Bootnotes",
-    "text": "Bootnotes"
+    "objectID": "templates/metro-template.html#column-layout",
+    "href": "templates/metro-template.html#column-layout",
+    "title": "Quarto demo presentation",
+    "section": "Column Layout",
+    "text": "Column Layout\nArrange content into columns of varying widths:\n\n\nMotor Trend Car Road Tests\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n108\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.440\n\n\nValiant\n18.1\n6\n225\n105\n3.460\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns"
   },
   {
-    "objectID": "templates/slides-template.html#a-slide-with-a-plot",
-    "href": "templates/slides-template.html#a-slide-with-a-plot",
-    "title": "YOUR TITLE",
-    "section": "A slide with a plot",
-    "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
+    "objectID": "templates/metro-template.html#incremental-lists",
+    "href": "templates/metro-template.html#incremental-lists",
+    "title": "Quarto demo presentation",
+    "section": "Incremental Lists",
+    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
   },
   {
-    "objectID": "unit99/tag-1.html#herzlich-willkommen",
-    "href": "unit99/tag-1.html#herzlich-willkommen",
-    "title": "Außerschulische Lernorte",
-    "section": "Herzlich Willkommen",
-    "text": "Herzlich Willkommen\nKurs besteht aus:\n\ndrei Blocktagen\nSemesterbegleitender Veranstaltung\n\n\n\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)"
+    "objectID": "templates/metro-template.html#fragments",
+    "href": "templates/metro-template.html#fragments",
+    "title": "Quarto demo presentation",
+    "section": "Fragments",
+    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
+  },
+  {
+    "objectID": "templates/metro-template.html#slide-backgrounds",
+    "href": "templates/metro-template.html#slide-backgrounds",
+    "title": "Quarto demo presentation",
+    "section": "Slide Backgrounds",
+    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
+  },
+  {
+    "objectID": "templates/metro-template.html#media-backgrounds",
+    "href": "templates/metro-template.html#media-backgrounds",
+    "title": "Quarto demo presentation",
+    "section": "Media Backgrounds",
+    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
+  },
+  {
+    "objectID": "templates/metro-template.html#absolute-position",
+    "href": "templates/metro-template.html#absolute-position",
+    "title": "Quarto demo presentation",
+    "section": "Absolute Position",
+    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\n\nLearn more: Absolute Position"
+  },
+  {
+    "objectID": "templates/metro-template.html#auto-animate",
+    "href": "templates/metro-template.html#auto-animate",
+    "title": "Quarto demo presentation",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
+  },
+  {
+    "objectID": "templates/metro-template.html#auto-animate-1",
+    "href": "templates/metro-template.html#auto-animate-1",
+    "title": "Quarto demo presentation",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
+  },
+  {
+    "objectID": "templates/metro-template.html#slide-transitions",
+    "href": "templates/metro-template.html#slide-transitions",
+    "title": "Quarto demo presentation",
+    "section": "Slide Transitions",
+    "text": "Slide Transitions\nThe next few slides will transition using the slide transition\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (default, switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\n\nLearn more: Slide Transitions"
+  },
+  {
+    "objectID": "templates/metro-template.html#tabsets",
+    "href": "templates/metro-template.html#tabsets",
+    "title": "Quarto demo presentation",
+    "section": "Tabsets",
+    "text": "Tabsets\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n3.570\n15.84\n0\n0\n3\n4\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n3.190\n20.00\n1\n0\n4\n2\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n3.150\n22.90\n1\n0\n4\n2\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n3.440\n18.30\n1\n0\n4\n4\n\n\nMerc 280C\n17.8\n6\n167.6\n123\n3.92\n3.440\n18.90\n1\n0\n4\n4\n\n\nMerc 450SE\n16.4\n8\n275.8\n180\n3.07\n4.070\n17.40\n0\n0\n3\n3\n\n\nMerc 450SL\n17.3\n8\n275.8\n180\n3.07\n3.730\n17.60\n0\n0\n3\n3\n\n\nMerc 450SLC\n15.2\n8\n275.8\n180\n3.07\n3.780\n18.00\n0\n0\n3\n3\n\n\nCadillac Fleetwood\n10.4\n8\n472.0\n205\n2.93\n5.250\n17.98\n0\n0\n3\n4\n\n\nLincoln Continental\n10.4\n8\n460.0\n215\n3.00\n5.424\n17.82\n0\n0\n3\n4\n\n\nChrysler Imperial\n14.7\n8\n440.0\n230\n3.23\n5.345\n17.42\n0\n0\n3\n4\n\n\nFiat 128\n32.4\n4\n78.7\n66\n4.08\n2.200\n19.47\n1\n1\n4\n1\n\n\nHonda Civic\n30.4\n4\n75.7\n52\n4.93\n1.615\n18.52\n1\n1\n4\n2\n\n\nToyota Corolla\n33.9\n4\n71.1\n65\n4.22\n1.835\n19.90\n1\n1\n4\n1\n\n\nToyota Corona\n21.5\n4\n120.1\n97\n3.70\n2.465\n20.01\n1\n0\n3\n1\n\n\nDodge Challenger\n15.5\n8\n318.0\n150\n2.76\n3.520\n16.87\n0\n0\n3\n2\n\n\nAMC Javelin\n15.2\n8\n304.0\n150\n3.15\n3.435\n17.30\n0\n0\n3\n2\n\n\nCamaro Z28\n13.3\n8\n350.0\n245\n3.73\n3.840\n15.41\n0\n0\n3\n4\n\n\nPontiac Firebird\n19.2\n8\n400.0\n175\n3.08\n3.845\n17.05\n0\n0\n3\n2\n\n\nFiat X1-9\n27.3\n4\n79.0\n66\n4.08\n1.935\n18.90\n1\n1\n4\n1\n\n\nPorsche 914-2\n26.0\n4\n120.3\n91\n4.43\n2.140\n16.70\n0\n1\n5\n2\n\n\nLotus Europa\n30.4\n4\n95.1\n113\n3.77\n1.513\n16.90\n1\n1\n5\n2\n\n\nFord Pantera L\n15.8\n8\n351.0\n264\n4.22\n3.170\n14.50\n0\n1\n5\n4\n\n\nFerrari Dino\n19.7\n6\n145.0\n175\n3.62\n2.770\n15.50\n0\n1\n5\n6\n\n\nMaserati Bora\n15.0\n8\n301.0\n335\n3.54\n3.570\n14.60\n0\n1\n5\n8\n\n\nVolvo 142E\n21.4\n4\n121.0\n109\n4.11\n2.780\n18.60\n1\n1\n4\n2\n\n\n\n\n\n\n\n\n\nLearn more: Tabsets"
+  },
+  {
+    "objectID": "templates/metro-template.html#interactive-slides",
+    "href": "templates/metro-template.html#interactive-slides",
+    "title": "Quarto demo presentation",
+    "section": "Interactive Slides",
+    "text": "Interactive Slides\nInclude Jupyter widgets and htmlwidgets in your presentations\n\n\n\n\n\n\n\nLearn more: Jupyter widgets, htmlwidgets"
+  },
+  {
+    "objectID": "templates/metro-template.html#preview-links",
+    "href": "templates/metro-template.html#preview-links",
+    "title": "Quarto demo presentation",
+    "section": "Preview Links",
+    "text": "Preview Links\nNavigate to hyperlinks without disrupting the flow of your presentation.\nUse the preview-links option to open links in an iframe on top of your slides. Try clicking the link below for a demonstration:\n\nMatplotlib: Visualization with Python\n\n\nLearn more: Preview Links"
+  },
+  {
+    "objectID": "templates/metro-template.html#themes",
+    "href": "templates/metro-template.html#themes",
+    "title": "Quarto demo presentation",
+    "section": "Themes",
+    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
+  },
+  {
+    "objectID": "templates/metro-template.html#easy-navigation",
+    "href": "templates/metro-template.html#easy-navigation",
+    "title": "Quarto demo presentation",
+    "section": "Easy Navigation",
+    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
+  },
+  {
+    "objectID": "templates/metro-template.html#chalkboard",
+    "href": "templates/metro-template.html#chalkboard",
+    "title": "Quarto demo presentation",
+    "section": "Chalkboard",
+    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
+  },
+  {
+    "objectID": "templates/metro-template.html#point-of-view",
+    "href": "templates/metro-template.html#point-of-view",
+    "title": "Quarto demo presentation",
+    "section": "Point of View",
+    "text": "Point of View\nPress o to toggle overview mode:\n\nHold down the Alt key (or Ctrl in Linux) and click on any element to zoom towards it—try it now on this slide.\n\nLearn more: Overview Mode, Slide Zoom"
+  },
+  {
+    "objectID": "templates/metro-template.html#speaker-view",
+    "href": "templates/metro-template.html#speaker-view",
+    "title": "Quarto demo presentation",
+    "section": "Speaker View",
+    "text": "Speaker View\nPress s (or use the presentation menu) to open speaker view\n\n\nLearn more: Speaker View"
+  },
+  {
+    "objectID": "templates/metro-template.html#authoring-tools",
+    "href": "templates/metro-template.html#authoring-tools",
+    "title": "Quarto demo presentation",
+    "section": "Authoring Tools",
+    "text": "Authoring Tools\nLive side-by-side preview for any notebook or text editor including Jupyter and VS Code\n\n\n\n\n\n\n\n\nLearn more: Jupyter, VS Code, Text Editors"
+  },
+  {
+    "objectID": "templates/metro-template.html#authoring-tools-1",
+    "href": "templates/metro-template.html#authoring-tools-1",
+    "title": "Quarto demo presentation",
+    "section": "Authoring Tools",
+    "text": "Authoring Tools\nRStudio includes an integrated presentation preview pane\n\n\nLearn more: RStudio"
+  },
+  {
+    "objectID": "templates/metro-template.html#and-more",
+    "href": "templates/metro-template.html#and-more",
+    "title": "Quarto demo presentation",
+    "section": "And More…",
+    "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
   },
   {
     "objectID": "unit99/tag-1.html#studien--und-prüfungsleistung",
@@ -98,25 +217,32 @@
     "text": "Übersicht über die Szenarien\n\nMelden Sie sich bitte bei Partifiy an!"
   },
   {
-    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-1",
-    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-1",
+    "objectID": "unit99/tag-1.html#wissenschaftliche-grundlagen-14",
+    "href": "unit99/tag-1.html#wissenschaftliche-grundlagen-14",
     "title": "Außerschulische Lernorte",
-    "section": "Wissenschaftliche Erkenntnisse 1",
-    "text": "Wissenschaftliche Erkenntnisse 1\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\nWas bedeutet die Prozentzahl in Klammern in Sektion b)?\nWas bedeuten die flächigen Einfärbungen in den Graphen?"
+    "section": "Wissenschaftliche Grundlagen 1/4",
+    "text": "Wissenschaftliche Grundlagen 1/4\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\nWas bedeutet die Prozentzahl in Klammern in Sektion b)?\nWas bedeuten die flächigen Einfärbungen in den Graphen?"
   },
   {
-    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-2",
-    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-2",
+    "objectID": "unit99/tag-1.html#wissenschaftliche-grundlagen-24",
+    "href": "unit99/tag-1.html#wissenschaftliche-grundlagen-24",
     "title": "Außerschulische Lernorte",
-    "section": "Wissenschaftliche Erkenntnisse 2",
-    "text": "Wissenschaftliche Erkenntnisse 2\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWelche Szenarien finden Sie in der Abbildung wieder?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nHaben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?\nWas bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?"
+    "section": "Wissenschaftliche Grundlagen 2/4",
+    "text": "Wissenschaftliche Grundlagen 2/4\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWelche Szenarien finden Sie in der Abbildung wieder?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nHaben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?\nWas bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?"
   },
   {
-    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-3",
-    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-3",
+    "objectID": "unit99/tag-1.html#wissenschaftliche-grundlagen-34",
+    "href": "unit99/tag-1.html#wissenschaftliche-grundlagen-34",
     "title": "Außerschulische Lernorte",
-    "section": "Wissenschaftliche Erkenntnisse 3",
-    "text": "Wissenschaftliche Erkenntnisse 3\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWie warm wird es auf der Erde sein, wenn Sie 50 sind?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?"
+    "section": "Wissenschaftliche Grundlagen 3/4",
+    "text": "Wissenschaftliche Grundlagen 3/4\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWie warm wird es auf der Erde sein, wenn Sie 50 sind?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#wissenschaftliche-grundlagen-44",
+    "href": "unit99/tag-1.html#wissenschaftliche-grundlagen-44",
+    "title": "Außerschulische Lernorte",
+    "section": "Wissenschaftliche Grundlagen 4/4",
+    "text": "Wissenschaftliche Grundlagen 4/4\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeutet die dargestellte Pfadentwicklung?\nWas bedeutet diese Pfadentwicklung für die Bildungsarbeit?\nWas bedeuten aktuelle politische Entwicklungen, konkret etwa die Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?\nAuf welchem Pfad sehen Sie die Menschheit?"
   },
   {
     "objectID": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte",
@@ -525,367 +651,59 @@
     "text": "Team\nViel Spaß in unserem Kurs und beim Lernen an der Universität Marburg!"
   },
   {
-    "objectID": "template.html#hello-there",
-    "href": "template.html#hello-there",
-    "title": "Quarto demo presentation",
-    "section": "Hello, There",
-    "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
+    "objectID": "templates/slides-template.html#section",
+    "href": "templates/slides-template.html#section",
+    "title": "YOUR TITLE",
+    "section": "",
+    "text": "This is a slide with a background image"
   },
   {
-    "objectID": "template.html#pretty-code",
-    "href": "template.html#pretty-code",
-    "title": "Quarto demo presentation",
-    "section": "Pretty Code",
-    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting"
+    "objectID": "templates/slides-template.html#bullets",
+    "href": "templates/slides-template.html#bullets",
+    "title": "YOUR TITLE",
+    "section": "Bullets",
+    "text": "Bullets\nRemove the incremental ::: bracketed div for plain lists\n\n\nthe quick\nbrown fox\njumps over\nthe lazy dog"
   },
   {
-    "objectID": "template.html#code-animations",
-    "href": "template.html#code-animations",
-    "title": "Quarto demo presentation",
-    "section": "Code Animations",
-    "text": "Code Animations\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n    barplot(WorldPhones[,input$region]*1000,\n            main=input$region,\n            ylab=\"Number of Telephones\",\n            xlab=\"Year\")\n  })\n}\n\nLearn more: Code Animations"
+    "objectID": "templates/slides-template.html#columns",
+    "href": "templates/slides-template.html#columns",
+    "title": "YOUR TITLE",
+    "section": "Columns",
+    "text": "Columns\n\n\nSome text on the left of the slide\n\nSome text on the right of the slide"
   },
   {
-    "objectID": "template.html#line-highlighting",
-    "href": "template.html#line-highlighting",
-    "title": "Quarto demo presentation",
-    "section": "Line Highlighting",
-    "text": "Line Highlighting\n\nHighlight specific lines for emphasis\nIncrementally highlight additional lines\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nLearn more: Line Highlighting"
+    "objectID": "templates/slides-template.html#smaller-slide",
+    "href": "templates/slides-template.html#smaller-slide",
+    "title": "YOUR TITLE",
+    "section": "Smaller Slide",
+    "text": "Smaller Slide\nThe text on this slide will be, um, smaller."
   },
   {
-    "objectID": "template.html#executable-code",
-    "href": "template.html#executable-code",
-    "title": "Quarto demo presentation",
-    "section": "Executable Code",
-    "text": "Executable Code\n\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +  geom_smooth(formula = y ~ x, method = \"loess\")\n\n\n\nLearn more: Executable Code"
+    "objectID": "templates/slides-template.html#sneaky-info-asides-bootnotes",
+    "href": "templates/slides-template.html#sneaky-info-asides-bootnotes",
+    "title": "YOUR TITLE",
+    "section": "Sneaky Info (Asides & Bootnotes)",
+    "text": "Sneaky Info (Asides & Bootnotes)\nThis is cool! 1\nAdd reference-location: document to the YAML for end notes.\n\n\nI am at the bottom of the slide\nNo it is not"
   },
   {
-    "objectID": "template.html#latex-equations",
-    "href": "template.html#latex-equations",
-    "title": "Quarto demo presentation",
-    "section": "LaTeX Equations",
-    "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations"
+    "objectID": "templates/slides-template.html#scrolly-slide",
+    "href": "templates/slides-template.html#scrolly-slide",
+    "title": "YOUR TITLE",
+    "section": "Scrolly Slide",
+    "text": "Scrolly Slide\nOverflowed content will be scrollable on this slide."
   },
   {
-    "objectID": "template.html#column-layout",
-    "href": "template.html#column-layout",
-    "title": "Quarto demo presentation",
-    "section": "Column Layout",
-    "text": "Column Layout\nArrange content into columns of varying widths:\n\n\nMotor Trend Car Road Tests\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n108\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.440\n\n\nValiant\n18.1\n6\n225\n105\n3.460\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns"
+    "objectID": "templates/slides-template.html#bootnotes",
+    "href": "templates/slides-template.html#bootnotes",
+    "title": "YOUR TITLE",
+    "section": "Bootnotes",
+    "text": "Bootnotes"
   },
   {
-    "objectID": "template.html#incremental-lists",
-    "href": "template.html#incremental-lists",
-    "title": "Quarto demo presentation",
-    "section": "Incremental Lists",
-    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
-  },
-  {
-    "objectID": "template.html#fragments",
-    "href": "template.html#fragments",
-    "title": "Quarto demo presentation",
-    "section": "Fragments",
-    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
-  },
-  {
-    "objectID": "template.html#slide-backgrounds",
-    "href": "template.html#slide-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Slide Backgrounds",
-    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
-  },
-  {
-    "objectID": "template.html#media-backgrounds",
-    "href": "template.html#media-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Media Backgrounds",
-    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
-  },
-  {
-    "objectID": "template.html#absolute-position",
-    "href": "template.html#absolute-position",
-    "title": "Quarto demo presentation",
-    "section": "Absolute Position",
-    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\n\nLearn more: Absolute Position"
-  },
-  {
-    "objectID": "template.html#auto-animate",
-    "href": "template.html#auto-animate",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "template.html#auto-animate-1",
-    "href": "template.html#auto-animate-1",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "template.html#slide-transitions",
-    "href": "template.html#slide-transitions",
-    "title": "Quarto demo presentation",
-    "section": "Slide Transitions",
-    "text": "Slide Transitions\nThe next few slides will transition using the slide transition\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (default, switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\n\nLearn more: Slide Transitions"
-  },
-  {
-    "objectID": "template.html#tabsets",
-    "href": "template.html#tabsets",
-    "title": "Quarto demo presentation",
-    "section": "Tabsets",
-    "text": "Tabsets\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n3.570\n15.84\n0\n0\n3\n4\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n3.190\n20.00\n1\n0\n4\n2\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n3.150\n22.90\n1\n0\n4\n2\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n3.440\n18.30\n1\n0\n4\n4\n\n\nMerc 280C\n17.8\n6\n167.6\n123\n3.92\n3.440\n18.90\n1\n0\n4\n4\n\n\nMerc 450SE\n16.4\n8\n275.8\n180\n3.07\n4.070\n17.40\n0\n0\n3\n3\n\n\nMerc 450SL\n17.3\n8\n275.8\n180\n3.07\n3.730\n17.60\n0\n0\n3\n3\n\n\nMerc 450SLC\n15.2\n8\n275.8\n180\n3.07\n3.780\n18.00\n0\n0\n3\n3\n\n\nCadillac Fleetwood\n10.4\n8\n472.0\n205\n2.93\n5.250\n17.98\n0\n0\n3\n4\n\n\nLincoln Continental\n10.4\n8\n460.0\n215\n3.00\n5.424\n17.82\n0\n0\n3\n4\n\n\nChrysler Imperial\n14.7\n8\n440.0\n230\n3.23\n5.345\n17.42\n0\n0\n3\n4\n\n\nFiat 128\n32.4\n4\n78.7\n66\n4.08\n2.200\n19.47\n1\n1\n4\n1\n\n\nHonda Civic\n30.4\n4\n75.7\n52\n4.93\n1.615\n18.52\n1\n1\n4\n2\n\n\nToyota Corolla\n33.9\n4\n71.1\n65\n4.22\n1.835\n19.90\n1\n1\n4\n1\n\n\nToyota Corona\n21.5\n4\n120.1\n97\n3.70\n2.465\n20.01\n1\n0\n3\n1\n\n\nDodge Challenger\n15.5\n8\n318.0\n150\n2.76\n3.520\n16.87\n0\n0\n3\n2\n\n\nAMC Javelin\n15.2\n8\n304.0\n150\n3.15\n3.435\n17.30\n0\n0\n3\n2\n\n\nCamaro Z28\n13.3\n8\n350.0\n245\n3.73\n3.840\n15.41\n0\n0\n3\n4\n\n\nPontiac Firebird\n19.2\n8\n400.0\n175\n3.08\n3.845\n17.05\n0\n0\n3\n2\n\n\nFiat X1-9\n27.3\n4\n79.0\n66\n4.08\n1.935\n18.90\n1\n1\n4\n1\n\n\nPorsche 914-2\n26.0\n4\n120.3\n91\n4.43\n2.140\n16.70\n0\n1\n5\n2\n\n\nLotus Europa\n30.4\n4\n95.1\n113\n3.77\n1.513\n16.90\n1\n1\n5\n2\n\n\nFord Pantera L\n15.8\n8\n351.0\n264\n4.22\n3.170\n14.50\n0\n1\n5\n4\n\n\nFerrari Dino\n19.7\n6\n145.0\n175\n3.62\n2.770\n15.50\n0\n1\n5\n6\n\n\nMaserati Bora\n15.0\n8\n301.0\n335\n3.54\n3.570\n14.60\n0\n1\n5\n8\n\n\nVolvo 142E\n21.4\n4\n121.0\n109\n4.11\n2.780\n18.60\n1\n1\n4\n2\n\n\n\n\n\n\n\n\n\nLearn more: Tabsets"
-  },
-  {
-    "objectID": "template.html#interactive-slides",
-    "href": "template.html#interactive-slides",
-    "title": "Quarto demo presentation",
-    "section": "Interactive Slides",
-    "text": "Interactive Slides\nInclude Jupyter widgets and htmlwidgets in your presentations\n\n\n\n\n\n\n\nLearn more: Jupyter widgets, htmlwidgets"
-  },
-  {
-    "objectID": "template.html#preview-links",
-    "href": "template.html#preview-links",
-    "title": "Quarto demo presentation",
-    "section": "Preview Links",
-    "text": "Preview Links\nNavigate to hyperlinks without disrupting the flow of your presentation.\nUse the preview-links option to open links in an iframe on top of your slides. Try clicking the link below for a demonstration:\n\nMatplotlib: Visualization with Python\n\n\nLearn more: Preview Links"
-  },
-  {
-    "objectID": "template.html#themes",
-    "href": "template.html#themes",
-    "title": "Quarto demo presentation",
-    "section": "Themes",
-    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
-  },
-  {
-    "objectID": "template.html#easy-navigation",
-    "href": "template.html#easy-navigation",
-    "title": "Quarto demo presentation",
-    "section": "Easy Navigation",
-    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
-  },
-  {
-    "objectID": "template.html#chalkboard",
-    "href": "template.html#chalkboard",
-    "title": "Quarto demo presentation",
-    "section": "Chalkboard",
-    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
-  },
-  {
-    "objectID": "template.html#point-of-view",
-    "href": "template.html#point-of-view",
-    "title": "Quarto demo presentation",
-    "section": "Point of View",
-    "text": "Point of View\nPress o to toggle overview mode:\n\nHold down the Alt key (or Ctrl in Linux) and click on any element to zoom towards it—try it now on this slide.\n\nLearn more: Overview Mode, Slide Zoom"
-  },
-  {
-    "objectID": "template.html#speaker-view",
-    "href": "template.html#speaker-view",
-    "title": "Quarto demo presentation",
-    "section": "Speaker View",
-    "text": "Speaker View\nPress s (or use the presentation menu) to open speaker view\n\n\nLearn more: Speaker View"
-  },
-  {
-    "objectID": "template.html#authoring-tools",
-    "href": "template.html#authoring-tools",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nLive side-by-side preview for any notebook or text editor including Jupyter and VS Code\n\n\n\n\n\n\n\n\nLearn more: Jupyter, VS Code, Text Editors"
-  },
-  {
-    "objectID": "template.html#authoring-tools-1",
-    "href": "template.html#authoring-tools-1",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nRStudio includes an integrated presentation preview pane\n\n\nLearn more: RStudio"
-  },
-  {
-    "objectID": "template.html#and-more",
-    "href": "template.html#and-more",
-    "title": "Quarto demo presentation",
-    "section": "And More…",
-    "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
-  },
-  {
-    "objectID": "templates/metro-template.html#hello-there",
-    "href": "templates/metro-template.html#hello-there",
-    "title": "Quarto demo presentation",
-    "section": "Hello, There",
-    "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
-  },
-  {
-    "objectID": "templates/metro-template.html#pretty-code",
-    "href": "templates/metro-template.html#pretty-code",
-    "title": "Quarto demo presentation",
-    "section": "Pretty Code",
-    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting"
-  },
-  {
-    "objectID": "templates/metro-template.html#code-animations",
-    "href": "templates/metro-template.html#code-animations",
-    "title": "Quarto demo presentation",
-    "section": "Code Animations",
-    "text": "Code Animations\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n    barplot(WorldPhones[,input$region]*1000,\n            main=input$region,\n            ylab=\"Number of Telephones\",\n            xlab=\"Year\")\n  })\n}\n\nLearn more: Code Animations"
-  },
-  {
-    "objectID": "templates/metro-template.html#line-highlighting",
-    "href": "templates/metro-template.html#line-highlighting",
-    "title": "Quarto demo presentation",
-    "section": "Line Highlighting",
-    "text": "Line Highlighting\n\nHighlight specific lines for emphasis\nIncrementally highlight additional lines\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nLearn more: Line Highlighting"
-  },
-  {
-    "objectID": "templates/metro-template.html#executable-code",
-    "href": "templates/metro-template.html#executable-code",
-    "title": "Quarto demo presentation",
-    "section": "Executable Code",
-    "text": "Executable Code\n\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +  geom_smooth(formula = y ~ x, method = \"loess\")\n\n\n\nLearn more: Executable Code"
-  },
-  {
-    "objectID": "templates/metro-template.html#latex-equations",
-    "href": "templates/metro-template.html#latex-equations",
-    "title": "Quarto demo presentation",
-    "section": "LaTeX Equations",
-    "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations"
-  },
-  {
-    "objectID": "templates/metro-template.html#column-layout",
-    "href": "templates/metro-template.html#column-layout",
-    "title": "Quarto demo presentation",
-    "section": "Column Layout",
-    "text": "Column Layout\nArrange content into columns of varying widths:\n\n\nMotor Trend Car Road Tests\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n108\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.440\n\n\nValiant\n18.1\n6\n225\n105\n3.460\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns"
-  },
-  {
-    "objectID": "templates/metro-template.html#incremental-lists",
-    "href": "templates/metro-template.html#incremental-lists",
-    "title": "Quarto demo presentation",
-    "section": "Incremental Lists",
-    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
-  },
-  {
-    "objectID": "templates/metro-template.html#fragments",
-    "href": "templates/metro-template.html#fragments",
-    "title": "Quarto demo presentation",
-    "section": "Fragments",
-    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
-  },
-  {
-    "objectID": "templates/metro-template.html#slide-backgrounds",
-    "href": "templates/metro-template.html#slide-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Slide Backgrounds",
-    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
-  },
-  {
-    "objectID": "templates/metro-template.html#media-backgrounds",
-    "href": "templates/metro-template.html#media-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Media Backgrounds",
-    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
-  },
-  {
-    "objectID": "templates/metro-template.html#absolute-position",
-    "href": "templates/metro-template.html#absolute-position",
-    "title": "Quarto demo presentation",
-    "section": "Absolute Position",
-    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\n\nLearn more: Absolute Position"
-  },
-  {
-    "objectID": "templates/metro-template.html#auto-animate",
-    "href": "templates/metro-template.html#auto-animate",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "templates/metro-template.html#auto-animate-1",
-    "href": "templates/metro-template.html#auto-animate-1",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "templates/metro-template.html#slide-transitions",
-    "href": "templates/metro-template.html#slide-transitions",
-    "title": "Quarto demo presentation",
-    "section": "Slide Transitions",
-    "text": "Slide Transitions\nThe next few slides will transition using the slide transition\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (default, switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\n\nLearn more: Slide Transitions"
-  },
-  {
-    "objectID": "templates/metro-template.html#tabsets",
-    "href": "templates/metro-template.html#tabsets",
-    "title": "Quarto demo presentation",
-    "section": "Tabsets",
-    "text": "Tabsets\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n3.570\n15.84\n0\n0\n3\n4\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n3.190\n20.00\n1\n0\n4\n2\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n3.150\n22.90\n1\n0\n4\n2\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n3.440\n18.30\n1\n0\n4\n4\n\n\nMerc 280C\n17.8\n6\n167.6\n123\n3.92\n3.440\n18.90\n1\n0\n4\n4\n\n\nMerc 450SE\n16.4\n8\n275.8\n180\n3.07\n4.070\n17.40\n0\n0\n3\n3\n\n\nMerc 450SL\n17.3\n8\n275.8\n180\n3.07\n3.730\n17.60\n0\n0\n3\n3\n\n\nMerc 450SLC\n15.2\n8\n275.8\n180\n3.07\n3.780\n18.00\n0\n0\n3\n3\n\n\nCadillac Fleetwood\n10.4\n8\n472.0\n205\n2.93\n5.250\n17.98\n0\n0\n3\n4\n\n\nLincoln Continental\n10.4\n8\n460.0\n215\n3.00\n5.424\n17.82\n0\n0\n3\n4\n\n\nChrysler Imperial\n14.7\n8\n440.0\n230\n3.23\n5.345\n17.42\n0\n0\n3\n4\n\n\nFiat 128\n32.4\n4\n78.7\n66\n4.08\n2.200\n19.47\n1\n1\n4\n1\n\n\nHonda Civic\n30.4\n4\n75.7\n52\n4.93\n1.615\n18.52\n1\n1\n4\n2\n\n\nToyota Corolla\n33.9\n4\n71.1\n65\n4.22\n1.835\n19.90\n1\n1\n4\n1\n\n\nToyota Corona\n21.5\n4\n120.1\n97\n3.70\n2.465\n20.01\n1\n0\n3\n1\n\n\nDodge Challenger\n15.5\n8\n318.0\n150\n2.76\n3.520\n16.87\n0\n0\n3\n2\n\n\nAMC Javelin\n15.2\n8\n304.0\n150\n3.15\n3.435\n17.30\n0\n0\n3\n2\n\n\nCamaro Z28\n13.3\n8\n350.0\n245\n3.73\n3.840\n15.41\n0\n0\n3\n4\n\n\nPontiac Firebird\n19.2\n8\n400.0\n175\n3.08\n3.845\n17.05\n0\n0\n3\n2\n\n\nFiat X1-9\n27.3\n4\n79.0\n66\n4.08\n1.935\n18.90\n1\n1\n4\n1\n\n\nPorsche 914-2\n26.0\n4\n120.3\n91\n4.43\n2.140\n16.70\n0\n1\n5\n2\n\n\nLotus Europa\n30.4\n4\n95.1\n113\n3.77\n1.513\n16.90\n1\n1\n5\n2\n\n\nFord Pantera L\n15.8\n8\n351.0\n264\n4.22\n3.170\n14.50\n0\n1\n5\n4\n\n\nFerrari Dino\n19.7\n6\n145.0\n175\n3.62\n2.770\n15.50\n0\n1\n5\n6\n\n\nMaserati Bora\n15.0\n8\n301.0\n335\n3.54\n3.570\n14.60\n0\n1\n5\n8\n\n\nVolvo 142E\n21.4\n4\n121.0\n109\n4.11\n2.780\n18.60\n1\n1\n4\n2\n\n\n\n\n\n\n\n\n\nLearn more: Tabsets"
-  },
-  {
-    "objectID": "templates/metro-template.html#interactive-slides",
-    "href": "templates/metro-template.html#interactive-slides",
-    "title": "Quarto demo presentation",
-    "section": "Interactive Slides",
-    "text": "Interactive Slides\nInclude Jupyter widgets and htmlwidgets in your presentations\n\n\n\n\n\n\n\nLearn more: Jupyter widgets, htmlwidgets"
-  },
-  {
-    "objectID": "templates/metro-template.html#preview-links",
-    "href": "templates/metro-template.html#preview-links",
-    "title": "Quarto demo presentation",
-    "section": "Preview Links",
-    "text": "Preview Links\nNavigate to hyperlinks without disrupting the flow of your presentation.\nUse the preview-links option to open links in an iframe on top of your slides. Try clicking the link below for a demonstration:\n\nMatplotlib: Visualization with Python\n\n\nLearn more: Preview Links"
-  },
-  {
-    "objectID": "templates/metro-template.html#themes",
-    "href": "templates/metro-template.html#themes",
-    "title": "Quarto demo presentation",
-    "section": "Themes",
-    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
-  },
-  {
-    "objectID": "templates/metro-template.html#easy-navigation",
-    "href": "templates/metro-template.html#easy-navigation",
-    "title": "Quarto demo presentation",
-    "section": "Easy Navigation",
-    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
-  },
-  {
-    "objectID": "templates/metro-template.html#chalkboard",
-    "href": "templates/metro-template.html#chalkboard",
-    "title": "Quarto demo presentation",
-    "section": "Chalkboard",
-    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
-  },
-  {
-    "objectID": "templates/metro-template.html#point-of-view",
-    "href": "templates/metro-template.html#point-of-view",
-    "title": "Quarto demo presentation",
-    "section": "Point of View",
-    "text": "Point of View\nPress o to toggle overview mode:\n\nHold down the Alt key (or Ctrl in Linux) and click on any element to zoom towards it—try it now on this slide.\n\nLearn more: Overview Mode, Slide Zoom"
-  },
-  {
-    "objectID": "templates/metro-template.html#speaker-view",
-    "href": "templates/metro-template.html#speaker-view",
-    "title": "Quarto demo presentation",
-    "section": "Speaker View",
-    "text": "Speaker View\nPress s (or use the presentation menu) to open speaker view\n\n\nLearn more: Speaker View"
-  },
-  {
-    "objectID": "templates/metro-template.html#authoring-tools",
-    "href": "templates/metro-template.html#authoring-tools",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nLive side-by-side preview for any notebook or text editor including Jupyter and VS Code\n\n\n\n\n\n\n\n\nLearn more: Jupyter, VS Code, Text Editors"
-  },
-  {
-    "objectID": "templates/metro-template.html#authoring-tools-1",
-    "href": "templates/metro-template.html#authoring-tools-1",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nRStudio includes an integrated presentation preview pane\n\n\nLearn more: RStudio"
-  },
-  {
-    "objectID": "templates/metro-template.html#and-more",
-    "href": "templates/metro-template.html#and-more",
-    "title": "Quarto demo presentation",
-    "section": "And More…",
-    "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
+    "objectID": "templates/slides-template.html#a-slide-with-a-plot",
+    "href": "templates/slides-template.html#a-slide-with-a-plot",
+    "title": "YOUR TITLE",
+    "section": "A slide with a plot",
+    "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
   }
 ]

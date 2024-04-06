@@ -10,13 +10,13 @@ title-slide-attributes:
 format:
   revealjs:
     theme: [../_extensions/metropolis-theme/metropolis.scss]
-    toc: true
-    toc-depth: 1
+    toc: false
+    toc-depth: 2
     chalkboard: true
     menu: true
 ---
 
-## Herzlich Willkommen
+# Herzlich Willkommen
 
 Kurs besteht aus:
 
@@ -78,7 +78,7 @@ Spiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? W
 
 Melden Sie sich bitte bei Partifiy an!
 
-## Wissenschaftliche Erkenntnisse 1
+## Wissenschaftliche Grundlagen 1/4
 
 Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
 
@@ -98,7 +98,7 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 :::
 
-## Wissenschaftliche Erkenntnisse 2
+## Wissenschaftliche Grundlagen 2/4
 
 Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
 
@@ -118,7 +118,7 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 :::
 
-## Wissenschaftliche Erkenntnisse 3
+## Wissenschaftliche Grundlagen 3/4
 
 Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
 
@@ -133,6 +133,26 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 -   Wie warm wird es auf der Erde sein, wenn Sie 50 sind?
 
 -   Was können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
+:::
+:::
+
+## Wissenschaftliche Grundlagen 4/4
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+
+::: columns
+::: {.column width="30%"}
+[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png){width="100%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png)
+:::
+
+::: {.column width="60%"}
+- Was bedeutet die dargestellte Pfadentwicklung?
+
+- Was bedeutet diese Pfadentwicklung für die Bildungsarbeit?
+
+- Was bedeuten aktuelle politische Entwicklungen, konkret etwa die Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?
+
+- Auf welchem Pfad sehen Sie die Menschheit?
 :::
 :::
 

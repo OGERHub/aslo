@@ -3,13 +3,15 @@ title: "Quarto demo presentation"
 subtitle: Metropolis theme
 author: First Last
 date: 2022-09-01
+title-slide-attributes: 
+  data-background-image: /images/title-uni2.png
 format:
   revealjs:
     theme: [../_extensions/metropolis-theme/metropolis.scss]
     toc: true
     toc-depth: 1
     chalkboard: true
-    menu: true
+    menu: false
     highlight-style: github
     background-transition: fade
     

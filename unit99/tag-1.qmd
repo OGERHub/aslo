@@ -13,25 +13,26 @@ format:
     toc: false
     toc-depth: 2
     chalkboard: true
-    menu: true
+    menu: false
 ---
+
+
 
 # Herzlich Willkommen
 
 Kurs besteht aus:
 
-- drei Blocktagen
+-   drei Blocktagen
 
-- Semesterbegleitender Veranstaltung
-
+-   Semesterbegleitender Veranstaltung
 
 ::: r-stack
-::: {data-id="box1" style="background: #2780e3; text-align: left; width: 550px; height: 180px; border-square: 200px;"}
-Dienstag 10-12 (Dörfel)
-
-Donnerstag 12-14 (Ammoneit)
-
-Donnerstag 14-16 (Reudenbach)
+::: {data-id="box1" style="background: #61AA61; text-align: left; width: 750px; height: 180px; border-square: 200px; padding: 15px 5px 5px 35px; border-radius: 6px"}
+| |  |  |
+|------|------|------|
+| Dienstag:     | 10-12 Uhr     |  Dörfel    |
+| Donnerstag:     | 12-14 Uhr     | Ammoneit     |
+| Donnerstag:     | 14-16 Uhr     |  Reudenbach    |
 :::
 :::
 
@@ -42,7 +43,6 @@ Studienleistung:
 Entwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton\*innen (1,5 Stunden) in Dreiergruppen
 
 Exkursionstagebuch, das Sie während der anderen Exkursionen führen
-
 
 Prüfungsleistung:
 
@@ -146,13 +146,13 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 
 ::: {.column width="60%"}
-- Was bedeutet die dargestellte Pfadentwicklung?
+-   Was bedeutet die dargestellte Pfadentwicklung?
 
-- Was bedeutet diese Pfadentwicklung für die Bildungsarbeit?
+-   Was bedeutet diese Pfadentwicklung für die Bildungsarbeit?
 
-- Was bedeuten aktuelle politische Entwicklungen, konkret etwa die Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?
+-   Was bedeuten aktuelle politische Entwicklungen, konkret etwa die Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?
 
-- Auf welchem Pfad sehen Sie die Menschheit?
+-   Auf welchem Pfad sehen Sie die Menschheit?
 :::
 :::
 
@@ -276,13 +276,13 @@ Fünf Handlungsprioritäten im Hyogo Framework for Action (HFA) Hyogo-Aktionsrah
 
 -   [Handlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.]{style="color:#002060"}
 
-^Fig\ 3.\ Klimawandelbilung.\ Nach:\ UNEP,\ UNESCO\ 2011^
+^Fig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011^
 
 ## Resilienzbildung
 
 Katastrophen-prävention
 
-^Fig\ 4.\ Resilienzbildung^
+^Fig 4. Resilienzbildung^
 
 [Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen.]{style="color:#003366"}
 

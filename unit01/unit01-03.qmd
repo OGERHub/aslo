@@ -1,5 +1,7 @@
 ---
 title: "Zuḱunftsvisionen"
+
+title-block-banner-color: black
 ---
 
 

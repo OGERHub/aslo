@@ -1,0 +1,279 @@
+---
+title: "Außerschulische Lernorte"
+subtitle: "Sommersemester 2024"
+author: <P align="right"> Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach</P>
+title-slide-attributes: 
+  data-background-image: /images/title-uni2.png
+ # data-background-size: contain
+  #data-background-opacity: "0.7"
+ # center-title-slide: true
+format:
+  revealjs:
+    theme: [../_extensions/metropolis-theme/metropolis.scss]
+    toc: true
+    toc-depth: 1
+    chalkboard: true
+    menu: true
+---
+
+# Herzlich Willkommen
+
+Kurs besteht aus:
+
+drei Blocktagen
+
+Semesterbegleitender Veranstaltung
+
+Semesterbegleitende Veranstaltung:
+
+::: r-stack
+::: {data-id="box1" style="background: #2780e3; text-align: left; width: 550px; height: 250px; border-square: 200px;"}
+Dienstag 10-12 (Dörfel)
+
+Donnerstag 12-14 (Ammoneit)
+
+Donnerstag 14-16\
+:::
+:::
+
+## Studien- und Prüfungsleistung
+
+Studienleistung:
+
+Entwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton\*innen (1,5 Stunden) in Dreiergruppen
+
+Exkursionstagebuch, das Sie während der anderen Exkursionen führen
+
+Prüfungsleistung:
+
+Anpassung des Konzeptes für die Schule
+
+Bündige Darstellung, die Veröffentlichung auf Homepage erlaubt
+
+## Die Blocktage
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Europe%2FBerlin&amp;bgcolor=%23ffffff&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;title=ASLO%202024%20Blocktage&amp;src=NzE2OTUxNTg5OTdkZTk2NzNjMjEzNjc0YTVlZTcwN2U0NjAyMjFjOTA0ZjRlNzc2MmNhMTVhM2U3Zjc2MDcxNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%2333B679" style="border-width:0" width="1024" height="600" frameborder="0" scrolling="no">
+
+</iframe>
+
+## Interaktive Einführung: Zukunftsvisionen
+
+Versuchen Sie die Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen. Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich.
+
+Sie haben 15 Minuten Zeit.
+
+## Zukunftsvisionen
+
+Tauschen Sie sich nun mit Ihren Sitznachbar\*innen, und den Kommiliton\*innen, die hinter ihnen bzw. vor ihnen sitzen aus, so dass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.
+
+Welche Gemeinsamkeiten stellen Sie fest?
+
+Welche Unterschiede bestehen?
+
+Spiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?
+
+## Übersicht über die Szenarien
+
+![](../images/img/Tag10.png)
+
+Melden Sie sich bitte bei Partifiy an!
+
+## Wissenschaftliche Erkenntnisse 1
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+
+::: columns
+::: {.column width="30%"}
+[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png){.lightbox width="75%" fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png)
+:::
+
+::: {.column width="60%"}
+-   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
+
+-   Was können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
+
+-   Was bedeutet die Prozentzahl in Klammern in Sektion b)?
+
+-   Was bedeuten die flächigen Einfärbungen in den Graphen?
+:::
+:::
+
+## Wissenschaftliche Erkenntnisse 2
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+
+::: columns
+::: {.column width="30%"}
+[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png){width="75%" fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png)
+:::
+
+::: {.column width="60%"}
+-   Welche Szenarien finden Sie in der Abbildung wieder?
+
+-   Was bedeuten die flächigen Einfärbungen in den Graphen?
+
+-   Haben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?
+
+-   Was bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?
+:::
+:::
+
+## Wissenschaftliche Erkenntnisse 3
+
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+
+::: columns
+::: {.column width="30%"}
+[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png){width="75%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png)
+:::
+
+::: {.column width="60%"}
+-   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
+
+-   Wie warm wird es auf der Erde sein, wenn Sie 50 sind?
+
+-   Was können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
+:::
+:::
+
+## Lehrkraft in Zeiten unsicherer Zukünfte
+
+-   Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
+
+-   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
+
+-   Welche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?
+
+-   Was motiviert Sie die neue Generationen auszubilden?
+
+-   Wordcloud oder Notizen in Particify?
+
+## Resilienz
+
+Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, den Stress- und Schockwellen eines dramatischen, traumatischen und oft unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten, zu überleben und sich an sie anzupassen. Die Fähigkeit zum Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.
+
+^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
+
+## Übung im Zweierteam
+
+-   In welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?
+
+-   Berichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton\*innen nicht zu privat ist.
+
+-   Was hat Ihnen dabei geholfen?
+
+## Persönliche und gesellschaftliche Resilienz
+
+-   Diskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.
+
+-   Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.
+
+## Resilienzdimensionen
+
+-   Biologisch
+
+-   Materiell
+
+-   Sozial (einschließlich Kultur)
+
+-   Kognitiv (Wissen und Verstehen)
+
+-   Emotional
+
+^After Williamson, J. & Robinson, M. (2006). ‘ Psychosocial programs or programs aimed at general well-being?^
+
+## Vulnerabilität
+
+![](../images/img/Tag15.png){fig-align="center"}
+
+Das Ausmaß, in dem ein Individuum, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem nicht in der Lage ist, mit den Stress- und Schockwellen eines dramatischen, traumatischen und oft unerwarteten Ereignisses oder einer unerwarteten Entwicklung umzugehen.
+
+^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
+
+## Klimawandelvulnerabilität
+
+-   Ein Gefühl der Wehrlosigkeit
+
+-   Körperlicher Zusammenbruch
+
+-   Kultureller Zusammenbruch
+
+-   Emotionale oder psychische Verletzung bzw. mangelnde Fähigkeit zum Coping
+
+-   Zusammenbruch sozialer Strukturen und sozialer und ökologischer Prozesse
+
+-   Unfähigkeit zur Adaption
+
+-   Aggression und Konflikt
+
+^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
+
+## Klimawandelresilienz
+
+Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und sich danach wieder aufzubauen. Merkmale der Resilienz:
+
+-   Emotionale, psychologische und kulturelle Stabilität
+
+-   Die Fähigkeit, positiv und hoffnungsvoll zu bleiben
+
+-   Die Fähigkeit zur Anpassung und Transformation
+
+-   Die Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.
+
+^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
+
+## Resilienz vs. Vulnerabilität
+
+Der Grad der Resilienz und Vulnerabilität wird von der Art und dem Ausmaß der Klimabedrohung und dem Ausmaß abhängen, in dem Einzelpersonen, Gemeinschaften und Gesellschaften über die Zukunft nachgedacht und sich insbesondere auf den Umgang mit Schock und Unsicherheit vorbereitet haben.
+
+^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
+
+## Institutionalisierung der Resilienz
+
+Fünf Handlungsprioritäten im Hyogo Framework for Action (HFA) Hyogo-Aktionsrahmen (HFA) 2005–2015: Aufbau der Widerstandsfähigkeit von Nationen und Gemeinschaften gegenüber Katastrophen
+
+-   Die Reduzierung des Katastrophenrisikos zur nationalen und lokalen Priorität mit einer starken institutionellen Grundlage für die Umsetzung machen.
+
+-   Katastrophenrisiken identifizieren, bewerten und überwachen und Frühwarnung verbessern.
+
+-   Wissen, Innovation und Bildung auf allen Ebenen nutzen, um eine Kultur der Sicherheit und Widerstandsfähigkeit aufzubauen.
+
+-   Zugrunde liegenden Risikofaktoren reduzieren.
+
+-   Stärkung der Katastrophenvorsorge für eine wirksame Reaktion auf allen Ebenen.
+
+## Klimawandelbildung
+
+-   Nachhaltige Entwicklung
+
+-   Katastrophenprävention
+
+-   [Werte, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten.]{style="color:#002060"}
+
+-   [Werte, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen, die den Klimawandel abschwächen.]{style="color:#002060"}
+
+-   [Durch Bildung Vulnarabilität von Communities reduzieren.]{style="color:#002060"}
+
+-   [Handlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.]{style="color:#002060"}
+
+^Fig\ 3.\ Klimawandelbilung.\ Nach:\ UNEP,\ UNESCO\ 2011^
+
+## Resilienzbildung
+
+Katastrophen-prävention
+
+^Fig\ 4.\ Resilienzbildung^
+
+[Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen.]{style="color:#003366"}
+
+## Lehrkraft in Zeiten unsicherer Zukünfte
+
+Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
+
+-   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
+
+-   Welche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?
+
+-   Was motiviert Sie die neue Generationen auszubilden?
+
+-   Formulieren Sie Ihre Notizen aus und laden Sie die Antworten bis Mitternacht im Ilias-Ordner hoch.

@@ -9,13 +9,14 @@ title-slide-attributes: # title screen only
   data-background-size: contain
   data-background-opacity: "0.7"
 format:
-  organization-revealjs:
-    theme: simple 
-    echo: true
+  revealjs:
+    theme: [../_extensions/metropolis-theme/metropolis.scss]
+    toc: true
+    toc-depth: 1
+    chalkboard: true
+    menu: true
     highlight-style: github
-    slide-number: true
-    width: 1600
-    height: 900
+    background-transition: fade
     footer: "[YOUR ORG](https://example.com/)"
     header: the incredible talk about making sense scales
     header-logo: logo2.png

@@ -1,9 +1,11 @@
 ---
 title: "Quarto Markdown"
 title-block-banner: ../images/publish-header.png
+title-block-banner-color: black
 ---
 # Inhalte veröffentlichen mit Markdown und Quarto
 
-## StackIt der online Editor
+## Online Editoren
 
-[StackIt](https://stackedit.io/)
+* [StackIt](https://stackedit.io/)
+* [Dillinger](https://dillinger.io/)

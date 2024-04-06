@@ -22,9 +22,6 @@ website:
       - icon: question-square-fill
         text: FAQ
         href: unit00/unit00-faq.qmd
-      - icon: file-slides-fill
-        text: Slides
-        href: slides/slidelist.qmd
       - icon: check2-square
 
   sidebar:
@@ -61,6 +58,11 @@ website:
         contents:
           - href: unit03/unit03-01.qmd
             text: "Projekt 1"
+      - text: "---"
+      - section: "Folien"
+        contents:
+          - href: unit99/tag-1.qmd
+            text: "Blocktag 1"           
       #- text: "---"
       #- section: "Machine Learning"
       #  contents:

@@ -56,6 +56,160 @@
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
   },
   {
+    "objectID": "unit99/tag-1.html#herzlich-willkommen",
+    "href": "unit99/tag-1.html#herzlich-willkommen",
+    "title": "Außerschulische Lernorte",
+    "section": "Herzlich Willkommen",
+    "text": "Herzlich Willkommen\nKurs besteht aus:\n\ndrei Blocktagen\nSemesterbegleitender Veranstaltung\n\n\n\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)"
+  },
+  {
+    "objectID": "unit99/tag-1.html#studien--und-prüfungsleistung",
+    "href": "unit99/tag-1.html#studien--und-prüfungsleistung",
+    "title": "Außerschulische Lernorte",
+    "section": "Studien- und Prüfungsleistung",
+    "text": "Studien- und Prüfungsleistung\nStudienleistung:\nEntwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton*innen (1,5 Stunden) in Dreiergruppen\nExkursionstagebuch, das Sie während der anderen Exkursionen führen\nPrüfungsleistung:\nAnpassung des Konzeptes für die Schule\nBündige Darstellung, die Veröffentlichung auf Homepage erlaubt"
+  },
+  {
+    "objectID": "unit99/tag-1.html#die-blocktage",
+    "href": "unit99/tag-1.html#die-blocktage",
+    "title": "Außerschulische Lernorte",
+    "section": "Die Blocktage",
+    "text": "Die Blocktage"
+  },
+  {
+    "objectID": "unit99/tag-1.html#interaktive-einführung-zukunftsvisionen",
+    "href": "unit99/tag-1.html#interaktive-einführung-zukunftsvisionen",
+    "title": "Außerschulische Lernorte",
+    "section": "Interaktive Einführung: Zukunftsvisionen",
+    "text": "Interaktive Einführung: Zukunftsvisionen\nVersuchen Sie die Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen. Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich.\nSie haben 15 Minuten Zeit."
+  },
+  {
+    "objectID": "unit99/tag-1.html#zukunftsvisionen",
+    "href": "unit99/tag-1.html#zukunftsvisionen",
+    "title": "Außerschulische Lernorte",
+    "section": "Zukunftsvisionen",
+    "text": "Zukunftsvisionen\nTauschen Sie sich nun mit Ihren Sitznachbar*innen, und den Kommiliton*innen, die hinter ihnen bzw. vor ihnen sitzen aus, so dass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.\nWelche Gemeinsamkeiten stellen Sie fest?\nWelche Unterschiede bestehen?\nSpiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#übersicht-über-die-szenarien",
+    "href": "unit99/tag-1.html#übersicht-über-die-szenarien",
+    "title": "Außerschulische Lernorte",
+    "section": "Übersicht über die Szenarien",
+    "text": "Übersicht über die Szenarien\n\nMelden Sie sich bitte bei Partifiy an!"
+  },
+  {
+    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-1",
+    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-1",
+    "title": "Außerschulische Lernorte",
+    "section": "Wissenschaftliche Erkenntnisse 1",
+    "text": "Wissenschaftliche Erkenntnisse 1\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\nWas bedeutet die Prozentzahl in Klammern in Sektion b)?\nWas bedeuten die flächigen Einfärbungen in den Graphen?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-2",
+    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-2",
+    "title": "Außerschulische Lernorte",
+    "section": "Wissenschaftliche Erkenntnisse 2",
+    "text": "Wissenschaftliche Erkenntnisse 2\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWelche Szenarien finden Sie in der Abbildung wieder?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nHaben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?\nWas bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-3",
+    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-3",
+    "title": "Außerschulische Lernorte",
+    "section": "Wissenschaftliche Erkenntnisse 3",
+    "text": "Wissenschaftliche Erkenntnisse 3\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWie warm wird es auf der Erde sein, wenn Sie 50 sind?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte",
+    "href": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte",
+    "title": "Außerschulische Lernorte",
+    "section": "Lehrkraft in Zeiten unsicherer Zukünfte",
+    "text": "Lehrkraft in Zeiten unsicherer Zukünfte\n\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?\nWas motiviert Sie die neue Generationen auszubilden?\nWordcloud oder Notizen in Particify?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#resilienz",
+    "href": "unit99/tag-1.html#resilienz",
+    "title": "Außerschulische Lernorte",
+    "section": "Resilienz",
+    "text": "Resilienz\nDie Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, den Stress- und Schockwellen eines dramatischen, traumatischen und oft unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten, zu überleben und sich an sie anzupassen. Die Fähigkeit zum Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
+  },
+  {
+    "objectID": "unit99/tag-1.html#übung-im-zweierteam",
+    "href": "unit99/tag-1.html#übung-im-zweierteam",
+    "title": "Außerschulische Lernorte",
+    "section": "Übung im Zweierteam",
+    "text": "Übung im Zweierteam\n\nIn welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?\nBerichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton*innen nicht zu privat ist.\nWas hat Ihnen dabei geholfen?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#persönliche-und-gesellschaftliche-resilienz",
+    "href": "unit99/tag-1.html#persönliche-und-gesellschaftliche-resilienz",
+    "title": "Außerschulische Lernorte",
+    "section": "Persönliche und gesellschaftliche Resilienz",
+    "text": "Persönliche und gesellschaftliche Resilienz\n\nDiskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.\nNotieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify."
+  },
+  {
+    "objectID": "unit99/tag-1.html#resilienzdimensionen",
+    "href": "unit99/tag-1.html#resilienzdimensionen",
+    "title": "Außerschulische Lernorte",
+    "section": "Resilienzdimensionen",
+    "text": "Resilienzdimensionen\n\nBiologisch\nMateriell\nSozial (einschließlich Kultur)\nKognitiv (Wissen und Verstehen)\nEmotional\n\nAfter Williamson, J. & Robinson, M. (2006). ’ Psychosocial programs or programs aimed at general well-being?"
+  },
+  {
+    "objectID": "unit99/tag-1.html#vulnerabilität",
+    "href": "unit99/tag-1.html#vulnerabilität",
+    "title": "Außerschulische Lernorte",
+    "section": "Vulnerabilität",
+    "text": "Vulnerabilität\n\nDas Ausmaß, in dem ein Individuum, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem nicht in der Lage ist, mit den Stress- und Schockwellen eines dramatischen, traumatischen und oft unerwarteten Ereignisses oder einer unerwarteten Entwicklung umzugehen.\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
+  },
+  {
+    "objectID": "unit99/tag-1.html#klimawandelvulnerabilität",
+    "href": "unit99/tag-1.html#klimawandelvulnerabilität",
+    "title": "Außerschulische Lernorte",
+    "section": "Klimawandelvulnerabilität",
+    "text": "Klimawandelvulnerabilität\n\nEin Gefühl der Wehrlosigkeit\nKörperlicher Zusammenbruch\nKultureller Zusammenbruch\nEmotionale oder psychische Verletzung bzw. mangelnde Fähigkeit zum Coping\nZusammenbruch sozialer Strukturen und sozialer und ökologischer Prozesse\nUnfähigkeit zur Adaption\nAggression und Konflikt\n\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
+  },
+  {
+    "objectID": "unit99/tag-1.html#klimawandelresilienz",
+    "href": "unit99/tag-1.html#klimawandelresilienz",
+    "title": "Außerschulische Lernorte",
+    "section": "Klimawandelresilienz",
+    "text": "Klimawandelresilienz\nDie Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und sich danach wieder aufzubauen. Merkmale der Resilienz:\n\nEmotionale, psychologische und kulturelle Stabilität\nDie Fähigkeit, positiv und hoffnungsvoll zu bleiben\nDie Fähigkeit zur Anpassung und Transformation\nDie Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.\n\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
+  },
+  {
+    "objectID": "unit99/tag-1.html#resilienz-vs.-vulnerabilität",
+    "href": "unit99/tag-1.html#resilienz-vs.-vulnerabilität",
+    "title": "Außerschulische Lernorte",
+    "section": "Resilienz vs. Vulnerabilität",
+    "text": "Resilienz vs. Vulnerabilität\nDer Grad der Resilienz und Vulnerabilität wird von der Art und dem Ausmaß der Klimabedrohung und dem Ausmaß abhängen, in dem Einzelpersonen, Gemeinschaften und Gesellschaften über die Zukunft nachgedacht und sich insbesondere auf den Umgang mit Schock und Unsicherheit vorbereitet haben.\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
+  },
+  {
+    "objectID": "unit99/tag-1.html#institutionalisierung-der-resilienz",
+    "href": "unit99/tag-1.html#institutionalisierung-der-resilienz",
+    "title": "Außerschulische Lernorte",
+    "section": "Institutionalisierung der Resilienz",
+    "text": "Institutionalisierung der Resilienz\nFünf Handlungsprioritäten im Hyogo Framework for Action (HFA) Hyogo-Aktionsrahmen (HFA) 2005–2015: Aufbau der Widerstandsfähigkeit von Nationen und Gemeinschaften gegenüber Katastrophen\n\nDie Reduzierung des Katastrophenrisikos zur nationalen und lokalen Priorität mit einer starken institutionellen Grundlage für die Umsetzung machen.\nKatastrophenrisiken identifizieren, bewerten und überwachen und Frühwarnung verbessern.\nWissen, Innovation und Bildung auf allen Ebenen nutzen, um eine Kultur der Sicherheit und Widerstandsfähigkeit aufzubauen.\nZugrunde liegenden Risikofaktoren reduzieren.\nStärkung der Katastrophenvorsorge für eine wirksame Reaktion auf allen Ebenen."
+  },
+  {
+    "objectID": "unit99/tag-1.html#klimawandelbildung",
+    "href": "unit99/tag-1.html#klimawandelbildung",
+    "title": "Außerschulische Lernorte",
+    "section": "Klimawandelbildung",
+    "text": "Klimawandelbildung\n\nNachhaltige Entwicklung\nKatastrophenprävention\nWerte, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten.\nWerte, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen, die den Klimawandel abschwächen.\nDurch Bildung Vulnarabilität von Communities reduzieren.\nHandlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.\n\nFig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011"
+  },
+  {
+    "objectID": "unit99/tag-1.html#resilienzbildung",
+    "href": "unit99/tag-1.html#resilienzbildung",
+    "title": "Außerschulische Lernorte",
+    "section": "Resilienzbildung",
+    "text": "Resilienzbildung\nKatastrophen-prävention\nFig 4. Resilienzbildung\nResilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen."
+  },
+  {
+    "objectID": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte-1",
+    "href": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte-1",
+    "title": "Außerschulische Lernorte",
+    "section": "Lehrkraft in Zeiten unsicherer Zukünfte",
+    "text": "Lehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\n\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?\nWas motiviert Sie die neue Generationen auszubilden?\nFormulieren Sie Ihre Notizen aus und laden Sie die Antworten bis Mitternacht im Ilias-Ordner hoch."
+  },
+  {
     "objectID": "unit02/unit02-02.html",
     "href": "unit02/unit02-02.html",
     "title": "Quarto Markdown",
@@ -63,11 +217,11 @@
     "text": "StackIt\nDillinger"
   },
   {
-    "objectID": "unit02/unit02-02.html#stackit-der-online-editor",
-    "href": "unit02/unit02-02.html#stackit-der-online-editor",
+    "objectID": "unit02/unit02-02.html#online-editoren",
+    "href": "unit02/unit02-02.html#online-editoren",
     "title": "Quarto Markdown",
     "section": "",
-    "text": "StackIt"
+    "text": "StackIt\nDillinger"
   },
   {
     "objectID": "unit00/unit00-02-stupruef.html#studien--und-prüfungsleistung",
@@ -105,11 +259,46 @@
     "text": "This is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
   },
   {
-    "objectID": "unit01/unit01-03.html",
-    "href": "unit01/unit01-03.html",
-    "title": "Zuḱunftsvisionen",
+    "objectID": "unit01/unit01-02.html",
+    "href": "unit01/unit01-02.html",
+    "title": "Anwendungsbeispiele",
     "section": "",
-    "text": "Meine Vision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBitte beantworten Sie diese Fragen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBitte bewerten Sie"
+    "text": "This is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
+  },
+  {
+    "objectID": "unit01/unit01-02.html#make-sense-topic",
+    "href": "unit01/unit01-02.html#make-sense-topic",
+    "title": "Anwendungsbeispiele",
+    "section": "",
+    "text": "This is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
+  },
+  {
+    "objectID": "out.html",
+    "href": "out.html",
+    "title": "Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach",
+    "section": "",
+    "text": "Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach\nSommersemester 2024\n\n\nHerzlich Willkommen\n Kurs besteht aus:\n\ndrei Blocktagen\nSemesterbegleitende Veranstaltung:\n\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)\n\n\n\nStudien- und Prüfungsleistung\nStudienleistung:\nEntwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton*innen (1,5 Stunden) in Dreiergruppen\nExkursionstagebuch, das Sie während der anderen Exkursionen führen\nPrüfungsleistung:\nAnpassung des Konzeptes für die Schule\nBündige Darstellung, die Veröffentlichung auf Homepage erlaubt\n\n\nAbfrage Terminlichen Präferenzen\nMelden Sie sich bitte bei Particify an!\n\n\nThematischer Schwerpunkt: Resilient in die Zukunft\n\n\nDie Blocktage\n Hörsaal  ,  draußen  ,  Seminarräume \nPräsentationen der Ideen\nFreie Arbeit und Bearbeitung\nResilienz-Spurensuche\ninteraktive Einführung\nSammlung und Besprechung\nReflektion der eigenen Position\nTerminabsprachen und Orga\nAustausch und Ideenskizzen\nReflexion bis 24:00 Uhr abgeben\nIdeenskizze bis 24:00 Uhr abgeben\nExposé bis 24:00 Uhr abgeben\n\n\nInteraktive Einführung: Zukunftsvisionen\nVersuchen Sie die Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen. Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich.\nSie haben 15 Minuten Zeit.\n\n\nZukunftsvisionen\nTauschen Sie sich nun mit Ihren Sitznachbar*innen, und den Kommiliton*innen, die hinter ihnen bzw. vor ihnen sitzen aus, sodass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.\nWelche Gemeinsamkeiten stellen Sie fest?\nWelche Unterschiede bestehen?\nSpiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?\n\n\nÜbersicht über die Szenarien\n\nMelden Sie sich bitte bei Partifiy an!\n\n\nDer Klimawandel – Einstellungen und Perspektiven\nFür die nächste Übung gehen Sie bitte raus. Wir treffen uns in 5 Minuten vor den Tugenden\n\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\nWas bedeutet die Prozentzahl in Klammern in Sektion b)?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\nWelche Szenarien finden Sie in der Abbildung wieder?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nHaben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?\nWas bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\nhttps://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\nWenn Sie die Informationen aus den drei Abbildungen kombinieren welche Prognose treffen Sie für die Temperatur, wenn Sie 50 Jahre alt sind?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWie warm wird es auf der Erde sein, wenn Sie 50 sind?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\n\n\n\nCross-Section Box.2, Figure 1\n\n\n\nFigure SPM.5\n\n\nFigure SPM.1\n\n\n\nFigure 4.2\n\n\n\n\nWas bedeuten neuere politischen Meldung\nWas bedeutet die Pfadentwicklung für Bildungsarbeit\n\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Über…\nWas motiviert Sie die nachwachsende Generation auszubilden?\nMachen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias-Ordner hoch.\nWordcloud oder Notizen in Particify?\n\n\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-3-3\n\n\nResilience\nThe ability of an individual, a community, society or ecosystem to withstand, survive and adapt to the stress and shock waves of some dramatic, traumatic and often unanticipated event or development. The ability to rebuild is a mark of resilience. \nAdapted from Pike, G. and Selby, D. (2011)   In the Global Classroom  \n\n\nÜbung im Zweierteam\nIn welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?\nBerichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton*innen nicht zu privat ist.\nWas hat Ihnen dabei geholfen?\n\n\n\n.\nDiskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.\nNotieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.\n\n\nDimensions of Resilience\nThe Five Dimensions of Resilient Well-being\nBiological\nMaterial\nSocial (including Cultural)\n Cognitive (Knowing and Understanding)  \n Emotional \n  After Williamson, J. & Robinson, M. (2006). ’  Psychosocial programs or programs aimed at general well-being?  ’ \n\n\nVulnerability\n\nThe degree to which an individual, a community, a society or ecosystem is unable to cope with the stress and shock waves of some dramatic, traumatic and often unexpected event or development. \nAdapted from Pike ,G. & Selby, D. (2011).   In the Global Classroom  \n\n\nClimate Change Vulnerability\nThe degree to which a person, community or society or ecosystem is susceptible to and unable to cope with the threats, hazards, disasters, shocks and stresses brought about by dangerous climate change.   \nFeatures/measures of vulnerability: \nA sense of  defencelessness    \nPhysical breakdown \nCultural collapse \nEmotional or psychological injury or inability to cope \nBreakdown of social structures and social and environmental processes   \nInability to adapt \nAggression and conflict \n  Adapted from Pike, G. & Selby, D. (2011).   In the Global Classroom  \n\n\nClimate Change Resilience\nThe ability of a person, community or society or ecosystem to survive the threats, hazards, disasters, shocks and stresses brought about by climate change, and to rebuild itself in the aftermath. \nFeatures/measures of resilience: \nEmotional, psychological and cultural sturdiness \nThe  ability to remain positive and hopeful\nThe ability to adapt and transform \nThe rate and sturdiness of return to a stable condition. \nAdapted from  Pike,G . &  Selby,D . (2011).   In the Global Classroom  \n\n\nResilience vs. Vulnerability\nThe degree of resilience and vulnerability will depend upon the nature and size of the climate threat and the extent to which individuals, communities and societies have considered the future and, especially, readied themselves to handle shock and uncertainty.  “ ! \nAdapted from  Pike,G . &  Selby,D . (2011).   In the Global Classroom  \n\n\nPriorities for Action\n Five Priorities for Action in the Hyogo Framework for Action (HFA) 2005-2015: Building the Resilience of Nations and Communities to Disasters  \n Priority Action 1  : Ensure that disaster risk reduction is a national and a local priority with a strong institutional basis for implementation. \n Priority Action 2  : Identify, assess and monitor disaster risks and enhance early warning. \n Priority Action 3   : Use knowledge, innovation and education to build a culture of safety and resilience at all levels  \n Priority Action 4  : Reduce the underlying risk factors. \n Priority Action 5  : Strengthen disaster preparedness for effective response at all levels \n\n\nKlimawandelbildung\nNachhaltige Entwicklung\nKatastrophenprävention\nWerte, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten.\nWerte, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen, die den Klimawandel abschwächen.\nDurch Bildung Vulnarabilität von Communities reduzieren.\nHandlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.\n Fig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011 \n\n\nResilienzbildung\nKatastrophen-prävention\n Fig 4. Resilienzbildung \nResilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen. \n\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Über…\nWas motiviert Sie die nachwachsende Generation auszubilden?\nMachen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias-Ordner hoch.\nWordcloud oder Notizen in Particify?\n\n\nTag 2\n\n\nResilienzspurensuche\n\nSie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren suchen, d.h.\n\nalles was von akuteller oder vergangener Adaptionsleistung zeugt\nalles was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint\nwo sehen Sie vulnerable\n\nSie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotographieren und dokumentieren Sie die Spuren unmittelbar\n\n\n\nField Trip: Purposes\nTo gather information on local challenges in the face of climate change \nTo find out about local initiatives for climate change mitigation, adaptation, risk reduction and resilience building \nTo collect views on potential school/community climate change initiatives as well as data on any current initiatives. \n\n\nVorgaben\nZiel des Außerschulischen Lernortes soll es zunächst sein Ihren Kommiliton*innen den Bedarf oder das Potenzial für eine Klimaadaption zu vermitteln, um die Resilienz der Gesellschaft zu stärken.\nEs soll ein vulnerability Factor oder die Schnittmenge zwischen mehreren thematisiert werden.\nDer Lernort soll zunächst auf universitärem Niveau erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas zur Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.\n\n\n\nProjektskizze\nThema:\nWo:\nWie:\nZiel:\n\n\n\n\n©  Seifert Creative Commons CC0 1.0\n\n©  mbtrama Creative Commons Attribution 2.0 Generic\n\n©  Bienenfreund2018 Creative Commons Attribution-Share Alike 4.0 International\n\n\nZukunftsszenarien\n\n Fig 1    Zukunfsszenarien   _ in _   Abbhängikeit   _ von _   Emissionen   _ _   aus   : IPCC, 2023: Summary for Policymakers. Figure    SPM.1:(c)  \n\n\nKlimaangst junger Menschen\nDeutschland \n(14-17 Jahre)\n64 % Angst (37% große, 27% eher)\n15% kaum & keine Angst\n55% Angst vor der Zunahme von Extrenwetterereignissen\n10% vermuten, dass Depression durch den Klimawandel hervorgerufen wird\nSINUS-Studie 2022\nInternational\n(16-25 Jahre)\n84% besorgt (27% extrem, 32 % sehr, 25% moderat)\n61.8% Angst\n82.6% Menschen haben versagt den Planeten zu schützen\n39.1% zögert eigene Kinder zu haben\nHickman et al. 2021\n\n\nKlimaangst\nKlimaangst ist eine „erhöhte emotionale, mentale oder somatische Belastung als Reaktion auf gefährliche Veränderungen im Klimasystem“ (Climate Psychology Alliance 2020: 22)\nKlimaangst ist eine gesunde Reaktion auf den Klimawandel, im Gegensatz zu Apathie und Verleugnung\nKlimaangst Symptome wie Panikattacken, Schlaflosigkeit, Grübeln beinhalten.\nKlimaangst kann zu Angststören, Suchtkrankeiten und Depression führen\nAnhaltene psychische Probleme während der Jugend können lebenslange Auswirkungen haben\n(Wu et al. 2020, Dodds 2021)\n\n\nDie Zeit läuft aus…\n\n Fig 2.    Entwicklung   _ der _   Emissionen   _ _   aus   : IPCC, 2023: Summary for Policymakers. Figure 2.5 \n„Ich glaube, dass es auch wichtig ist, dass wir gesellschaftlich anerkennen, dass nicht ein paar Kinder und Jugendliche das Problem für uns lösen werden.“\nPauline Brünger (Fridays for Future)\nTagesschau 08.08.2023\n\n\nExterne Abbildungen und Bilder\n\nBild Ahrtal:\n\nhttps://commons.wikimedia.org/wiki/File:Hochwasser_in_Altenahr_Altenburg.jpg\n\nBild Feuer:\n\nhttps://commons.wikimedia.org/wiki/File:Station_Fire_over_La_Ca%C3%B1ada_Flintridge.jpg\n\nBild Borkenkäfer\n\nhttps://commons.wikimedia.org/wiki/File:Tote_B%C3%A4ume_im_Harz._Der_Borkenk%C3%A4fer_ist_aktiv.jpg\n\nIPCC Fig 1.(c)\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-2-5\n\nIPCC Fig 2.5\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\n\n\n\n\nLiteratur\nBaudon & Jachens 2021. A scoping Review of Interventions for Treatment of Eco-Anxiety. Int. J. Environ. Res. Public Health 2021, 18(18), 9636; https://doi.org/10.3390/ijerph18189636.\nClimate Psychology Alliance 2020. The Handbook of Climate Psychology.\nDeeb, A. Et al. 2011. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners. UNEP.\nDodds 2021. The psychology of climate anxiety. BJPsych Bulletin, 45(4), 222-226.\nDGfG 2020. Bildungsstandards für den mittleren Schulabschluss. Bonn.\nHickmann, C.et al. 2021. Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey. The Lancet Planetary Health 5(12), p.863 – 873.\nIPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001\nOjala, M., Cunsolo, A., Ogunbode, C. A., & Middleton, J. 2021. Anxiety, worry, and grief in a time of environmental and climate crisis: A narrative review. Annual review of environment and resources, 46, 35-58.\nSinus-Jugendforschung 2022. Ergebnisse einer Repräsentativ-Umfrage unter Jugendlichen 2022/2023. Heidelberg. https://www.sinus-institut.de/media-center/studien/barmer-jugendstudie-2022-23\nTaylor 2020. Anxiety disorders, climate change, and the challenges ahead: Introduction to the special issue. Journal of Anxiety Disorders, 47, 102313, https://doi.org/10.1016/j.janxdis.2020.102313.\nTageschau am 08.08.2023. https://www.tagesschau.de/inland/gesellschaft/fridays-for-future-246.html.\nWu, Snell, Samji 2020. Climate anxiety in young people: a call to action. The Lancet Planetary Health, 4(10).\n\n\nGeographische Resilienzbildung\nGeographische Konzepte sind grundlegend für die Bewertung der Resilienz eines Ortes\nGeographische Analysen ermöglichen eine Gefahrenbeurteilung\nGeographische Kompetenz hilft die Resilienz eines Raumes zu stärken indem Handlungsoptionen für die Stärkerung humaner und physischer Systeme erarbeitet werden können\n\n\nCommunity Resilienz\nSoziale, natürliche und bauliche Infrasturktur sind entscheidene Größen\nMaßstab und Zeit sind fundamentale Konzepte um die Resilienz einer Community zu bewerten\nÖkologische Reszilienz ist bedingt durch Biodiversiät, response diversity, spatiality und Mangamentkonzepte\nSoziale Resilienz ist bedingt durch die Vernetzung der Akteuere, soziale Kohäsion, Kommunikation, Risikobewusstsein und Vorbereitung (preparedness). Sie ist besser bei höhrer Resilienz ihrer Individuen\nResilienz der Infrastruktur ist erhört je unabhängiger die einzelnen Bestandteile sind\nLändliche Räume zeigen sich meist resilienter als Großstädte\n\n\nGeographische Resilienzbildung\nThematisierung von Ängsten bezüglicher globaler Entwicklung\nFokussierung der eigenen Wirksamkeit innerhalb globaler Entwicklungen\nFokus auf Adaption (höhrere Selbstwirksamkeit und direkter Umgang mit Ängsten)\nFokus auf Places anstatt das Individium (Wie kann einem Raum bei der Adaption geholfen werden? Was kann kein Raum zu Mitigation beitragen?)\nFokus auf lokale und regionale Prozesse\nAktive Arbreit mit lokalen Akteuren\n\n\nResilienzbildung für eine resiliente Gesellschaft\naktiver Umgang mit Zukunft\nBildung für Klimaresilienz\nresilienten Individuen\nResilienten Community"
+  },
+  {
+    "objectID": "slides/Tag1.html",
+    "href": "slides/Tag1.html",
+    "title": "Außerschulische Lernorte",
+    "section": "",
+    "text": "Außerschulische Lernorte\nRieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach\nSommersemester 2024\n\nHerzlich Willkommen\nKurs besteht aus:\n• drei Blocktagen\n• Semesterbegleitender Veranstaltung\nSemesterbegleitende Veranstaltung:\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)\n2\n\nStudien- und Prüfungsleistung\nStudienleistung:\n• Entwicklung und Durchführung eines\nAußerschulischen Lernorts für Ihre Kommiliton*innen\n(1,5 Stunden) in Dreiergruppen\n• Exkursionstagebuch, das Sie während der anderen\nExkursionen führen\nPrüfungsleistung:\n• Anpassung des Konzeptes für die Schule\n• Bündige Darstellung, die Veröffentlichung auf\nHomepage erlaubt\n3\n\nDie Blocktag\nHörsaal, draußen, Seminarräume\ne\nBlocktag 1\nBlocktag 2\nZeiten\nZeiten\nBlocktag 3\nZeiten\n9:30 –\n9:45\n15‘\n9:30 –\n9:45\n15‘\n90‘\nOrga II\nOrga I\n10:00\n–\n11:00\nA\nA\nPräsentationen\nder Ideen\n60\n9:45 –\n11:15\n9:45 –\n11:15\n‘\ninteraktive\nEinführung\nResilienz-\nSpurensuche\n90‘\n11:00\n–\n14:30\n1\n5\n0\n‘\nFreie Arbeit und\nBeratung\n11:30 –\n13:00\n11:30 –\n13:00\nReflektion der\neigenen Position\nSammlung und\nBesprechung\n90‘\n90‘\n2\n0\n30‘\n14:30\nTerminabsprachen\nund Orga\nÜbung\nAustausch und\nIdeenskizzen\n14:00 –\n16:30\n14:00 –\n16:30\n1\n2\n0\n‘\n15:30\n–\n16: 30\n120\n120‘\nInput\nSprechstunden\nReflexion bis 24:00 Uhr\nabgeben\nIdeenskizze bis 24:00 Uhr\nabgeben\nExposé bis 24:00 Uhr\nabgeben\n\nInteraktive Einführung: Zukunftsvisionen\nVersuchen Sie die Zukunft zu visualisieren. Welche Bilder und\nVorstellungen haben Sie? Überlegen und zeichnen Sie\nzunächst alleine ohne sich mit anderen auszutauschen. Sie sind\nfrei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die\nkünstlerische oder handwerkliche Umsetzung ist dabei nicht\nwesentlich.\nSie haben 15 Minuten Zeit.\n5\n\nZukunftsvisionen\nTauschen Sie sich nun mit Ihren Sitznachbar*innen, und den\nKommiliton*innen, die hinter ihnen bzw. vor ihnen sitzen aus,\nsodass Sie ein Sechserteam bilden. Erklären Sie sich\ngegenseitig was auf Ihren Bildern zu sehen ist.\n• Welche Gemeinsamkeiten stellen Sie fest?\n• Welche Unterschiede bestehen?\n• Spiegelt sich der Einfluss des Klimawandels in den Bildern\nwider? Wenn ja wie? Wenn nein, warum nicht?\n6\n\nÜbersicht über die Szenarien\nMelden Sie sich bitte bei Partifiy an!\n7\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus\nwissenschaftlicher Sicht in Zweierteams.\n• https://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\n• Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?\n• Was können Gründe dafür sein, dass sich die Erde in den\noberen drei Szenarien nach 2100 weiter erwärmt?\n• Was bedeutet die Prozentzahl in Klammern in Sektion b)?\n• Was bedeuten die flächigen Einfärbungen in den Graphen?\n8\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus\nwissenschaftlicher Sicht in Zweierteams.\n• https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\n• Welche Szenarien finden Sie in der Abbildung wieder?\n• Was bedeuten die flächigen Einfärbungen in den Graphen?\n• Haben die implementierten politischen Vorgaben in der\njüngeren Vergangenheit die modellierte Wirkung erzielt?\n• Was bedeutet der Blick in die jüngere Vergangenheit für unsere\nModellannahmen in der Zukunft?\n9\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus\nwissenschaftlicher Sicht in Zweierteams.\n• https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\n• Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?\n• Wie warm wird es auf der Erde sein, wenn Sie 50 sind?\n• Was können Gründe dafür sein, dass sich die Erde in den\noberen drei Szenarien nach 2100 weiter erwärmt?\n10\n\nCross-\nSection\nBox.2,\nFigure 1\n\nFigure SPM.5\n\nFigure SPM.1\n13\n\nFigure 4.2\n14\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was\ndie globale Erderwärmung und die damit verbundenen\nunsicheren Zukunftsaussichten für Sie als werdende\nErdkundelehrkraft bedeuten.\n• Welche Werte und Kompetenzen, wollen Sie im Kontext\nder globalen Erderwärmung vermitteln?\n• Welche Bedeutung hat die BNE für Ihre Überzeugung als\nErdkundelehrkraft zu arbeiten?\n• Was motiviert Sie die neue Generationen auszubilden?\nWordcloud oder Notizen in Particify?\n15\n\nResilienz\nDie Fähigkeit eines Individuums, einer Gemeinschaft, einer\nGesellschaft oder eines Ökosystems, den Stress- und\nSchockwellen eines dramatischen, traumatischen und oft\nunvorhergesehenen Ereignisses oder einer Entwicklung\nstandzuhalten, zu überleben und sich an sie anzupassen. Die\nFähigkeit zum Wiederaufbau ist ein Zeichen der\nWiderstandsfähigkeit.\nAdapted from Pike, G. and Selby, D. (2011) In the Global Classroom\n16\n\nÜbung im Zweierteam\nIn welcher Situationen sind Sie herausfordernd aus Ihren\nRoutinen geraten und haben sich wieder stabilisiert?\n• Berichten Sie von einer Situation, die Ihnen im Gespräch mit\nIhren Kommiliton*innen nicht zu privat ist.\n• Was hat Ihnen dabei geholfen?\n17\n\nPersönliche und gesellschaftliche\nResilienz\n.\n• Diskutieren Sie nun welche Faktoren, die zur persönlichen\nResilienz beitragen auch zu gesellschaftlichen Resilienz\nbeitragen.\n• Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei\nParticify.\n18\n\nResilienzdimensionen\n• Biologisch\n• Materiell\n• Sozial (einschließlich Kultur)\n• Kognitiv (Wissen und Verstehen)\n• Emotional\nAfter Williamson, J. & Robinson, M. (2006). ’Psychosocial programs or programs aimed at general\nwell-being?’\n19\n\nVulnerabilität\nDas Ausmaß, in dem ein Individuum, eine\nGemeinschaft, eine Gesellschaft oder ein\nÖkosystem nicht in der Lage ist, mit den Stress-\nund Schockwellen eines dramatischen,\ntraumatischen und oft unerwarteten Ereignisses\noder einer unerwarteten Entwicklung umzugehen.\nAdapted from Pike ,G. & Selby, D. (2011). In\nthe Global Classroom\n20\n\nKlimawandelvulnerabilität\nDas Ausmaß, in dem eine Person, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem anfällig für die\nBedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen ist, die durch den Klimawandel\nverursacht werden, und nicht in der Lage ist, damit umzugehen. Merkmale der Gefährdung:\n• Ein Gefühl der Wehrlosigkeit\n• Körperlicher Zusammenbruch\n• Kultureller Zusammenbruch\n• Emotionale oder psychische Verletzung bzw. mangelnde Fähigkeit zum Coping\n• Zusammenbruch sozialer Strukturen und sozialer und ökologischer Prozesse\n• Unfähigkeit zur Adaption\n• Aggression und Konflikt\nAdapted from Pike, G. & Selby, D. (2011). In the Global Classroom\n21\n\nKlimawandelresilienz\nDie Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den\nKlimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu\nüberleben und sich danach wieder aufzubauen. Merkmale der Resilienz:\n• Emotionale, psychologische und kulturelle Stabilität\n• Die Fähigkeit, positiv und hoffnungsvoll zu bleiben\n• Die Fähigkeit zur Anpassung und Transformation\n• Die Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.\nAdapted from Pike,G. & Selby,D. (2011). In the Global Classroom\n22\n\nResilienz vs. Vulnerabilität\nDer Grad der Resilienz und Vulnerabilität wird von der Art und dem Ausmaß der Klimabedrohung und dem\nAusmaß abhängen, in dem Einzelpersonen, Gemeinschaften und Gesellschaften über die Zukunft nachgedacht\nund sich insbesondere auf den Umgang mit Schock und Unsicherheit vorbereitet haben.\n“!\nAdapted from Pike,G. & Selby,D. (2011). In the Global Classroom\n23\n\nInstitutionalisierung der Resilienz\nFünf Handlungsprioritäten im Hyogo Framework for Action\n(HFA) Hyogo-Aktionsrahmen (HFA) 2005–2015: Aufbau der\nWiderstandsfähigkeit von Nationen und Gemeinschaften\ngegenüber Katastrophen\n• Die Reduzierung des Katastrophenrisikos zur nationalen und\nlokalen Priorität mit einer starken institutionellen Grundlage für\ndie Umsetzung machen.\n• Katastrophenrisiken identifizieren, bewerten und überwachen\nund Frühwarnung verbessern.\n• Wissen, Innovation und Bildung auf allen Ebenen nutzen,\num eine Kultur der Sicherheit und Widerstandsfähigkeit\naufzubauen.\n• Zugrunde liegenden Risikofaktoren reduzieren.\n• Stärkung der Katastrophenvorsorge für eine wirksame\nReaktion auf allen Ebenen.\n24\n\nKlimawandelbildung\nBildung für…\nNachhaltige\nEntwicklung\nKatastrophen\nMitigation\nAdaption\nprävention\nWerte,\nWerte,\nWissen und\nFähigkeiten\num eine\nfriedliche und\nnachhaltige\nWelt zu\nWissen und\nFähigkeiten\ndie helfen\nEntscheidung\nen zu treffen,\ndie den\nHandlungs-\nfähigkeit für\nNatur-\nkatsrophen\npräventiv\nausbilden.\nDurch Bildung\nVulnarabilität\nvon\nCommunities\nreduzieren.\nKlimawandel\nabschwächen.\ngestalten.\nFig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011\n25\n\nResilienzbildung\nResilienz\nKatastrophen-\nAdaption\nprävention\nFig 4. Resilienzbildung\nResilienzbildung soll die Individuen unterstützen resilient auf\ndurch den Klimawandel bedingte Herausforderungen zu\nreagieren und zu einer resilienten Gesellschaft beitragen.\n26\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was\ndie globale Erderwärmung und die damit verbundenen\nunsicheren Zukunftsaussichten für Sie als werdende\nErdkundelehrkraft bedeuten.\n• Welche Werte und Kompetenzen, wollen Sie im Kontext\nder globalen Erderwärmung vermitteln?\n• Welche Bedeutung hat die BNE für Ihre Überzeugung als\nErdkundelehrkraft zu arbeiten?\n• Was motiviert Sie die neue Generationen auszubilden?\nFormulieren Sie Ihre Notizen aus und laden Sie die\nAntworten bis Mitternacht im Ilias-Ordner hoch.\n27"
+  },
+  {
+    "objectID": "slides/aslo2024-tt.html",
+    "href": "slides/aslo2024-tt.html",
+    "title": "Außerschulische Lernorte",
+    "section": "",
+    "text": "Blocktag 3\nBlocktag 1\nBlocktag 2\nZeiten\nZeiten\n9:30 –\n9:45\n15‘\n90‘\nOrga I\n9:30 –\n9:45\n15‘\n90‘\nOrga II\n9:30 –\n10:30\n60\n‘\nPräsentationen der\nIdeen\nA\nA\n9:45 –\n11:15\n9:45 –\n11:15\nZukunft zeichnen\nFinde jemanden,\nder..\nExkursion\n11:00 –\n14:30\nArbeitsphase A\nIPPC\nArbeitsphase B\nArbeitsphase A\nArbeitsphase B\n1\n5\n0‘\n11:30 –\n13:00\n11:30 –\n13:00\nÜbung Outdoor\neducation\nReflektion Erbe\n90‘\n90‘\n0‘\n3\n0\nTerminabsprachen\nund Orga\n14:30\nClimate Change\nEducation\n‘\n14:00 –\n16:30\n14:00 –\n16:30\n15:30\n–\n16: 30\n120\nSprechstunden mit vorheriger\nAnmeldung\n120‘\nResilienz - Übung\n1\n2\n0‘\nAsLo – austausch\nBrainstroming Aslo\nAslo -Ideenskizze\n\nKlimawandelbildung\nBildung für…\nNachhaltige\nEntwicklung\nKatastrophenpr\nävention\nMitigation\nAdaption\nWerte, Wissen\nund\nFähigkeiten die\nhelfen\nEntscheidunge\nn zu treffen, die\nden\nWerte, Wissen\nund\nFähigkeiten um\neine friedliche\nund\nHandlungs-\nfähigkeit für\nNatur-\nkatsrophen\npräventiv\nausbilden.\nDurch Bildung\nVulnarabilität\nvon\nCommunities\nreduzieren.\nnachhaltige\nWelt zu\ngestalten.\nKlimawandel\nabschwächen.\nFig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011\n2\n\nResilienzbildung\nResilienz\nKatastrophen-\nprävention\nAdaption\nFig 4. Resilienzbildung\nResilienzbildung soll die Individuen unterstützen resilient auf durch\nden Klimawandel bedingte Herausforderungen zu reagieren und zu\neiner resilienten Gesellschaft beitragen.\n3\n\nDimensions of Disaster Risk Reduction Education\nS.27\n\nVulnerability Factors\n• S. 23\n\nLernort der:\nPhysisch\nUmwelt\nSozial\nwirtschaftlich\nGrundlagen für\nklimabedingte lokale\nRisiken vermittelt\nSicherheitsmaßnahmen\ntrainiert\nFaktoren die zu\nKatastrophen führen\nadressiert\nEinen\ngemeinschaftlichen\nkonstruktiven\nUmgang mit Risiken\nbewirkt\n\nBlock 1 - Einstieg und Sensiblisierung\n• Zukunft zeichen\n• Finde jemanden, der… (im\nRaum ereben)\n• IPPC Abbildungen\nintrepretieren, z.B.\n\nBlock 2 – Reflektion persönlicher und\nprofessioneller Relevanz\nheute\n2050\nErbe vorherige\nGenerationen gut\nErbe vorheriger\nGenerationen schlecht\nErbe vorherige\nGenerationen gut\nErbe vorheriger\nGenerationen schlecht\n\nBlock 2 – Outdoor Education Übung\n• Gruppenarbeit mit anschließender Vorstellung\nGedanken bzgl. ältere Generation\nGedanken bzgl. jüngerer Generation\nBedeutung fürs professionelle Arbeiten\nBedeutung fürs persönliche Leben\n\nBlock 3 Reslienz\n• Kurzer Input\n• Lineal zurückschnappen lassen\n• 2 er Übung –\n• wann ist man selbst „bounced back“\n• was hat dazu beigetragen\n• Übertrage Gruppe oder Gesellschaft?\n• Jeweils 2 2er Gruppen (4)\n• Kurzer Input…\n\n\n\nLernort der:\nPhysisch\nUmwelt\nSozial\nwirtschaftlich\nGrundlagen für\nklimabedingte lokale\nRisiken vermittelt\nSicherheitsmaßnahmen\ntrainiert\nFaktoren die zu\nKatastrophen führen\nadressiert\nEinen\ngemeinschaftlichen\nkonstruktiven\nUmgang mit Risiken\nbewirkt\n\n2. Ta g Block 1\n• Bildungsstandards durchsuchen\n– welche Bildungsziele draußen?\n• Also wozu (clustern) und wie/\nwelche Methoden (clustern)\n• Outdoor education, vlt clustern\nzu: cognitive, motorisch, affektiv,\nsozial\n\nBlock 2 Orientierungsübung im Gelände\n• Standortbestimmung und Enten??\n• Klassische Rally, eingezeichnet auf Karte und mit Kompass?\n\nBlock 3\n• Rückbesinnung auf Ideen: Was weiterentwickeln?\n\n\nTa g 1\n•\n•\n•\n•\n•\nKurze Orga\nBild malen (40 Minuten) (am Ende wiederholen)\nFinde jemanden der… (20 Minuten) S. 318\nClimate Change – was erwartet uns (20 Minuten (mit Rückfragen und Diskussion)) oder Abbildungen von der ICCP reingeben\nReflektion Inherentence –aber kein Brief sondern [Gefühle gegenüber älteren Generationen, Gefühle gegenüber jüngeren Generationen, Perspektive fürs eigene Leben, Perspektive für die Vorbereitung der jüngeren\nGeneration] – oder Brief an jemanden vor 25 Jahren und jemanden in 25 Jahren (60 Minuten) (am Ende wiederholen)\n•\n•\n•\n•\n•\nPause\nClimate Change Education mit Blitzlicht zum Bildungsauftrag (10 Minuten) oder insgesamt 45 Minuten Vortrag mit interaktiven Elementen\nMitigation and Adapation\nDestaster Prevention\nVulnerability and Resilience\n•\n•\n•\n•\n•\n•\n•\nPause\n[Adaption oder Mititgation]\nResilience – Individual – Community\nKurzvortrag zu Resilience Abbildungen von Folie 5 und 6\n[Gruppentische zu verschiedenen Konzepten (Communty Monitoring, ]\nPuzzel der Beispiele und Ebenen (den Dimensionen von 4 und 5 zu ordnen) oder noch mal auf Bedrohungen durch Erderwärmung eingehen\nBrainsstorming AsLo (themen) (zu Dimensionen aus 4 und 5 auf Kärtchen)\n\n\nTa g 2\n• Der Außerschulische Lernort (Vortrag?)\n• Räumliche Orientierung\n• Feldmethoden\n• Pause\n• Digiatle Tools (phillip)\n\nTa g 3"
+  },
+  {
+    "objectID": "slides/out.html",
+    "href": "slides/out.html",
+    "title": "Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach",
+    "section": "",
+    "text": "Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach\nSommersemester 2024\n\n\nHerzlich Willkommen\n Kurs besteht aus:\n\ndrei Blocktagen\nSemesterbegleitende Veranstaltung:\n\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)\n\n\n\nStudien- und Prüfungsleistung\nStudienleistung:\nEntwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton*innen (1,5 Stunden) in Dreiergruppen\nExkursionstagebuch, das Sie während der anderen Exkursionen führen\nPrüfungsleistung:\nAnpassung des Konzeptes für die Schule\nBündige Darstellung, die Veröffentlichung auf Homepage erlaubt\n\n\nAbfrage Terminlichen Präferenzen\nMelden Sie sich bitte bei Particify an!\n\n\nThematischer Schwerpunkt: Resilient in die Zukunft\n\n\nDie Blocktage\n Hörsaal  ,  draußen  ,  Seminarräume \nPräsentationen der Ideen\nFreie Arbeit und Bearbeitung\nResilienz-Spurensuche\ninteraktive Einführung\nSammlung und Besprechung\nReflektion der eigenen Position\nTerminabsprachen und Orga\nAustausch und Ideenskizzen\nReflexion bis 24:00 Uhr abgeben\nIdeenskizze bis 24:00 Uhr abgeben\nExposé bis 24:00 Uhr abgeben\n\n\nInteraktive Einführung: Zukunftsvisionen\nVersuchen Sie die Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen. Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich.\nSie haben 15 Minuten Zeit.\n\n\nZukunftsvisionen\nTauschen Sie sich nun mit Ihren Sitznachbar*innen, und den Kommiliton*innen, die hinter ihnen bzw. vor ihnen sitzen aus, sodass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.\nWelche Gemeinsamkeiten stellen Sie fest?\nWelche Unterschiede bestehen?\nSpiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?\n\n\nÜbersicht über die Szenarien\n\nMelden Sie sich bitte bei Partifiy an!\n\n\nDer Klimawandel – Einstellungen und Perspektiven\nFür die nächste Übung gehen Sie bitte raus. Wir treffen uns in 5 Minuten vor den Tugenden\n\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\nWas bedeutet die Prozentzahl in Klammern in Sektion b)?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\nWelche Szenarien finden Sie in der Abbildung wieder?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nHaben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?\nWas bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\nhttps://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\nWenn Sie die Informationen aus den drei Abbildungen kombinieren welche Prognose treffen Sie für die Temperatur, wenn Sie 50 Jahre alt sind?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWie warm wird es auf der Erde sein, wenn Sie 50 sind?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\n\n\n\nCross-Section Box.2, Figure 1\n\n\n\nFigure SPM.5\n\n\nFigure SPM.1\n\n\n\nFigure 4.2\n\n\n\n\nWas bedeuten neuere politischen Meldung\nWas bedeutet die Pfadentwicklung für Bildungsarbeit\n\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Über…\nWas motiviert Sie die nachwachsende Generation auszubilden?\nMachen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias-Ordner hoch.\nWordcloud oder Notizen in Particify?\n\n\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-3-3\n\n\nResilience\nThe ability of an individual, a community, society or ecosystem to withstand, survive and adapt to the stress and shock waves of some dramatic, traumatic and often unanticipated event or development. The ability to rebuild is a mark of resilience. \nAdapted from Pike, G. and Selby, D. (2011)   In the Global Classroom  \n\n\nÜbung im Zweierteam\nIn welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?\nBerichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton*innen nicht zu privat ist.\nWas hat Ihnen dabei geholfen?\n\n\n\n.\nDiskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.\nNotieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.\n\n\nDimensions of Resilience\nThe Five Dimensions of Resilient Well-being\nBiological\nMaterial\nSocial (including Cultural)\n Cognitive (Knowing and Understanding)  \n Emotional \n  After Williamson, J. & Robinson, M. (2006). ’  Psychosocial programs or programs aimed at general well-being?  ’ \n\n\nVulnerability\n\nThe degree to which an individual, a community, a society or ecosystem is unable to cope with the stress and shock waves of some dramatic, traumatic and often unexpected event or development. \nAdapted from Pike ,G. & Selby, D. (2011).   In the Global Classroom  \n\n\nClimate Change Vulnerability\nThe degree to which a person, community or society or ecosystem is susceptible to and unable to cope with the threats, hazards, disasters, shocks and stresses brought about by dangerous climate change.   \nFeatures/measures of vulnerability: \nA sense of  defencelessness    \nPhysical breakdown \nCultural collapse \nEmotional or psychological injury or inability to cope \nBreakdown of social structures and social and environmental processes   \nInability to adapt \nAggression and conflict \n  Adapted from Pike, G. & Selby, D. (2011).   In the Global Classroom  \n\n\nClimate Change Resilience\nThe ability of a person, community or society or ecosystem to survive the threats, hazards, disasters, shocks and stresses brought about by climate change, and to rebuild itself in the aftermath. \nFeatures/measures of resilience: \nEmotional, psychological and cultural sturdiness \nThe  ability to remain positive and hopeful\nThe ability to adapt and transform \nThe rate and sturdiness of return to a stable condition. \nAdapted from  Pike,G . &  Selby,D . (2011).   In the Global Classroom  \n\n\nResilience vs. Vulnerability\nThe degree of resilience and vulnerability will depend upon the nature and size of the climate threat and the extent to which individuals, communities and societies have considered the future and, especially, readied themselves to handle shock and uncertainty.  “ ! \nAdapted from  Pike,G . &  Selby,D . (2011).   In the Global Classroom  \n\n\nPriorities for Action\n Five Priorities for Action in the Hyogo Framework for Action (HFA) 2005-2015: Building the Resilience of Nations and Communities to Disasters  \n Priority Action 1  : Ensure that disaster risk reduction is a national and a local priority with a strong institutional basis for implementation. \n Priority Action 2  : Identify, assess and monitor disaster risks and enhance early warning. \n Priority Action 3   : Use knowledge, innovation and education to build a culture of safety and resilience at all levels  \n Priority Action 4  : Reduce the underlying risk factors. \n Priority Action 5  : Strengthen disaster preparedness for effective response at all levels \n\n\nKlimawandelbildung\nNachhaltige Entwicklung\nKatastrophenprävention\nWerte, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten.\nWerte, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen, die den Klimawandel abschwächen.\nDurch Bildung Vulnarabilität von Communities reduzieren.\nHandlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.\n Fig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011 \n\n\nResilienzbildung\nKatastrophen-prävention\n Fig 4. Resilienzbildung \nResilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen. \n\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Über…\nWas motiviert Sie die nachwachsende Generation auszubilden?\nMachen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias-Ordner hoch.\nWordcloud oder Notizen in Particify?\n\n\nTag 2\n\n\nResilienzspurensuche\n\nSie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren suchen, d.h.\n\nalles was von akuteller oder vergangener Adaptionsleistung zeugt\nalles was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint\nwo sehen Sie vulnerable\n\nSie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotographieren und dokumentieren Sie die Spuren unmittelbar\n\n\n\nField Trip: Purposes\nTo gather information on local challenges in the face of climate change \nTo find out about local initiatives for climate change mitigation, adaptation, risk reduction and resilience building \nTo collect views on potential school/community climate change initiatives as well as data on any current initiatives. \n\n\nVorgaben\nZiel des Außerschulischen Lernortes soll es zunächst sein Ihren Kommiliton*innen den Bedarf oder das Potenzial für eine Klimaadaption zu vermitteln, um die Resilienz der Gesellschaft zu stärken.\nEs soll ein vulnerability Factor oder die Schnittmenge zwischen mehreren thematisiert werden.\nDer Lernort soll zunächst auf universitärem Niveau erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas zur Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.\n\n\n\nProjektskizze\nThema:\nWo:\nWie:\nZiel:\n\n\n\n\n©  Seifert Creative Commons CC0 1.0\n\n©  mbtrama Creative Commons Attribution 2.0 Generic\n\n©  Bienenfreund2018 Creative Commons Attribution-Share Alike 4.0 International\n\n\nZukunftsszenarien\n\n Fig 1    Zukunfsszenarien   _ in _   Abbhängikeit   _ von _   Emissionen   _ _   aus   : IPCC, 2023: Summary for Policymakers. Figure    SPM.1:(c)  \n\n\nKlimaangst junger Menschen\nDeutschland \n(14-17 Jahre)\n64 % Angst (37% große, 27% eher)\n15% kaum & keine Angst\n55% Angst vor der Zunahme von Extrenwetterereignissen\n10% vermuten, dass Depression durch den Klimawandel hervorgerufen wird\nSINUS-Studie 2022\nInternational\n(16-25 Jahre)\n84% besorgt (27% extrem, 32 % sehr, 25% moderat)\n61.8% Angst\n82.6% Menschen haben versagt den Planeten zu schützen\n39.1% zögert eigene Kinder zu haben\nHickman et al. 2021\n\n\nKlimaangst\nKlimaangst ist eine „erhöhte emotionale, mentale oder somatische Belastung als Reaktion auf gefährliche Veränderungen im Klimasystem“ (Climate Psychology Alliance 2020: 22)\nKlimaangst ist eine gesunde Reaktion auf den Klimawandel, im Gegensatz zu Apathie und Verleugnung\nKlimaangst Symptome wie Panikattacken, Schlaflosigkeit, Grübeln beinhalten.\nKlimaangst kann zu Angststören, Suchtkrankeiten und Depression führen\nAnhaltene psychische Probleme während der Jugend können lebenslange Auswirkungen haben\n(Wu et al. 2020, Dodds 2021)\n\n\nDie Zeit läuft aus…\n\n Fig 2.    Entwicklung   _ der _   Emissionen   _ _   aus   : IPCC, 2023: Summary for Policymakers. Figure 2.5 \n„Ich glaube, dass es auch wichtig ist, dass wir gesellschaftlich anerkennen, dass nicht ein paar Kinder und Jugendliche das Problem für uns lösen werden.“\nPauline Brünger (Fridays for Future)\nTagesschau 08.08.2023\n\n\nExterne Abbildungen und Bilder\n\nBild Ahrtal:\n\nhttps://commons.wikimedia.org/wiki/File:Hochwasser_in_Altenahr_Altenburg.jpg\n\nBild Feuer:\n\nhttps://commons.wikimedia.org/wiki/File:Station_Fire_over_La_Ca%C3%B1ada_Flintridge.jpg\n\nBild Borkenkäfer\n\nhttps://commons.wikimedia.org/wiki/File:Tote_B%C3%A4ume_im_Harz._Der_Borkenk%C3%A4fer_ist_aktiv.jpg\n\nIPCC Fig 1.(c)\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-2-5\n\nIPCC Fig 2.5\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\n\n\n\n\nLiteratur\nBaudon & Jachens 2021. A scoping Review of Interventions for Treatment of Eco-Anxiety. Int. J. Environ. Res. Public Health 2021, 18(18), 9636; https://doi.org/10.3390/ijerph18189636.\nClimate Psychology Alliance 2020. The Handbook of Climate Psychology.\nDeeb, A. Et al. 2011. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners. UNEP.\nDodds 2021. The psychology of climate anxiety. BJPsych Bulletin, 45(4), 222-226.\nDGfG 2020. Bildungsstandards für den mittleren Schulabschluss. Bonn.\nHickmann, C.et al. 2021. Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey. The Lancet Planetary Health 5(12), p.863 – 873.\nIPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001\nOjala, M., Cunsolo, A., Ogunbode, C. A., & Middleton, J. 2021. Anxiety, worry, and grief in a time of environmental and climate crisis: A narrative review. Annual review of environment and resources, 46, 35-58.\nSinus-Jugendforschung 2022. Ergebnisse einer Repräsentativ-Umfrage unter Jugendlichen 2022/2023. Heidelberg. https://www.sinus-institut.de/media-center/studien/barmer-jugendstudie-2022-23\nTaylor 2020. Anxiety disorders, climate change, and the challenges ahead: Introduction to the special issue. Journal of Anxiety Disorders, 47, 102313, https://doi.org/10.1016/j.janxdis.2020.102313.\nTageschau am 08.08.2023. https://www.tagesschau.de/inland/gesellschaft/fridays-for-future-246.html.\nWu, Snell, Samji 2020. Climate anxiety in young people: a call to action. The Lancet Planetary Health, 4(10).\n\n\nGeographische Resilienzbildung\nGeographische Konzepte sind grundlegend für die Bewertung der Resilienz eines Ortes\nGeographische Analysen ermöglichen eine Gefahrenbeurteilung\nGeographische Kompetenz hilft die Resilienz eines Raumes zu stärken indem Handlungsoptionen für die Stärkerung humaner und physischer Systeme erarbeitet werden können\n\n\nCommunity Resilienz\nSoziale, natürliche und bauliche Infrasturktur sind entscheidene Größen\nMaßstab und Zeit sind fundamentale Konzepte um die Resilienz einer Community zu bewerten\nÖkologische Reszilienz ist bedingt durch Biodiversiät, response diversity, spatiality und Mangamentkonzepte\nSoziale Resilienz ist bedingt durch die Vernetzung der Akteuere, soziale Kohäsion, Kommunikation, Risikobewusstsein und Vorbereitung (preparedness). Sie ist besser bei höhrer Resilienz ihrer Individuen\nResilienz der Infrastruktur ist erhört je unabhängiger die einzelnen Bestandteile sind\nLändliche Räume zeigen sich meist resilienter als Großstädte\n\n\nGeographische Resilienzbildung\nThematisierung von Ängsten bezüglicher globaler Entwicklung\nFokussierung der eigenen Wirksamkeit innerhalb globaler Entwicklungen\nFokus auf Adaption (höhrere Selbstwirksamkeit und direkter Umgang mit Ängsten)\nFokus auf Places anstatt das Individium (Wie kann einem Raum bei der Adaption geholfen werden? Was kann kein Raum zu Mitigation beitragen?)\nFokus auf lokale und regionale Prozesse\nAktive Arbreit mit lokalen Akteuren\n\n\nResilienzbildung für eine resiliente Gesellschaft\naktiver Umgang mit Zukunft\nBildung für Klimaresilienz\nresilienten Individuen\nResilienten Community"
   },
   {
     "objectID": "slides/slide1.html#header-12",
@@ -207,21 +396,21 @@
     "href": "slides/slidelist.html",
     "title": "Presentations",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSlides and extensions\n\n\ngisma team\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nRieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach\n\n\n\n\n\n\n\nSlides and extensions\n\n\ngisma team\n\n\n\n\nundefined\n\n\n\n\n\n\n\nundefined\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "unit01/unit01-02.html",
-    "href": "unit01/unit01-02.html",
-    "title": "Anwendungsbeispiele",
+    "objectID": "unit01/unit01-03.html",
+    "href": "unit01/unit01-03.html",
+    "title": "Zuḱunftsvisionen",
     "section": "",
-    "text": "This is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
+    "text": "Meine Vision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBitte beantworten Sie diese Fragen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBitte bewerten Sie"
   },
   {
-    "objectID": "unit01/unit01-02.html#make-sense-topic",
-    "href": "unit01/unit01-02.html#make-sense-topic",
-    "title": "Anwendungsbeispiele",
+    "objectID": "unit01/unit01-04.html",
+    "href": "unit01/unit01-04.html",
+    "title": "Lerntagebuch",
     "section": "",
-    "text": "This is a senseless question to meet a meaningfull answer\n\n\n\n\n\n\n\n\n\nThis is a meaningful answer to a senseless question\n\n\n\n\n\n\n\n\n\nLearn More…\n\n\n\n\n\nThis is a even more meaningful answer to a senseless question"
+    "text": "Grundlage für Reflexion am Mittwochmorgen (bzgl. Lerntagebuch) Wie haben die Beobachtungen während der Exkursion gezeigt, wie der Klimawandel unsere lokale Umgebung beeinflussen? Wo vulnerabel/ wo resilient? Wie sichtbar ist der Klimawandel am Lernort? Wie erfahrbar war die Vulnerabilität / Resilienz des Lernortes? Wie schätzen Sie die zukünftige Vulnerabilität ein? Wie besorgt sind Sie über die weitere Entwicklung der Vulnerabilität des besuchten Lernortes? Wie viel Hoffnung haben Sie, dass der Lernort in der Zukunft resilienter wird? Inwiefern sind die Adaptionen zukunftsfähig? Wie weitreichend ist die betrachtete Adaption?\nVorgehen: Kategorien von Lernorten ableiten (auf Basis der Ideenskizzen -&gt; Mittwochmorgen besprechen) Z.B.: Resilienz erfahren / Vulnerabilität erfahren / Veränderungen sehen Dann jeweils für die abgeleiteten Kategorien jeweils 1 Template (z.B. auf Ilias) erstellen und die obigen Fragen daran anpassen\nWeitere: (mögliche) Welche Kompetenzen werden durch die Exkursion gefördert? (z.B. DGfG?) Grad der Sensibilisierung: (1-10 z.B.) (umformulieren!) Exkursionsdidaktische Aspekte / Feedback auf Skala -"
   },
   {
     "objectID": "unit00/impressum.html#content-responsibility",
@@ -334,48 +523,6 @@
     "title": "Außerschulische Lernorte",
     "section": "Team",
     "text": "Team\nViel Spaß in unserem Kurs und beim Lernen an der Universität Marburg!"
-  },
-  {
-    "objectID": "unit01/unit01-03.html#bitte-bewerten-sie",
-    "href": "unit01/unit01-03.html#bitte-bewerten-sie",
-    "title": "Zuḱunftsvisionen",
-    "section": "Bitte bewerten Sie",
-    "text": "Bitte bewerten Sie"
-  },
-  {
-    "objectID": "unit02/unit02-02.html#online-editoren",
-    "href": "unit02/unit02-02.html#online-editoren",
-    "title": "Quarto Markdown",
-    "section": "",
-    "text": "StackIt\nDillinger"
-  },
-  {
-    "objectID": "unit01/unit01-04.html#column-1",
-    "href": "unit01/unit01-04.html#column-1",
-    "title": "Untitled",
-    "section": "Column",
-    "text": "Column\n\nChart B\n\n\nChart C"
-  },
-  {
-    "objectID": "unit01/unit01-04.html",
-    "href": "unit01/unit01-04.html",
-    "title": "Lerntagebuch",
-    "section": "",
-    "text": "Grundlage für Reflexion am Mittwochmorgen (bzgl. Lerntagebuch) Wie haben die Beobachtungen während der Exkursion gezeigt, wie der Klimawandel unsere lokale Umgebung beeinflussen? Wo vulnerabel/ wo resilient? Wie sichtbar ist der Klimawandel am Lernort? Wie erfahrbar war die Vulnerabilität / Resilienz des Lernortes? Wie schätzen Sie die zukünftige Vulnerabilität ein? Wie besorgt sind Sie über die weitere Entwicklung der Vulnerabilität des besuchten Lernortes? Wie viel Hoffnung haben Sie, dass der Lernort in der Zukunft resilienter wird? Inwiefern sind die Adaptionen zukunftsfähig? Wie weitreichend ist die betrachtete Adaption?\nVorgehen: Kategorien von Lernorten ableiten (auf Basis der Ideenskizzen -&gt; Mittwochmorgen besprechen) Z.B.: Resilienz erfahren / Vulnerabilität erfahren / Veränderungen sehen Dann jeweils für die abgeleiteten Kategorien jeweils 1 Template (z.B. auf Ilias) erstellen und die obigen Fragen daran anpassen\nWeitere: (mögliche) Welche Kompetenzen werden durch die Exkursion gefördert? (z.B. DGfG?) Grad der Sensibilisierung: (1-10 z.B.) (umformulieren!) Exkursionsdidaktische Aspekte / Feedback auf Skala -"
-  },
-  {
-    "objectID": "slides/aslo2024-tt.html",
-    "href": "slides/aslo2024-tt.html",
-    "title": "Außerschulische Lernorte",
-    "section": "",
-    "text": "Blocktag 3\nBlocktag 1\nBlocktag 2\nZeiten\nZeiten\n9:30 –\n9:45\n15‘\n90‘\nOrga I\n9:30 –\n9:45\n15‘\n90‘\nOrga II\n9:30 –\n10:30\n60\n‘\nPräsentationen der\nIdeen\nA\nA\n9:45 –\n11:15\n9:45 –\n11:15\nZukunft zeichnen\nFinde jemanden,\nder..\nExkursion\n11:00 –\n14:30\nArbeitsphase A\nIPPC\nArbeitsphase B\nArbeitsphase A\nArbeitsphase B\n1\n5\n0‘\n11:30 –\n13:00\n11:30 –\n13:00\nÜbung Outdoor\neducation\nReflektion Erbe\n90‘\n90‘\n0‘\n3\n0\nTerminabsprachen\nund Orga\n14:30\nClimate Change\nEducation\n‘\n14:00 –\n16:30\n14:00 –\n16:30\n15:30\n–\n16: 30\n120\nSprechstunden mit vorheriger\nAnmeldung\n120‘\nResilienz - Übung\n1\n2\n0‘\nAsLo – austausch\nBrainstroming Aslo\nAslo -Ideenskizze\n\nKlimawandelbildung\nBildung für…\nNachhaltige\nEntwicklung\nKatastrophenpr\nävention\nMitigation\nAdaption\nWerte, Wissen\nund\nFähigkeiten die\nhelfen\nEntscheidunge\nn zu treffen, die\nden\nWerte, Wissen\nund\nFähigkeiten um\neine friedliche\nund\nHandlungs-\nfähigkeit für\nNatur-\nkatsrophen\npräventiv\nausbilden.\nDurch Bildung\nVulnarabilität\nvon\nCommunities\nreduzieren.\nnachhaltige\nWelt zu\ngestalten.\nKlimawandel\nabschwächen.\nFig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011\n2\n\nResilienzbildung\nResilienz\nKatastrophen-\nprävention\nAdaption\nFig 4. Resilienzbildung\nResilienzbildung soll die Individuen unterstützen resilient auf durch\nden Klimawandel bedingte Herausforderungen zu reagieren und zu\neiner resilienten Gesellschaft beitragen.\n3\n\nDimensions of Disaster Risk Reduction Education\nS.27\n\nVulnerability Factors\n• S. 23\n\nLernort der:\nPhysisch\nUmwelt\nSozial\nwirtschaftlich\nGrundlagen für\nklimabedingte lokale\nRisiken vermittelt\nSicherheitsmaßnahmen\ntrainiert\nFaktoren die zu\nKatastrophen führen\nadressiert\nEinen\ngemeinschaftlichen\nkonstruktiven\nUmgang mit Risiken\nbewirkt\n\nBlock 1 - Einstieg und Sensiblisierung\n• Zukunft zeichen\n• Finde jemanden, der… (im\nRaum ereben)\n• IPPC Abbildungen\nintrepretieren, z.B.\n\nBlock 2 – Reflektion persönlicher und\nprofessioneller Relevanz\nheute\n2050\nErbe vorherige\nGenerationen gut\nErbe vorheriger\nGenerationen schlecht\nErbe vorherige\nGenerationen gut\nErbe vorheriger\nGenerationen schlecht\n\nBlock 2 – Outdoor Education Übung\n• Gruppenarbeit mit anschließender Vorstellung\nGedanken bzgl. ältere Generation\nGedanken bzgl. jüngerer Generation\nBedeutung fürs professionelle Arbeiten\nBedeutung fürs persönliche Leben\n\nBlock 3 Reslienz\n• Kurzer Input\n• Lineal zurückschnappen lassen\n• 2 er Übung –\n• wann ist man selbst „bounced back“\n• was hat dazu beigetragen\n• Übertrage Gruppe oder Gesellschaft?\n• Jeweils 2 2er Gruppen (4)\n• Kurzer Input…\n\n\n\nLernort der:\nPhysisch\nUmwelt\nSozial\nwirtschaftlich\nGrundlagen für\nklimabedingte lokale\nRisiken vermittelt\nSicherheitsmaßnahmen\ntrainiert\nFaktoren die zu\nKatastrophen führen\nadressiert\nEinen\ngemeinschaftlichen\nkonstruktiven\nUmgang mit Risiken\nbewirkt\n\n2. Ta g Block 1\n• Bildungsstandards durchsuchen\n– welche Bildungsziele draußen?\n• Also wozu (clustern) und wie/\nwelche Methoden (clustern)\n• Outdoor education, vlt clustern\nzu: cognitive, motorisch, affektiv,\nsozial\n\nBlock 2 Orientierungsübung im Gelände\n• Standortbestimmung und Enten??\n• Klassische Rally, eingezeichnet auf Karte und mit Kompass?\n\nBlock 3\n• Rückbesinnung auf Ideen: Was weiterentwickeln?\n\n\nTa g 1\n•\n•\n•\n•\n•\nKurze Orga\nBild malen (40 Minuten) (am Ende wiederholen)\nFinde jemanden der… (20 Minuten) S. 318\nClimate Change – was erwartet uns (20 Minuten (mit Rückfragen und Diskussion)) oder Abbildungen von der ICCP reingeben\nReflektion Inherentence –aber kein Brief sondern [Gefühle gegenüber älteren Generationen, Gefühle gegenüber jüngeren Generationen, Perspektive fürs eigene Leben, Perspektive für die Vorbereitung der jüngeren\nGeneration] – oder Brief an jemanden vor 25 Jahren und jemanden in 25 Jahren (60 Minuten) (am Ende wiederholen)\n•\n•\n•\n•\n•\nPause\nClimate Change Education mit Blitzlicht zum Bildungsauftrag (10 Minuten) oder insgesamt 45 Minuten Vortrag mit interaktiven Elementen\nMitigation and Adapation\nDestaster Prevention\nVulnerability and Resilience\n•\n•\n•\n•\n•\n•\n•\nPause\n[Adaption oder Mititgation]\nResilience – Individual – Community\nKurzvortrag zu Resilience Abbildungen von Folie 5 und 6\n[Gruppentische zu verschiedenen Konzepten (Communty Monitoring, ]\nPuzzel der Beispiele und Ebenen (den Dimensionen von 4 und 5 zu ordnen) oder noch mal auf Bedrohungen durch Erderwärmung eingehen\nBrainsstorming AsLo (themen) (zu Dimensionen aus 4 und 5 auf Kärtchen)\n\n\nTa g 2\n• Der Außerschulische Lernort (Vortrag?)\n• Räumliche Orientierung\n• Feldmethoden\n• Pause\n• Digiatle Tools (phillip)\n\nTa g 3"
-  },
-  {
-    "objectID": "slides/out.html",
-    "href": "slides/out.html",
-    "title": "Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach",
-    "section": "",
-    "text": "Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach\nSommersemester 2024\n\n\nHerzlich Willkommen\n Kurs besteht aus:\n\ndrei Blocktagen\nSemesterbegleitende Veranstaltung:\n\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)\n\n\n\nStudien- und Prüfungsleistung\nStudienleistung:\nEntwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton*innen (1,5 Stunden) in Dreiergruppen\nExkursionstagebuch, das Sie während der anderen Exkursionen führen\nPrüfungsleistung:\nAnpassung des Konzeptes für die Schule\nBündige Darstellung, die Veröffentlichung auf Homepage erlaubt\n\n\nAbfrage Terminlichen Präferenzen\nMelden Sie sich bitte bei Particify an!\n\n\nThematischer Schwerpunkt: Resilient in die Zukunft\n\n\nDie Blocktage\n Hörsaal  ,  draußen  ,  Seminarräume \nPräsentationen der Ideen\nFreie Arbeit und Bearbeitung\nResilienz-Spurensuche\ninteraktive Einführung\nSammlung und Besprechung\nReflektion der eigenen Position\nTerminabsprachen und Orga\nAustausch und Ideenskizzen\nReflexion bis 24:00 Uhr abgeben\nIdeenskizze bis 24:00 Uhr abgeben\nExposé bis 24:00 Uhr abgeben\n\n\nInteraktive Einführung: Zukunftsvisionen\nVersuchen Sie die Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen. Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich.\nSie haben 15 Minuten Zeit.\n\n\nZukunftsvisionen\nTauschen Sie sich nun mit Ihren Sitznachbar*innen, und den Kommiliton*innen, die hinter ihnen bzw. vor ihnen sitzen aus, sodass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.\nWelche Gemeinsamkeiten stellen Sie fest?\nWelche Unterschiede bestehen?\nSpiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?\n\n\nÜbersicht über die Szenarien\n\nMelden Sie sich bitte bei Partifiy an!\n\n\nDer Klimawandel – Einstellungen und Perspektiven\nFür die nächste Übung gehen Sie bitte raus. Wir treffen uns in 5 Minuten vor den Tugenden\n\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\nWas bedeutet die Prozentzahl in Klammern in Sektion b)?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\nWelche Szenarien finden Sie in der Abbildung wieder?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nHaben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?\nWas bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\nhttps://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\nWenn Sie die Informationen aus den drei Abbildungen kombinieren welche Prognose treffen Sie für die Temperatur, wenn Sie 50 Jahre alt sind?\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWie warm wird es auf der Erde sein, wenn Sie 50 sind?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\n\n\n\nCross-Section Box.2, Figure 1\n\n\n\nFigure SPM.5\n\n\nFigure SPM.1\n\n\n\nFigure 4.2\n\n\n\n\nWas bedeuten neuere politischen Meldung\nWas bedeutet die Pfadentwicklung für Bildungsarbeit\n\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Über…\nWas motiviert Sie die nachwachsende Generation auszubilden?\nMachen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias-Ordner hoch.\nWordcloud oder Notizen in Particify?\n\n\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-3-3\n\n\nResilience\nThe ability of an individual, a community, society or ecosystem to withstand, survive and adapt to the stress and shock waves of some dramatic, traumatic and often unanticipated event or development. The ability to rebuild is a mark of resilience. \nAdapted from Pike, G. and Selby, D. (2011)   In the Global Classroom  \n\n\nÜbung im Zweierteam\nIn welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?\nBerichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton*innen nicht zu privat ist.\nWas hat Ihnen dabei geholfen?\n\n\n\n.\nDiskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.\nNotieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.\n\n\nDimensions of Resilience\nThe Five Dimensions of Resilient Well-being\nBiological\nMaterial\nSocial (including Cultural)\n Cognitive (Knowing and Understanding)  \n Emotional \n  After Williamson, J. & Robinson, M. (2006). ’  Psychosocial programs or programs aimed at general well-being?  ’ \n\n\nVulnerability\n\nThe degree to which an individual, a community, a society or ecosystem is unable to cope with the stress and shock waves of some dramatic, traumatic and often unexpected event or development. \nAdapted from Pike ,G. & Selby, D. (2011).   In the Global Classroom  \n\n\nClimate Change Vulnerability\nThe degree to which a person, community or society or ecosystem is susceptible to and unable to cope with the threats, hazards, disasters, shocks and stresses brought about by dangerous climate change.   \nFeatures/measures of vulnerability: \nA sense of  defencelessness    \nPhysical breakdown \nCultural collapse \nEmotional or psychological injury or inability to cope \nBreakdown of social structures and social and environmental processes   \nInability to adapt \nAggression and conflict \n  Adapted from Pike, G. & Selby, D. (2011).   In the Global Classroom  \n\n\nClimate Change Resilience\nThe ability of a person, community or society or ecosystem to survive the threats, hazards, disasters, shocks and stresses brought about by climate change, and to rebuild itself in the aftermath. \nFeatures/measures of resilience: \nEmotional, psychological and cultural sturdiness \nThe  ability to remain positive and hopeful\nThe ability to adapt and transform \nThe rate and sturdiness of return to a stable condition. \nAdapted from  Pike,G . &  Selby,D . (2011).   In the Global Classroom  \n\n\nResilience vs. Vulnerability\nThe degree of resilience and vulnerability will depend upon the nature and size of the climate threat and the extent to which individuals, communities and societies have considered the future and, especially, readied themselves to handle shock and uncertainty.  “ ! \nAdapted from  Pike,G . &  Selby,D . (2011).   In the Global Classroom  \n\n\nPriorities for Action\n Five Priorities for Action in the Hyogo Framework for Action (HFA) 2005-2015: Building the Resilience of Nations and Communities to Disasters  \n Priority Action 1  : Ensure that disaster risk reduction is a national and a local priority with a strong institutional basis for implementation. \n Priority Action 2  : Identify, assess and monitor disaster risks and enhance early warning. \n Priority Action 3   : Use knowledge, innovation and education to build a culture of safety and resilience at all levels  \n Priority Action 4  : Reduce the underlying risk factors. \n Priority Action 5  : Strengthen disaster preparedness for effective response at all levels \n\n\nKlimawandelbildung\nNachhaltige Entwicklung\nKatastrophenprävention\nWerte, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten.\nWerte, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen, die den Klimawandel abschwächen.\nDurch Bildung Vulnarabilität von Communities reduzieren.\nHandlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.\n Fig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011 \n\n\nResilienzbildung\nKatastrophen-prävention\n Fig 4. Resilienzbildung \nResilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen. \n\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Über…\nWas motiviert Sie die nachwachsende Generation auszubilden?\nMachen Sie sich Notizen und laden Sie die ausformulierten Antworten bis Mitternacht im Ilias-Ordner hoch.\nWordcloud oder Notizen in Particify?\n\n\nTag 2\n\n\nResilienzspurensuche\n\nSie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren suchen, d.h.\n\nalles was von akuteller oder vergangener Adaptionsleistung zeugt\nalles was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint\nwo sehen Sie vulnerable\n\nSie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotographieren und dokumentieren Sie die Spuren unmittelbar\n\n\n\nField Trip: Purposes\nTo gather information on local challenges in the face of climate change \nTo find out about local initiatives for climate change mitigation, adaptation, risk reduction and resilience building \nTo collect views on potential school/community climate change initiatives as well as data on any current initiatives. \n\n\nVorgaben\nZiel des Außerschulischen Lernortes soll es zunächst sein Ihren Kommiliton*innen den Bedarf oder das Potenzial für eine Klimaadaption zu vermitteln, um die Resilienz der Gesellschaft zu stärken.\nEs soll ein vulnerability Factor oder die Schnittmenge zwischen mehreren thematisiert werden.\nDer Lernort soll zunächst auf universitärem Niveau erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas zur Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.\n\n\n\nProjektskizze\nThema:\nWo:\nWie:\nZiel:\n\n\n\n\n©  Seifert Creative Commons CC0 1.0\n\n©  mbtrama Creative Commons Attribution 2.0 Generic\n\n©  Bienenfreund2018 Creative Commons Attribution-Share Alike 4.0 International\n\n\nZukunftsszenarien\n\n Fig 1    Zukunfsszenarien   _ in _   Abbhängikeit   _ von _   Emissionen   _ _   aus   : IPCC, 2023: Summary for Policymakers. Figure    SPM.1:(c)  \n\n\nKlimaangst junger Menschen\nDeutschland \n(14-17 Jahre)\n64 % Angst (37% große, 27% eher)\n15% kaum & keine Angst\n55% Angst vor der Zunahme von Extrenwetterereignissen\n10% vermuten, dass Depression durch den Klimawandel hervorgerufen wird\nSINUS-Studie 2022\nInternational\n(16-25 Jahre)\n84% besorgt (27% extrem, 32 % sehr, 25% moderat)\n61.8% Angst\n82.6% Menschen haben versagt den Planeten zu schützen\n39.1% zögert eigene Kinder zu haben\nHickman et al. 2021\n\n\nKlimaangst\nKlimaangst ist eine „erhöhte emotionale, mentale oder somatische Belastung als Reaktion auf gefährliche Veränderungen im Klimasystem“ (Climate Psychology Alliance 2020: 22)\nKlimaangst ist eine gesunde Reaktion auf den Klimawandel, im Gegensatz zu Apathie und Verleugnung\nKlimaangst Symptome wie Panikattacken, Schlaflosigkeit, Grübeln beinhalten.\nKlimaangst kann zu Angststören, Suchtkrankeiten und Depression führen\nAnhaltene psychische Probleme während der Jugend können lebenslange Auswirkungen haben\n(Wu et al. 2020, Dodds 2021)\n\n\nDie Zeit läuft aus…\n\n Fig 2.    Entwicklung   _ der _   Emissionen   _ _   aus   : IPCC, 2023: Summary for Policymakers. Figure 2.5 \n„Ich glaube, dass es auch wichtig ist, dass wir gesellschaftlich anerkennen, dass nicht ein paar Kinder und Jugendliche das Problem für uns lösen werden.“\nPauline Brünger (Fridays for Future)\nTagesschau 08.08.2023\n\n\nExterne Abbildungen und Bilder\n\nBild Ahrtal:\n\nhttps://commons.wikimedia.org/wiki/File:Hochwasser_in_Altenahr_Altenburg.jpg\n\nBild Feuer:\n\nhttps://commons.wikimedia.org/wiki/File:Station_Fire_over_La_Ca%C3%B1ada_Flintridge.jpg\n\nBild Borkenkäfer\n\nhttps://commons.wikimedia.org/wiki/File:Tote_B%C3%A4ume_im_Harz._Der_Borkenk%C3%A4fer_ist_aktiv.jpg\n\nIPCC Fig 1.(c)\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-2-5\n\nIPCC Fig 2.5\n\nhttps://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\n\n\n\n\nLiteratur\nBaudon & Jachens 2021. A scoping Review of Interventions for Treatment of Eco-Anxiety. Int. J. Environ. Res. Public Health 2021, 18(18), 9636; https://doi.org/10.3390/ijerph18189636.\nClimate Psychology Alliance 2020. The Handbook of Climate Psychology.\nDeeb, A. Et al. 2011. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners. UNEP.\nDodds 2021. The psychology of climate anxiety. BJPsych Bulletin, 45(4), 222-226.\nDGfG 2020. Bildungsstandards für den mittleren Schulabschluss. Bonn.\nHickmann, C.et al. 2021. Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey. The Lancet Planetary Health 5(12), p.863 – 873.\nIPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001\nOjala, M., Cunsolo, A., Ogunbode, C. A., & Middleton, J. 2021. Anxiety, worry, and grief in a time of environmental and climate crisis: A narrative review. Annual review of environment and resources, 46, 35-58.\nSinus-Jugendforschung 2022. Ergebnisse einer Repräsentativ-Umfrage unter Jugendlichen 2022/2023. Heidelberg. https://www.sinus-institut.de/media-center/studien/barmer-jugendstudie-2022-23\nTaylor 2020. Anxiety disorders, climate change, and the challenges ahead: Introduction to the special issue. Journal of Anxiety Disorders, 47, 102313, https://doi.org/10.1016/j.janxdis.2020.102313.\nTageschau am 08.08.2023. https://www.tagesschau.de/inland/gesellschaft/fridays-for-future-246.html.\nWu, Snell, Samji 2020. Climate anxiety in young people: a call to action. The Lancet Planetary Health, 4(10).\n\n\nGeographische Resilienzbildung\nGeographische Konzepte sind grundlegend für die Bewertung der Resilienz eines Ortes\nGeographische Analysen ermöglichen eine Gefahrenbeurteilung\nGeographische Kompetenz hilft die Resilienz eines Raumes zu stärken indem Handlungsoptionen für die Stärkerung humaner und physischer Systeme erarbeitet werden können\n\n\nCommunity Resilienz\nSoziale, natürliche und bauliche Infrasturktur sind entscheidene Größen\nMaßstab und Zeit sind fundamentale Konzepte um die Resilienz einer Community zu bewerten\nÖkologische Reszilienz ist bedingt durch Biodiversiät, response diversity, spatiality und Mangamentkonzepte\nSoziale Resilienz ist bedingt durch die Vernetzung der Akteuere, soziale Kohäsion, Kommunikation, Risikobewusstsein und Vorbereitung (preparedness). Sie ist besser bei höhrer Resilienz ihrer Individuen\nResilienz der Infrastruktur ist erhört je unabhängiger die einzelnen Bestandteile sind\nLändliche Räume zeigen sich meist resilienter als Großstädte\n\n\nGeographische Resilienzbildung\nThematisierung von Ängsten bezüglicher globaler Entwicklung\nFokussierung der eigenen Wirksamkeit innerhalb globaler Entwicklungen\nFokus auf Adaption (höhrere Selbstwirksamkeit und direkter Umgang mit Ängsten)\nFokus auf Places anstatt das Individium (Wie kann einem Raum bei der Adaption geholfen werden? Was kann kein Raum zu Mitigation beitragen?)\nFokus auf lokale und regionale Prozesse\nAktive Arbreit mit lokalen Akteuren\n\n\nResilienzbildung für eine resiliente Gesellschaft\naktiver Umgang mit Zukunft\nBildung für Klimaresilienz\nresilienten Individuen\nResilienten Community"
   },
   {
     "objectID": "template.html#hello-there",
@@ -558,579 +705,5 @@
     "title": "Quarto demo presentation",
     "section": "And More…",
     "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
-  },
-  {
-    "objectID": "slides/Tag1.html",
-    "href": "slides/Tag1.html",
-    "title": "Außerschulische Lernorte",
-    "section": "",
-    "text": "Außerschulische Lernorte\nRieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach\nSommersemester 2024\n\nHerzlich Willkommen\nKurs besteht aus:\n• drei Blocktagen\n• Semesterbegleitender Veranstaltung\nSemesterbegleitende Veranstaltung:\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)\n2\n\nStudien- und Prüfungsleistung\nStudienleistung:\n• Entwicklung und Durchführung eines\nAußerschulischen Lernorts für Ihre Kommiliton*innen\n(1,5 Stunden) in Dreiergruppen\n• Exkursionstagebuch, das Sie während der anderen\nExkursionen führen\nPrüfungsleistung:\n• Anpassung des Konzeptes für die Schule\n• Bündige Darstellung, die Veröffentlichung auf\nHomepage erlaubt\n3\n\nDie Blocktag\nHörsaal, draußen, Seminarräume\ne\nBlocktag 1\nBlocktag 2\nZeiten\nZeiten\nBlocktag 3\nZeiten\n9:30 –\n9:45\n15‘\n9:30 –\n9:45\n15‘\n90‘\nOrga II\nOrga I\n10:00\n–\n11:00\nA\nA\nPräsentationen\nder Ideen\n60\n9:45 –\n11:15\n9:45 –\n11:15\n‘\ninteraktive\nEinführung\nResilienz-\nSpurensuche\n90‘\n11:00\n–\n14:30\n1\n5\n0\n‘\nFreie Arbeit und\nBeratung\n11:30 –\n13:00\n11:30 –\n13:00\nReflektion der\neigenen Position\nSammlung und\nBesprechung\n90‘\n90‘\n2\n0\n30‘\n14:30\nTerminabsprachen\nund Orga\nÜbung\nAustausch und\nIdeenskizzen\n14:00 –\n16:30\n14:00 –\n16:30\n1\n2\n0\n‘\n15:30\n–\n16: 30\n120\n120‘\nInput\nSprechstunden\nReflexion bis 24:00 Uhr\nabgeben\nIdeenskizze bis 24:00 Uhr\nabgeben\nExposé bis 24:00 Uhr\nabgeben\n\nInteraktive Einführung: Zukunftsvisionen\nVersuchen Sie die Zukunft zu visualisieren. Welche Bilder und\nVorstellungen haben Sie? Überlegen und zeichnen Sie\nzunächst alleine ohne sich mit anderen auszutauschen. Sie sind\nfrei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die\nkünstlerische oder handwerkliche Umsetzung ist dabei nicht\nwesentlich.\nSie haben 15 Minuten Zeit.\n5\n\nZukunftsvisionen\nTauschen Sie sich nun mit Ihren Sitznachbar*innen, und den\nKommiliton*innen, die hinter ihnen bzw. vor ihnen sitzen aus,\nsodass Sie ein Sechserteam bilden. Erklären Sie sich\ngegenseitig was auf Ihren Bildern zu sehen ist.\n• Welche Gemeinsamkeiten stellen Sie fest?\n• Welche Unterschiede bestehen?\n• Spiegelt sich der Einfluss des Klimawandels in den Bildern\nwider? Wenn ja wie? Wenn nein, warum nicht?\n6\n\nÜbersicht über die Szenarien\nMelden Sie sich bitte bei Partifiy an!\n7\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus\nwissenschaftlicher Sicht in Zweierteams.\n• https://www.ipcc.ch/report/ar6/syr/figures/csb-2-figure-1\n• Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?\n• Was können Gründe dafür sein, dass sich die Erde in den\noberen drei Szenarien nach 2100 weiter erwärmt?\n• Was bedeutet die Prozentzahl in Klammern in Sektion b)?\n• Was bedeuten die flächigen Einfärbungen in den Graphen?\n8\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus\nwissenschaftlicher Sicht in Zweierteams.\n• https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-5\n• Welche Szenarien finden Sie in der Abbildung wieder?\n• Was bedeuten die flächigen Einfärbungen in den Graphen?\n• Haben die implementierten politischen Vorgaben in der\njüngeren Vergangenheit die modellierte Wirkung erzielt?\n• Was bedeutet der Blick in die jüngere Vergangenheit für unsere\nModellannahmen in der Zukunft?\n9\n\nWissenschaftliche Erkenntnisse\nDiskutieren Sie nun die Zukunftsprognosen aus\nwissenschaftlicher Sicht in Zweierteams.\n• https://www.ipcc.ch/report/ar6/syr/figures/figure-spm-1\n• Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?\n• Wie warm wird es auf der Erde sein, wenn Sie 50 sind?\n• Was können Gründe dafür sein, dass sich die Erde in den\noberen drei Szenarien nach 2100 weiter erwärmt?\n10\n\nCross-\nSection\nBox.2,\nFigure 1\n\nFigure SPM.5\n\nFigure SPM.1\n13\n\nFigure 4.2\n14\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was\ndie globale Erderwärmung und die damit verbundenen\nunsicheren Zukunftsaussichten für Sie als werdende\nErdkundelehrkraft bedeuten.\n• Welche Werte und Kompetenzen, wollen Sie im Kontext\nder globalen Erderwärmung vermitteln?\n• Welche Bedeutung hat die BNE für Ihre Überzeugung als\nErdkundelehrkraft zu arbeiten?\n• Was motiviert Sie die neue Generationen auszubilden?\nWordcloud oder Notizen in Particify?\n15\n\nResilienz\nDie Fähigkeit eines Individuums, einer Gemeinschaft, einer\nGesellschaft oder eines Ökosystems, den Stress- und\nSchockwellen eines dramatischen, traumatischen und oft\nunvorhergesehenen Ereignisses oder einer Entwicklung\nstandzuhalten, zu überleben und sich an sie anzupassen. Die\nFähigkeit zum Wiederaufbau ist ein Zeichen der\nWiderstandsfähigkeit.\nAdapted from Pike, G. and Selby, D. (2011) In the Global Classroom\n16\n\nÜbung im Zweierteam\nIn welcher Situationen sind Sie herausfordernd aus Ihren\nRoutinen geraten und haben sich wieder stabilisiert?\n• Berichten Sie von einer Situation, die Ihnen im Gespräch mit\nIhren Kommiliton*innen nicht zu privat ist.\n• Was hat Ihnen dabei geholfen?\n17\n\nPersönliche und gesellschaftliche\nResilienz\n.\n• Diskutieren Sie nun welche Faktoren, die zur persönlichen\nResilienz beitragen auch zu gesellschaftlichen Resilienz\nbeitragen.\n• Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei\nParticify.\n18\n\nResilienzdimensionen\n• Biologisch\n• Materiell\n• Sozial (einschließlich Kultur)\n• Kognitiv (Wissen und Verstehen)\n• Emotional\nAfter Williamson, J. & Robinson, M. (2006). ’Psychosocial programs or programs aimed at general\nwell-being?’\n19\n\nVulnerabilität\nDas Ausmaß, in dem ein Individuum, eine\nGemeinschaft, eine Gesellschaft oder ein\nÖkosystem nicht in der Lage ist, mit den Stress-\nund Schockwellen eines dramatischen,\ntraumatischen und oft unerwarteten Ereignisses\noder einer unerwarteten Entwicklung umzugehen.\nAdapted from Pike ,G. & Selby, D. (2011). In\nthe Global Classroom\n20\n\nKlimawandelvulnerabilität\nDas Ausmaß, in dem eine Person, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem anfällig für die\nBedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen ist, die durch den Klimawandel\nverursacht werden, und nicht in der Lage ist, damit umzugehen. Merkmale der Gefährdung:\n• Ein Gefühl der Wehrlosigkeit\n• Körperlicher Zusammenbruch\n• Kultureller Zusammenbruch\n• Emotionale oder psychische Verletzung bzw. mangelnde Fähigkeit zum Coping\n• Zusammenbruch sozialer Strukturen und sozialer und ökologischer Prozesse\n• Unfähigkeit zur Adaption\n• Aggression und Konflikt\nAdapted from Pike, G. & Selby, D. (2011). In the Global Classroom\n21\n\nKlimawandelresilienz\nDie Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den\nKlimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu\nüberleben und sich danach wieder aufzubauen. Merkmale der Resilienz:\n• Emotionale, psychologische und kulturelle Stabilität\n• Die Fähigkeit, positiv und hoffnungsvoll zu bleiben\n• Die Fähigkeit zur Anpassung und Transformation\n• Die Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.\nAdapted from Pike,G. & Selby,D. (2011). In the Global Classroom\n22\n\nResilienz vs. Vulnerabilität\nDer Grad der Resilienz und Vulnerabilität wird von der Art und dem Ausmaß der Klimabedrohung und dem\nAusmaß abhängen, in dem Einzelpersonen, Gemeinschaften und Gesellschaften über die Zukunft nachgedacht\nund sich insbesondere auf den Umgang mit Schock und Unsicherheit vorbereitet haben.\n“!\nAdapted from Pike,G. & Selby,D. (2011). In the Global Classroom\n23\n\nInstitutionalisierung der Resilienz\nFünf Handlungsprioritäten im Hyogo Framework for Action\n(HFA) Hyogo-Aktionsrahmen (HFA) 2005–2015: Aufbau der\nWiderstandsfähigkeit von Nationen und Gemeinschaften\ngegenüber Katastrophen\n• Die Reduzierung des Katastrophenrisikos zur nationalen und\nlokalen Priorität mit einer starken institutionellen Grundlage für\ndie Umsetzung machen.\n• Katastrophenrisiken identifizieren, bewerten und überwachen\nund Frühwarnung verbessern.\n• Wissen, Innovation und Bildung auf allen Ebenen nutzen,\num eine Kultur der Sicherheit und Widerstandsfähigkeit\naufzubauen.\n• Zugrunde liegenden Risikofaktoren reduzieren.\n• Stärkung der Katastrophenvorsorge für eine wirksame\nReaktion auf allen Ebenen.\n24\n\nKlimawandelbildung\nBildung für…\nNachhaltige\nEntwicklung\nKatastrophen\nMitigation\nAdaption\nprävention\nWerte,\nWerte,\nWissen und\nFähigkeiten\num eine\nfriedliche und\nnachhaltige\nWelt zu\nWissen und\nFähigkeiten\ndie helfen\nEntscheidung\nen zu treffen,\ndie den\nHandlungs-\nfähigkeit für\nNatur-\nkatsrophen\npräventiv\nausbilden.\nDurch Bildung\nVulnarabilität\nvon\nCommunities\nreduzieren.\nKlimawandel\nabschwächen.\ngestalten.\nFig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011\n25\n\nResilienzbildung\nResilienz\nKatastrophen-\nAdaption\nprävention\nFig 4. Resilienzbildung\nResilienzbildung soll die Individuen unterstützen resilient auf\ndurch den Klimawandel bedingte Herausforderungen zu\nreagieren und zu einer resilienten Gesellschaft beitragen.\n26\n\nLehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was\ndie globale Erderwärmung und die damit verbundenen\nunsicheren Zukunftsaussichten für Sie als werdende\nErdkundelehrkraft bedeuten.\n• Welche Werte und Kompetenzen, wollen Sie im Kontext\nder globalen Erderwärmung vermitteln?\n• Welche Bedeutung hat die BNE für Ihre Überzeugung als\nErdkundelehrkraft zu arbeiten?\n• Was motiviert Sie die neue Generationen auszubilden?\nFormulieren Sie Ihre Notizen aus und laden Sie die\nAntworten bis Mitternacht im Ilias-Ordner hoch.\n27"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html",
-    "href": "metro/quarto-metropolis/template.html",
-    "title": "Quarto demo presentation",
-    "section": "",
-    "text": "This presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#hello-there",
-    "href": "metro/quarto-metropolis/template.html#hello-there",
-    "title": "Quarto demo presentation",
-    "section": "",
-    "text": "This presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#pretty-code",
-    "href": "metro/quarto-metropolis/template.html#pretty-code",
-    "title": "Quarto demo presentation",
-    "section": "Pretty Code",
-    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#code-animations",
-    "href": "metro/quarto-metropolis/template.html#code-animations",
-    "title": "Quarto demo presentation",
-    "section": "Code Animations",
-    "text": "Code Animations\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n    barplot(WorldPhones[,input$region]*1000,\n            main=input$region,\n            ylab=\"Number of Telephones\",\n            xlab=\"Year\")\n  })\n}\n\nLearn more: Code Animations"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#line-highlighting",
-    "href": "metro/quarto-metropolis/template.html#line-highlighting",
-    "title": "Quarto demo presentation",
-    "section": "Line Highlighting",
-    "text": "Line Highlighting\n\nHighlight specific lines for emphasis\nIncrementally highlight additional lines\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nLearn more: Line Highlighting"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#executable-code",
-    "href": "metro/quarto-metropolis/template.html#executable-code",
-    "title": "Quarto demo presentation",
-    "section": "Executable Code",
-    "text": "Executable Code\n\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +  geom_smooth(formula = y ~ x, method = \"loess\")\n\n\n\n\n\nLearn more: Executable Code"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#latex-equations",
-    "href": "metro/quarto-metropolis/template.html#latex-equations",
-    "title": "Quarto demo presentation",
-    "section": "LaTeX Equations",
-    "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#column-layout",
-    "href": "metro/quarto-metropolis/template.html#column-layout",
-    "title": "Quarto demo presentation",
-    "section": "Column Layout",
-    "text": "Column Layout\nArrange content into columns of varying widths:\n\n\n\nMotor Trend Car Road Tests\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n108\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.440\n\n\nValiant\n18.1\n6\n225\n105\n3.460\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#incremental-lists",
-    "href": "metro/quarto-metropolis/template.html#incremental-lists",
-    "title": "Quarto demo presentation",
-    "section": "Incremental Lists",
-    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n. . .\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#fragments",
-    "href": "metro/quarto-metropolis/template.html#fragments",
-    "title": "Quarto demo presentation",
-    "section": "Fragments",
-    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n. . .\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#slide-backgrounds",
-    "href": "metro/quarto-metropolis/template.html#slide-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Slide Backgrounds",
-    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#media-backgrounds",
-    "href": "metro/quarto-metropolis/template.html#media-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Media Backgrounds",
-    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#absolute-position",
-    "href": "metro/quarto-metropolis/template.html#absolute-position",
-    "title": "Quarto demo presentation",
-    "section": "Absolute Position",
-    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\n\nLearn more: Absolute Position"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#auto-animate",
-    "href": "metro/quarto-metropolis/template.html#auto-animate",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#auto-animate-1",
-    "href": "metro/quarto-metropolis/template.html#auto-animate-1",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#slide-transitions",
-    "href": "metro/quarto-metropolis/template.html#slide-transitions",
-    "title": "Quarto demo presentation",
-    "section": "Slide Transitions",
-    "text": "Slide Transitions\nThe next few slides will transition using the slide transition\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (default, switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\n\nLearn more: Slide Transitions"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#tabsets",
-    "href": "metro/quarto-metropolis/template.html#tabsets",
-    "title": "Quarto demo presentation",
-    "section": "Tabsets",
-    "text": "Tabsets\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n3.570\n15.84\n0\n0\n3\n4\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n3.190\n20.00\n1\n0\n4\n2\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n3.150\n22.90\n1\n0\n4\n2\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n3.440\n18.30\n1\n0\n4\n4\n\n\nMerc 280C\n17.8\n6\n167.6\n123\n3.92\n3.440\n18.90\n1\n0\n4\n4\n\n\nMerc 450SE\n16.4\n8\n275.8\n180\n3.07\n4.070\n17.40\n0\n0\n3\n3\n\n\nMerc 450SL\n17.3\n8\n275.8\n180\n3.07\n3.730\n17.60\n0\n0\n3\n3\n\n\nMerc 450SLC\n15.2\n8\n275.8\n180\n3.07\n3.780\n18.00\n0\n0\n3\n3\n\n\nCadillac Fleetwood\n10.4\n8\n472.0\n205\n2.93\n5.250\n17.98\n0\n0\n3\n4\n\n\nLincoln Continental\n10.4\n8\n460.0\n215\n3.00\n5.424\n17.82\n0\n0\n3\n4\n\n\nChrysler Imperial\n14.7\n8\n440.0\n230\n3.23\n5.345\n17.42\n0\n0\n3\n4\n\n\nFiat 128\n32.4\n4\n78.7\n66\n4.08\n2.200\n19.47\n1\n1\n4\n1\n\n\nHonda Civic\n30.4\n4\n75.7\n52\n4.93\n1.615\n18.52\n1\n1\n4\n2\n\n\nToyota Corolla\n33.9\n4\n71.1\n65\n4.22\n1.835\n19.90\n1\n1\n4\n1\n\n\nToyota Corona\n21.5\n4\n120.1\n97\n3.70\n2.465\n20.01\n1\n0\n3\n1\n\n\nDodge Challenger\n15.5\n8\n318.0\n150\n2.76\n3.520\n16.87\n0\n0\n3\n2\n\n\nAMC Javelin\n15.2\n8\n304.0\n150\n3.15\n3.435\n17.30\n0\n0\n3\n2\n\n\nCamaro Z28\n13.3\n8\n350.0\n245\n3.73\n3.840\n15.41\n0\n0\n3\n4\n\n\nPontiac Firebird\n19.2\n8\n400.0\n175\n3.08\n3.845\n17.05\n0\n0\n3\n2\n\n\nFiat X1-9\n27.3\n4\n79.0\n66\n4.08\n1.935\n18.90\n1\n1\n4\n1\n\n\nPorsche 914-2\n26.0\n4\n120.3\n91\n4.43\n2.140\n16.70\n0\n1\n5\n2\n\n\nLotus Europa\n30.4\n4\n95.1\n113\n3.77\n1.513\n16.90\n1\n1\n5\n2\n\n\nFord Pantera L\n15.8\n8\n351.0\n264\n4.22\n3.170\n14.50\n0\n1\n5\n4\n\n\nFerrari Dino\n19.7\n6\n145.0\n175\n3.62\n2.770\n15.50\n0\n1\n5\n6\n\n\nMaserati Bora\n15.0\n8\n301.0\n335\n3.54\n3.570\n14.60\n0\n1\n5\n8\n\n\nVolvo 142E\n21.4\n4\n121.0\n109\n4.11\n2.780\n18.60\n1\n1\n4\n2\n\n\n\n\n\n\n\n\n\nLearn more: Tabsets"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#interactive-slides",
-    "href": "metro/quarto-metropolis/template.html#interactive-slides",
-    "title": "Quarto demo presentation",
-    "section": "Interactive Slides",
-    "text": "Interactive Slides\nInclude Jupyter widgets and htmlwidgets in your presentations\n\n\n\n\n\n\n\nLearn more: Jupyter widgets, htmlwidgets"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#preview-links",
-    "href": "metro/quarto-metropolis/template.html#preview-links",
-    "title": "Quarto demo presentation",
-    "section": "Preview Links",
-    "text": "Preview Links\nNavigate to hyperlinks without disrupting the flow of your presentation.\nUse the preview-links option to open links in an iframe on top of your slides. Try clicking the link below for a demonstration:\n\nMatplotlib: Visualization with Python\n\n\nLearn more: Preview Links"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#themes",
-    "href": "metro/quarto-metropolis/template.html#themes",
-    "title": "Quarto demo presentation",
-    "section": "Themes",
-    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#easy-navigation",
-    "href": "metro/quarto-metropolis/template.html#easy-navigation",
-    "title": "Quarto demo presentation",
-    "section": "Easy Navigation",
-    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#chalkboard",
-    "href": "metro/quarto-metropolis/template.html#chalkboard",
-    "title": "Quarto demo presentation",
-    "section": "Chalkboard",
-    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#point-of-view",
-    "href": "metro/quarto-metropolis/template.html#point-of-view",
-    "title": "Quarto demo presentation",
-    "section": "Point of View",
-    "text": "Point of View\nPress o to toggle overview mode:\n\nHold down the Alt key (or Ctrl in Linux) and click on any element to zoom towards it—try it now on this slide.\n\nLearn more: Overview Mode, Slide Zoom"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#speaker-view",
-    "href": "metro/quarto-metropolis/template.html#speaker-view",
-    "title": "Quarto demo presentation",
-    "section": "Speaker View",
-    "text": "Speaker View\nPress s (or use the presentation menu) to open speaker view\n\n\n\n\n\n\nLearn more: Speaker View"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#authoring-tools",
-    "href": "metro/quarto-metropolis/template.html#authoring-tools",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nLive side-by-side preview for any notebook or text editor including Jupyter and VS Code\n\n\n\n\n\n\n\n\nLearn more: Jupyter, VS Code, Text Editors"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#authoring-tools-1",
-    "href": "metro/quarto-metropolis/template.html#authoring-tools-1",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nRStudio includes an integrated presentation preview pane\n\n\nLearn more: RStudio"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/template.html#and-more",
-    "href": "metro/quarto-metropolis/template.html#and-more",
-    "title": "Quarto demo presentation",
-    "section": "And More…",
-    "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html",
-    "href": "metro/quarto-metropolis/demo/demo.html",
-    "title": "Quarto demo presentation",
-    "section": "",
-    "text": "This presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#hello-there",
-    "href": "metro/quarto-metropolis/demo/demo.html#hello-there",
-    "title": "Quarto demo presentation",
-    "section": "",
-    "text": "This presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#pretty-code",
-    "href": "metro/quarto-metropolis/demo/demo.html#pretty-code",
-    "title": "Quarto demo presentation",
-    "section": "Pretty Code",
-    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#code-animations",
-    "href": "metro/quarto-metropolis/demo/demo.html#code-animations",
-    "title": "Quarto demo presentation",
-    "section": "Code Animations",
-    "text": "Code Animations\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n\n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n    barplot(WorldPhones[,input$region]*1000,\n            main=input$region,\n            ylab=\"Number of Telephones\",\n            xlab=\"Year\")\n  })\n}\n\nLearn more: Code Animations"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#line-highlighting",
-    "href": "metro/quarto-metropolis/demo/demo.html#line-highlighting",
-    "title": "Quarto demo presentation",
-    "section": "Line Highlighting",
-    "text": "Line Highlighting\n\nHighlight specific lines for emphasis\nIncrementally highlight additional lines\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nLearn more: Line Highlighting"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#executable-code",
-    "href": "metro/quarto-metropolis/demo/demo.html#executable-code",
-    "title": "Quarto demo presentation",
-    "section": "Executable Code",
-    "text": "Executable Code\n\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +  geom_smooth(formula = y ~ x, method = \"loess\")\n\n\n\n\n\nLearn more: Executable Code"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#latex-equations",
-    "href": "metro/quarto-metropolis/demo/demo.html#latex-equations",
-    "title": "Quarto demo presentation",
-    "section": "LaTeX Equations",
-    "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#column-layout",
-    "href": "metro/quarto-metropolis/demo/demo.html#column-layout",
-    "title": "Quarto demo presentation",
-    "section": "Column Layout",
-    "text": "Column Layout\nArrange content into columns of varying widths:\n\n\n\nMotor Trend Car Road Tests\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n108\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.440\n\n\nValiant\n18.1\n6\n225\n105\n3.460\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#incremental-lists",
-    "href": "metro/quarto-metropolis/demo/demo.html#incremental-lists",
-    "title": "Quarto demo presentation",
-    "section": "Incremental Lists",
-    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n. . .\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#fragments",
-    "href": "metro/quarto-metropolis/demo/demo.html#fragments",
-    "title": "Quarto demo presentation",
-    "section": "Fragments",
-    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n. . .\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#slide-backgrounds",
-    "href": "metro/quarto-metropolis/demo/demo.html#slide-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Slide Backgrounds",
-    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#media-backgrounds",
-    "href": "metro/quarto-metropolis/demo/demo.html#media-backgrounds",
-    "title": "Quarto demo presentation",
-    "section": "Media Backgrounds",
-    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#absolute-position",
-    "href": "metro/quarto-metropolis/demo/demo.html#absolute-position",
-    "title": "Quarto demo presentation",
-    "section": "Absolute Position",
-    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\n\nLearn more: Absolute Position"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#auto-animate",
-    "href": "metro/quarto-metropolis/demo/demo.html#auto-animate",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#auto-animate-1",
-    "href": "metro/quarto-metropolis/demo/demo.html#auto-animate-1",
-    "title": "Quarto demo presentation",
-    "section": "Auto-Animate",
-    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#slide-transitions",
-    "href": "metro/quarto-metropolis/demo/demo.html#slide-transitions",
-    "title": "Quarto demo presentation",
-    "section": "Slide Transitions",
-    "text": "Slide Transitions\nThe next few slides will transition using the slide transition\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (default, switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\n\nLearn more: Slide Transitions"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#tabsets",
-    "href": "metro/quarto-metropolis/demo/demo.html#tabsets",
-    "title": "Quarto demo presentation",
-    "section": "Tabsets",
-    "text": "Tabsets\n\nPlotData\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n3.570\n15.84\n0\n0\n3\n4\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n3.190\n20.00\n1\n0\n4\n2\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n3.150\n22.90\n1\n0\n4\n2\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n3.440\n18.30\n1\n0\n4\n4\n\n\nMerc 280C\n17.8\n6\n167.6\n123\n3.92\n3.440\n18.90\n1\n0\n4\n4\n\n\nMerc 450SE\n16.4\n8\n275.8\n180\n3.07\n4.070\n17.40\n0\n0\n3\n3\n\n\nMerc 450SL\n17.3\n8\n275.8\n180\n3.07\n3.730\n17.60\n0\n0\n3\n3\n\n\nMerc 450SLC\n15.2\n8\n275.8\n180\n3.07\n3.780\n18.00\n0\n0\n3\n3\n\n\nCadillac Fleetwood\n10.4\n8\n472.0\n205\n2.93\n5.250\n17.98\n0\n0\n3\n4\n\n\nLincoln Continental\n10.4\n8\n460.0\n215\n3.00\n5.424\n17.82\n0\n0\n3\n4\n\n\nChrysler Imperial\n14.7\n8\n440.0\n230\n3.23\n5.345\n17.42\n0\n0\n3\n4\n\n\nFiat 128\n32.4\n4\n78.7\n66\n4.08\n2.200\n19.47\n1\n1\n4\n1\n\n\nHonda Civic\n30.4\n4\n75.7\n52\n4.93\n1.615\n18.52\n1\n1\n4\n2\n\n\nToyota Corolla\n33.9\n4\n71.1\n65\n4.22\n1.835\n19.90\n1\n1\n4\n1\n\n\nToyota Corona\n21.5\n4\n120.1\n97\n3.70\n2.465\n20.01\n1\n0\n3\n1\n\n\nDodge Challenger\n15.5\n8\n318.0\n150\n2.76\n3.520\n16.87\n0\n0\n3\n2\n\n\nAMC Javelin\n15.2\n8\n304.0\n150\n3.15\n3.435\n17.30\n0\n0\n3\n2\n\n\nCamaro Z28\n13.3\n8\n350.0\n245\n3.73\n3.840\n15.41\n0\n0\n3\n4\n\n\nPontiac Firebird\n19.2\n8\n400.0\n175\n3.08\n3.845\n17.05\n0\n0\n3\n2\n\n\nFiat X1-9\n27.3\n4\n79.0\n66\n4.08\n1.935\n18.90\n1\n1\n4\n1\n\n\nPorsche 914-2\n26.0\n4\n120.3\n91\n4.43\n2.140\n16.70\n0\n1\n5\n2\n\n\nLotus Europa\n30.4\n4\n95.1\n113\n3.77\n1.513\n16.90\n1\n1\n5\n2\n\n\nFord Pantera L\n15.8\n8\n351.0\n264\n4.22\n3.170\n14.50\n0\n1\n5\n4\n\n\nFerrari Dino\n19.7\n6\n145.0\n175\n3.62\n2.770\n15.50\n0\n1\n5\n6\n\n\nMaserati Bora\n15.0\n8\n301.0\n335\n3.54\n3.570\n14.60\n0\n1\n5\n8\n\n\nVolvo 142E\n21.4\n4\n121.0\n109\n4.11\n2.780\n18.60\n1\n1\n4\n2\n\n\n\n\n\n\n\n\n\nLearn more: Tabsets"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#interactive-slides",
-    "href": "metro/quarto-metropolis/demo/demo.html#interactive-slides",
-    "title": "Quarto demo presentation",
-    "section": "Interactive Slides",
-    "text": "Interactive Slides\nInclude Jupyter widgets and htmlwidgets in your presentations\n\n\n\n\n\n\n\nLearn more: Jupyter widgets, htmlwidgets"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#preview-links",
-    "href": "metro/quarto-metropolis/demo/demo.html#preview-links",
-    "title": "Quarto demo presentation",
-    "section": "Preview Links",
-    "text": "Preview Links\nNavigate to hyperlinks without disrupting the flow of your presentation.\nUse the preview-links option to open links in an iframe on top of your slides. Try clicking the link below for a demonstration:\n\nMatplotlib: Visualization with Python\n\n\nLearn more: Preview Links"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#themes",
-    "href": "metro/quarto-metropolis/demo/demo.html#themes",
-    "title": "Quarto demo presentation",
-    "section": "Themes",
-    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#easy-navigation",
-    "href": "metro/quarto-metropolis/demo/demo.html#easy-navigation",
-    "title": "Quarto demo presentation",
-    "section": "Easy Navigation",
-    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#chalkboard",
-    "href": "metro/quarto-metropolis/demo/demo.html#chalkboard",
-    "title": "Quarto demo presentation",
-    "section": "Chalkboard",
-    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#point-of-view",
-    "href": "metro/quarto-metropolis/demo/demo.html#point-of-view",
-    "title": "Quarto demo presentation",
-    "section": "Point of View",
-    "text": "Point of View\nPress o to toggle overview mode:\n\nHold down the Alt key (or Ctrl in Linux) and click on any element to zoom towards it—try it now on this slide.\n\nLearn more: Overview Mode, Slide Zoom"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#speaker-view",
-    "href": "metro/quarto-metropolis/demo/demo.html#speaker-view",
-    "title": "Quarto demo presentation",
-    "section": "Speaker View",
-    "text": "Speaker View\nPress s (or use the presentation menu) to open speaker view\n\n\n\n\n\n\nLearn more: Speaker View"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#authoring-tools",
-    "href": "metro/quarto-metropolis/demo/demo.html#authoring-tools",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nLive side-by-side preview for any notebook or text editor including Jupyter and VS Code\n\n\n\n\n\n\n\n\nLearn more: Jupyter, VS Code, Text Editors"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#authoring-tools-1",
-    "href": "metro/quarto-metropolis/demo/demo.html#authoring-tools-1",
-    "title": "Quarto demo presentation",
-    "section": "Authoring Tools",
-    "text": "Authoring Tools\nRStudio includes an integrated presentation preview pane\n\n\nLearn more: RStudio"
-  },
-  {
-    "objectID": "metro/quarto-metropolis/demo/demo.html#and-more",
-    "href": "metro/quarto-metropolis/demo/demo.html#and-more",
-    "title": "Quarto demo presentation",
-    "section": "And More…",
-    "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
-  },
-  {
-    "objectID": "unit99/tag-1.html#studien--und-prüfungsleistung",
-    "href": "unit99/tag-1.html#studien--und-prüfungsleistung",
-    "title": "Außerschulische Lernorte",
-    "section": "Studien- und Prüfungsleistung",
-    "text": "Studien- und Prüfungsleistung\nStudienleistung:\nEntwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton*innen (1,5 Stunden) in Dreiergruppen\nExkursionstagebuch, das Sie während der anderen Exkursionen führen\nPrüfungsleistung:\nAnpassung des Konzeptes für die Schule\nBündige Darstellung, die Veröffentlichung auf Homepage erlaubt"
-  },
-  {
-    "objectID": "unit99/tag-1.html#die-blocktage",
-    "href": "unit99/tag-1.html#die-blocktage",
-    "title": "Außerschulische Lernorte",
-    "section": "Die Blocktage",
-    "text": "Die Blocktage"
-  },
-  {
-    "objectID": "unit99/tag-1.html#interaktive-einführung-zukunftsvisionen",
-    "href": "unit99/tag-1.html#interaktive-einführung-zukunftsvisionen",
-    "title": "Außerschulische Lernorte",
-    "section": "Interaktive Einführung: Zukunftsvisionen",
-    "text": "Interaktive Einführung: Zukunftsvisionen\nVersuchen Sie die Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen. Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich.\nSie haben 15 Minuten Zeit."
-  },
-  {
-    "objectID": "unit99/tag-1.html#zukunftsvisionen",
-    "href": "unit99/tag-1.html#zukunftsvisionen",
-    "title": "Außerschulische Lernorte",
-    "section": "Zukunftsvisionen",
-    "text": "Zukunftsvisionen\nTauschen Sie sich nun mit Ihren Sitznachbar*innen, und den Kommiliton*innen, die hinter ihnen bzw. vor ihnen sitzen aus, so dass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.\nWelche Gemeinsamkeiten stellen Sie fest?\nWelche Unterschiede bestehen?\nSpiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?"
-  },
-  {
-    "objectID": "unit99/tag-1.html#übersicht-über-die-szenarien",
-    "href": "unit99/tag-1.html#übersicht-über-die-szenarien",
-    "title": "Außerschulische Lernorte",
-    "section": "Übersicht über die Szenarien",
-    "text": "Übersicht über die Szenarien\n\nMelden Sie sich bitte bei Partifiy an!"
-  },
-  {
-    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-1",
-    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-1",
-    "title": "Außerschulische Lernorte",
-    "section": "Wissenschaftliche Erkenntnisse 1",
-    "text": "Wissenschaftliche Erkenntnisse 1\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?\nWas bedeutet die Prozentzahl in Klammern in Sektion b)?\nWas bedeuten die flächigen Einfärbungen in den Graphen?"
-  },
-  {
-    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-2",
-    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-2",
-    "title": "Außerschulische Lernorte",
-    "section": "Wissenschaftliche Erkenntnisse 2",
-    "text": "Wissenschaftliche Erkenntnisse 2\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWelche Szenarien finden Sie in der Abbildung wieder?\nWas bedeuten die flächigen Einfärbungen in den Graphen?\nHaben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?\nWas bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?"
-  },
-  {
-    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-3",
-    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-3",
-    "title": "Außerschulische Lernorte",
-    "section": "Wissenschaftliche Erkenntnisse 3",
-    "text": "Wissenschaftliche Erkenntnisse 3\nDiskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.\n\n\n\n\n\nSource: www.ipcc.ch AR6 Synthesis Report\n\n\n\n\nWas bedeuten die 5 Szenarien? Wovon hängen Sie ab?\nWie warm wird es auf der Erde sein, wenn Sie 50 sind?\nWas können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?"
-  },
-  {
-    "objectID": "unit99/tag-1.html#cross-section-box.2-figure-1",
-    "href": "unit99/tag-1.html#cross-section-box.2-figure-1",
-    "title": "Außerschulische Lernorte",
-    "section": "Cross-Section Box.2, Figure 1",
-    "text": "Cross-Section Box.2, Figure 1"
-  },
-  {
-    "objectID": "unit99/tag-1.html#figure-spm.5",
-    "href": "unit99/tag-1.html#figure-spm.5",
-    "title": "Außerschulische Lernorte",
-    "section": "Figure SPM.5",
-    "text": "Figure SPM.5"
-  },
-  {
-    "objectID": "unit99/tag-1.html#figure-spm.1",
-    "href": "unit99/tag-1.html#figure-spm.1",
-    "title": "Außerschulische Lernorte",
-    "section": "Figure SPM.1",
-    "text": "Figure SPM.1"
-  },
-  {
-    "objectID": "unit99/tag-1.html#figure-4.2",
-    "href": "unit99/tag-1.html#figure-4.2",
-    "title": "Außerschulische Lernorte",
-    "section": "Figure 4.2",
-    "text": "Figure 4.2"
-  },
-  {
-    "objectID": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte",
-    "href": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte",
-    "title": "Außerschulische Lernorte",
-    "section": "Lehrkraft in Zeiten unsicherer Zukünfte",
-    "text": "Lehrkraft in Zeiten unsicherer Zukünfte\n\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?\nWas motiviert Sie die neue Generationen auszubilden?\nWordcloud oder Notizen in Particify?"
-  },
-  {
-    "objectID": "unit99/tag-1.html#resilienz",
-    "href": "unit99/tag-1.html#resilienz",
-    "title": "Außerschulische Lernorte",
-    "section": "Resilienz",
-    "text": "Resilienz\nDie Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, den Stress- und Schockwellen eines dramatischen, traumatischen und oft unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten, zu überleben und sich an sie anzupassen. Die Fähigkeit zum Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
-  },
-  {
-    "objectID": "unit99/tag-1.html#übung-im-zweierteam",
-    "href": "unit99/tag-1.html#übung-im-zweierteam",
-    "title": "Außerschulische Lernorte",
-    "section": "Übung im Zweierteam",
-    "text": "Übung im Zweierteam\n\nIn welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?\nBerichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton*innen nicht zu privat ist.\nWas hat Ihnen dabei geholfen?"
-  },
-  {
-    "objectID": "unit99/tag-1.html#persönliche-und-gesellschaftliche-resilienz",
-    "href": "unit99/tag-1.html#persönliche-und-gesellschaftliche-resilienz",
-    "title": "Außerschulische Lernorte",
-    "section": "Persönliche und gesellschaftliche Resilienz",
-    "text": "Persönliche und gesellschaftliche Resilienz\n\nDiskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.\nNotieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify."
-  },
-  {
-    "objectID": "unit99/tag-1.html#resilienzdimensionen",
-    "href": "unit99/tag-1.html#resilienzdimensionen",
-    "title": "Außerschulische Lernorte",
-    "section": "Resilienzdimensionen",
-    "text": "Resilienzdimensionen\n\nBiologisch\nMateriell\nSozial (einschließlich Kultur)\nKognitiv (Wissen und Verstehen)\nEmotional\n\nAfter Williamson, J. & Robinson, M. (2006). ’ Psychosocial programs or programs aimed at general well-being?"
-  },
-  {
-    "objectID": "unit99/tag-1.html#vulnerabilität",
-    "href": "unit99/tag-1.html#vulnerabilität",
-    "title": "Außerschulische Lernorte",
-    "section": "Vulnerabilität",
-    "text": "Vulnerabilität\n\nDas Ausmaß, in dem ein Individuum, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem nicht in der Lage ist, mit den Stress- und Schockwellen eines dramatischen, traumatischen und oft unerwarteten Ereignisses oder einer unerwarteten Entwicklung umzugehen.\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
-  },
-  {
-    "objectID": "unit99/tag-1.html#klimawandelvulnerabilität",
-    "href": "unit99/tag-1.html#klimawandelvulnerabilität",
-    "title": "Außerschulische Lernorte",
-    "section": "Klimawandelvulnerabilität",
-    "text": "Klimawandelvulnerabilität\n\nEin Gefühl der Wehrlosigkeit\nKörperlicher Zusammenbruch\nKultureller Zusammenbruch\nEmotionale oder psychische Verletzung bzw. mangelnde Fähigkeit zum Coping\nZusammenbruch sozialer Strukturen und sozialer und ökologischer Prozesse\nUnfähigkeit zur Adaption\nAggression und Konflikt\n\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
-  },
-  {
-    "objectID": "unit99/tag-1.html#klimawandelresilienz",
-    "href": "unit99/tag-1.html#klimawandelresilienz",
-    "title": "Außerschulische Lernorte",
-    "section": "Klimawandelresilienz",
-    "text": "Klimawandelresilienz\nDie Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und sich danach wieder aufzubauen. Merkmale der Resilienz:\n\nEmotionale, psychologische und kulturelle Stabilität\nDie Fähigkeit, positiv und hoffnungsvoll zu bleiben\nDie Fähigkeit zur Anpassung und Transformation\nDie Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.\n\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
-  },
-  {
-    "objectID": "unit99/tag-1.html#resilienz-vs.-vulnerabilität",
-    "href": "unit99/tag-1.html#resilienz-vs.-vulnerabilität",
-    "title": "Außerschulische Lernorte",
-    "section": "Resilienz vs. Vulnerabilität",
-    "text": "Resilienz vs. Vulnerabilität\nDer Grad der Resilienz und Vulnerabilität wird von der Art und dem Ausmaß der Klimabedrohung und dem Ausmaß abhängen, in dem Einzelpersonen, Gemeinschaften und Gesellschaften über die Zukunft nachgedacht und sich insbesondere auf den Umgang mit Schock und Unsicherheit vorbereitet haben.\nAdapted from Pike,G . & Selby,D . (2011). In the Global Classroom"
-  },
-  {
-    "objectID": "unit99/tag-1.html#institutionalisierung-der-resilienz",
-    "href": "unit99/tag-1.html#institutionalisierung-der-resilienz",
-    "title": "Außerschulische Lernorte",
-    "section": "Institutionalisierung der Resilienz",
-    "text": "Institutionalisierung der Resilienz\nFünf Handlungsprioritäten im Hyogo Framework for Action (HFA) Hyogo-Aktionsrahmen (HFA) 2005–2015: Aufbau der Widerstandsfähigkeit von Nationen und Gemeinschaften gegenüber Katastrophen\n\nDie Reduzierung des Katastrophenrisikos zur nationalen und lokalen Priorität mit einer starken institutionellen Grundlage für die Umsetzung machen.\nKatastrophenrisiken identifizieren, bewerten und überwachen und Frühwarnung verbessern.\nWissen, Innovation und Bildung auf allen Ebenen nutzen, um eine Kultur der Sicherheit und Widerstandsfähigkeit aufzubauen.\nZugrunde liegenden Risikofaktoren reduzieren.\nStärkung der Katastrophenvorsorge für eine wirksame Reaktion auf allen Ebenen."
-  },
-  {
-    "objectID": "unit99/tag-1.html#klimawandelbildung",
-    "href": "unit99/tag-1.html#klimawandelbildung",
-    "title": "Außerschulische Lernorte",
-    "section": "Klimawandelbildung",
-    "text": "Klimawandelbildung\n\nNachhaltige Entwicklung\nKatastrophenprävention\nWerte, Wissen und Fähigkeiten um eine friedliche und nachhaltige Welt zu gestalten.\nWerte, Wissen und Fähigkeiten die helfen Entscheidungen zu treffen, die den Klimawandel abschwächen.\nDurch Bildung Vulnarabilität von Communities reduzieren.\nHandlungs-fähigkeit für Natur-katsrophen präventiv ausbilden.\n\nFig 3. Klimawandelbilung. Nach: UNEP, UNESCO 2011"
-  },
-  {
-    "objectID": "unit99/tag-1.html#resilienzbildung",
-    "href": "unit99/tag-1.html#resilienzbildung",
-    "title": "Außerschulische Lernorte",
-    "section": "Resilienzbildung",
-    "text": "Resilienzbildung\nKatastrophen-prävention\nFig 4. Resilienzbildung\nResilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen."
-  },
-  {
-    "objectID": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte-1",
-    "href": "unit99/tag-1.html#lehrkraft-in-zeiten-unsicherer-zukünfte-1",
-    "title": "Außerschulische Lernorte",
-    "section": "Lehrkraft in Zeiten unsicherer Zukünfte",
-    "text": "Lehrkraft in Zeiten unsicherer Zukünfte\nDiskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.\n\nWelche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?\nWelche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?\nWas motiviert Sie die neue Generationen auszubilden?\nFormulieren Sie Ihre Notizen aus und laden Sie die Antworten bis Mitternacht im Ilias-Ordner hoch."
-  },
-  {
-    "objectID": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-4",
-    "href": "unit99/tag-1.html#wissenschaftliche-erkenntnisse-4",
-    "title": "Außerschulische Lernorte",
-    "section": "Wissenschaftliche Erkenntnisse 4",
-    "text": "Wissenschaftliche Erkenntnisse 4"
-  },
-  {
-    "objectID": "unit99/tag-1.html#herzlich-willkommen",
-    "href": "unit99/tag-1.html#herzlich-willkommen",
-    "title": "Außerschulische Lernorte",
-    "section": "Herzlich Willkommen",
-    "text": "Herzlich Willkommen\nKurs besteht aus:\n\ndrei Blocktagen\nSemesterbegleitender Veranstaltung\n\n\n\nDienstag 10-12 (Dörfel)\nDonnerstag 12-14 (Ammoneit)\nDonnerstag 14-16 (Reudenbach)"
   }
 ]

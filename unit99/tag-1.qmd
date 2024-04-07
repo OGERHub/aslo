@@ -62,13 +62,19 @@ Bitte melden Sie sich bei Particifi an und geben Sie an, ob wir Ihre Ergebnisse 
 :::
 <iframe src="https://partici.fi/13349343" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-[Source: www.ipcc.ch AR6 Synthesis Report](https://partici.fi/13349343){.lightbox width="75%" fig-align="center"}
+[Partifici Befragung](https://partici.fi/13349343){.lightbox width="75%" fig-align="center"}
 
 
 
 ## Interaktive Einführung: Zukunftsvisionen
 
-Versuchen Sie die Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? Überlegen und zeichnen Sie zunächst alleine ohne sich mit anderen auszutauschen. Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich.
+Versuchen Sie Ihre Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? 
+
+::: {.callout-tip  appearance="simple" title="Arbeitsauftrag" icon=false}
+Überlegen und zeichnen Sie  ohne sich mit anderen auszutauschen ein Bild , eine Skizze von Ihrer Zukunftsvision.
+:::
+
+Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich! 
 
 Sie haben 15 Minuten Zeit.
 
@@ -76,11 +82,14 @@ Sie haben 15 Minuten Zeit.
 
 Tauschen Sie sich nun mit Ihren Sitznachbar\*innen, und den Kommiliton\*innen, die hinter ihnen bzw. vor ihnen sitzen aus, so dass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.
 
-Welche Gemeinsamkeiten stellen Sie fest?
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
+- Welche Gemeinsamkeiten stellen Sie fest?
 
-Welche Unterschiede bestehen?
+- Welche Unterschiede bestehen?
 
-Spiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?
+- Spiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?
+:::
+
 
 ## Übersicht über die Szenarien
 
@@ -90,13 +99,14 @@ Melden Sie sich bitte bei Particifi an!
 
 
 ## Wissenschaftliche Grundlagen
-Bearbeiten Sie die Aufgaben unter IPCC in Particifi
+
+Bearbeiten Sie die Aufgaben unter IPCC in Particifi.
 
 ![](../images/img/Tag10.png)
 
 ## Wissenschaftliche Grundlagen 1/4
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
 
 ::: columns
 ::: {.column width="30%"}
@@ -104,6 +114,7 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 
 ::: {.column width="60%"}
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
 -   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
 
 -   Was bedeutet die Prozentzahl in Klammern in Sektion b)?
@@ -111,10 +122,11 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 -   Was bedeuten die flächigen Einfärbungen in den Graphen?
 :::
 :::
+:::
 
 ## Wissenschaftliche Grundlagen 2/4
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
 
 ::: columns
 ::: {.column width="30%"}
@@ -122,6 +134,7 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 
 ::: {.column width="60%"}
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
 -   Welche Szenarien finden Sie in der Abbildung wieder?
 
 -   Was bedeuten die flächigen Einfärbungen in den Graphen?
@@ -131,10 +144,11 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 -   Was bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?
 :::
 :::
-
+:::
 ## Wissenschaftliche Grundlagen 3/4
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
+<br>
 
 ::: columns
 ::: {.column width="30%"}
@@ -142,6 +156,7 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 
 ::: {.column width="60%"}
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
 -   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
 
 -   Wie warm wird es auf der Erde sein, wenn Sie 50 sind?
@@ -149,10 +164,11 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 -   Was können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
 :::
 :::
+:::
 
 ## Wissenschaftliche Grundlagen 4/4
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams.<br>
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
 
 ::: columns
 ::: {.column width="30%"}
@@ -160,6 +176,7 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 :::
 
 ::: {.column width="60%"}
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
 -   Was bedeutet die dargestellte Pfadentwicklung?
 
 -   Was bedeutet diese Pfadentwicklung für die Bildungsarbeit?
@@ -169,19 +186,22 @@ Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweier
 -   Auf welchem Pfad sehen Sie die Menschheit?
 :::
 :::
-
+:::
 ## Lehrkraft in Zeiten unsicherer Zukünfte
-::: {.callout-important title="Arbeitsauftrag"}
+
 Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
 
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
 -   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
 
 -   Welche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?
 
 -   Was motiviert Sie die neue Generationen auszubilden?
 
-Machen Sie Notizen.
+
 ::: 
+
+Machen Sie Notizen.
 
 ## Resilienz
 
@@ -206,7 +226,7 @@ Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder ei
 
 ## Übung zur Reslienz im Zweierteam
 
-::: {.callout-important title="Arbeitsauftrag"}
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
 -   In welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?
 
 -   Berichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton\*innen nicht zu privat ist.
@@ -216,9 +236,10 @@ Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder ei
 
 ## Übung zur persönlichen und gesellschaftlichen Resilienz
 
-::: {.callout-important title="Arbeitsauftrag"}
--   Diskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.
 
+Diskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.
+
+::: {.callout-tip  appearance="simple" title="Arbeitsauftrag" icon=false}
 -   Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.
 ::::
 
@@ -290,8 +311,10 @@ der Gefahren des Klimawandels uns und unsere Lebensweise weniger stark treffen.
 Dazu gehört auch, positiven Aspekte des Klimawandels zu nutzen
 Es geht aber hauptächlich darum auf potenzielle Gefahr zu regaieren, indem wir unsere Anfälligkeit für reduzieren. 
 
-^Selby & Kagawa (2013)
+^Selby & Kagawa (2013)^
+
 ## Strategien der Anpassung
+
 1.    Im Vorfeld Maßnahmen ergreifen, um Verluste zu vermeiden, zum Beispiel durch Baumaßnahmen
 Barrieren gegen den Anstieg des Meeresspiegels oder Aufforstung von Hängen, um Erdrutsche zu verhindern
 2.     Maßnahmen ergreifen, um Verluste zu reduzieren, beispielsweise durch dürreresistente Pflanzen bei Trockenheit
@@ -330,13 +353,18 @@ Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klima
 
 Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
 
+::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
 -   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
 
 -   Welche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?
 
 -   Was motiviert Sie die neue Generationen auszubilden?
 
--   Formulieren Sie Ihre Notizen aus und laden Sie die Antworten bis 23:55 Uhr im Ilias-Ordner hoch.
+::: 
+
+::: {.callout-important  appearance="simple" title="Abgabe"}
+Formulieren Sie Ihre Notizen aus und laden Sie die Antworten bis 23:55 Uhr im Ilias-Ordner hoch.
+:::
 
 ## Literatur
 Barnett, J., & O'Neill, S. J. (2013). Minimising the risk of maladaptation: a framework for analysis. Climate adaptation futures, 87-93.

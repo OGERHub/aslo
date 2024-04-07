@@ -61,8 +61,8 @@ Kurs besteht aus:
 </iframe>
 
 ## Einverständniserklärung
-::: {.callout-important }
-Bitte melden Sie sich bei Particifi an und geben Sie an, ob wir Ihre Ergebnisse für wissenschaftliche Zwecke nutzen dürfen. Tragen Sie in jedem Fall Ihren Namen ein.
+::: {.callout-warning icon=false appearance="simple" }
+Bitte richten Sie nun ein Konto bei sich bei [Particifi](https://ars.particify.de/login) ein und geben Sie an, ob wir Ihre Ergebnisse für wissenschaftliche Zwecke nutzen dürfen (was sehr erwüscht ist!). Tragen Sie in **jedem** Fall Ihren Namen ein.
 :::
 <iframe src="https://partici.fi/13349343" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 

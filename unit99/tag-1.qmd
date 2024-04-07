@@ -56,9 +56,8 @@ Kurs besteht aus:
 
 ## Die Blocktage
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Europe%2FBerlin&amp;bgcolor=%23ffffff&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;title=ASLO%202024%20Blocktage&amp;src=NzE2OTUxNTg5OTdkZTk2NzNjMjEzNjc0YTVlZTcwN2U0NjAyMjFjOTA0ZjRlNzc2MmNhMTVhM2U3Zjc2MDcxNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%2333B679" style="border-width:0" width="1024" height="600" frameborder="0" scrolling="no">
+![](../images/Blocktermin_Zeiten.png){.lightbox width="75%" fig-align="center"}
 
-</iframe>
 
 ## Einverständniserklärung
 ::: {.callout-warning icon=false appearance="simple" }

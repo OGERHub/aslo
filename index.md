@@ -25,11 +25,18 @@ Einführungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb1
 
 ## Einführung
 
-Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung mobiler digitaler Medien didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
+Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden Sie im Sinne der Klimawandelbildung Lernorte erarbeiten, die resilient, adaptiv, vulnerabel oder mal-adaptiv sind und ausarbeiten, was dies für den Raum bedeutet. Ausgehend von der thematischen Erschließung werden Sie eine methodische Ausarbeitung durchführen, sodass Sie die Inhalte in einer 60 Minütigen Exkursion mit Ihren Kommilito*innen überführen und eine Wissensvermittlung sowie Sensibilisierung für die lokalen Gegebenheiten erzielen. 
 
 ## Lernziele
 
-Am Ende des Kurses sollen Sie in der Lage sein \* ausgehend von einer fachlichen Problemstellung eine außerschulische Lernumgebung konzipieren zu können, \* dafür fachspezifische Methoden so aufzubereiten, dass eine adressaten- und problemorientierte Lernsituation geschaffen wird, \* dazu den Mehrwert mobiler digitaler Medien zu identifizieren, sowie diese sinnvoll zu gestalten und einzusetzen, und \* eine Lernumgebung am konkreten außerschulischen Standort aus fachlicher und fachdidaktischer Perspektive sowie im Hinblick auf Bildung für nachhaltige Entwicklung zu analysieren.
+Sie lernen.. 
+    • vulnerable, adapative, maladpative und resiliente Orte in Marburg aufzufinden, die in Verbindung mit dem Klimawandel stehen 
+    • diese Lernorte inhaltlich aufzubereiten, um Ihre Kommiliton*innen für die Vulnerabilität und/ oder Resilienz dieser Orte zu sensibilisieren 
+    • diese inhaltlichen Schwerpunkte in einer 60-minütigen Exkursion zu konzipieren, die im Sinne der Klimawandelbildung Wissen auf universitären Niveau vermittelt
+    • sowie aktualitätsbezogene Geschehnisse durch Lernorte inhaltlich aufzubereiten 
+    • und anschließend in eine Exkursion für Schüler*innen zu transferieren 
+Zudem steht an erster Stelle, selbst für den lokalen Klimawandel sensibilisiert zu werden und zu erfahren, was es bedeutet, lokale Klimawandelbilcung zu stärken. 
+
 
 ## Kursmerkmale
 
@@ -39,13 +46,8 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
 Information zum Format des Kurses: Der Kurs gliedert sich in eine Blockeinheit vor Beginn des Vorlesungszeitraums und Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter [How-to ASLO](unit00/unit00-01-howto.qmd) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php).
 :::
 
-## Gruppenarbeit und Gruppenbildung
-
-Sie werden dieses Modul in Kleingruppen durchlaufen.
-
--   Die Gruppenzuordnung werden wir in der ersten Blockveranstaltung vornehmen.
--   Die Gruppe arbeitet das gesamte Modul zusammen.
--   Sie treffen sich während dem Semester regelmäßig selbstständig in Präsenz oder online und bearbeiten gemeinsam Arbeitsaufträge.
+## Gruppenarbeit und Gruppenbildung 
+Am 2. Blocktag werden wir 3er-Gruppen bilden. In diesen werden Sie sich sowohl das Exkursionskonzept zur inhaltlichen Exkursion in der semsterbegleitenden Lehre erarbeiten (Studienleistung) sowie anschließend einen Projektbericht verfassen, welcher das Konzept didaktisch für die Schule aufbereitet (Prüfungsleistung).
 
 ## FAQs
 

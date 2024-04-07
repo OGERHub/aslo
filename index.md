@@ -25,17 +25,18 @@ Einführungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb1
 
 ## Einführung
 
-Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden Sie im Sinne der Klimawandelbildung Lernorte erarbeiten, die resilient, adaptiv, vulnerabel oder mal-adaptiv sind und ausarbeiten, was dies für den Raum bedeutet. Ausgehend von der thematischen Erschließung werden Sie eine methodische Ausarbeitung durchführen, sodass Sie die Inhalte in einer 60 Minütigen Exkursion mit Ihren Kommilito*innen überführen und eine Wissensvermittlung sowie Sensibilisierung für die lokalen Gegebenheiten erzielen. 
+Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden Sie im Sinne der Klimawandelbildung Lernorte erarbeiten, die resilient, adaptiv, vulnerabel oder mal-adaptiv sind und ausarbeiten, was dies für den Raum bedeutet. Ausgehend von der thematischen Erschließung werden Sie eine methodische Ausarbeitung durchführen, sodass Sie die Inhalte in einer 60 Minütigen Exkursion überführen und eine Wissensvermittlung sowie Sensibilisierung für die lokalen Gegebenheiten erzielen. 
 
 ## Lernziele
 
 Sie lernen.. 
-    • vulnerable, adapative, maladpative und resiliente Orte in Marburg aufzufinden, die in Verbindung mit dem Klimawandel stehen 
-    • diese Lernorte inhaltlich aufzubereiten, um Ihre Kommiliton*innen für die Vulnerabilität und/ oder Resilienz dieser Orte zu sensibilisieren 
-    • diese inhaltlichen Schwerpunkte in einer 60-minütigen Exkursion zu konzipieren, die im Sinne der Klimawandelbildung Wissen auf universitären Niveau vermittelt
-    • sowie aktualitätsbezogene Geschehnisse durch Lernorte inhaltlich aufzubereiten 
-    • und anschließend in eine Exkursion für Schüler*innen zu transferieren 
-Zudem steht an erster Stelle, selbst für den lokalen Klimawandel sensibilisiert zu werden und zu erfahren, was es bedeutet, lokale Klimawandelbilcung zu stärken. 
+* vulnerable, adapative, maladpative und resiliente Orte in Bezug auf den Klimawandel in Marburg aufzufinden,
+* diese Lernorte inhaltlich aufzubereiten, um Ihre Kommiliton*innen für die Vulnerabilität und/ oder Resilienz dieser Orte zu sensibilisieren 
+* diese thematischen Inhalte in eine 60-minütige Exkursion zu überführen, die im Sinne der Klimawandelbildung Wissen auf universitären Niveau vermittelt
+* aktualitätsbezogene Geschehnisse durch Lernorte inhaltlich aufzubereiten  
+* und diese anschließend in eine Exkursion für Schüler*innen zu transferieren
+  
+Zudem steht an erster Stelle, selbst für den lokalen Klimawandel sensibilisiert zu werden und zu erfahren, was es bedeutet, lokale Klimawandelbildung zu stärken. 
 
 
 ## Kursmerkmale
@@ -59,9 +60,6 @@ Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten. H�
 * Donnerstag 14 -16 Uhr (Reudenbach)
 
 ## Ablauf Block 
-
-* Blocktage sind 7./8./9. April 9.00 Uhr bis 17.00 Uhr
-
 
 
 ## Team

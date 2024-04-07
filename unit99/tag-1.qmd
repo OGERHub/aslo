@@ -41,7 +41,7 @@ Kurs besteht aus:
 ### Studienleistung
 
 ::: {.callout-warning  appearance="simple"  icon=false}
-- Entwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton\*innen (1,5 Stunden) in Dreiergruppen
+- Entwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton\*innen (60 Minuten) in Dreiergruppen
 
 - Exkursionstagebuch, das Sie während der anderen Exkursionen führen
 :::

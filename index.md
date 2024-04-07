@@ -61,6 +61,7 @@ Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten. HÃ
 
 ## Ablauf Block 
 
+![](../images/Blocktermin_Zeiten.png){.lightbox width="75%" fig-align="center"}
 
 ## Team
 

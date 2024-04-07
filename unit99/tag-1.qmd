@@ -61,7 +61,11 @@ Kurs besteht aus:
 
 ## Einverständniserklärung
 ::: {.callout-warning icon=false appearance="simple" }
-Bitte richten Sie nun ein Konto bei sich bei [Particifi](https://ars.particify.de/login) ein und geben Sie an, ob wir Ihre Ergebnisse für wissenschaftliche Zwecke nutzen dürfen (was sehr erwüscht ist!). Tragen Sie in **jedem** Fall Ihren Namen ein.
+Bitte richten Sie nun ein Konto bei sich bei [Particifi](https://ars.particify.de/login) ein.
+
+Bitte geben sie uns zusätzlich auf ILIAS die Zustimmung, dass wir die Daten zu wissenschaftlichen Zwecken nutzen dürfen. Diese ist natürlich freiwillig aber wir begrüßen es ausdrücklich dass Sie uns bei der wissenschaftlichen Begleitung des Kurses unterstützen. 
+
+Bitte beantworten Sie die Fragen im folgendem *praticifi*:
 :::
 <iframe src="https://partici.fi/13349343" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 

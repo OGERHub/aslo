@@ -42,10 +42,7 @@ Zudem steht an erster Stelle, selbst für den lokalen Klimawandel sensibilisiert
 ## Kursmerkmale
 
 Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
-
-::: {.callout-tip appearance="minimal"}
-Information zum Format des Kurses: Der Kurs gliedert sich in eine Blockeinheit vor Beginn des Vorlesungszeitraums und Online- oder Präsenztermine dazwischen. Weitere Informationen finden Sie unter [How-to ASLO](unit00/unit00-01-howto.qmd) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/ilias.php).
-:::
+An den Blockterminen werden wir die inhaltliche Grundlage erarbeiten sowie die Exkursionen für die semesterbegleitende Lehre weitesgehend vorbereiten. In der semesterbegleitenden Lehre werden diese dann an ca. 10 Terminen (jede Woche eine) durchgeführt. Die zwei bis drei Sitzungen am Ende dienen einer übergeordneten Reflexion sowie der Vorstellung der Prüfungsleistung. 
 
 ## Gruppenarbeit und Gruppenbildung 
 Am 2. Blocktag werden wir 3er-Gruppen bilden. In diesen werden Sie sich sowohl das Exkursionskonzept zur inhaltlichen Exkursion in der semsterbegleitenden Lehre erarbeiten (Studienleistung) sowie anschließend einen Projektbericht verfassen, welcher das Konzept didaktisch für die Schule aufbereitet (Prüfungsleistung).

@@ -65,3 +65,7 @@ Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten. H�
 ## Team
 
 Viel Spaß in unserem Kurs und beim Lernen an der Universität Marburg!
+
+## Ilias Sammelkurs für alle Parallelgruppen
+
+[Ilias Kurs](https://ilias3.uni-marburg.de/ilias.php?ref_id=3906018&cmdClass=ilobjcoursegui&cmd=view&cmdNode=z0:na&baseClass=ilRepositoryGUI)

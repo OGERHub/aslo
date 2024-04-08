@@ -768,5 +768,12 @@
     "title": "YOUR TITLE",
     "section": "A slide with a plot",
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
+  },
+  {
+    "objectID": "index.html#ilias-sammelkurs-für-alle-parallelgruppen",
+    "href": "index.html#ilias-sammelkurs-für-alle-parallelgruppen",
+    "title": "Außerschulische Lernorte",
+    "section": "Ilias Sammelkurs für alle Parallelgruppen",
+    "text": "Ilias Sammelkurs für alle Parallelgruppen\nIlias Kurs"
   }
 ]

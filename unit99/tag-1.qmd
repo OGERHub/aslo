@@ -79,8 +79,12 @@ Versuchen Sie Ihre Zukunft zu visualisieren. Welche Bilder und Vorstellungen hab
 
 ::: {.callout-tip  appearance="simple" title="Arbeitsauftrag" icon=false}
 Überlegen und zeichnen Sie  ohne sich mit anderen auszutauschen ein Bild , eine Skizze von Ihrer Zukunftsvision.
-:::
 
+
+:::
+::: {.callout-tip  appearance="simple" title="Universale Vision" icon=false collapse=false}
+![](/images/vision.webp){width=50%}
+:::
 Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich! 
 
 Sie haben 15 Minuten Zeit.
@@ -371,6 +375,9 @@ Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung 
 
 ::: {.callout-important  appearance="simple" title="Abgabe"}
 Formulieren Sie Ihre Notizen aus und laden Sie die Antworten bis 23:55 Uhr im Ilias-Ordner hoch.
+Bezeichnung: Nachname_1.pdf 
+Umfang:       beliebig
+Einzelabgabe für jeden Studierenden
 :::
 
 ## Literatur

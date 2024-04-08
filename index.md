@@ -30,6 +30,7 @@ Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographisch
 ## Lernziele
 
 Sie lernen.. 
+
 * vulnerable, adapative, maladpative und resiliente Orte in Bezug auf den Klimawandel in Marburg aufzufinden,
 * diese Lernorte inhaltlich aufzubereiten, um Ihre Kommiliton*innen für die Vulnerabilität und/ oder Resilienz dieser Orte zu sensibilisieren 
 * diese thematischen Inhalte in eine 60-minütige Exkursion zu überführen, die im Sinne der Klimawandelbildung Wissen auf universitären Niveau vermittelt
@@ -58,7 +59,8 @@ Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten. H�
 
 ## Ablauf Block 
 
-![](../images/Blocktermin_Zeiten.png){.lightbox width="75%" fig-align="center"}
+![](images/Blocktermin_Zeiten.png){.lightbox width="75%" fig-align="center"}
+
 
 ## Team
 

@@ -182,6 +182,13 @@
     "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
   },
   {
+    "objectID": "unit99/tag-2.html#spurensuche",
+    "href": "unit99/tag-2.html#spurensuche",
+    "title": "Außerschulische Lernorte",
+    "section": "Spurensuche",
+    "text": "Spurensuche\n\n\n\nArbeitsauftrag\n\n\nSie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h.:\n\nalles, was von akuteller oder vergangener Adaptionsleistung zeugt (gut und schlecht)\nalles, was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint\nalles, was die vulnariabilität unseres Systems sichtbar macht\n\nSie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards."
+  },
+  {
     "objectID": "unit99/tag-2.html#wirkfolgen-des-klimawandels-auf-den-urbanen-raum",
     "href": "unit99/tag-2.html#wirkfolgen-des-klimawandels-auf-den-urbanen-raum",
     "title": "Außerschulische Lernorte",
@@ -189,11 +196,11 @@
     "text": "Wirkfolgen des Klimawandels auf den urbanen Raum"
   },
   {
-    "objectID": "unit99/tag-2.html#konzepte-und-rahmenvorgaben-weiterführende-links",
-    "href": "unit99/tag-2.html#konzepte-und-rahmenvorgaben-weiterführende-links",
+    "objectID": "unit99/tag-2.html#konzepte-und-rahmenvorgaben",
+    "href": "unit99/tag-2.html#konzepte-und-rahmenvorgaben",
     "title": "Außerschulische Lernorte",
-    "section": "Konzepte und Rahmenvorgaben Weiterführende Links",
-    "text": "Konzepte und Rahmenvorgaben Weiterführende Links\n\nKlima- und Umweltschutz\nKlimawandelgerechte Stadtentwicklung\nUmweltbundesamt Tatenbank"
+    "section": "Konzepte und Rahmenvorgaben",
+    "text": "Konzepte und Rahmenvorgaben\n\nKlima- und Umweltschutz\nKlimawandelgerechte Stadtentwicklung\nUmweltbundesamt Tatenbank"
   },
   {
     "objectID": "unit99/tag-2.html#marburg-und-klimaschutz",
@@ -201,13 +208,6 @@
     "title": "Außerschulische Lernorte",
     "section": "Marburg und Klimaschutz",
     "text": "Marburg und Klimaschutz\n\nIntegriertes Klimaschutzkonzept Marburg\nKlimaneutral und sozialverträglich: Leitlinien für die Stadtentwicklung Marburg\nEnergie- und klimaeffiziente Quartiere: Beispiel Marburg\nTrinkwasser als Klimaschutz\nNachbarschaftsprojekte im Klimaschutz Marburg\nkollektiv von MORGEN\nBNE Marburg\nSpielplatztreff\nUrban Gardening"
-  },
-  {
-    "objectID": "unit99/tag-2.html#resilienzspurensuche",
-    "href": "unit99/tag-2.html#resilienzspurensuche",
-    "title": "Außerschulische Lernorte",
-    "section": "Resilienzspurensuche",
-    "text": "Resilienzspurensuche\n\n\n\nArbeitsauftrag\n\n\nSie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h.:\n\nalles, was von akuteller oder vergangener Adaptionsleistung zeugt (gut und schlecht)\nalles, was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint\nalles, was die vulnariabilität unseres Systems sichtbar macht\n\nSie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards."
   },
   {
     "objectID": "unit99/tag-2.html#vorgaben-für-den-lernort",
@@ -803,19 +803,5 @@
     "title": "YOUR TITLE",
     "section": "A slide with a plot",
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
-  },
-  {
-    "objectID": "unit99/tag-2.html#spurensuche",
-    "href": "unit99/tag-2.html#spurensuche",
-    "title": "Außerschulische Lernorte",
-    "section": "Spurensuche",
-    "text": "Spurensuche\n\n\n\nArbeitsauftrag\n\n\nSie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h.:\n\nalles, was von akuteller oder vergangener Adaptionsleistung zeugt (gut und schlecht)\nalles, was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint\nalles, was die vulnariabilität unseres Systems sichtbar macht\n\nSie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards."
-  },
-  {
-    "objectID": "unit99/tag-2.html#konzepte-und-rahmenvorgaben",
-    "href": "unit99/tag-2.html#konzepte-und-rahmenvorgaben",
-    "title": "Außerschulische Lernorte",
-    "section": "Konzepte und Rahmenvorgaben",
-    "text": "Konzepte und Rahmenvorgaben\n\nKlima- und Umweltschutz\nKlimawandelgerechte Stadtentwicklung\nUmweltbundesamt Tatenbank"
   }
 ]

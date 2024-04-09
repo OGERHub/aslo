@@ -200,7 +200,7 @@
     "href": "unit99/tag-2.html#bewertung-der-beispiele",
     "title": "Außerschulische Lernorte",
     "section": "Bewertung der Beispiele",
-    "text": "Bewertung der Beispiele\n\n\n\n\n\n\nAufgabenstellung\n\n\n\nBewerten Sie mindestens 20 der Beipiele anderer Gruppen.\nWählen Sie räumlich gut über die Stadt verteilte Beipiele aus.\nBewerten sie die Verschlagwortung und Begründung mit 1 bis 5 Sternen"
+    "text": "Bewertung der Beispiele\n\n\n\n\n\n\nAufgabenstellung\n\n\n\nBewerten Sie mindestens 20 der Beispiele anderer Gruppen.\nWählen Sie räumlich gut über die Stadt verteilte Beipiele aus.\nBewerten sie die Verschlagwortung und Begründung mit 1 bis 5 Sternen"
   },
   {
     "objectID": "unit99/tag-2.html#wirkfolgen-des-klimawandels-auf-den-urbanen-raum",
@@ -235,7 +235,7 @@
     "href": "unit99/tag-2.html#vorgaben-für-die-skizze",
     "title": "Außerschulische Lernorte",
     "section": "Vorgaben für die Skizze",
-    "text": "Vorgaben für die Skizze\n\n\n\n\n\n\nImportant\n\n\nDie Skizze Ihres Dreierteams soll bis 23:55 Uhr heute Abend im Ilias-Ordner hochgeladen sein.\n\n\n\nDarin enthalten sollen sein:\n\nThema:\nOrt:\nZiel:\nAktivierung der Teilnehmenden:"
+    "text": "Vorgaben für die Skizze\n\n\n\nAufgabenstellung\n\n\nDie Skizze Ihres Dreierteams soll bis 23:55 Uhr heute Abend im Ilias-Ordner hochgeladen sein.\n\n\n\nDarin enthalten sollen sein:\n\nThema:\nOrt:\nZiel:\nAktivierung der Teilnehmenden:"
   },
   {
     "objectID": "unit99/tag-2.html#materialien",
@@ -817,5 +817,19 @@
     "title": "YOUR TITLE",
     "section": "A slide with a plot",
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
+  },
+  {
+    "objectID": "unit99/tag-2.html#risiken-und-anpassungstrategien-klimawandel-in-marburg",
+    "href": "unit99/tag-2.html#risiken-und-anpassungstrategien-klimawandel-in-marburg",
+    "title": "Außerschulische Lernorte",
+    "section": "Risiken und Anpassungstrategien Klimawandel in Marburg",
+    "text": "Risiken und Anpassungstrategien Klimawandel in Marburg\nMaterialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und Marburg.\n\nDie Risiken des Klimawandels für Deutschland\nHandlungskonzept Klimaanpassung Marburg\nWebmap HKM"
+  },
+  {
+    "objectID": "unit99/tag-2.html#reflexion-skizze---risiken-und-anpassungstrategien-klimawandel",
+    "href": "unit99/tag-2.html#reflexion-skizze---risiken-und-anpassungstrategien-klimawandel",
+    "title": "Außerschulische Lernorte",
+    "section": "Reflexion Skizze - Risiken und Anpassungstrategien Klimawandel",
+    "text": "Reflexion Skizze - Risiken und Anpassungstrategien Klimawandel\n\nWird der Einfluss des Klimawandels im Lernort thematisiert?\nHat der Klimawandel Einfluss auf das thematisierte regionale System?\nFür wie relevant halten Sie das adressierte Thema für die Klimaresilienz in Marburg?\nIst das fokussierte Problem auf der lokalen oder regionalen Skalenebene wirksam zu bearbeiten?\nIst das Exkursionsziel am gewählten außerschulischen Lernort erfahrbar?\nLässt sich das Ziel des AsLo besser draußen als im Seminarraum erreichen?\nIst die Aktivierung wirksam auf das Ziel des AsLo ausgerichtet?⁩"
   }
 ]

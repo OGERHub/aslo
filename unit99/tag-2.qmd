@@ -60,7 +60,7 @@ Der Springbrunnen auf dem kahlen Firmaneiplatz ist ein beliebter Treffpunkt für
 ## Bewertung der Beispiele
 
 ::: {.callout-tip  appearance="simple" title="Aufgabenstellung"}
-- Bewerten Sie mindestens 20 der Beipiele anderer Gruppen.
+- Bewerten Sie mindestens 20 der Beispiele anderer Gruppen.
 - Wählen Sie räumlich gut über die Stadt verteilte Beipiele aus.
 - Bewerten sie die Verschlagwortung und Begründung mit  1 bis 5 Sternen
 :::
@@ -115,7 +115,8 @@ zu vermitteln, um die Resilienz der Gesellschaft zu stärken.
 
 ## Vorgaben für die Skizze
 
-::: callout-important
+::: {.callout-important     appearance="simple" title="Aufgabenstellung" icon=false}
+
 Die Skizze Ihres Dreierteams soll bis 23:55 Uhr heute Abend im
 Ilias-Ordner hochgeladen sein.
 :::
@@ -127,24 +128,21 @@ Darin enthalten sollen sein:
 -   Ziel:
 -   Aktivierung der Teilnehmenden:
 
-## Materialien
 
-### Wirkfolgen des Klimawandels auf den urbanen Raum
+## Reflexion Skizze -  Risiken und Anpassungstrategien Klimawandel
 
-![](../images/KlimawandelStadt.png)
+- Wird der Einfluss des Klimawandels im Lernort thematisiert?
+- Hat der Klimawandel Einfluss auf das thematisierte regionale System?
+- Für wie relevant halten Sie das adressierte Thema für die Klimaresilienz in Marburg?
+- Ist das fokussierte Problem auf der lokalen oder regionalen Skalenebene wirksam zu bearbeiten?
+- Ist das Exkursionsziel am gewählten außerschulischen Lernort erfahrbar?
+- Lässt sich das Ziel des AsLo besser draußen als im Seminarraum erreichen?
+- Ist die Aktivierung wirksam auf das Ziel des AsLo ausgerichtet?⁩
 
-### Weiterführende Links
+## Risiken und Anpassungstrategien Klimawandel in Marburg
 
--   [Klima- und
-    Umweltschutz](https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Themen/Themenuebersicht/Klima-und-Umweltschutz/klima-und-umweltschutz_node.html)
--   [Klimawandelgerechte
-    Stadtentwicklung](https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Publikationen/DE_Ressorforschung/klimagerechte_stadtentwicklung.pdf%3F__blob%3DpublicationFile%26v%3D1&ved=2ahUKEwiSnq3TobOFAxWe7LsIHaCCATAQFnoECDEQAQ&usg=AOvVaw1ooYsFSQLGcF2xTpoKPcgA)
--   [Integriertes Klimaschutzkonzept
-    Marburg](https://www.marburg.de/downloads/datei/-XxC5Lc7mRb8S0lNCedXCkx6QmQ3cng2Uks0YVdsdzlXQS93bGg5SVJaWk52Ny9lZ1hpZjZOemVtZXpJNU1uQWU2R0hCSElxRm11Y25ja0lrT2UrUGp3b0QvRkx2bEozVmQ1MGUzZWlBMlFjNXdmMG12UHMrMHFJMytEaFAwbjUxVlFWaEU1eHdEOW1NRHh)
--   [Klimaneutral und sozialverträglich: Leitlinien für die
-    Stadtentwicklung
-    Marburg](https://www.marburg.de/portal/seiten/klimaneutral-und-sozialvertraeglich-leitlinien-fuer-die-stadtentwicklung-900002968-23001.html)
--   [Energie- und klimaeffiziente Quartiere: Beispiel
-    Marburg](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2012/5_6/Inhalt/izr-5-6-2012-komplett-dl.pdf?__blob=publicationFile&v=1)
--   [Umweltbundesamt
-    Tatenbank](https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank?kompass_tags_f_action=85070&page=5)
+Materialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und Marburg.
+
+- [Die Risiken des Klimawandels für Deutschland](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/2022_fachbroschure_die_risiken_des_klimawandels_fur_deutschland_220218.pdf)
+- [Handlungskonzept Klimaanpassung Marburg](https://www.marburg.de/downloads/datei/YTc4ZTA3YzdkZTIzMTE4Y2lPUmtobENPVHRtdUJ5R1ArdDFDc2p4NW5lU1NmTTlZN0k1OUNHakxON3ZOTkVHWml0VnVNZ0JTQ0x1Q29JZkFacUlUU1dMMFJnTU5XNTIzSUlpY0Ziby84R3d3RVhYdkpBbWxkY3N6Rmh4NWxHdFZqQzRWaGFJbWM2bEd1VkdWSlB1VHJianlPMHh5aTU1VklHTlordz09)
+- [Webmap HKM](https://webmap.marburg.de/MarburgWebMap/online/?lon&lon=8.785952700572098&lat=50.79813399929995&zoom=13&select=true&loadlayers=lage_lageinformationen)

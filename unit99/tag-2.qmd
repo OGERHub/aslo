@@ -21,27 +21,8 @@ editor:
 
 
 
-## Wirkfolgen des Klimawandels auf den urbanen Raum
-![](../images/KlimawandelStadt.png){fig-align="center"}
 
-
-## Konzepte und Rahmenvorgaben Weiterführende Links
-- [Klima- und Umweltschutz](https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Themen/Themenuebersicht/Klima-und-Umweltschutz/klima-und-umweltschutz_node.html)
-- [Klimawandelgerechte Stadtentwicklung](https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Publikationen/DE_Ressorforschung/klimagerechte_stadtentwicklung.pdf%3F__blob%3DpublicationFile%26v%3D1&ved=2ahUKEwiSnq3TobOFAxWe7LsIHaCCATAQFnoECDEQAQ&usg=AOvVaw1ooYsFSQLGcF2xTpoKPcgA)
-- [Umweltbundesamt Tatenbank](https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank?kompass_tags_f_action=85070&page=5)
-
-## Marburg und Klimaschutz
-
-- [Integriertes Klimaschutzkonzept Marburg](https://www.marburg.de/downloads/datei/-XxC5Lc7mRb8S0lNCedXCkx6QmQ3cng2Uks0YVdsdzlXQS93bGg5SVJaWk52Ny9lZ1hpZjZOemVtZXpJNU1uQWU2R0hCSElxRm11Y25ja0lrT2UrUGp3b0QvRkx2bEozVmQ1MGUzZWlBMlFjNXdmMG12UHMrMHFJMytEaFAwbjUxVlFWaEU1eHdEOW1NRHh)
-- [Klimaneutral und sozialverträglich: Leitlinien für die Stadtentwicklung Marburg](https://www.marburg.de/portal/seiten/klimaneutral-und-sozialvertraeglich-leitlinien-fuer-die-stadtentwicklung-900002968-23001.html)
-- [Energie- und klimaeffiziente Quartiere: Beispiel Marburg](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2012/5_6/Inhalt/izr-5-6-2012-komplett-dl.pdf?__blob=publicationFile&v=1)
-- [Trinkwasser als Klimaschutz](https://www.marburg.de/portal/seiten/trinkwasser-als-klimaschutz-900001906-23001.html?rubrik=900000045)
-- [Nachbarschaftsprojekte im Klimaschutz Marburg](https://www.marburg.de/portal/seiten/nachbarschaftsprojekte-im-klimaschutz-900002387-23001.html)
-- [kollektiv von MORGEN](https://www.bne-marburg.de/organisation/kollektiv-von-morgen-e-v/)
-- [BNE Marburg](https://www.bne-marburg.de/)
-- [Spielplatztreff](https://www.spielplatztreff.de/spielplatz/maerchenspielplatz-in-marburg_4766)
-
-## Resilienzspurensuche
+## Spurensuche
 ::: {.callout-tip title="Arbeitsauftrag" icon=false}
 Sie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h.:
 
@@ -51,6 +32,31 @@ Sie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption un
 
 Sie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards.
 :::
+
+## Wirkfolgen des Klimawandels auf den urbanen Raum
+![](../images/KlimawandelStadt.png){fig-align="center"}
+
+
+## Konzepte und Rahmenvorgaben 
+
+- [Klima- und Umweltschutz](https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Themen/Themenuebersicht/Klima-und-Umweltschutz/klima-und-umweltschutz_node.html)
+- [Klimawandelgerechte Stadtentwicklung](https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Publikationen/DE_Ressorforschung/klimagerechte_stadtentwicklung.pdf%3F__blob%3DpublicationFile%26v%3D1&ved=2ahUKEwiSnq3TobOFAxWe7LsIHaCCATAQFnoECDEQAQ&usg=AOvVaw1ooYsFSQLGcF2xTpoKPcgA)
+- [Umweltbundesamt Tatenbank](https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank?kompass_tags_f_action=85070&page=5)
+
+## Marburg und Klimaschutz
+
+- [Integriertes Klimaschutzkonzept Marburg](https://www.marburg.de/portal/seiten/integriertes-klimaschutzkonzept-der-stadt-marburg-900000629-23001.html)
+- [Klimaneutral und sozialverträglich: Leitlinien für die Stadtentwicklung Marburg](https://www.marburg.de/portal/seiten/klimaneutral-und-sozialvertraeglich-leitlinien-fuer-die-stadtentwicklung-900002968-23001.html)
+- [Energie- und klimaeffiziente Quartiere: Beispiel Marburg](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2012/5_6/Inhalt/izr-5-6-2012-komplett-dl.pdf?__blob=publicationFile&v=1)
+- [Trinkwasser als Klimaschutz](https://www.marburg.de/portal/seiten/trinkwasser-als-klimaschutz-900001906-23001.html?rubrik=900000045)
+- [Nachbarschaftsprojekte im Klimaschutz Marburg](https://www.marburg.de/portal/seiten/nachbarschaftsprojekte-im-klimaschutz-900002387-23001.html)
+- [kollektiv von MORGEN](https://www.bne-marburg.de/organisation/kollektiv-von-morgen-e-v/)
+- [BNE Marburg](https://www.bne-marburg.de/)
+- [Spielplatztreff](https://www.spielplatztreff.de/spielplatz/maerchenspielplatz-in-marburg_4766)
+- [Urban Gardening](https://www.uni-marburg.de/de/universitaet/profil/universitaetskultur/nachhaltigkeit/green-office/engagement/externe-initiativen/urban-gardening)
+
+
+
 ## Vorgaben für den Lernort
 
 Ziel des Außerschulischen Lernortes soll es zunächst sein Ihren Kommiliton*innen den Bedarf oder das Potenzial für eine Klimaadaption zu vermitteln, um die Resilienz der Gesellschaft zu stärken. 

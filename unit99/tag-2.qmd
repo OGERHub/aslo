@@ -49,6 +49,11 @@ Beispiel:
  Vulnerabilität/Adaptionsbedarf, Soziale Umwelt, Umwelt
   
 
+## Bewertung der Beispiele
+
+Bewerten Sie mindestens 20 gut verteilt über die Stadt ausgesuchte der Spuren anderer Gruppen mit 1 bis 5 Sterne hinsichtlich der Kategorisierten Eignung als Beispiel für Resilienz/Vulnerabilität
+
+
 ## Wirkfolgen des Klimawandels auf den urbanen Raum
 ![](../images/KlimawandelStadt.png){fig-align="center"}
 

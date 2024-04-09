@@ -39,12 +39,12 @@ Cards.
 
 ## Kategorisierung vervollständigen
 
-Bitte vervollständigen sie die Kategorisierung und Beschreibung ihrer
-*Spuren* hinsichtlich des Reslienz und Vulnerabilität mit einem
-**Klimawandelbezug**. Bitte begründen Sie die Auswahl in einem Satz.
-Vergeben folgende Schlagworte:
+Bitte vervollständigen Sie die Kategorisierung und Beschreibung Ihrer Spurenorte mit den Begriffen:
+*Resilienz*, *Maladaption* und *Vulnerabilität* mit einem
+**Bezug zum Klimawandel**. Bitte begründen Sie Ihre Auswahl in einem Satz.
+Vergeben Sie die folgenden Schlüsselwörter:
 
-**Adaption, Adaptionsbedarf, Maladaption**
+**Adaption, Maladaption, Adaptionsbedarf**
 
 |               |  |
 |------------------------------|------------|

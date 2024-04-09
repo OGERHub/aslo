@@ -128,11 +128,10 @@ Darin enthalten sollen sein:
 -   Ziel:
 -   Aktivierung der Teilnehmenden:
 
-<<<<<<< HEAD
+
 ## Didaktitsche Konzepte
 
 [Didaktische Modelle für außerschulische Lernorte](https://media.suub.uni-bremen.de/bitstream/elib/4358/1/Lernorte-A.pdf)
-=======
 
 ## Reflexion Skizze -  Risiken und Anpassungstrategien Klimawandel
 
@@ -151,4 +150,4 @@ Materialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und M
 - [Die Risiken des Klimawandels für Deutschland](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/2022_fachbroschure_die_risiken_des_klimawandels_fur_deutschland_220218.pdf)
 - [Handlungskonzept Klimaanpassung Marburg](https://www.marburg.de/downloads/datei/YTc4ZTA3YzdkZTIzMTE4Y2lPUmtobENPVHRtdUJ5R1ArdDFDc2p4NW5lU1NmTTlZN0k1OUNHakxON3ZOTkVHWml0VnVNZ0JTQ0x1Q29JZkFacUlUU1dMMFJnTU5XNTIzSUlpY0Ziby84R3d3RVhYdkpBbWxkY3N6Rmh4NWxHdFZqQzRWaGFJbWM2bEd1VkdWSlB1VHJianlPMHh5aTU1VklHTlordz09)
 - [Webmap HKM](https://webmap.marburg.de/MarburgWebMap/online/?lon&lon=8.785952700572098&lat=50.79813399929995&zoom=13&select=true&loadlayers=lage_lageinformationen)
->>>>>>> 5e83c0d365cf55fe1e79d6bb2a4c01d390bad796
+

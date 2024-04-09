@@ -34,6 +34,21 @@ Sie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotogra
 <iframe src="https://www.taskcards.de/#/board/5bf6b048-ad03-456a-8dd9-cd509b4a2467?token=170a8896-4624-4a6c-b60c-d7c2c86f2c78" style="border:0px;width:40%;height:250px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 :::
 
+## Kategorisierung vervollständigen
+Bitte kategorisieren sie ihre Bilder vollständig und geben Sie ihnen folgende Tags:
+- Klimawandelbezug
+  - Resilienz/Adaption 
+  - Vulnerabilität/Adaptionsbedarf
+    - Physisch Umwelt
+    - Soziale Umwelt
+    - Ökonomie
+    - Umwelt
+
+Beispiel:
+
+ Vulnerabilität/Adaptionsbedarf, Soziale Umwelt, Umwelt
+  
+
 ## Wirkfolgen des Klimawandels auf den urbanen Raum
 ![](../images/KlimawandelStadt.png){fig-align="center"}
 

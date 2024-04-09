@@ -803,5 +803,12 @@
     "title": "YOUR TITLE",
     "section": "A slide with a plot",
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
+  },
+  {
+    "objectID": "unit99/tag-2.html#kategorisierung-vervollständigen",
+    "href": "unit99/tag-2.html#kategorisierung-vervollständigen",
+    "title": "Außerschulische Lernorte",
+    "section": "Kategorisierung vervollständigen",
+    "text": "Kategorisierung vervollständigen\nBitte kategorisieren sie ihre Bilder vollständig und geben Sie ihnen folgende Tags: - Klimawandelbezug - Resilienz/Adaption - Vulnerabilität/Adaptionsbedarf - Physisch Umwelt - Soziale Umwelt - Ökonomie - Umwelt\nBeispiel:\nVulnerabilität/Adaptionsbedarf, Soziale Umwelt, Umwelt"
   }
 ]

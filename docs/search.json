@@ -817,5 +817,12 @@
     "title": "YOUR TITLE",
     "section": "A slide with a plot",
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
+  },
+  {
+    "objectID": "unit99/tag-2.html#didaktitsche-konzepte",
+    "href": "unit99/tag-2.html#didaktitsche-konzepte",
+    "title": "Außerschulische Lernorte",
+    "section": "Didaktitsche Konzepte",
+    "text": "Didaktitsche Konzepte\nDidaktische Modelle für außerschulische Lernorte"
   }
 ]

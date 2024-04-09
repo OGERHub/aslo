@@ -189,6 +189,20 @@
     "text": "Spurensuche\n\n\n\nArbeitsauftrag\n\n\nSie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h.:\n\nalles, was von akuteller oder vergangener Adaptionsleistung zeugt (gut und schlecht)\nalles, was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint\nalles, was die vulnariabilität unseres Systems sichtbar macht\n\nSie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards."
   },
   {
+    "objectID": "unit99/tag-2.html#kategorisierung-vervollständigen",
+    "href": "unit99/tag-2.html#kategorisierung-vervollständigen",
+    "title": "Außerschulische Lernorte",
+    "section": "Kategorisierung vervollständigen",
+    "text": "Kategorisierung vervollständigen\nBitte vervollständigen sie die Kategorisierung und Beschreibung ihrer Spuren hinsichtlich des Reslienz und Vulnerabilität mit einem Klimawandelbezug. Bitte begründen Sie die Auswahl in einem Satz. Vergeben folgende Schlagworte:\nAdaption, Adaptionsbedarf, Maladaption\n\n\n\nPhysisch (materielle) Umwelt\nphysisch\n\n\nSoziale Raum\nsozial\n\n\nÖkonomischer Raum\nökonomisch\n\n\nÖkologische Umwelt\nökologisch\n\n\n\nvgl.Pike & Selby Interaction of Vulnerability\n\n\n\n\n\n\nBeispiel\n\n\nAdaption, sozial, ökologisch. Der Springbrunnen auf dem kahlen Firmaneiplatz ist ein beliebter Treffpunkt für Familen mit kleinen Kindern und verbessert das Lokalklima"
+  },
+  {
+    "objectID": "unit99/tag-2.html#bewertung-der-beispiele",
+    "href": "unit99/tag-2.html#bewertung-der-beispiele",
+    "title": "Außerschulische Lernorte",
+    "section": "Bewertung der Beispiele",
+    "text": "Bewertung der Beispiele\n\n\n\n\n\n\nAufgabenstellung\n\n\n\nBewerten Sie mindestens 20 der Beipiele anderer Gruppen.\nWählen Sie räumlich gut über die Stadt verteilte Beipiele aus.\nBewerten sie die Verschlagwortung und Begründung mit 1 bis 5 Sternen"
+  },
+  {
     "objectID": "unit99/tag-2.html#wirkfolgen-des-klimawandels-auf-den-urbanen-raum",
     "href": "unit99/tag-2.html#wirkfolgen-des-klimawandels-auf-den-urbanen-raum",
     "title": "Außerschulische Lernorte",
@@ -803,19 +817,5 @@
     "title": "YOUR TITLE",
     "section": "A slide with a plot",
     "text": "A slide with a plot\n\n\n# ^^ could be fragment, slide, column, column-fragment\nggplot() +\n  geom_point(\n    data = mtcars,\n    aes(wt, mpg),\n    color = \"goldenrod\"\n  ) +\n  labs(\n    title = \"Some Dots\"\n  ) \n\n\n\n\n\n\n\n\nYOUR ORG\n\n\n\n\n\n\n \n\n\nthe incredible talk about making sense scales"
-  },
-  {
-    "objectID": "unit99/tag-2.html#kategorisierung-vervollständigen",
-    "href": "unit99/tag-2.html#kategorisierung-vervollständigen",
-    "title": "Außerschulische Lernorte",
-    "section": "Kategorisierung vervollständigen",
-    "text": "Kategorisierung vervollständigen\nBitte kategorisieren sie ihre Bilder hinsichtlich des Klimawandelbezugs vollständig. Konkret vergeben Sie bitte folgende Schlagworte:\n\nResilienz/Adaption\nVulnerabilität/Adaptionsbedarf\n\nzusätzlich in Bezug auf Pike & Selby Interaction of Vulnerability die Bezugsfaktoren\n\n\n\nBeschreibung\nSchlagwort\n\n\n\n\nPhysisch (materielle) Umwelt\nphysisch\n\n\nSoziale Raum\nsozial\n\n\nÖkonomischer Raum\nökonomisch\n\n\nÖkologische Umwelt\nökologisch\n\n\n\nBeispiel:\nAdaptionsbedarf, sozial, ökologisch\nZusätzlich ist ein begründender Satz notwendig."
-  },
-  {
-    "objectID": "unit99/tag-2.html#bewertung-der-beispiele",
-    "href": "unit99/tag-2.html#bewertung-der-beispiele",
-    "title": "Außerschulische Lernorte",
-    "section": "Bewertung der Beispiele",
-    "text": "Bewertung der Beispiele\nBewerten Sie mindestens 20 gut verteilt über die Stadt ausgesuchte der Spuren anderer Gruppen mit 1 bis 5 Sterne hinsichtlich der Kategorisierten Eignung als Beispiel für Resilienz/Vulnerabilität"
   }
 ]

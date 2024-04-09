@@ -39,39 +39,32 @@ Cards.
 
 ## Kategorisierung vervollständigen
 
-Bitte kategorisieren sie ihre Bilder hinsichtlich des
-**Klimawandelbezugs** vollständig. Konkret vergeben Sie bitte folgende
-Schlagworte:
+Bitte vervollständigen sie die Kategorisierung und Beschreibung ihrer
+*Spuren* hinsichtlich des Reslienz und Vulnerabilität mit einem
+**Klimawandelbezug**. Bitte begründen Sie die Auswahl in einem Satz.
+Vergeben folgende Schlagworte:
 
--   Resilienz/Adaption
+**Adaption, Adaptionsbedarf, Maladaption**
 
--   Vulnerabilität/Adaptionsbedarf 
+|               |  |
+|------------------------------|------------|
+| Physisch (materielle) Umwelt | **physisch**   |
+| Soziale Raum                 | **sozial**     |
+| Ökonomischer Raum            | **ökonomisch** |
+| Ökologische Umwelt           | **ökologisch** |
+vgl.Pike & Selby *Interaction of Vulnerability*
 
-zusätzlich in Bezug auf Pike & Selby
-    Interaction of Vulnerability die Bezugsfaktoren
-
-
-| Beschreibung | Schlagwort |
-|--------------|------------|
-| Physisch (materielle) Umwelt             |   physisch         |
-| Soziale Raum             |    sozial        |
-| Ökonomischer Raum             |  ökonomisch          |
-| Ökologische Umwelt             |  ökologisch          |
-
-Beispiel:
-
-Adaptionsbedarf, sozial, ökologisch
-
-Zusätzlich ist ein begründender Satz notwendig.
-
-
-
+::: {.callout-tip  appearance="simple" title="Beispiel"}
+**Adaption, sozial, ökologisch**. 
+Der Springbrunnen auf dem kahlen Firmaneiplatz ist ein beliebter Treffpunkt für Familen mit kleinen Kindern und verbessert das Lokalklima
+:::
 ## Bewertung der Beispiele
 
-Bewerten Sie mindestens 20 gut verteilt über die Stadt ausgesuchte der
-Spuren anderer Gruppen mit 1 bis 5 Sterne hinsichtlich der
-Kategorisierten Eignung als Beispiel für Resilienz/Vulnerabilität
-
+::: {.callout-tip  appearance="simple" title="Aufgabenstellung"}
+- Bewerten Sie mindestens 20 der Beipiele anderer Gruppen.
+- Wählen Sie räumlich gut über die Stadt verteilte Beipiele aus.
+- Bewerten sie die Verschlagwortung und Begründung mit  1 bis 5 Sternen
+:::
 ## Wirkfolgen des Klimawandels auf den urbanen Raum
 
 ![](../images/KlimawandelStadt.png){fig-align="center"}

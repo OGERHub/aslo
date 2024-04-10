@@ -1,1 +1,1 @@
-Sitemap: https://OGERhubgithub.io/aslo/sitemap.xml
+Sitemap: https://OGERhub.github.io/aslo/sitemap.xml

@@ -5,7 +5,7 @@ website:
   open-graph: true
   page-navigation: true  
   title: "Außerschulische Lernorte"
-  site-url: https://OGERhubgithub.io/aslo
+  site-url: https://OGERhub.github.io/aslo
   repo-url: https://github.com/OGERhub/aslo
   search: 
     location: navbar

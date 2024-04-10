@@ -51,7 +51,7 @@ PAt und Patachon 2000
 
 ::: {.callout-important     appearance="simple" title="Formalia" icon=false}
 - maximal 1000 Worte / ~ 3 Seiten
-- Upload Ilias bis zum 14.04. 23.55 Uhr als PDF:  *Name_Name_Name_3.pdf*
+- Upload in Ihre PG auf Marvin-Ilias bis zum 14.04. 23.55 Uhr als PDF:  *Name_Name_Name_3.pdf*
 :::
 
 

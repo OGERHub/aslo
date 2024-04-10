@@ -13,7 +13,7 @@
 <script src="../site_libs/quarto-contrib/roughnotation-0.5.1/rough-notation.iife.js"></script>
 <script src="../site_libs/quarto-contrib/roughnotation-init-1.0.0/rough.js"></script>
 <link href="../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.450">
+  <meta name="generator" content="quarto-1.4.553">
 
   <meta name="author" content="Peter PAN">
   <title>Außerschulische Lernorte - YOUR TITLE</title>
@@ -36,7 +36,7 @@
     }
     /* CSS for syntax highlighting */
     pre > code.sourceCode { white-space: pre; position: relative; }
-    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span { line-height: 1.25; }
     pre > code.sourceCode > span:empty { height: 1.2em; }
     .sourceCode { overflow: visible; }
     code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -228,7 +228,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -392,7 +393,7 @@
     }
   </style>
 <meta property="og:title" content="Außerschulische Lernorte - YOUR TITLE">
-<meta property="og:site-name" content="Außerschulische Lernorte">
+<meta property="og:site_name" content="Außerschulische Lernorte">
 <meta name="twitter:title" content="Außerschulische Lernorte - YOUR TITLE">
 <meta name="twitter:creator" content="@gisma">
 <meta name="twitter:card" content="summary">
@@ -503,25 +504,31 @@ Peter PAN
 <h2>A slide with a plot</h2>
 <div class="cell columns column-output-location">
 <div class="column">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="co"># ^^ could be fragment, slide, column, column-fragment</span></span>
-<span id="cb1-2"><a href="#cb1-2"></a><span class="fu">ggplot</span>() <span class="sc">+</span></span>
-<span id="cb1-3"><a href="#cb1-3"></a>  <span class="fu">geom_point</span>(</span>
-<span id="cb1-4"><a href="#cb1-4"></a>    <span class="at">data =</span> mtcars,</span>
-<span id="cb1-5"><a href="#cb1-5"></a>    <span class="fu">aes</span>(wt, mpg),</span>
-<span id="cb1-6"><a href="#cb1-6"></a>    <span class="at">color =</span> <span class="st">"goldenrod"</span></span>
-<span id="cb1-7"><a href="#cb1-7"></a>  ) <span class="sc">+</span></span>
-<span id="cb1-8"><a href="#cb1-8"></a>  <span class="fu">labs</span>(</span>
-<span id="cb1-9"><a href="#cb1-9"></a>    <span class="at">title =</span> <span class="st">"Some Dots"</span></span>
-<span id="cb1-10"><a href="#cb1-10"></a>  ) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="co"># ^^ could be fragment, slide, column, column-fragment</span></span>
+<span id="cb1-2"><a></a><span class="fu">ggplot</span>() <span class="sc">+</span></span>
+<span id="cb1-3"><a></a>  <span class="fu">geom_point</span>(</span>
+<span id="cb1-4"><a></a>    <span class="at">data =</span> mtcars,</span>
+<span id="cb1-5"><a></a>    <span class="fu">aes</span>(wt, mpg),</span>
+<span id="cb1-6"><a></a>    <span class="at">color =</span> <span class="st">"goldenrod"</span></span>
+<span id="cb1-7"><a></a>  ) <span class="sc">+</span></span>
+<span id="cb1-8"><a></a>  <span class="fu">labs</span>(</span>
+<span id="cb1-9"><a></a>    <span class="at">title =</span> <span class="st">"Some Dots"</span></span>
+<span id="cb1-10"><a></a>  ) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div><div class="column">
 <div class="cell-output-display">
+<div>
+<figure>
 <p><img data-src="slides-template_files/figure-revealjs/unnamed-chunk-2-1.png" width="1536"></p>
+</figure>
+</div>
 </div>
 </div>
 </div>
 
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 <p><a href="https://example.com/">YOUR ORG</a></p>
+</div>
 </div>
 <div class="reveal-header">
 <div class="header-logo">
@@ -567,7 +574,6 @@ Peter PAN
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -868,10 +874,27 @@ Peter PAN
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("https:\/\/OGERhub\.github\.io\/aslo");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -881,8 +904,17 @@ Peter PAN
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
@@ -896,7 +928,11 @@ Peter PAN
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {

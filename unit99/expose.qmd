@@ -3,6 +3,7 @@ title: "Exposé"
 title-block-banner: ../images/publish-header.png
 title-block-banner-color: black
 ---
+
 ## Vorbemerkung
 
 Projektarbeiten fördern Schlüsselkompetenzen wie das Konzipieren und Umsetzen von Fragestellungen, das Entwickeln von Lösungsansätzen und die Fähigkeit, selbstständig und strukturiert im Team zu arbeiten. Darüber hinaus erfordern sie übergeordnete kommunikative und soziale Kompetenzen.
@@ -13,46 +14,39 @@ Zu den Zielen von AsLo gehören das Verständnis für die Entwicklung klarer Bil
 
 Das Exposé dient als Instrument zur Konkretisierung der AsLo-Idee. Es umfasst die Motivation, die Fragestellung, die Ziele und den geplanten Umsetzungsweg auf Basis des aktuellen Forschungsstandes und der vor Ort verfügbaren Ressourcen. Das Konzept ist iterativ aufgebaut. Es umfasst die Formulierung der Motivation, die in eine Problemstellung, eine Fragestellung und Ziele mündet. Darauf folgt ein Überblick über die Umsetzung vor Ort inkl. der Orte und Aktivierungskonzepte. Ziel ist es, einen klaren und nachvollziehbaren Plan für die Durchführung des Projektes zu erstellen.
 
-
-
 ## Beispielexposé
 
 ## Exposé: Entsiegelung und urbane Biodiversität – Eine Feldstudie für Studierende in Marburg
 
 ### 1. Einleitung und Motivation
+
 Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). Dieses Exposé skizziert eine zweistündige Vor-Ort-Einheit für Studierende, die das Bewusstsein für die Auswirkungen von Entsiegelungsmaßnahmen in Marburg schärfen und praktisches Wissen vermitteln soll.
 
 ### 2. Zielsetzung
+
 Das Hauptziel dieser Einheit ist es, Studierenden praktische Einblicke in die positiven Effekte von Entsiegelungs- und Begrünungsprojekten auf das urbane Mikroklima und die Biodiversität zu geben. Die Studierenden sollen:
 
-- Verständnis für die Notwendigkeit und die Methoden der Entsiegelung entwickeln.
-- Die Bedeutung von urbaner Grünfläche für die Biodiversität und das Wohlbefinden der Stadtbevölkerung erkennen.
-- Fähigkeiten in der Identifiklation, Bewertung und Planung von Entsiegelungsprojekten erwerben.
-### 3. Wissenschaftliche Grundlage
-Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).
+-   Verständnis für die Notwendigkeit und die Methoden der Entsiegelung entwickeln.
+-   Die Bedeutung von urbaner Grünfläche für die Biodiversität und das Wohlbefinden der Stadtbevölkerung erkennen.
+-   Fähigkeiten in der Identifiklation, Bewertung und Planung von Entsiegelungsprojekten erwerben. \### 3. Wissenschaftliche Grundlage Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).
 
 ### 4. Lernorte und aktivierende Elemente
-Die Studierenden werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie  die Gestaltung um die Elisabethkirche [...]. Aktivitäten umfassen:
 
-Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung.
-[...]
+Die Studierenden werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche \[...\]. Aktivitäten umfassen:
+
+Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. \[...\]
 
 ### 5. Lernerfolg der Teilnehmenden
-Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein  Wissenszuwachs in [...] erreicht werden.
+
+Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in \[...\] erreicht werden.
 
 ### Literatur
-IPCC 2050
 
-Hinz und Kunz 1900. 
+1.  [IPCC 2050, Report of a vasted past]{.smallcaps}
+2.  [Hinz und Kunz 1900. Biodiversität und Albedo ein ungleiches Paar, Journal of unpublished findings 1]{.smallcaps}
+3.  [Pat und Patachon 2000, Hitzeinseln und Grundwasser ein komplexes System, Journal of Applied Nonsense 2/12]{.smallcaps}
 
-PAt und Patachon 2000
-
-
-
-::: {.callout-important     appearance="simple" title="Formalia" icon=false}
-- maximal 1000 Worte / ~ 3 Seiten
-- Upload in Ihre PG auf Marvin-Ilias bis zum 14.04. 23.55 Uhr als PDF:  *Name_Name_Name_3.pdf*
+::: {.callout-important appearance="simple" title="Formalia" icon="false"}
+-   maximal 1000 Worte / \~ 3 Seiten
+-   Upload in Ihre PG auf Marvin-Ilias bis zum 14.04. 23.55 Uhr als PDF: *Name_Name_Name_3.pdf*
 :::
-
-
-

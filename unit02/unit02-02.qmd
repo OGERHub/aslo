@@ -7,5 +7,6 @@ title-block-banner-color: black
 
 ## Online Editoren
 
-* [StackIt](https://stackedit.io/)
-* [Dillinger](https://dillinger.io/)
+[StackIt](https://stackedit.io/)
+
+[Dillinger](https://dillinger.io/)

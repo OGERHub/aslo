@@ -1,0 +1,88 @@
+---
+title: "Außerschulische Lernorte - Tag 2"
+subtitle: "Sommersemester 2024"
+author: <P align="right"> Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach</P>
+#title-slide-attributes: 
+#  data-background-image: ../images/title-uni2.png
+ # data-background-size: contain
+  #data-background-opacity: "0.7"
+ # center-title-slide: true
+format:
+  revealjs:
+    theme: [../_extensions/metropolis-theme/metropolis.scss]
+    toc: false
+    toc-depth: 2
+    chalkboard: true
+    menu: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Reflexion Skizze -  Risiken und Anpassungstrategien Klimawandel
+- Was ist die grundsätzliche Idee Ihres AsLos in Bezug auf Risiken und Anpassungstrategien des Klimawandel in Marburg?
+- Was ist der explizite  Zusammenhang mit dem *Handlungskonzept Klimaanpassung Marburg*?
+- Welche Kategorie (Adaption, Maladaption, Adaptionsbedarf) thematisieren Sie vor Ort?
+- Ist das fokussierte Problem auf der lokalen oder regionalen Skalenebene als wirksam zu bearbeiten?
+- Für wie relevant halten Sie das adressierte Thema für die Klimaresilienz in Marburg?
+- Ist das Exkursionsziel am gewählten außerschulischen Lernort erfahrbar?
+- Lässt sich das Ziel des AsLo zuverlässig im Gelände besser als im Seminarraum erreichen?
+
+
+
+## Risiken und Anpassungstrategien Klimawandel in Marburg
+
+Materialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und Marburg.
+
+- [Die Risiken des Klimawandels für Deutschland](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/2022_fachbroschure_die_risiken_des_klimawandels_fur_deutschland_220218.pdf)
+- [Handlungskonzept Klimaanpassung Marburg](https://www.marburg.de/downloads/datei/YTc4ZTA3YzdkZTIzMTE4Y2lPUmtobENPVHRtdUJ5R1ArdDFDc2p4NW5lU1NmTTlZN0k1OUNHakxON3ZOTkVHWml0VnVNZ0JTQ0x1Q29JZkFacUlUU1dMMFJnTU5XNTIzSUlpY0Ziby84R3d3RVhYdkpBbWxkY3N6Rmh4NWxHdFZqQzRWaGFJbWM2bEd1VkdWSlB1VHJianlPMHh5aTU1VklHTlordz09)
+- [Webmap HKM](https://webmap.marburg.de/MarburgWebMap/online/?lon&lon=8.785952700572098&lat=50.79813399929995&zoom=13&select=true&loadlayers=lage_lageinformationen)
+
+## Vorgaben für die Skizze
+
+::: {.callout-important     appearance="simple" title="Aufgabenstellung" icon=false}
+
+Die Skizze Ihres Teams soll um 12:00 Uhr in den Seminargruppen 
+vorgestellt werden.
+:::
+
+Darin enthalten sollen sein:
+
+-   Zielsetzung:
+-   Lernort(e):
+-   Thematische und fachliche Einordnung anhand des Handlungskonzept Klimaanpassung Marburg
+
+## Das Exposé
+
+- Entwicklung von Schlüsselkompetenzen: Fragestellungen konzipieren und umsetzen, Lösungen entwickeln, Teamarbeit und Selbständigkeit.
+Komplementäre, kommunikative und soziale Fähigkeiten.
+- Fokussierung auf spezifische Bildungsziele außerhalb des Klassenzimmers.
+- Identifizierung geeigneter außerschulischer Lernorte und Aktivierung der Teilnehmenden.
+- Bedeutung einer fundierten Zielsetzung auf der Basis individueller Interessen und realer Rahmenbedingungen.
+
+## Exposé als Instrument zur Präzisierung der AsLo-Idee.
+
+- *Inhalt:* Motivation, Fragestellung, Ziele, geplanter Weg zur Umsetzung.
+- *Basis:* aktueller Forschungsstand und lokale Ressourcen.
+- *Iterativer Aufbau:* Von der Motivation über die Problem- und Fragestellung zu den Zielen.
+- *Überblick über die praktische Umsetzung:* Orte und Aktivierungsmethoden.
+- *Ziel:* Erstellung eines klaren, nachvollziehbaren Projektplans.
+
+## Beispielhafte Struktur
+
+- 1. Einleitung und Motivation
+
+- 2. Zielsetzung
+
+- 3. Wissenschaftliche Grundlage
+
+- 4. Lernorte und aktivierende Elemente
+
+- 5. Erwarteter Lernerfolg der Teilnehmenden
+
+- 6. Literatur
+
+### Umfang
+
+- maximal 1000 Worte / ~ 3 Seiten
+- Upload Ilias als PDF:  *Name_Name_Name_3.pdf*

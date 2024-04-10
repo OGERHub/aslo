@@ -1,5 +1,5 @@
 ---
-title: "Außerschulische Lernorte"
+title: "Außerschulische Lernorte - Tag 2"
 subtitle: "Sommersemester 2024"
 author: <P align="right"> Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach</P>
 #title-slide-attributes: 
@@ -128,36 +128,3 @@ Darin enthalten sollen sein:
 -   Ziel:
 -   Aktivierung der Teilnehmenden:
 
-
-## Reflexion Skizze -  Risiken und Anpassungstrategien Klimawandel
-- Was ist die grundsätzliche Idee Ihres AsLos in Bezug auf Risiken und Anpassungstrategien des Klimawandel in Marburg?
-- Was ist der explizite  Zusammenhang mit dem *Handlungskonzept Klimaanpassung Marburg*?
-- Welche Kategorie (Adaption, Maladaption, Adaptionsbedarf) thematisieren Sie vor Ort?
-- Ist das fokussierte Problem auf der lokalen oder regionalen Skalenebene als wirksam zu bearbeiten?
-- Für wie relevant halten Sie das adressierte Thema für die Klimaresilienz in Marburg?
-- Ist das Exkursionsziel am gewählten außerschulischen Lernort erfahrbar?
-- Lässt sich das Ziel des AsLo zuverlässig im Gelände besser als im Seminarraum erreichen?
-
-
-
-## Risiken und Anpassungstrategien Klimawandel in Marburg
-
-Materialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und Marburg.
-
-- [Die Risiken des Klimawandels für Deutschland](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/2022_fachbroschure_die_risiken_des_klimawandels_fur_deutschland_220218.pdf)
-- [Handlungskonzept Klimaanpassung Marburg](https://www.marburg.de/downloads/datei/YTc4ZTA3YzdkZTIzMTE4Y2lPUmtobENPVHRtdUJ5R1ArdDFDc2p4NW5lU1NmTTlZN0k1OUNHakxON3ZOTkVHWml0VnVNZ0JTQ0x1Q29JZkFacUlUU1dMMFJnTU5XNTIzSUlpY0Ziby84R3d3RVhYdkpBbWxkY3N6Rmh4NWxHdFZqQzRWaGFJbWM2bEd1VkdWSlB1VHJianlPMHh5aTU1VklHTlordz09)
-- [Webmap HKM](https://webmap.marburg.de/MarburgWebMap/online/?lon&lon=8.785952700572098&lat=50.79813399929995&zoom=13&select=true&loadlayers=lage_lageinformationen)
-
-## Vorgaben für die Skizze
-
-::: {.callout-important     appearance="simple" title="Aufgabenstellung" icon=false}
-
-Die Skizze Ihres Teams soll um 12:00 Uhr in den Seminargruppen 
-vorgestellt werden.
-:::
-
-Darin enthalten sollen sein:
-
--   Zielsetzung:
--   Lernort(e):
--   Thematische und fachliche Einordnung anhand des Handlungskonzept Klimaanpassung Marburg:

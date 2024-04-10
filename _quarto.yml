@@ -72,6 +72,8 @@ website:
           #   text: uav/Flight Planning
       - text: "---"
 ##format: dokuwiki
+execute:
+  freeze: auto
 format:
   html:
     theme:

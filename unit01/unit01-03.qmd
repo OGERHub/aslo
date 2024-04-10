@@ -2,6 +2,13 @@
 title: "Zuḱunftsvisionen"
 title-block-banner: ../images/banner.png
 title-block-banner-color: orange
+format:
+  html: 
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: .5em
 ---
 
 

@@ -45,6 +45,8 @@ website:
             text: "Blocktag 1"      
           - href: unit99/tag-2.qmd
             text: "Blocktag 2"     
+          - href: unit99/expose.qmd
+            text: "Exposé"     
       - text: "---"
       - section: "Ressourcen"
         contents:

@@ -42,13 +42,13 @@ website:
           - href: unit01/unit01-01.qmd
             text: "Theorie und Konzepte"
           - href: unit99/tag-1.qmd
-            text: "Blocktag 1"      
+            text: "Folien Blocktag 1"      
           - href: unit99/tag-2.qmd
-            text: "Blocktag 2"    
+            text: "Folien Blocktag 2"    
           - href: unit99/tag-3.qmd
-            text: "Blocktag 3"     
+            text: "Folien Blocktag 3"     
           - href: unit99/expose.qmd
-            text: "Exposé"     
+            text: "Anleitung Exposé"     
       - text: "---"
       - section: "Ressourcen"
         contents:

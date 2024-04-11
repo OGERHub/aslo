@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.553">
@@ -8,11 +8,10 @@
 
 <meta name="author" content="Per Petterson">
 <meta name="author" content="Peter Pan">
-<meta name="dcterms.date" content="2023-03-24">
 <meta name="keywords" content="theory, concept, spatial thinking">
 
-<title>Außerschulische Lernorte - Scales in Geography and Ecology
-A neverending story</title>
+<title>Außerschulische Lernorte - Skalen in Geographie und Ökologie
+Eine unendliche Geschichte</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,40 +23,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 /* CSS for citations */
 div.csl-bib-body { }
@@ -93,12 +58,10 @@ div.csl-indent {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -112,65 +75,34 @@ div.csl-indent {
     "s"
   ],
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Keine Treffer",
+    "search-matching-documents-text": "Treffer",
+    "search-copy-link-title": "Link in die Suche kopieren",
+    "search-hide-matches-text": "Zusätzliche Treffer verbergen",
+    "search-more-match-text": "weitere Treffer in diesem Dokument",
+    "search-more-matches-text": "weitere Treffer in diesem Dokument",
+    "search-clear-button-title": "Zurücksetzen",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Abbrechen",
+    "search-submit-button-title": "Abschicken",
+    "search-label": "Suchen"
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../css/styles.css">
-<meta property="og:title" content="Außerschulische Lernorte - Scales in Geography and Ecology
-A neverending story">
-<meta property="og:description" content="Scales are an essential concept in geography that refer to the relationship between the size of an object or phenomenon on the ground and its representation on a map. Geographic scales can range from the global, to regional, to local, and are used to communicate the spatial extent and resolution of geographic data. The selection of an appropriate scale is critical in understanding and analyzing spatial relationships, as it influences the accuracy and precision of spatial data. Geographic scales are also relevant to various fields of geography, including human geography, physical geography, and geographic information science. Understanding scales is fundamental to effectively communicating and interpreting geographic information, as well as developing effective spatial analysis and decision-making tools. This abstract highlights the importance of scales in geography, emphasizing their role in shaping our understanding of the spatial dimensions of the world around us.">
-<meta property="og:image" content="https://OGERhub.github.io/aslo/templates/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<link rel="stylesheet" href="../site_libs/quarto-contrib/quarto-project/davidcarayon/inrae/ressources/html-inrae.css">
+<meta property="og:title" content="Außerschulische Lernorte - Skalen in Geographie und Ökologie
+Eine unendliche Geschichte">
+<meta property="og:description" content="Ein Überblick über Sinn und Unsinn">
 <meta property="og:site_name" content="Außerschulische Lernorte">
-<meta name="twitter:title" content="Außerschulische Lernorte - Scales in Geography and Ecology
-A neverending story">
-<meta name="twitter:description" content="Scales are an essential concept in geography that refer to the relationship between the size of an object or phenomenon on the ground and its representation on a map. Geographic scales can range from the global, to regional, to local, and are used to communicate the spatial extent and resolution of geographic data. The selection of an appropriate scale is critical in understanding and analyzing spatial relationships, as it influences the accuracy and precision of spatial data. Geographic scales are also relevant to various fields of geography, including human geography, physical geography, and geographic information science. Understanding scales is fundamental to effectively communicating and interpreting geographic information, as well as developing effective spatial analysis and decision-making tools. This abstract highlights the importance of scales in geography, emphasizing their role in shaping our understanding of the spatial dimensions of the world around us.">
-<meta name="twitter:image" content="https://OGERhub.github.io/aslo/templates/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta name="twitter:title" content="Außerschulische Lernorte - Skalen in Geographie und Ökologie
+Eine unendliche Geschichte">
+<meta name="twitter:description" content="Ein Überblick über Sinn und Unsinn">
 <meta name="twitter:creator" content="@gisma">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar docked nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -184,8 +116,8 @@ A neverending story">
     <span class="navbar-title">Außerschulische Lernorte</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Suchen"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navigation umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -198,18 +130,18 @@ A neverending story">
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Dunkelmodus umschalten"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Scales in Geography and Ecology<br>
-A neverending story</li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Skalen in Geographie und Ökologie<br>
+Eine unendliche Geschichte</li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
   </nav>
@@ -224,7 +156,7 @@ A neverending story</li></ol></nav>
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
  <span class="menu-text">HowTo AsLo</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -248,7 +180,7 @@ A neverending story</li></ol></nav>
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
  <span class="menu-text">Ausserschulische Lernorte</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -290,7 +222,7 @@ A neverending story</li></ol></nav>
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
  <span class="menu-text">Ressourcen</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -314,7 +246,7 @@ A neverending story</li></ol></nav>
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
  <span class="menu-text">AsLo Projekte</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -333,80 +265,43 @@ A neverending story</li></ol></nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="header-section-number">1</span> Introduction</a></li>
-  <li><a href="#main-section" id="toc-main-section" class="nav-link" data-scroll-target="#main-section"><span class="header-section-number">2</span> Main section</a>
-  <ul class="collapse">
-  <li><a href="#subsection" id="toc-subsection" class="nav-link" data-scroll-target="#subsection"><span class="header-section-number">2.1</span> Subsection</a></li>
-  <li><a href="#subsection-1" id="toc-subsection-1" class="nav-link" data-scroll-target="#subsection-1"><span class="header-section-number">2.2</span> subsection</a>
-  <ul class="collapse">
-  <li><a href="#rd-level" id="toc-rd-level" class="nav-link" data-scroll-target="#rd-level"><span class="header-section-number">2.2.1</span> 3rd level</a></li>
-  </ul></li>
-  </ul></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">3</span> References</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Scales in Geography and Ecology<br>
-A neverending story</h1>
-<p class="subtitle lead">A review of sense and nonsense</p>
+<h1 class="title">Skalen in Geographie und Ökologie<br>
+Eine unendliche Geschichte</h1>
+<p class="subtitle lead">Ein Überblick über Sinn und Unsinn</p>
 </div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
-  
-    <div class="quarto-title-meta-contents">
-    <p class="author">Per Petterson <a href="mailto:pepe@gemail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0000-0000-0000" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            D–House
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author">Peter Pan <a href="mailto:pp@gemail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            B–House
-          </p>
-      </div>
-  </div>
 
 <div class="quarto-title-meta">
 
-      
     <div>
-    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-heading">Autor:innen</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 24, 2023</p>
+             <p>Per Petterson <a href="mailto:pepe@gemail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+             <p>Peter Pan <a href="mailto:pp@gemail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Veröffentlichungsdatum</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">24. März 2023</p>
     </div>
   </div>
   
     
   </div>
   
-<div>
-  <div class="abstract">
-    <div class="block-title">Abstract</div>
-    <p>Scales are an essential concept in geography that refer to the relationship between the size of an object or phenomenon on the ground and its representation on a map. Geographic scales can range from the global, to regional, to local, and are used to communicate the spatial extent and resolution of geographic data. The selection of an appropriate scale is critical in understanding and analyzing spatial relationships, as it influences the accuracy and precision of spatial data. Geographic scales are also relevant to various fields of geography, including human geography, physical geography, and geographic information science. Understanding scales is fundamental to effectively communicating and interpreting geographic information, as well as developing effective spatial analysis and decision-making tools. This abstract highlights the importance of scales in geography, emphasizing their role in shaping our understanding of the spatial dimensions of the world around us.</p>
-  </div>
-</div>
 
 <div>
   <div class="keywords">
-    <div class="block-title">Keywords</div>
+    <div class="block-title">Schlüsselwörter</div>
     <p>theory, concept, spatial thinking</p>
   </div>
 </div>
@@ -414,84 +309,60 @@ A neverending story</h1>
 </header>
 
 
-<section id="introduction" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Introduction</h1>
-<p>Ecology is the study of how organisms interact with each other and their environment. Scales and processes are two fundamental concepts in ecology that are used to understand ecological patterns and dynamics.</p>
-<p>Scales in ecology refer to the spatial and temporal dimensions of ecological phenomena. Ecological phenomena occur at different scales, ranging from individual organisms to entire ecosystems and from seconds to millennia. Understanding the appropriate scale is crucial for understanding the ecological processes that occur within that scale. The selection of an appropriate scale also influences the accuracy and precision of ecological data and the interpretation of ecological patterns.</p>
-<p>Processes in ecology refer to the biological and physical mechanisms that underlie ecological phenomena. Ecological processes occur at different scales, ranging from the molecular level to the landscape level. Ecological processes include biotic interactions, such as competition, predation, and mutualism, as well as abiotic interactions, such as climate, nutrient cycling, and disturbances. Understanding the underlying processes is essential for predicting how ecological systems will respond to changing conditions and for developing effective conservation and management strategies.</p>
-<p>Overall, scales and processes are essential concepts in ecology that are used to understand the complex interactions between organisms and their environment.</p>
+<section id="einführung" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Einführung</h1>
+<p>Die Ökologie befasst sich mit der Frage, wie Organismen miteinander und mit ihrer Umwelt interagieren. Skalen und Prozesse sind zwei grundlegende Konzepte in der Ökologie, die verwendet werden, um ökologische Muster und Dynamik zu verstehen.</p>
+<p>Skalen in der Ökologie beziehen sich auf die räumlichen und zeitlichen Dimensionen ökologischer Phänomene. Ökologische Phänomene treten in verschiedenen Maßstäben auf, die von einzelnen Organismen bis zu ganzen Ökosystemen und von Sekunden bis zu Jahrtausenden reichen. Das Verständnis der geeigneten Skala ist entscheidend für das Verständnis der ökologischen Prozesse, die innerhalb dieser Skala ablaufen. Die Wahl eines geeigneten Maßstabs beeinflusst auch die Genauigkeit und Präzision ökologischer Daten und die Interpretation ökologischer Muster.</p>
+<p>Prozesse in der Ökologie beziehen sich auf die biologischen und physikalischen Mechanismen, die ökologischen Phänomenen zugrunde liegen. Ökologische Prozesse treten in verschiedenen Maßstäben auf, die von der molekularen Ebene bis zur Landschaftsebene reichen. Zu den ökologischen Prozessen gehören biotische Interaktionen wie Konkurrenz, Räuber und Gegenseitigkeit sowie abiotische Interaktionen wie Klima, Nährstoffkreislauf und Störungen. Das Verständnis der zugrundeliegenden Prozesse ist unerlässlich für die Vorhersage, wie ökologische Systeme auf veränderte Bedingungen reagieren werden, und für die Entwicklung wirksamer Erhaltungs- und Bewirtschaftungsstrategien.</p>
+<p>Insgesamt sind Größenordnungen und Prozesse wesentliche Konzepte in der Ökologie, die dazu dienen, die komplexen Wechselwirkungen zwischen Organismen und ihrer Umwelt zu verstehen.</p>
 </section>
-<section id="main-section" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Main section</h1>
-<p>Tobler’s first law of geography states that “everything is related to everything else, but near things are more related than distant things.” This law emphasizes the importance of spatial relationships in understanding geographic phenomena, as objects or phenomena that are closer together in space tend to be more strongly related than those that are further apart.</p>
-<p>While Tobler’s first law is a fundamental concept in geography, it has also been subject to criticism. One critique is that the law oversimplifies the complexity of spatial relationships and assumes that spatial proximity is the only factor influencing the strength of relationships between geographic phenomena. Additionally, the law does not take into account the different ways in which spatial relationships can be defined and measured, such as through network analysis or gravity models. Another critique is that the law assumes a static, Euclidean space, rather than accounting for the dynamic and non-Euclidean nature of many geographic phenomena. Despite these critiques, Tobler’s first law remains a key concept in geography, highlighting the importance of spatial relationships in understanding the world around us <span class="citation" data-cites="Tobler:1970">(<a href="#ref-Tobler:1970" role="doc-biblioref">Tobler 1970</a>)</span>, <span class="citation" data-cites="Peuquet:1988">(<a href="#ref-Peuquet:1988" role="doc-biblioref">Peuquet 1988</a>)</span>.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>n_lights <span class="ot">&lt;-</span> <span class="dv">2</span> <span class="sc">+</span> <span class="dv">2</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>n_lights</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 4</code></pre>
-</div>
-</div>
-<p><span class="math display">\[
-y = \text{Something} + \beta_1 x_1
-\]</span></p>
-<section id="subsection" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="subsection"><span class="header-section-number">2.1</span> Subsection</h2>
-<p>Any study that examines the effects of area-based attributes on individual behaviors or outcomes faces another fundamental methodological problem besides the modifiable areal unit problem (MAUP). It is the problem that results about these effects can be affected by how contextual units or neighborhoods are geographically delineated and the extent to which these areal units deviate from the true geographic context. The problem arises because of the spatial uncertainty in the actual areas that exert the contextual influences under study and the temporal uncertainty in the timing and duration in which individuals experienced these contextual influences. Using neighborhood effects and environmental health research as a point of departure, this article clarifies the nature and sources of this problem, which is referred to as the uncertain geographic context problem (UGCoP). It highlights some of the inferential errors that the UGCoP might cause and discusses some means for mitigating the problem. It reviews recent studies to show that both contextual variables and research findings are sensitive to different delineations of contextual units. The article argues that the UGCoP is a problem as fundamental as the MAUP but is a different kind of problem. Future research needs to pay explicit attention to its potential confounding effects on research results and to methods for mitigating the problem <span class="citation" data-cites="Kwan:2012">(<a href="#ref-Kwan:2012" role="doc-biblioref">Kwan 2012</a>)</span>.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div id="fig-n-lights" class="quarto-figure quarto-figure-center quarto-float anchored" data-fig-align="center">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-n-lights-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="journals-examples-default_files/figure-html/fig-n-lights-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="480">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-n-lights-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: There are four lights
-</figcaption>
-</figure>
-</div>
-</div>
-</div>
+<section id="fragestellung" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Fragestellung</h1>
+<p>Toblers erstes geographisches Gesetz besagt, dass “alles mit allem zusammenhängt, aber nahe Dinge mehr als entfernte Dinge”. Dieses Gesetz unterstreicht die Bedeutung räumlicher Beziehungen für das Verständnis geografischer Phänomene, da Objekte oder Phänomene, die räumlich näher beieinander liegen, tendenziell stärker miteinander verbunden sind als solche, die weiter voneinander entfernt sind.</p>
+<p>Obwohl Toblers erstes Gesetz ein grundlegendes Konzept in der Geografie ist, wurde es auch kritisiert. Ein Kritikpunkt ist, dass das Gesetz die Komplexität der räumlichen Beziehungen zu stark vereinfacht und davon ausgeht, dass die räumliche Nähe der einzige Faktor ist, der die Stärke der Beziehungen zwischen geografischen Phänomenen beeinflusst. Darüber hinaus berücksichtigt das Gesetz nicht die verschiedenen Möglichkeiten, wie räumliche Beziehungen definiert und gemessen werden können, z. B. durch Netzwerkanalysen oder Gravitationsmodelle. Ein weiterer Kritikpunkt ist, dass das Gesetz von einem statischen, euklidischen Raum ausgeht, anstatt die dynamische und nicht-euklidische Natur vieler geografischer Phänomene zu berücksichtigen. Trotz dieser Kritik bleibt Toblers erstes Gesetz ein Schlüsselkonzept der Geographie, das die Bedeutung räumlicher Beziehungen für das Verständnis der uns umgebenden Welt hervorhebt <span class="citation" data-cites="Tobler:1970">(<a href="#ref-Tobler:1970" role="doc-biblioref">Tobler 1970</a>)</span>, <span class="citation" data-cites="Peuquet:1988">(<a href="#ref-Peuquet:1988" role="doc-biblioref">Peuquet 1988</a>)</span>.</p>
 </section>
-<section id="subsection-1" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="subsection-1"><span class="header-section-number">2.2</span> subsection</h2>
-<p>Time can have a significant effect on scale in geography. This is because spatial relationships and patterns can change over time, and the appropriate scale to study a phenomenon may also change as a result. For example, the appropriate scale to study a natural disaster such as a hurricane may change as the storm approaches and intensifies, and then again as it makes landfall and moves inland. Similarly, the appropriate scale to study urban growth may change over time as the city expands and new neighborhoods or suburbs emerge.</p>
-<p>In addition, the temporal scale at which data is collected and analyzed can also impact the understanding of geographic phenomena. For example, studying population changes over a decade may reveal different patterns and trends than studying changes over a single year.</p>
-<p>Overall, time is an important consideration in determining the appropriate scale to study a phenomenon and in interpreting the results of geographic analyses. It is essential to consider how spatial patterns and relationships change over time, and to collect and analyze data at appropriate temporal scales in order to gain a comprehensive understanding of geographic phenomena.</p>
-<section id="rd-level" class="level3" data-number="2.2.1">
-<h3 data-number="2.2.1" class="anchored" data-anchor-id="rd-level"><span class="header-section-number">2.2.1</span> 3rd level</h3>
-<p>Yes, there are several theories in geography that relate to the effects of time on scale. One of the most well-known is the concept of temporal scale developed by geographer David Harvey. According to Harvey, temporal scale refers to the length of time over which a phenomenon can be observed, and it is an important consideration in understanding the spatial relationships and patterns that exist within a particular geographic context. In addition, Harvey argues that the temporal scale at which data is collected and analyzed can have a significant impact on the conclusions that can be drawn from the data.</p>
-<p>Another theory related to the effects of time on scale is the concept of time-space compression developed by geographer David Harvey and others. This theory suggests that advances in technology and communication have led to a compression of time and space, making the world feel smaller and more connected. As a result, geographic phenomena may be influenced by factors that exist at different spatial and temporal scales, and it is important to consider these factors in analyzing and interpreting geographic data.</p>
-<p>Overall, the theories related to the effects of time on scale in geography highlight the complex and dynamic relationships between spatial and temporal phenomena, and the importance of considering these relationships in geographic analyses <span class="citation" data-cites="harvey:1996">(<a href="#ref-harvey:1996" role="doc-biblioref">Harvey 1996</a>)</span>.</p>
-<section id="th-level" class="level4" data-number="2.2.1.1">
-<h4 data-number="2.2.1.1" class="anchored" data-anchor-id="th-level"><span class="header-section-number">2.2.1.1</span> 4th level</h4>
-<p>Time-space compression is a concept that has been developed and elaborated upon by several geographers, including David Harvey, Doreen Massey, and Henri Lefebvre. At its core, time-space compression refers to the idea that advances in transportation and communication technologies have created a sense of “shrinking” in terms of the time and space required for social and economic interactions.</p>
-<p>One way in which time-space compression is manifested is through the increasing speed and ease of transportation and communication. For example, air travel, high-speed rail, and the internet have all made it possible to move goods, people, and information across vast distances in relatively short periods of time. This has led to a blurring of traditional spatial boundaries, and the emergence of global networks of exchange and interaction.</p>
-<p>However, time-space compression is not a neutral or uniform process, and its effects are felt differently by different people and in different places. For example, the increased speed of global trade may benefit some individuals and communities while harming others, and the intensification of global networks can lead to a sense of dislocation or disorientation for some people.</p>
-<p>Overall, time-space compression is an important concept in geography because it helps to explain how the spatial relationships and patterns that exist within a particular geographic context are shaped and transformed by technological change and globalization.</p>
+<section id="methoden" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Methoden</h1>
+<p>Jede Studie, die die Auswirkungen flächenbezogener Attribute auf individuelle Verhaltensweisen oder Ergebnisse untersucht, sieht sich neben dem Problem der modifizierbaren Flächeneinheit (MAUP) einem weiteren grundlegenden methodischen Problem gegenüber. Es handelt sich dabei um das Problem, dass die Ergebnisse zu diesen Effekten davon beeinflusst werden können, wie kontextuelle Einheiten oder Nachbarschaften geografisch abgegrenzt werden und in welchem Ausmaß diese Gebietseinheiten vom wahren geografischen Kontext abweichen. Das Problem ergibt sich aus der räumlichen Unbestimmtheit der tatsächlichen Gebiete, die die untersuchten kontextuellen Einflüsse ausüben, und der zeitlichen Unbestimmtheit des Zeitpunkts und der Dauer, in der Individuen diese kontextuellen Einflüsse erfahren haben. Ausgehend von der Forschung zu Nachbarschaftseffekten und umweltbedingter Gesundheit werden in diesem Artikel die Art und die Ursachen dieses Problems erläutert, das als Problem des unsicheren geografischen Kontexts (UGCoP) bezeichnet wird. Er hebt einige der Folgerungsfehler hervor, die das UGCoP verursachen kann, und erörtert einige Möglichkeiten zur Abschwächung des Problems. Er überprüft neuere Studien, um zu zeigen, dass sowohl Kontextvariablen als auch Forschungsergebnisse empfindlich auf unterschiedliche Abgrenzungen von Kontexteinheiten reagieren. Der Artikel argumentiert, dass das UGCoP ein ebenso grundlegendes Problem wie das MAUP darstellt, aber eine andere Art von Problem ist. Zukünftige Forschungen müssen explizit auf die möglichen verwirrenden Auswirkungen auf die Forschungsergebnisse und auf Methoden zur Abschwächung des Problems achten <span class="citation" data-cites="Kwan:2012">(<a href="#ref-Kwan:2012" role="doc-biblioref">Kwan 2012</a>)</span>.</p>
+</section>
+<section id="ergebnisse" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Ergebnisse</h1>
+<p>Die Zeit kann in der Geografie einen erheblichen Einfluss auf den Maßstab haben. Dies liegt daran, dass sich räumliche Beziehungen und Muster im Laufe der Zeit ändern können und sich dadurch auch der geeignete Maßstab für die Untersuchung eines Phänomens ändern kann. So kann sich beispielsweise der geeignete Maßstab für die Untersuchung einer Naturkatastrophe wie eines Wirbelsturms ändern, wenn sich der Sturm nähert und verstärkt, und dann wieder, wenn er an Land geht und ins Landesinnere zieht. In ähnlicher Weise kann sich der geeignete Maßstab für die Untersuchung des städtischen Wachstums im Laufe der Zeit ändern, wenn sich die Stadt ausdehnt und neue Stadtteile oder Vorstädte entstehen.</p>
+<p>Darüber hinaus kann sich auch der zeitliche Maßstab, in dem Daten gesammelt und analysiert werden, auf das Verständnis geografischer Phänomene auswirken. So kann die Untersuchung der Bevölkerungsentwicklung über ein Jahrzehnt hinweg andere Muster und Trends aufzeigen als die Untersuchung von Veränderungen in einem einzigen Jahr.</p>
+<p>Insgesamt ist die Zeit ein wichtiger Faktor bei der Bestimmung des geeigneten Maßstabs für die Untersuchung eines Phänomens und bei der Interpretation der Ergebnisse geografischer Analysen. Um ein umfassendes Verständnis geografischer Phänomene zu erlangen, ist es unerlässlich, zu berücksichtigen, wie sich räumliche Muster und Beziehungen im Laufe der Zeit verändern, und Daten in geeigneten zeitlichen Maßstäben zu sammeln und zu analysieren.</p>
+<section id="diskussion" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="diskussion"><span class="header-section-number">4.1</span> Diskussion</h2>
+<p>Ja, es gibt in der Geographie mehrere Theorien, die sich auf die Auswirkungen der Zeit auf den Maßstab beziehen. Eine der bekanntesten ist das Konzept des zeitlichen Maßstabs, das von dem Geographen David Harvey entwickelt wurde. Nach Harvey bezieht sich der zeitliche Maßstab auf die Länge der Zeit, über die ein Phänomen beobachtet werden kann, und er ist ein wichtiger Faktor für das Verständnis der räumlichen Beziehungen und Muster, die in einem bestimmten geografischen Kontext bestehen. Darüber hinaus argumentiert Harvey, dass der zeitliche Maßstab, in dem Daten erhoben und analysiert werden, einen erheblichen Einfluss auf die Schlussfolgerungen haben kann, die aus den Daten gezogen werden können.</p>
+<p>Eine weitere Theorie, die sich auf die Auswirkungen der Zeit auf den Maßstab bezieht, ist das von dem Geographen David Harvey und anderen entwickelte Konzept der Zeit-Raum-Kompression. Diese Theorie besagt, dass Fortschritte in Technologie und Kommunikation zu einer Kompression von Zeit und Raum geführt haben, wodurch die Welt kleiner und vernetzter erscheint. Infolgedessen können geografische Phänomene von Faktoren beeinflusst werden, die in verschiedenen räumlichen und zeitlichen Maßstäben existieren, und es ist wichtig, diese Faktoren bei der Analyse und Interpretation von geografischen Daten zu berücksichtigen.</p>
+<p>Insgesamt verdeutlichen die Theorien zu den Auswirkungen der Zeit auf den Maßstab in der Geographie die komplexen und dynamischen Beziehungen zwischen räumlichen und zeitlichen Phänomenen und die Bedeutung der Berücksichtigung dieser Beziehungen in geographischen Analysen <span class="citation" data-cites="harvey:1996">(<a href="#ref-harvey:1996" role="doc-biblioref">Harvey 1996</a>)</span>.</p>
+</section>
+<section id="schlussfolgerungen" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="schlussfolgerungen"><span class="header-section-number">4.2</span> Schlussfolgerungen</h2>
+<p>Zeit-Raum-Kompression ist ein Konzept, das von mehreren Geographen entwickelt und ausgearbeitet wurde, darunter David Harvey, Doreen Massey und Henri Lefebvre. Im Kern bezieht sich die Zeit-Raum-Kompression auf die Idee, dass Fortschritte in der Transport- und Kommunikationstechnologie ein Gefühl des “Schrumpfens” in Bezug auf die Zeit und den Raum geschaffen haben, die für soziale und wirtschaftliche Interaktionen erforderlich sind.</p>
+<p>Die Zeit-Raum-Kompression manifestiert sich unter anderem in der zunehmenden Geschwindigkeit und Leichtigkeit von Transport und Kommunikation. Flugreisen, Hochgeschwindigkeitszüge und das Internet haben es beispielsweise möglich gemacht, Waren, Menschen und Informationen in relativ kurzer Zeit über große Entfernungen zu transportieren. Dies hat zu einer Verwischung der traditionellen räumlichen Grenzen und zur Entstehung globaler Netzwerke für Austausch und Interaktion geführt.</p>
+<p>Die Verdichtung von Zeit und Raum ist jedoch kein neutraler oder einheitlicher Prozess, und seine Auswirkungen werden von verschiedenen Menschen und an verschiedenen Orten unterschiedlich empfunden. So kann die zunehmende Geschwindigkeit des globalen Handels einigen Menschen und Gemeinschaften zugute kommen, während sie anderen schadet, und die Intensivierung globaler Netzwerke kann bei einigen Menschen zu einem Gefühl der Dislokation oder Desorientierung führen.</p>
+<p>Insgesamt ist die Zeit-Raum-Kompression ein wichtiges Konzept in der Geografie, weil es hilft zu erklären, wie die räumlichen Beziehungen und Muster, die in einem bestimmten geografischen Kontext bestehen, durch technologischen Wandel und Globalisierung geformt und verändert werden.</p>
 </section>
 </section>
-</section>
-</section>
-<section id="references" class="level1" data-number="3">
+<section id="literatur" class="level1" data-number="5">
 
 
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">3 References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">5 Literatur</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-harvey:1996" class="csl-entry" role="listitem">
 Harvey, D. 1996. <em>Justice, Nature and the Geography of Difference</em>. Blackwell Publishers.
 </div>
 <div id="ref-Kwan:2012" class="csl-entry" role="listitem">
-Kwan, Mei-Po. 2012. <span>“The Uncertain Geographic Context Problem.”</span> <em>Annals of the Association of American Geographers</em> 102 (5): 958–68. <a href="https://doi.org/10.1080/00045608.2012.687349">https://doi.org/10.1080/00045608.2012.687349</a>.
+Kwan, Mei-Po. 2012. <span>„The Uncertain Geographic Context Problem“</span>. <em>Annals of the Association of American Geographers</em> 102 (5): 958–68. <a href="https://doi.org/10.1080/00045608.2012.687349">https://doi.org/10.1080/00045608.2012.687349</a>.
 </div>
 <div id="ref-Peuquet:1988" class="csl-entry" role="listitem">
-Peuquet, Donna J. 1988. <span>“Representations of Geographic Space: Toward a Conceptual Synthesis.”</span> <em>Annals of the Association of American Geographers</em> 78 (3): 375–94. https://doi.org/<a href="https://doi.org/10.1111/j.1467-8306.1988.tb00214.x">https://doi.org/10.1111/j.1467-8306.1988.tb00214.x</a>.
+Peuquet, Donna J. 1988. <span>„Representations of Geographic Space: Toward a Conceptual Synthesis“</span>. <em>Annals of the Association of American Geographers</em> 78 (3): 375–94. https://doi.org/<a href="https://doi.org/10.1111/j.1467-8306.1988.tb00214.x">https://doi.org/10.1111/j.1467-8306.1988.tb00214.x</a>.
 </div>
 <div id="ref-Tobler:1970" class="csl-entry" role="listitem">
-Tobler, W. 1970. <span>“A Computer Movie Simulating Urban Growth in the Detroit Region.”</span> <em>Economic Geography</em> 46 (2): 234–40.
+Tobler, W. 1970. <span>„A Computer Movie Simulating Urban Growth in the Detroit Region“</span>. <em>Economic Geography</em> 46 (2): 234–40.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -514,150 +385,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-      }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
-        }
-      });
-    }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
-        }
-      }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
-      return false;
-    }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -692,12 +419,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Kopiert");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Kopiert");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -719,7 +446,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.quarto\.org\/custom");
+      var filterRegex = new RegExp("https:\/\/OGERhub\.github\.io\/aslo");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -733,13 +460,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
-          // default icon
-          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -1063,7 +783,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>OGERhub (2024) <a href="../unit00/impressum.html">Impressum</a></p>
+<p><a href="https://github.com/OGERhub/">OGERhub (2024)</a> | <a href="../unit00/impressum.html">Impressum</a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

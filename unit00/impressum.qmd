@@ -5,11 +5,12 @@ date: '2023-05-01'
 
 
 ---
-![](/images/hinterland-sp.jpg)
+
+
 
 # Impressum
 
-This website is brought with the background of [Open Educational Resources](https://open-educational-resources.de/) initiative coordinated by the [Leibniz-Institut für Bildungsforschung und Bildungsinformation](https://www.dipf.de/de) and integrated in the official teaching and reproducible research framework of the [Marburg University, Germany](https://www.uni-marburg.de/de). It is developed at the [Department of Geography](https://www.uni-marburg.de/fb19/) under responsibility of the [GISMA SPATIAL SCIENCE RESSOURCES ](https://gisma-courses.github.io/gc). 
+This website is brought with the background of [Open Educational Resources](https://open-educational-resources.de/) initiative coordinated by the [Leibniz-Institut für Bildungsforschung und Bildungsinformation](https://www.dipf.de/de) and integrated in the official teaching and reproducible research framework of the [Marburg University, Germany](https://www.uni-marburg.de/de). It is developed at the [Department of Geography](https://www.uni-marburg.de/fb19/) under responsibility of the [GISMA SPATIAL SCIENCE RESSOURCES ](https://gisma-courses.github.io/gc) & [OGERhub](https://ogerhub.github.io). 
 
 ## Content Responsibility
 The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are the ones from the instructors and do not necessarily reflect the opinion of the representatives of Marburg University.  

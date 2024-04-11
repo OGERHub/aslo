@@ -1,5 +1,6 @@
 project: 
   type: website
+  output-dir: docs/
 website:
   open-graph: true
   page-navigation: true  
@@ -9,7 +10,7 @@ website:
   search: 
     location: navbar
     type: textbox
-  page-footer: "OGERhub (2024) [Impressum](unit00/impressum.html)" 
+  page-footer: "OGERhub (2024) [Impressum](../unit00/impressum.html)" 
   twitter-card:
     creator: "@gisma"
   comments:

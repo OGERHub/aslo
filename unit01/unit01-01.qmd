@@ -3,6 +3,11 @@ title: "Theorie und Konzepte"
 title-block-banner: ../images/banner2.png
 title-block-banner-color: black
 bibliography: unit01-01.bib
+page-footer:
+    background: light
+    center: |
+      One line. <br>
+      A second line.
 ---
 
 ## Einordnung des Begriffs "Außerschulisches Lernen"

@@ -1,21 +1,22 @@
 ---
 title: "Theorie und Konzepte"
-title-block-banner: ../images/banner.png
-title-block-banner-color: orange
+title-block-banner: ../images/banner2.png
+title-block-banner-color: black
+bibliography: unit01-01.bib
 ---
 
-## Make sense topic
+## Einordnung des Begriffs "Außerschulisches Lernen"
 
-::: {.callout-warning appearance="minimal"}
-This is a senseless question to meet a meaningfull answer
-:::
+Folgt man Pospiech [@pospiech2020begegnungen, 222f.], so ist der Begriff des außerschulischen Lernens, also die Nutzung von Lerngelegenheiten außerhalb der Schule, tief in der pädagogischen Tradition verankert und reicht bis in die Aufklärung und Reformpädagogik zurück. Diese Praxis hat sich im Laufe der Zeit mit unterschiedlichen Begründungen weiterentwickelt [@thomas2009, 283-287], aber das Konzept als solches ist bis heute aktuell geblieben und gewinnt wieder an Interesse [@karpa2015, 1f.]. Der Begriff "außerschulischer Lernort" wird dabei breit und teilweise unscharf verwendet, was zu definitorischen Schwierigkeiten führt [ @erhorn2016,7; @SauerbornBrühne:2014,11] und synonyme Bezeichnungen wie "Außenlernort" [@kestler2015, 188] oder "Lernen außerhalb des Klassenzimmers" [@burk1980, 5] umfasst. Unter außerschulischen Lernorten werden Orte außerhalb des Schulgeländes verstanden, die Potenzial für schulisch geplantes Lernen bieten [@karpa2015, 7f.], wobei dieses Potenzial von verschiedenen Faktoren wie schulpolitischen Rahmenbedingungen, am Lernort verfügbaren Inhalten, didaktischen Überlegungen und individuellen Faktoren abhängt.
 
-::: {.callout-tip appearance="simple"}
-This is a meaningful answer to a senseless question
-:::
+Diese Orte können sowohl über ein spezifisches Bildungsangebot verfügen (etwa Museen etc.) oder auch ohne ein solches für Lernzwecke genutzt werden, wobei das Hauptziel darin besteht, den Schülerinnen und Schülern Erfahrungen zu ermöglichen, die im Klassenzimmer nicht möglich sind [@thomas2009, 284].
 
-::: {.callout-warning collapse="true"}
-## Learn More...
+Außerschulisches Lernen findet nicht folglich nicht wegen des Ortes an sich statt, sondern wegen der gleichzeitig gegebnen schulischen Relevanz des Ortes [@pech2008]. Während schulische Lernorte direkt in den Unterricht eingebunden sind, finden außerschulische Lernaktivitäten ohne direkten schulischen Bezug statt, was sie von der Definition außerschulischer Lernorte ausschließt. 
 
-This is a even **more** meaningful answer to a senseless question
-:::
+Als außerschulischer Lernort kann prinzipiell jeder Ort dienen, der ein nutzbares Lernpotenzial aufweist, sofern er in schulische Lernprozesse eingebunden ist [@keck1993, 148].
+
+## Didaktische und Methodische Grundlagen
+coming soon
+
+## Referenzen
+

@@ -1,7 +1,7 @@
 ---
 title: "Anwendungsbeispiele"
-title-block-banner: ../images/banner.png
-title-block-banner-color: orange
+title-block-banner: ../images/banner2.png
+title-block-banner-color: black
 ---
 
 ## Make sense topic

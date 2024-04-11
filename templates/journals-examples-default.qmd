@@ -57,7 +57,7 @@ bibliography: references.bib
 #   bj-pdf:
 #     keep-tex: true  
 format:
-  odt:
+  html:
     number-sections: true
     highlight-style: github
 

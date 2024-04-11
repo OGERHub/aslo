@@ -1,6 +1,5 @@
 project: 
   type: website
-  output-dir: gh-pages
 website:
   open-graph: true
   page-navigation: true  

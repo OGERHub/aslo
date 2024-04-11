@@ -14,6 +14,7 @@ format:
     toc-depth: 2
     chalkboard: true
     menu: false
+lightbox: true
 ---
 
 
@@ -56,7 +57,7 @@ Kurs besteht aus:
 
 ## Die Blocktage
 
-![](../images/Blocktermin_Zeiten.png){.lightbox width="75%" fig-align="center"}
+![](../images/Blocktermin_Zeiten.png){.lightbox }
 
 
 ## Einverständniserklärung

@@ -84,7 +84,7 @@ format:
       number-sections: false
       highlight-style: github
       theme: 
-         light: lumen #css/html-inrae.css
+         light: cerulean #css/html-inrae.css
          dark: [lumen, css/theme-dark.scss]
       code-background: true
       code-copy: true

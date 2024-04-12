@@ -11,7 +11,7 @@ comments: false
 
 Der Bildungskontext außerschulischer Lernorte wird exemplarisch mit der folgenden praxisbasierten Mindmap skizziert. Sie dient dazu, zentrale Begriffe und theoretische Grundlagen zu visualisieren und Zusammenhänge aufzuzeigen. Die Abbildung zeigt die verschiedenen Zugänge zum Thema, darunter allgemeindidaktische Modelle, fachdidaktische Ansätze, spezifische Lehr-Lernformen und Lernstrukturen sowie einige Praxisbeispiele, die sich auf außerschulische Lernorte beziehen. Diese Elemente bilden die Grundlage für die weitere Ausarbeitung von Schlüsselkonzepten und Theorien, die in diesem Forschungsfeld von Bedeutung sind [@Freericks2017].
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/KyaQ73LvhNUJed1YQ8i7XM">
+<iframe style="border:none" width="1000" height="650" src="https://whimsical.com/embed/KyaQ73LvhNUJed1YQ8i7XM">
 
 </iframe>
 

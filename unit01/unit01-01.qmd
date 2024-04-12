@@ -5,9 +5,6 @@ title-block-banner-color: black
 bibliography: unit01-01.bib
 
 comments: false
-nclude-in-header: 
-  text: |
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 ---
 
 ## Einordnung des Begriffs "Außerschulisches Lernen"
@@ -21,7 +18,7 @@ Außerschulisches Lernen findet nicht folglich nicht wegen des Ortes an sich sta
 Als außerschulischer Lernort kann prinzipiell jeder Ort dienen, der ein nutzbares Lernpotenzial aufweist, sofern er in schulische Lernprozesse eingebunden ist [@keck1993, 148].
 
 ## Didaktische und Methodische Grundlagen
- {{< fa fa-circle-thin >}} 
+ 
  
  
  Die Einbeziehung außerschulischer Lernorte in den Unterricht bietet verschiedene Potenziale, ist aber auch mit Herausforderungen verbunden. Die wichtigsten Aspekte lassen sich in den folgenden Kategorien zusammenfassen:

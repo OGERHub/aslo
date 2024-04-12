@@ -1,21 +1,8 @@
 ---
-title: "Anwendungsbeispiele"
+title: "Didaktische Konzepte"
 title-block-banner: ../images/banner2.png
 title-block-banner-color: black
+bibliography: unit01-01.bib
+
+comments: false
 ---
-
-## Make sense topic
-
-::: {.callout-warning appearance="minimal"}
-This is a senseless question to meet a meaningfull answer
-:::
-
-::: {.callout-tip appearance="simple"}
-This is a meaningful answer to a senseless question
-:::
-
-::: {.callout-warning collapse="true"}
-## Learn More...
-
-This is a even **more** meaningful answer to a senseless question
-:::

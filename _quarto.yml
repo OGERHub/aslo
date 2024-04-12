@@ -43,7 +43,9 @@ website:
       - section: "Ausserschulische Lernorte"
         contents: 
           - href: unit01/unit01-01.qmd
-            text: "Theorie und Konzepte"
+            text: "Begriffsklärung und Grundlagen"
+          - href: unit01/unit01-02.qmd
+            text: "Didaktische Konzepte"            
           - href: unit99/tag-1.qmd
             text: "Folien Blocktag 1"      
           - href: unit99/tag-2.qmd

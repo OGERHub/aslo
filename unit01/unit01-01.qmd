@@ -1,5 +1,5 @@
 ---
-title: "Theorie und Konzepte"
+title: "Begriffsklärung und Grundlagen"
 title-block-banner: ../images/banner2.png
 title-block-banner-color: black
 bibliography: unit01-01.bib
@@ -72,7 +72,7 @@ Fasst man die Untersuchungen zusammen ergibt sich folgendens Bild:
 ### Resumè
 Die Studien verdeutlichen die Notwendigkeit, der theoretischen und praktischen Auseinandersetzung mit außerschulischen Lernorten in der Lehrerbildung einen höheren Stellenwert einzuräumen und die didaktischen Ansätze entsprechend anzupassen; dies gilt insbesondere für eine _**angemessene Vor- und Nachbereitung**_ sowie den _**sensiblen**_ Einsatz von Expert*innen, um die Potenziale dieser Lernorte voll ausschöpfen zu können.
 
-## Didaktische Konzepte
+
 
 ## Referenzen
 

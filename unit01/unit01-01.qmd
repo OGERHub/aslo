@@ -33,7 +33,7 @@ Die Einbeziehung außerschulischer Lernorte in den Unterricht bietet verschieden
 - *Didaktische Herausforderung*: Die Integration der Lerninhalte in den regulären Schulunterricht und die Anpassung an curriculare Vorgaben stellen weitere Schwierigkeiten dar [@rhyn2004].
 
 
-Die nachfolgende Abbildung zeigt die Potenziale und Herausforderungen.
+Die nachfolgende Abbildung zeigt die aus den theoretischen Überlegungen abgeleiteten Potenziale und Herausforderungen der Integration Außerschulischer Lernorte.
 
 
 
@@ -66,9 +66,11 @@ Wesentliche Bedeutung kommt der Vor- und Nachbereitung der außerschulischen Ler
 
 Fasst man die Untersuchungen zusammen ergibt sich folgendens Bild:
 
-![Chancen, Herausforderungen und Kommunikationsproblmatik Ausserschulisches Lernen, eigene Abbildung](../images/mm2.png)
 
-Die Studien verdeutlichen die Notwendigkeit, der theoretischen und praktischen Auseinandersetzung mit außerschulischen Lernorten in der Lehrerbildung einen höheren Stellenwert einzuräumen und die didaktischen Ansätze entsprechend anzupassen; dies gilt insbesondere für eine angemessene Vor- und Nachbereitung sowie den sensiblen Einsatz von Expert*innen, um die Potenziale dieser Lernorte voll ausschöpfen zu können.
+[![Chancen, Herausforderungen und Kommunikationsproblematik Ausserschulisches Lernen, eigene Abbildung](https://mermaid.ink/img/pako:eNp1VN1q21AMfpWDR0gHYVvDQtPcNWlCx1YYbOtg-ObYlm1RWzY68tKm9G36DL3aXV5sst3E9soMjk-kT3-fdPTghUUE3sIbjR58MgYJZWGaozFjSSGH8cKMA-tgPOlLbyyjDTJw4yNcVSVjbvl-VWQF13Zv1ufz2Xx2MO0Q3-FOOlQcx68hy4Ij4A50tvqgTw-XIUGn3syX0-l5T-0gLCgaZDM7W13Opj2MAAsOIJcfp6en83GLeKw_-vM4GvnkU44U5bZsdVwUcnLyiQQStoIFmd_6ru9KdQm0ReeAlE7zBZiqPIGgogTo7dvWejQyq9RSqJgl6zc9pHQQH__rswQGDFNgdWEicI1PByJIiesD10gBq7DGuRJ2GKNTOzIbG6ZtSkM8bwHl4Jcbv0ipzQSGsHT_nB5AF5UOAAnuUPZPMsC9FE_7pxTMrmLzs40ZpjaWibmyFG2Bbw1I-K5v-JXtHTqyalWnABzblBu-fDrydQVsKxc3U9Hohsy9Uh8DXAROMM9V6EoudGbzrrof2j_W_BCirKbYBGodN8f3sZLWCq-whiW8_0NRZ_u50GBITfOdreKtlndUvlRu3X2egzD28lnXAbc1U-qizgtvGx-drVZPkNYZN0N1rYlI56nHycDeBZZVzf8y8x9Q14BfCFnCVVmC8sagwcDcAOcokmkOHfBw6c1GO4zJrQ7P5KVSY2lXlbY-9hzvn9UhtbNllYOJ2bCtW7erjBPIshrtTbxco1mMdA81u8T3mh3jews9RhDbKhPf03uoUFtJ8e2eQm8hXMHEq8rIClyi1WuYH4QQoRR83a62ZsM9_gWsHJ8o?type=png)](https://mermaid.live/edit#pako:eNp1VN1q21AMfpWDR0gHYVvDQtPcNWlCx1YYbOtg-ObYlm1RWzY68tKm9G36DL3aXV5sst3E9soMjk-kT3-fdPTghUUE3sIbjR58MgYJZWGaozFjSSGH8cKMA-tgPOlLbyyjDTJw4yNcVSVjbvl-VWQF13Zv1ufz2Xx2MO0Q3-FOOlQcx68hy4Ij4A50tvqgTw-XIUGn3syX0-l5T-0gLCgaZDM7W13Opj2MAAsOIJcfp6en83GLeKw_-vM4GvnkU44U5bZsdVwUcnLyiQQStoIFmd_6ru9KdQm0ReeAlE7zBZiqPIGgogTo7dvWejQyq9RSqJgl6zc9pHQQH__rswQGDFNgdWEicI1PByJIiesD10gBq7DGuRJ2GKNTOzIbG6ZtSkM8bwHl4Jcbv0ipzQSGsHT_nB5AF5UOAAnuUPZPMsC9FE_7pxTMrmLzs40ZpjaWibmyFG2Bbw1I-K5v-JXtHTqyalWnABzblBu-fDrydQVsKxc3U9Hohsy9Uh8DXAROMM9V6EoudGbzrrof2j_W_BCirKbYBGodN8f3sZLWCq-whiW8_0NRZ_u50GBITfOdreKtlndUvlRu3X2egzD28lnXAbc1U-qizgtvGx-drVZPkNYZN0N1rYlI56nHycDeBZZVzf8y8x9Q14BfCFnCVVmC8sagwcDcAOcokmkOHfBw6c1GO4zJrQ7P5KVSY2lXlbY-9hzvn9UhtbNllYOJ2bCtW7erjBPIshrtTbxco1mMdA81u8T3mh3jews9RhDbKhPf03uoUFtJ8e2eQm8hXMHEq8rIClyi1WuYH4QQoRR83a62ZsM9_gWsHJ8o)
+
+### Resumè
+Die Studien verdeutlichen die Notwendigkeit, der theoretischen und praktischen Auseinandersetzung mit außerschulischen Lernorten in der Lehrerbildung einen höheren Stellenwert einzuräumen und die didaktischen Ansätze entsprechend anzupassen; dies gilt insbesondere für eine _**angemessene Vor- und Nachbereitung**_ sowie den _**sensiblen**_ Einsatz von Expert*innen, um die Potenziale dieser Lernorte voll ausschöpfen zu können.
 
 ## Didaktische Konzepte
 

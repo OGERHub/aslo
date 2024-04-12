@@ -5,6 +5,9 @@ title-block-banner-color: black
 bibliography: unit01-01.bib
 
 comments: false
+nclude-in-header: 
+  text: |
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 ---
 
 ## Einordnung des Begriffs "Außerschulisches Lernen"
@@ -18,7 +21,58 @@ Außerschulisches Lernen findet nicht folglich nicht wegen des Ortes an sich sta
 Als außerschulischer Lernort kann prinzipiell jeder Ort dienen, der ein nutzbares Lernpotenzial aufweist, sofern er in schulische Lernprozesse eingebunden ist [@keck1993, 148].
 
 ## Didaktische und Methodische Grundlagen
-coming soon
+ {{< fa fa-circle-thin >}} 
+ 
+ 
+ Die Einbeziehung außerschulischer Lernorte in den Unterricht bietet verschiedene Potenziale, ist aber auch mit Herausforderungen verbunden. Die wichtigsten Aspekte lassen sich in den folgenden Kategorien zusammenfassen:
+
+## Potenziale außerschulischer Lernorte
+- Erweiterung des pädagogischen Angebots: Außerschulische Lernorte bieten Abwechslung und neue Lernwege, die die Motivation der Schülerinnen und Schüler steigern und die Lerneffektivität positiv beeinflussen können [@karpa2015].
+- Lebenswelt- und Wissenschaftsbezug: Diese Lernorte ermöglichen eine Annäherung an die Lebenswelt der Lernenden und bieten gleichzeitig einen Zugang zu wissenschaftspropädeutischen Ansätzen [@pries2011; @budde2016].
+- Primärerfahrungen und authentische Begegnungen: Direkte Interaktionen an außerschulischen Lernorten ermöglichen originale Begegnungen und fördern ein authentisches Erleben der Lerninhalte [@schocke2009;  @sauerborn2017].
+- Fächerübergreifendes Lernen Außerschulische Lernorte erfordern häufig eine fächerübergreifende Herangehensweise, die die Inhalte in einen größeren Kontext stellt und damit für die Schülerinnen und Schüler relevanter macht [@SauerbornBrühne:2014].
+
+## Herausforderungen außerschulischer Lernorte
+- Erhöhter Planungsaufwand Die Vorbereitung und Durchführung von Besuchen außerschulischer Lernorte erfordert einen deutlichen Mehraufwand für Lehrkräfte [@karpa2015].
+- Kognitive Überforderung**: Die Vielzahl neuer Eindrücke kann zu einer Überforderung führen, insbesondere wenn die Lernorte stark von der gewohnten Schulatmosphäre abweichen [@mandy2015].
+- Didaktische Herausforderung**: Die Integration der Lerninhalte in den regulären Schulunterricht und die Anpassung an curriculare Vorgaben stellen weitere Schwierigkeiten dar [@rhyn2004].
+
+
+Die nachfolgende Abbildung zeigt die Potenziale und Herausforderungen.
+
+[![Potenziale und Herausforderungen außerschulischen Lernens, verändert nach Pospiech et al. 2020](https://mermaid.ink/img/pako:eNplU8Fu2zAM_RXBQ5AUSIElWNDUGAa0STsMy7BhHbqLL7JFx0RkyaCkNl2R39hpwC79k_zYaHtOnM0HWSIfqcdH8TnKrIIojhIzGDwnRgg06GPRbIUY-gJKGMZimEoHw3Hfei8JZarBDQ9wdlWEpaSnhdWW6rhXN5fz2XzWhR4R32Drj6g8z_-HXFtSQEfQxeI1fz2cRgNH9-38ejq97LkdZNaoEzazi8VyNu1hPJDHE8jyzXQymQ9bxK7-8bIbDBJTolGlrGoTWetHo6uw_w3ksiJo5BXE25TeiRWQseTh7Ey0SVBNRpV16PEBxJWrYMPOjkEcI7Mc5VKIXJ5XOriD68Z4LZ0PZi2CUWL_M89NfVDgxF19aTBMnzArvOtiVpCCcY-gfRPzHZ3jc1bI3LsUfoR1B_wKa7RGahAfFBiPfv_ShgBpSD2IO5kVmnNvAH0X9IUbs38hoFwWxFTAdJ7bv2gQnwnrfEAd73uglJWrjyV6IQM_HwbUghnx0XINW98lMrCWfZlaa0-jWiTuQ0-l91CTERu7No3CJPa_UmbYPB6-9MBdy1o9J0P-KI1qzbJM8YFFYBKnV_7bGNAaK4fuvBCi6yt3aFvx--EyVhKbYsoyGNxwCZYLSkw0jkqgUqLiEWuGJIma4UmimLeKqQftE56-HUNZGXv3ZLIo9hRgHIVKSQ9LlGuSZRTnUju2gkJv6VM7ts307v4ATDk8VA?type=png)](https://mermaid.live/edit#pako:eNplU8Fu2zAM_RXBQ5AUSIElWNDUGAa0STsMy7BhHbqLL7JFx0RkyaCkNl2R39hpwC79k_zYaHtOnM0HWSIfqcdH8TnKrIIojhIzGDwnRgg06GPRbIUY-gJKGMZimEoHw3Hfei8JZarBDQ9wdlWEpaSnhdWW6rhXN5fz2XzWhR4R32Drj6g8z_-HXFtSQEfQxeI1fz2cRgNH9-38ejq97LkdZNaoEzazi8VyNu1hPJDHE8jyzXQymQ9bxK7-8bIbDBJTolGlrGoTWetHo6uw_w3ksiJo5BXE25TeiRWQseTh7Ey0SVBNRpV16PEBxJWrYMPOjkEcI7Mc5VKIXJ5XOriD68Z4LZ0PZi2CUWL_M89NfVDgxF19aTBMnzArvOtiVpCCcY-gfRPzHZ3jc1bI3LsUfoR1B_wKa7RGahAfFBiPfv_ShgBpSD2IO5kVmnNvAH0X9IUbs38hoFwWxFTAdJ7bv2gQnwnrfEAd73uglJWrjyV6IQM_HwbUghnx0XINW98lMrCWfZlaa0-jWiTuQ0-l91CTERu7No3CJPa_UmbYPB6-9MBdy1o9J0P-KI1qzbJM8YFFYBKnV_7bGNAaK4fuvBCi6yt3aFvx--EyVhKbYsoyGNxwCZYLSkw0jkqgUqLiEWuGJIma4UmimLeKqQftE56-HUNZGXv3ZLIo9hRgHIVKSQ9LlGuSZRTnUju2gkJv6VM7ts307v4ATDk8VA)
+
+
+## Empirische Befunde
+Die positiven und negativen Einflussfaktoren auf das ausserschulische Lernen sind empirisch gut untersucht. Die sinnvolle Gestaltung außerschulischer Lernorte steht in direktem Zusammenhang mit dem Erfolg oder Misserfolg von Unterrichtseinheiten:
+
+### Positive Effekte 
+Wesentlice Bedeutung kommt der Vor- und Nachbereitung der außerschulischen Lernveranstaltungen zu
+
+- Vorbereitung: Mehrere Studien betonen die Notwendigkeit einer gründlichen inhaltlichen und geographischen Vorbereitung und Nachbereitung um längerfristige Lerneffekte zu sichern und höhere Kompetenzniveaus zu erreichen [@delaney1967; @orion1994; @kubota1991; @anderson1997; @anderson2000; @streller2015; @wellington1990; @rix1999; @waltner2006; @engeln2004].
+- Kurzfristige Effekte: Studien haben gezeigt, dass außerschulische Lernorte positive Effekte auf Werte, Einstellungen und fachliches Interesse der Schülerinnen und Schüler haben können, diese Effekte aber meist nur von kurzer Dauer sind, insbesondere dann falls keine Sicherung betrieben wird [@itzekgreulich2014].
+
+### Negative Effekte
+
+
+- Hoher Aufwand und Kontrollprobleme: Niederhauser und [@rhyn2004] berichten, dass 57 Prozent der Lehrkräfte den hohen Aufwand und die schwer zu kontrollierenden Bedingungen als Herausforderung sehen.
+- Kognitive Überforderung: [@falk2012] thematisieren die Gefahr der kognitiven Überforderung in unbekannten Lernumgebungen, die die Lernfähigkeit der Schüler beeinträchtigen kann.
+
+
+
+### Ambivalente Effekte
+
+Die Kommunikation zwischen Experten und Laien an außerschulischen Lernorten bietet Chancen durch die Bereicherung des Lernsettings mit Fachwissen, birgt jedoch Herausforderungen durch mögliche Abstimmungsschwierigkeiten und Wissensasymmetrien, die die Interaktion komplizieren können. Experten müssen ihr Wissen zielgruppengerecht vermitteln, was variabel gelingt und oft als Machtasymmetrie wahrgenommen wird, wodurch Laien zögern, Fragen zu stellen [@bromme2004].
+
+
+
+Fasst man die Untersuchungen zusammen ergibt sich folgendens Bild:
+
+[![Chancen, Herausforderungen und Kommunikationsproblmatik Ausserschulisches Lernen, eigene Abbildung](https://mermaid.ink/img/pako:eNp1VN1q21AMfpWDR0gHYVvDQtPcNWlCx1YYbOtg-ObYlm1RWzY68tKm9G36DL3aXV5sst3E9soMjk-kT3-fdPTghUUE3sIbjR58MgYJZWGaozFjSSGH8cKMA-tgPOlLbyyjDTJw4yNcVSVjbvl-VWQF13Zv1ufz2Xx2MO0Q3-FOOlQcx68hy4Ij4A50tvqgTw-XIUGn3syX0-l5T-0gLCgaZDM7W13Opj2MAAsOIJcfp6en83GLeKw_-vM4GvnkU44U5bZsdVwUcnLyiQQStoIFmd_6ru9KdQm0ReeAlE7zBZiqPIGgogTo7dvWejQyq9RSqJgl6zc9pHQQH__rswQGDFNgdWEicI1PByJIiesD10gBq7DGuRJ2GKNTOzIbG6ZtSkM8bwHl4Jcbv0ipzQSGsHT_nB5AF5UOAAnuUPZPMsC9FE_7pxTMrmLzs40ZpjaWibmyFG2Bbw1I-K5v-JXtHTqyalWnABzblBu-fDrydQVsKxc3U9Hohsy9Uh8DXAROMM9V6EoudGbzrrof2j_W_BCirKbYBGodN8f3sZLWCq-whiW8_0NRZ_u50GBITfOdreKtlndUvlRu3X2egzD28lnXAbc1U-qizgtvGx-drVZPkNYZN0N1rYlI56nHycDeBZZVzf8y8x9Q14BfCFnCVVmC8sagwcDcAOcokmkOHfBw6c1GO4zJrQ7P5KVSY2lXlbY-9hzvn9UhtbNllYOJ2bCtW7erjBPIshrtTbxco1mMdA81u8T3mh3jews9RhDbKhPf03uoUFtJ8e2eQm8hXMHEq8rIClyi1WuYe4vYZk6lEKEUfN3utmbFPf4FSkSfcw?type=png)](https://mermaid.live/edit#pako:eNp1VN1q21AMfpWDR0gHYVvDQtPcNWlCx1YYbOtg-ObYlm1RWzY68tKm9G36DL3aXV5sst3E9soMjk-kT3-fdPTghUUE3sIbjR58MgYJZWGaozFjSSGH8cKMA-tgPOlLbyyjDTJw4yNcVSVjbvl-VWQF13Zv1ufz2Xx2MO0Q3-FOOlQcx68hy4Ij4A50tvqgTw-XIUGn3syX0-l5T-0gLCgaZDM7W13Opj2MAAsOIJcfp6en83GLeKw_-vM4GvnkU44U5bZsdVwUcnLyiQQStoIFmd_6ru9KdQm0ReeAlE7zBZiqPIGgogTo7dvWejQyq9RSqJgl6zc9pHQQH__rswQGDFNgdWEicI1PByJIiesD10gBq7DGuRJ2GKNTOzIbG6ZtSkM8bwHl4Jcbv0ipzQSGsHT_nB5AF5UOAAnuUPZPMsC9FE_7pxTMrmLzs40ZpjaWibmyFG2Bbw1I-K5v-JXtHTqyalWnABzblBu-fDrydQVsKxc3U9Hohsy9Uh8DXAROMM9V6EoudGbzrrof2j_W_BCirKbYBGodN8f3sZLWCq-whiW8_0NRZ_u50GBITfOdreKtlndUvlRu3X2egzD28lnXAbc1U-qizgtvGx-drVZPkNYZN0N1rYlI56nHycDeBZZVzf8y8x9Q14BfCFnCVVmC8sagwcDcAOcokmkOHfBw6c1GO4zJrQ7P5KVSY2lXlbY-9hzvn9UhtbNllYOJ2bCtW7erjBPIshrtTbxco1mMdA81u8T3mh3jews9RhDbKhPf03uoUFtJ8e2eQm8hXMHEq8rIClyi1WuYe4vYZk6lEKEUfN3utmbFPf4FSkSfcw)
+
+Die Studien verdeutlichen die Notwendigkeit, der theoretischen und praktischen Auseinandersetzung mit außerschulischen Lernorten in der Lehrerbildung einen höheren Stellenwert einzuräumen und die didaktischen Ansätze entsprechend anzupassen; dies gilt insbesondere für eine angemessene Vor- und Nachbereitung sowie den sensiblen Einsatz von Expert*innen, um die Potenziale dieser Lernorte voll ausschöpfen zu können.
+
+## Didaktische Konzepte
 
 ## Referenzen
 

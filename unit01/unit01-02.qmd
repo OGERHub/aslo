@@ -9,25 +9,52 @@ comments: false
 
 ## Einführung
 
-Der Bildungskontext außerschulischer Lernorte wird exemplarisch mit der folgenden praxisbasierten Mindmap skizziert. Sie dient dazu, allgemeine zentrale Begriffe und theoretische Grundlagen desThemenfeldes zu visualisieren und wesentliche Zusammenhänge aufzuzeigen. Die Abbildung zeigt die verschiedenen Zugänge zum Thema, darunter fachdidaktische Ansätze, spezifische Lehr-Lernformen und Lernstrukturen sowie einige Praxisbeispiele, die sich auf außerschulische Lernorte beziehen. Diese Elemente bilden den Hintergrund für die weitere Ausarbeitung konkreten Realisierungen außerschulischer Lernorte [@Freericks2017].
+Der Bildungskontext außerschulischer Lernorte wird exemplarisch mit der folgenden praxisbasierten Mindmap skizziert. Sie dient dazu, allgemeine zentrale Begriffe und theoretische Grundlagen des Themenfeldes zu visualisieren und wesentliche Zusammenhänge aufzuzeigen. Die Abbildung zeigt die verschiedenen Zugänge zum Thema, darunter fachdidaktische Ansätze, spezifische Lehr-Lernformen und Lernstrukturen sowie einige Praxisbeispiele, die sich auf außerschulische Lernorte beziehen. Diese Elemente bilden den Hintergrund für die weitere Ausarbeitung konkreten Realisierungen außerschulischer Lernorte [@Freericks2017].
 
 <iframe style="border:none" width="950" height="650" src="https://whimsical.com/embed/KyaQ73LvhNUJed1YQ8i7XM">
 
 </iframe>
 
-~Themenfeld\ der\ Didaktik\ ausserschulischer\ Lernorte,\ verändert\ nach\ [@Freericks2017].~
+~Themenfeld der Didaktik ausserschulischer Lernorte, verändert nach [@Freericks2017].~
 
-Der theoretische Hintergrund und die didaktischen Konzepte im Zusammenhang mit außerschulischen Lernorten lassen sich grob wie folgt gliedern:
+## Modelle und Konzepote für ausserschulische Lernorte
 
-- **Didaktisches Dreieck:** Das didaktische Dreieck, bestehend aus Lehrenden, Lernenden und Lerninhalten, erhält in der außerschulischen Didaktik eine dynamische Form, wobei vor allem die der Lernort als modifizierender Faktor hinzukommt.
+Didaktische Ansätze für außerschulische Lernorte werden in der wissenschaftlichen Literatur breit diskutiert, wobei die Studien und Publikationen eine große konzeptionelle und begriffliche Vielfalt aufweisen  [@baar2018]. Nahezu alle Bildungsbereiche haben relevante Methoden adaptiert, spezifische didaktische Modelle für außerschulisches Lernen fehlen jedoch weitgehend [@baar2018]. Aus praktischer Sicht bieten vor allem [@sauerborn2020] detaillierte Konzepte und Modelle zur Strukturierung außerschulischer Lernorte.
 
-- **Außerschulischer Lernort:** Lernorte wie Museen, Parks und Unternehmen und fragestellungsgebundene authentische Standorte erweitern die Lernumgebung, indem sie Anwendungen und Erfahrungen aus der realen Welt bieten.
+## Das Kreismodell nach Freericks
+Freericks hebt vier Hauptthesen in der Didaktik außerschulischer Lernorte hervor: die Transformation traditioneller didaktischer Ansätze, die Beibehaltung konventioneller Lernmethoden, die Einzigartigkeit außerschulischer Lernformen und die Unterscheidbarkeit dieser Lernumgebungen [@Freericks2017; @Freericks2020]. Das bekannte *didaktisches Dreieck* bestehend aus Lehrenden, Lernenden und Lerninhalten, erhält in der außerschulischen Didaktik eine dynamische Komponente, wobei vor allem die der Lernort und die dort verbrachte Zeit als modifizierende Faktoren hinzukommen. Außerschulische Lernorte gehen über den traditionellen Schulunterricht hinaus und zeichnen sich durch drei Hauptelemente aus:
 
--  **Außerschulisches Lernens:** Außerschulisches Lernen umfasst eine Vielzahl von Aktivitäten, die praktische, emotionale und kognitive Lernerfahrungen integrieren und das Lernen durch direkte Interaktion mit der Umwelt bereichern.
+***Funktional***: Außerschulische Lernorte dienen nicht nur bildungspolitischen Zwecken, sondern beinhalten auch Aspekte wie Produktions-, Forschungs- und Medienkompetenz. Sie ermöglichen die praktische Anwendung von Wissen und Fertigkeiten in unterschiedlichen Kontexten.
 
--  **Fachdidaktische Ansätze:** In außerschulischen Lernkontexten werden fachspezifische Inhalte durch die Nutzung realer Kontexte effektiv vermittelt und vertieft werden.
+***Strukturell***: Diese Lernorte werden in ihrer räumlichen und zeitlichen Dimension betrachtet. Sie zeichnen sich durch eine hohe Flexibilität in der Nutzung aus, was sie von schulischen Lernumgebungen unterscheidet. Die Einbettung in den Lehrplan kann dazu beitragen, das Interesse der Lernenden zu wecken und Wissen zu vertiefen.
 
--  **Lerntheorien:** wie z.B. das konstruktivistische Lernen, unterstützen die Integration außerschulischer Lernorte, indem sie aktives und selbstgesteuertes Lernen in den Mittelpunkt stellen.
+***Spezifisch***: Die spezifischen didaktischen Mittel, die an diesen Orten eingesetzt werden, wie z.B. Workshops, Lernstationen, Expertenführungen oder forschendes Lernen, gestalten die Lernerfahrung und helfen, die Lernziele auf originäre Weise zu erreichen [@Freericks2017; @Freericks2020].
 
--  **Lernformen:** Innovative Lernformen wie projektorientiertes und entdeckendes und forschendes Lernen werden häufig an außerschulischen Lernorten praktiziert, um den Lernenden intensivere und praxisnahe Erfahrungen zu ermöglichen.
+Diese Strukturierung kann gut genutzt werden, um die komplexen Wirkungszusammenhänge konkreter Lernorte zu visualisieren. Nachfolge Abbildung zeigt exemplarisch eine solches Kreisdiagramm für den Ausserschulischen Lernort Urban Gardening.
 
+![Kreismodell Urban Gardening verändert  nach [@Freericks2017] ](../images/modell_urban.png)
+
+## Die Feindimensionen
+
+Neben den allgemeinen didaktischen Kriterien sollten außerschulische Lernorte auch anhand detaillierterer Feindimensionen der Wissensvermittlung geplant und bewertet werden. Diese beleuchten speziell die Art der Wissensvermittlung in Bezug auf die Rolle des Lernenden sowie die Einflüsse des Raumes. Um die Variabilität dieser Einflüsse an verschiedenen Lernorten darzustellen, ist eine Darstellung mit Skalen sinnvoll. Diese Skalen helfen zu erfassen, wie stark oder auf welche Weise diese Dimensionen zur Wissensvermittlung an verschiedenen Lernorten beitragen. Die folgende Abbildung zeigt exemplarisch eine solche Darstellung amn einer Schar von  Skalenstrahlen.
+
+![Didaktische Feindimenstionen [@Freericks2017,18]](../images/feindim.png)
+
+
+**Technik/Grad der Medialisierung:**.  
+Außerschulische Lernorte nutzen häufig Medien wie Videobeiträge, Hörstationen und Touchscreens, um Inhalte anschaulich und abwechslungsreich zu vermitteln. Es besteht eine klassische Sender-Empfänger-Beziehung, wobei die Interaktion variieren kann. Die Medien können unidirektional oder bidirektional genutzt werden, je nachdem, ob der Lernende selbst aktiv und individuell mit den Medien interagiert.
+
+**Grad der Selbststeuerung:**.  
+Nicht alle außerschulischen Lernarrangements ermöglichen ein hohes Maß an Selbststeuerung durch den Lernenden. Während einige Arrangements, wie z.B. Vorlesungen, stark vorgegeben sind, ermöglichen andere, wie z.B. frei begehbare Raumarrangements, eine aktive und selbstbestimmte Nutzung der Lernangebote.
+
+**Beteiligung der Lernenden:**.  
+In manchen außerschulischen Kontexten erfolgt die Aneignung von Inhalten eher rezeptiv, wie z.B. bei Informationstafeln oder Videos. Andere Exponate erfordern eine aktive Beteiligung des Lernenden, um den Lerninhalt zu aktivieren, z.B. durch die Manipulation von Schleusen oder Dämmen in einem Exponat über Wasserkraft.
+
+**Art der Wissensvermittlung:**.  
+Die Wissensvermittlung kann stark vorstrukturiert oder offen gestaltet werden. Bei offenen Formen können sich die Lernenden die Inhalte spielerisch selbst erarbeiten, während strukturierte Wege vorgegeben werden. Ein Beispiel für eine offene Form ist eine interaktive Medienperformance, bei der die Inhalte durch die aktive Beteiligung des Lernenden mit einem Tablet gestaltet werden.
+
+**Emotionale Beteiligung:**.  
+Die emotionale Beteiligung variiert stark und ist oft eng mit dem Lerninhalt und der räumlichen Nähe verbunden. Sie kann von Unterhaltung und Spaß bis hin zu persönlicher Betroffenheit reichen, wie die Unterschiede zwischen einem Freizeitpark und einer KZ-Gedenkstätte zeigen.
+
+**Gestaltung/Ästhetik:**
+Ästhetik spielt eine wichtige Rolle bei der Vermittlung von Inhalten in außerschulischen Lernkontexten. Sie reicht von funktional-naturalistischem Design bis hin zu narrativem Design, das einen ästhetischen Erzählrahmen schafft und Lerninhalte in ein ganzheitliches Raumdesign integriert, wie im Universum Bremen zu sehen [@Freericks2017,19f.]. 

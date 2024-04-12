@@ -43,23 +43,24 @@ Die nachfolgende Abbildung zeigt die Potenziale und Herausforderungen.
 ## Empirische Befunde
 Die positiven und negativen Einflussfaktoren auf das ausserschulische Lernen sind empirisch gut untersucht. Die sinnvolle Gestaltung außerschulischer Lernorte steht in direktem Zusammenhang mit dem Erfolg oder Misserfolg von Unterrichtseinheiten:
 
-### Positive Effekte 
-Wesentlice Bedeutung kommt der Vor- und Nachbereitung der außerschulischen Lernveranstaltungen zu
+### Positive Aspekte 
+Wesentliche Bedeutung kommt der Vor- und Nachbereitung der außerschulischen Lernveranstaltungen zu:
 
-- Vorbereitung: Mehrere Studien betonen die Notwendigkeit einer gründlichen inhaltlichen und geographischen Vorbereitung und Nachbereitung um längerfristige Lerneffekte zu sichern und höhere Kompetenzniveaus zu erreichen [@delaney1967; @orion1994; @kubota1991; @anderson1997; @anderson2000; @streller2015; @wellington1990; @rix1999; @waltner2006; @engeln2004].
-- Kurzfristige Effekte: Studien haben gezeigt, dass außerschulische Lernorte positive Effekte auf Werte, Einstellungen und fachliches Interesse der Schülerinnen und Schüler haben können, diese Effekte aber meist nur von kurzer Dauer sind, insbesondere dann falls keine Sicherung betrieben wird [@itzekgreulich2014].
+- **Vorbereitung/Nachbereitung**: Mehrere Studien betonen die Notwendigkeit einer gründlichen inhaltlichen und geographischen Vorbereitung und Nachbereitung um längerfristige Lerneffekte zu sichern und höhere Kompetenzniveaus zu erreichen [@delaney1967; @orion1994; @kubota1991; @anderson1997; @anderson2000; @streller2015; @wellington1990; @rix1999; @waltner2006; @engeln2004].
+- **Posive kurzfristige Effekte**: Studien haben gezeigt, dass außerschulische Lernorte positive Effekte auf Werte, Einstellungen und fachliches Interesse der Schülerinnen und Schüler haben können, diese Effekte aber meist nur von kurzer Dauer sind, insbesondere dann falls keine Verfestigung und Ergebnissicherung betrieben wird [@itzekgreulich2014].
 
-### Negative Effekte
-
-
-- Hoher Aufwand und Kontrollprobleme: Niederhauser und [@rhyn2004] berichten, dass 57 Prozent der Lehrkräfte den hohen Aufwand und die schwer zu kontrollierenden Bedingungen als Herausforderung sehen.
-- Kognitive Überforderung: [@falk2012] thematisieren die Gefahr der kognitiven Überforderung in unbekannten Lernumgebungen, die die Lernfähigkeit der Schüler beeinträchtigen kann.
+### Negative Aspekte
 
 
+- **Hoher Aufwand und Kontrollprobleme**: Niederhauser und [@rhyn2004] berichten, dass 57 Prozent der Lehrkräfte den hohen Aufwand und die schwer zu kontrollierenden Bedingungen als Herausforderung sehen.
+- **Kognitive Überforderung**: [@falk2012] thematisieren die Gefahr der kognitiven Überforderung in unbekannten Lernumgebungen, die die Lernfähigkeit der Schüler beeinträchtigen kann.
 
-### Ambivalente Effekte
 
-Die Kommunikation zwischen Experten und Laien an außerschulischen Lernorten bietet Chancen durch die Bereicherung des Lernsettings mit Fachwissen, birgt jedoch Herausforderungen durch mögliche Abstimmungsschwierigkeiten und Wissensasymmetrien, die die Interaktion komplizieren können. Experten müssen ihr Wissen zielgruppengerecht vermitteln, was variabel gelingt und oft als Machtasymmetrie wahrgenommen wird, wodurch Laien zögern, Fragen zu stellen [@bromme2004].
+
+### Ambivalente Aspekte
+
+- Die Kommunikation zwischen Experten und Laien an außerschulischen Lernorten bietet Chancen durch die Bereicherung des Lernsettings mit Fachwissen, birgt jedoch Herausforderungen durch mögliche Abstimmungsschwierigkeiten und Wissensasymmetrien, die die Interaktion komplizieren können. 
+- Experten müssen ihr Wissen zielgruppengerecht vermitteln, was variabel gelingt und oft als Machtasymmetrie wahrgenommen wird, wodurch Laien zögern, Fragen zu stellen [@bromme2004].
 
 
 

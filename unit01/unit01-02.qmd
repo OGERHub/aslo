@@ -19,7 +19,13 @@ Der Bildungskontext außerschulischer Lernorte wird exemplarisch mit der folgend
 
 ## Modelle und Konzepote für ausserschulische Lernorte
 
-Didaktische Ansätze für außerschulische Lernorte werden in der wissenschaftlichen Literatur breit diskutiert, wobei die Studien und Publikationen eine große konzeptionelle und begriffliche Vielfalt aufweisen  [@baar2018]. Nahezu alle Bildungsbereiche haben relevante Methoden adaptiert, spezifische didaktische Modelle für außerschulisches Lernen fehlen jedoch weitgehend [@baar2018]. Aus praktischer Sicht bieten vor allem [@sauerborn2020] detaillierte Konzepte und Modelle zur Strukturierung außerschulischer Lernorte.
+Didaktische Ansätze für außerschulische Lernorte werden in der wissenschaftlichen Literatur breit diskutiert, wobei die Studien und Publikationen eine große konzeptionelle und begriffliche Vielfalt aufweisen  [@baar2018]. Nahezu alle Bildungsbereiche haben relevante fachliche didaktische Modell und Methoden adaptiert. Jedoch fehlen spezifische didaktische Modelle für außerschulisches Lernen fehlen weitgehend [@baar2018]. 
+Vor allem @sauerborn2020 bieten detaillierte Konzepte und Modelle und Methoden zur Strukturierung außerschulischer Lernorte.
+
+Ausgehend von der Prämisse, dass außerschulisches Lernen einen wichtigen Beitrag zur Entwicklung neuer Kompetenzen leisten kann, konzentrieren sie sich auf praxisorientierte Ansätze und die Nutzung realer Lebenssituationen, um den Lernprozess anschaulicher zu gestalten. Neben anderen Ansätzen nehmen das forschende Lernen, das Entdecken und Beobachten sowie das selbstständige Arbeiten außerhalb des Unterrichts einen besonderen Stellenwert ein.  In der folgenden Abbildung ordnen sie die gängigen methodischen Lernformen den drei methodischen Ebenen Mikro-, Meso- und Makromethodik [vgl. @meyer2004] des außerschulischen Lernens zu.   . 
+
+![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens [@sauerborn2020]](../images/sbaslo.png)
+
 
 ## Das Kreismodell nach Freericks
 Freericks hebt vier Hauptthesen in der Didaktik außerschulischer Lernorte hervor: die Transformation traditioneller didaktischer Ansätze, die Beibehaltung konventioneller Lernmethoden, die Einzigartigkeit außerschulischer Lernformen und die Unterscheidbarkeit dieser Lernumgebungen [@Freericks2017; @Freericks2020]. Das bekannte *didaktisches Dreieck* bestehend aus *Lehrenden, Lernenden und Lerninhalten*, erhält in der außerschulischen Didaktik eine dynamische Komponente, wobei vor allem  der *Lernort* und die dort verbrachte *Zeit* als modifizierende Faktoren hinzukommen. Außerschulische Lernorte gehen über den traditionellen Schulunterricht hinaus und zeichnen sich nach Freericks durch drei Hauptelemente aus [@Freericks2017]:
@@ -60,7 +66,4 @@ Die emotionale Beteiligung variiert stark und ist oft eng mit dem Lerninhalt und
 Ästhetik spielt eine wichtige Rolle bei der Vermittlung von Inhalten in außerschulischen Lernkontexten. Sie reicht von funktional-naturalistischem Design bis hin zu narrativem Design, das einen ästhetischen Erzählrahmen schafft und Lerninhalte in ein ganzheitliches Raumdesign integriert, wie im Universum Bremen zu sehen [@Freericks2017,19f.]. 
 
 ## Praktische Umsetzung
-Lernen beschränkt sich nicht nur auf das Lernen von Fakten, sondern es wird immer mehr Wert auf praxisorientierte Ansätze und die Nutzung realer Lebenssituationen gelegt, um den Lernprozess anschaulicher zu gestalten. Forschendes Lernen, Entdecken und selbständiges Arbeiten sind heute im Unterricht besonders wichtig. Außerschulisches Lernen kann einen wichtigen Beitrag zur Entwicklung neuer Kompetenzen leisten. Einen Überblick über die verschiedenen methodischen Formen außerschulischen Lernens gibt die folgende Abbildung  [ vgl. @meyer2004]. 
-
-![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens [@sauerborn2020]](../images/sbaslo.png)
 

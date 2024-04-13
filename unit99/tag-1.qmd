@@ -57,7 +57,7 @@ Kurs besteht aus:
 
 ## Die Blocktage
 
-![](../images/Blocktermin_Zeiten.png){.lightbox }
+![](../images/Blocktermin_Zeiten.png){.lightbox width="75%" fig-align="center"}
 
 
 ## Einverständniserklärung

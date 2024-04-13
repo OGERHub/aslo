@@ -21,11 +21,11 @@ website:
      repo: OGERhub/aslo
   navbar:
     logo: /images/thumbbanner.webp
-    left:
-      - icon: question-square-fill
-        text: FAQ
-        href: unit00/unit00-faq.qmd
-      - icon: check2-square
+    # left:
+    #   - icon: question-square-fill
+    #     text: FAQ
+    #     href: unit00/unit00-faq.qmd
+    #   - icon: check2-square
 
   sidebar:
     # logo: /images/logo.jpg
@@ -42,16 +42,16 @@ website:
       - text: "---"   
       - section: "Ausserschulische Lernorte"
         contents: 
-          - href: unit01/unit01-01.qmd
-            text: "Begriffsklärung und Grundlagen"
-          - href: unit01/unit01-02.qmd
-            text: "Didaktische Konzepte"            
-          - href: unit99/tag-1.qmd
+         - href: unit99/tag-1.qmd
             text: "Folien Blocktag 1"      
           - href: unit99/tag-2.qmd
             text: "Folien Blocktag 2"    
           - href: unit99/tag-3.qmd
-            text: "Folien Blocktag 3"     
+            text: "Folien Blocktag 3"           
+          - href: unit01/unit01-01.qmd
+            text: "Begriffsklärung und Grundlagen"
+          - href: unit01/unit01-02.qmd
+            text: "Didaktische Konzepte"            
           - href: unit99/expose.qmd
             text: "Anleitung Exposé"     
       - text: "---"

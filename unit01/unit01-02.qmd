@@ -22,7 +22,7 @@ Der Bildungskontext außerschulischer Lernorte wird exemplarisch mit der folgend
 Didaktische Ansätze für außerschulische Lernorte werden in der wissenschaftlichen Literatur breit diskutiert, wobei die Studien und Publikationen eine große konzeptionelle und begriffliche Vielfalt aufweisen  [@baar2018]. Nahezu alle Bildungsbereiche haben relevante fachliche didaktische Modell und Methoden adaptiert. Jedoch fehlen spezifische didaktische Modelle für außerschulisches Lernen fehlen weitgehend [@baar2018]. 
 
 
-## Das Kreismodell nach Freericks
+### Das Kreismodell nach Freericks
 Freericks hebt vier Hauptthesen in der Didaktik außerschulischer Lernorte hervor: die Transformation traditioneller didaktischer Ansätze, die Beibehaltung konventioneller Lernmethoden, die Einzigartigkeit außerschulischer Lernformen und die Unterscheidbarkeit dieser Lernumgebungen [@Freericks2017; @Freericks2020]. Das bekannte *didaktisches Dreieck* bestehend aus *Lehrenden, Lernenden und Lerninhalten*, erhält in der außerschulischen Didaktik eine dynamische Komponente, wobei vor allem  der *Lernort* und die dort verbrachte *Zeit* als modifizierende Faktoren hinzukommen. Außerschulische Lernorte gehen über den traditionellen Schulunterricht hinaus und zeichnen sich nach Freericks durch drei Hauptelemente aus [@Freericks2017]:
 
 ***Funktional***: Außerschulische Lernorte dienen nicht nur bildungspolitischen Zwecken, sondern beinhalten auch Aspekte wie Produktions-, Forschungs- und Medienkompetenz. Sie ermöglichen die praktische Anwendung von Wissen und Fertigkeiten in unterschiedlichen Kontexten.
@@ -33,13 +33,13 @@ Freericks hebt vier Hauptthesen in der Didaktik außerschulischer Lernorte hervo
 
 Diese Strukturierung kann gut genutzt werden, um die komplexen Wirkungszusammenhänge konkreter Lernorte zu visualisieren. Nachfolge Abbildung zeigt exemplarisch eine solches Kreisdiagramm für den Ausserschulischen Lernort Urban Gardening.
 
-![Kreismodell Urban Gardening verändert  nach [@Freericks2017] ](../images/modell_urban.png)
+![Kreismodell Urban Gardening verändert  nach [@Freericks2017] ](../images/modell_urban.png){width=80%}
 
-## Die Feindimensionen
+#### Die Feindimensionen
 
 Neben den allgemeinen didaktischen Kriterien sollten außerschulische Lernorte auch anhand detaillierterer Feindimensionen der Wissensvermittlung geplant und bewertet werden. Diese beleuchten speziell die Art der Wissensvermittlung in Bezug auf die Rolle des Lernenden sowie die Einflüsse des Raumes. Um die Variabilität dieser Einflüsse an verschiedenen Lernorten darzustellen, ist eine Darstellung mit Skalen sinnvoll. Diese Skalen helfen zu erfassen, wie stark oder auf welche Weise diese Dimensionen zur Wissensvermittlung an verschiedenen Lernorten beitragen. Die folgende Abbildung zeigt exemplarisch eine solche Darstellung amn einer Schar von  Skalenstrahlen.
 
-![Didaktische Feindimenstionen [@Freericks2017,18]](../images/feindim.png)
+![Didaktische Feindimenstionen [@Freericks2017,18]](../images/feindim.png){width=50%}
 
 
 **Technik/Grad der Medialisierung:**.  
@@ -61,9 +61,7 @@ Die emotionale Beteiligung variiert stark und ist oft eng mit dem Lerninhalt und
 Ästhetik spielt eine wichtige Rolle bei der Vermittlung von Inhalten in außerschulischen Lernkontexten. Sie reicht von funktional-naturalistischem Design bis hin zu narrativem Design, das einen ästhetischen Erzählrahmen schafft und Lerninhalte in ein ganzheitliches Raumdesign integriert, wie im Universum Bremen zu sehen [@Freericks2017,19f.]. 
 
 ## Praktische Umsetzung
-Vor allem @sauerborn2020 bieten detaillierte Konzepte und Modelle und Methoden zur Strukturierung außerschulischer Lernorte.
-
-Ausgehend von der Prämisse, dass außerschulisches Lernen einen wichtigen Beitrag zur Entwicklung neuer Kompetenzen leisten kann, konzentrieren sie sich auf praxisorientierte Ansätze und die Nutzung realer Lebenssituationen, um den Lernprozess anschaulicher zu gestalten. Neben anderen Ansätzen nehmen das forschende Lernen, das Entdecken und Beobachten sowie das selbstständige Arbeiten außerhalb des Unterrichts einen besonderen Stellenwert ein.  In der folgenden Abbildung ordnen sie die gängigen methodischen Lernformen den drei methodischen Ebenen Mikro-, Meso- und Makromethodik [vgl. @meyer2004] des außerschulischen Lernens zu.   . 
+Vor allem @sauerborn2020 bieten detaillierte Konzepte und Modelle und Methoden zur Strukturierung außerschulischer Lernorte. Ausgehend von der Prämisse, dass außerschulisches Lernen einen wichtigen Beitrag zur Entwicklung neuer Kompetenzen leisten kann, konzentrieren sie sich auf praxisorientierte Ansätze und die Nutzung realer Lebenssituationen, um den Lernprozess anschaulicher zu gestalten. Neben anderen Ansätzen nehmen das forschende Lernen, das Entdecken und Beobachten sowie das selbstständige Arbeiten außerhalb des Unterrichts einen besonderen Stellenwert ein.  In der folgenden Abbildung ordnen sie die gängigen methodischen Lernformen den drei methodischen Ebenen Mikro-, Meso- und Makromethodik [vgl. @meyer2004] des außerschulischen Lernens zu.   
 
 ![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens [@sauerborn2020]](../images/sbaslo.png)
 
@@ -71,10 +69,15 @@ Didaktische Konzepte für außerschulische Lernorte, insbesondere in Bezug auf K
 
 Die Bedeutung außerschulischer Lernorte ist deshalb so groß, weil rein theoretisches Wissen nicht ausreicht, um Schüler zu aktivem Handeln zu bewegen. Außerschulische Lernorte bieten unverzichtbare praktische Erfahrungen. Diese Bildung sollte kritisch sein, die Schüler ermutigen, eigene Ideen einzubringen und die prinzipielle Wandelbarkeit und Subjektivität wissenschaftlicher Aussagen berücksichtigen und transparent machen.
 
+Die methodische Planung des außerschulischen Lernens kann durch den sogenannten Planungsdreischritt vorgenommen werden, der auf den ersten Blick banal erscheint, sich aber als effektiv erweist [@burk1980] zu orientieren. 
+
+![Der Planungsdreischritt des außerschulischen Lernens verändert nach @sauerborn2020 und @burk1980](../images/dreischritt.webp){fig-align="left" }
+
+Mehrstufige und granulare Modelle des außerschulischen Lernprozesses können in der Praxis als schwer umsetzbar und für den Lernprozess als problematisch angesehen werden. Dennoch ist es in vieln Situatione hilfreich die Grobplanung nach @burk1980 in eine Feinplanung zu überführen.
+
 Die folgende Übersicht zeigt beispielhaft, welche Arten der Handlungsorientierung an diesen außerschulischen Lernorten vermittelt werden sollen.  Vor allem die Bedeutung der Vor- und Nachbereitung wird noch einmal deutlich. 
 
-![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens verändert nach @sauerborn2020](../images/sauerflow.svg)
-Diese bereits relativ umfassende methodische Planung des außerschulischen Lernens kann durch den sogenannten Planungsdreischritt modifiziert werden, der auf den ersten Blick banal erscheint, sich aber als effektiver erweist als komplexere mehrstufige Modelle. Mehrstufige und granulare Modelle des außerschulischen Lernprozesses können in der Praxis als schwer umsetzbar und für den Lernprozess als problematisch angesehen werden. Daher kann es vorteilhaft sein, sich bei der Gestaltung eines außerschulischen Lernortes an dem einfachen Dreischritt nach @burk1980 zu orientieren. 
+![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens verändert nach @sauerborn2020](../images/sauerflow.svg){fig-align="center" width=40%}
 
-![Der Planungsdreischritt des außerschulischen Lernens verändert nach @sauerborn2020 und @burk1980](../images/dreischritt.webp)
+
 

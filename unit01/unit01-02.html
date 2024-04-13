@@ -143,17 +143,17 @@ background-size: cover;
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../unit99/tag-1.html">Ausserschulische Lernorte</a></li><li class="breadcrumb-item"><a href="../unit01/unit01-02.html">Didaktische Konzepte</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
+        <a class="flex-grow-1 no-decor" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+          <h1 class="quarto-secondary-nav-title">Didaktische Konzepte</h1>
+        </a>     
     </div>
   </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../unit99/tag-1.html">Ausserschulische Lernorte</a></li><li class="breadcrumb-item"><a href="../unit01/unit01-02.html">Didaktische Konzepte</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Didaktische Konzepte</h1>
+      <h1 class="title d-none d-lg-block">Didaktische Konzepte</h1>
                       </div>
   </div>
     
@@ -295,39 +295,48 @@ background-size: cover;
     <h2 id="toc-title">Inhalt</h2>
    
   <ul>
-  <li><a href="#einführung" id="toc-einführung" class="nav-link active" data-scroll-target="#einführung">Einführung</a></li>
-  <li><a href="#modelle-und-konzepote-für-ausserschulische-lernorte" id="toc-modelle-und-konzepote-für-ausserschulische-lernorte" class="nav-link" data-scroll-target="#modelle-und-konzepote-für-ausserschulische-lernorte">Modelle und Konzepote für ausserschulische Lernorte</a>
+  <li><a href="#einführung" id="toc-einführung" class="nav-link active" data-scroll-target="#einführung"><span class="header-section-number">1</span> Einführung</a></li>
+  <li><a href="#modelle-und-konzepote-für-ausserschulische-lernorte" id="toc-modelle-und-konzepote-für-ausserschulische-lernorte" class="nav-link" data-scroll-target="#modelle-und-konzepote-für-ausserschulische-lernorte"><span class="header-section-number">2</span> Modelle und Konzepote für ausserschulische Lernorte</a>
   <ul class="collapse">
-  <li><a href="#das-kreismodell-nach-freericks" id="toc-das-kreismodell-nach-freericks" class="nav-link" data-scroll-target="#das-kreismodell-nach-freericks">Das Kreismodell nach Freericks</a></li>
+  <li><a href="#das-kreismodell-nach-freericks" id="toc-das-kreismodell-nach-freericks" class="nav-link" data-scroll-target="#das-kreismodell-nach-freericks"><span class="header-section-number">2.1</span> Das Kreismodell nach Freericks</a></li>
   </ul></li>
-  <li><a href="#praktische-umsetzung" id="toc-praktische-umsetzung" class="nav-link" data-scroll-target="#praktische-umsetzung">Praktische Umsetzung</a>
+  <li><a href="#praktische-umsetzung" id="toc-praktische-umsetzung" class="nav-link" data-scroll-target="#praktische-umsetzung"><span class="header-section-number">3</span> Praktische Umsetzung</a>
   <ul class="collapse">
-  <li><a href="#planungsdreischritt" id="toc-planungsdreischritt" class="nav-link" data-scroll-target="#planungsdreischritt">Planungsdreischritt</a></li>
-  <li><a href="#granulare-ausplanung" id="toc-granulare-ausplanung" class="nav-link" data-scroll-target="#granulare-ausplanung">Granulare Ausplanung</a></li>
+  <li><a href="#planungsdreischritt" id="toc-planungsdreischritt" class="nav-link" data-scroll-target="#planungsdreischritt"><span class="header-section-number">3.1</span> Planungsdreischritt</a></li>
+  <li><a href="#granulare-ausplanung" id="toc-granulare-ausplanung" class="nav-link" data-scroll-target="#granulare-ausplanung"><span class="header-section-number">3.2</span> Granulare Ausplanung</a></li>
   </ul></li>
-  <li><a href="#resumè" id="toc-resumè" class="nav-link" data-scroll-target="#resumè">Resumè</a></li>
+  <li><a href="#resumè" id="toc-resumè" class="nav-link" data-scroll-target="#resumè"><span class="header-section-number">4</span> Resumè</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('p').forEach(p => {
+        p.textContent = p.textContent.replace(/rate: (\d)/g, function(match, rating) {
+            return '⭐'.repeat(rating) + '☆'.repeat(5 - rating);
+        });
+    });
+});
+</script>
 
 
 
 
 
-<section id="einführung" class="level2">
-<h2 class="anchored" data-anchor-id="einführung">Einführung</h2>
+<section id="einführung" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="einführung"><span class="header-section-number">1</span> Einführung</h2>
 <p>Der Bildungskontext außerschulischer Lernorte wird exemplarisch mit der folgenden praxisbasierten Mindmap skizziert. Sie dient dazu, allgemeine zentrale Begriffe und theoretische Grundlagen des Themenfeldes zu visualisieren und wesentliche Zusammenhänge aufzuzeigen. Die Abbildung zeigt die verschiedenen Zugänge zum Thema, darunter fachdidaktische Ansätze, spezifische Lehr-Lernformen und Lernstrukturen sowie einige Praxisbeispiele, die sich auf außerschulische Lernorte beziehen. Diese Elemente bilden den Hintergrund für die weitere Ausarbeitung konkreten Realisierungen außerschulischer Lernorte <span class="citation" data-cites="Freericks2017">(<a href="#ref-Freericks2017" role="doc-biblioref">Freericks, Wulf, und Brinkmann 2017</a>)</span>.</p>
 <iframe style="border:none" width="950" height="650" src="https://whimsical.com/embed/KyaQ73LvhNUJed1YQ8i7XM">
 </iframe>
 <p><sub>Themenfeld&nbsp;der&nbsp;Didaktik&nbsp;ausserschulischer&nbsp;Lernorte,&nbsp;verändert&nbsp;nach&nbsp;<span class="citation" data-cites="Freericks2017">(<a href="#ref-Freericks2017" role="doc-biblioref">Freericks, Wulf, und Brinkmann 2017</a>)</span>.</sub></p>
 </section>
-<section id="modelle-und-konzepote-für-ausserschulische-lernorte" class="level2">
-<h2 class="anchored" data-anchor-id="modelle-und-konzepote-für-ausserschulische-lernorte">Modelle und Konzepote für ausserschulische Lernorte</h2>
+<section id="modelle-und-konzepote-für-ausserschulische-lernorte" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="modelle-und-konzepote-für-ausserschulische-lernorte"><span class="header-section-number">2</span> Modelle und Konzepote für ausserschulische Lernorte</h2>
 <p>Didaktische Ansätze für außerschulische Lernorte werden in der wissenschaftlichen Literatur breit diskutiert, wobei die Studien und Publikationen eine große konzeptionelle und begriffliche Vielfalt aufweisen <span class="citation" data-cites="baar2018">(<a href="#ref-baar2018" role="doc-biblioref">Baar und Schönknecht 2018</a>)</span>. Nahezu alle Bildungsbereiche haben relevante fachliche didaktische Modell und Methoden adaptiert. Jedoch fehlen spezifische didaktische Modelle für außerschulisches Lernen fehlen weitgehend <span class="citation" data-cites="baar2018">(<a href="#ref-baar2018" role="doc-biblioref">Baar und Schönknecht 2018</a>)</span>.</p>
-<section id="das-kreismodell-nach-freericks" class="level3">
-<h3 class="anchored" data-anchor-id="das-kreismodell-nach-freericks">Das Kreismodell nach Freericks</h3>
+<section id="das-kreismodell-nach-freericks" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="das-kreismodell-nach-freericks"><span class="header-section-number">2.1</span> Das Kreismodell nach Freericks</h3>
 <p>Freericks hebt vier Hauptthesen in der Didaktik außerschulischer Lernorte hervor: die Transformation traditioneller didaktischer Ansätze, die Beibehaltung konventioneller Lernmethoden, die Einzigartigkeit außerschulischer Lernformen und die Unterscheidbarkeit dieser Lernumgebungen <span class="citation" data-cites="Freericks2017 Freericks2020">(<a href="#ref-Freericks2017" role="doc-biblioref">Freericks, Wulf, und Brinkmann 2017</a>; <a href="#ref-Freericks2020" role="doc-biblioref">Freericks und Brinkmann 2020</a>)</span>. Das bekannte <em>didaktisches Dreieck</em> bestehend aus <em>Lehrenden, Lernenden und Lerninhalten</em>, erhält in der außerschulischen Didaktik eine dynamische Komponente, wobei vor allem der <em>Lernort</em> und die dort verbrachte <em>Zeit</em> als modifizierende Faktoren hinzukommen. Außerschulische Lernorte gehen über den traditionellen Schulunterricht hinaus und zeichnen sich nach Freericks durch drei Hauptelemente aus <span class="citation" data-cites="Freericks2017">(<a href="#ref-Freericks2017" role="doc-biblioref">Freericks, Wulf, und Brinkmann 2017</a>)</span>:</p>
 <p><strong><em>Funktional</em></strong>: Außerschulische Lernorte dienen nicht nur bildungspolitischen Zwecken, sondern beinhalten auch Aspekte wie Produktions-, Forschungs- und Medienkompetenz. Sie ermöglichen die praktische Anwendung von Wissen und Fertigkeiten in unterschiedlichen Kontexten.</p>
 <p><strong><em>Strukturell</em></strong>: Diese Lernorte werden in ihrer räumlichen und zeitlichen Dimension betrachtet. Sie zeichnen sich durch eine hohe Flexibilität in der Nutzung aus, was sie von schulischen Lernumgebungen unterscheidet. Die Einbettung in den Lehrplan kann dazu beitragen, das Interesse der Lernenden zu wecken und Wissen zu vertiefen.</p>
@@ -339,8 +348,8 @@ background-size: cover;
 <figcaption>Kreismodell Urban Gardening verändert nach <span class="citation" data-cites="Freericks2017">(<a href="#ref-Freericks2017" role="doc-biblioref">Freericks, Wulf, und Brinkmann 2017</a>)</span></figcaption>
 </figure>
 </div>
-<section id="die-feindimensionen" class="level4">
-<h4 class="anchored" data-anchor-id="die-feindimensionen">Die Feindimensionen</h4>
+<section id="die-feindimensionen" class="level4" data-number="2.1.1">
+<h4 data-number="2.1.1" class="anchored" data-anchor-id="die-feindimensionen"><span class="header-section-number">2.1.1</span> Die Feindimensionen</h4>
 <p>Neben den allgemeinen didaktischen Kriterien sollten außerschulische Lernorte auch anhand detaillierterer Feindimensionen der Wissensvermittlung geplant und bewertet werden. Diese beleuchten speziell die Art der Wissensvermittlung in Bezug auf die Rolle des Lernenden sowie die Einflüsse des Raumes. Um die Variabilität dieser Einflüsse an verschiedenen Lernorten darzustellen, ist eine Darstellung mit Skalen sinnvoll. Diese Skalen helfen zu erfassen, wie stark oder auf welche Weise diese Dimensionen zur Wissensvermittlung an verschiedenen Lernorten beitragen. Die folgende Abbildung zeigt exemplarisch eine solche Darstellung amn einer Schar von Skalenstrahlen.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -362,8 +371,8 @@ Die emotionale Beteiligung variiert stark und ist oft eng mit dem Lerninhalt und
 </section>
 </section>
 </section>
-<section id="praktische-umsetzung" class="level2">
-<h2 class="anchored" data-anchor-id="praktische-umsetzung">Praktische Umsetzung</h2>
+<section id="praktische-umsetzung" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="praktische-umsetzung"><span class="header-section-number">3</span> Praktische Umsetzung</h2>
 <p>Vor allem <span class="citation" data-cites="sauerborn2020">Sauerborn und Brühne (<a href="#ref-sauerborn2020" role="doc-biblioref">2020</a>)</span> bieten detaillierte Konzepte und Modelle und Methoden zur Strukturierung außerschulischer Lernorte. Ausgehend von der Prämisse, dass außerschulisches Lernen einen wichtigen Beitrag zur Entwicklung neuer Kompetenzen leisten kann, konzentrieren sie sich auf praxisorientierte Ansätze und die Nutzung realer Lebenssituationen, um den Lernprozess anschaulicher zu gestalten. Neben anderen Ansätzen nehmen das forschende Lernen, das Entdecken und Beobachten sowie das selbstständige Arbeiten außerhalb des Unterrichts einen besonderen Stellenwert ein. In der folgenden Abbildung ordnen sie die gängigen methodischen Lernformen den drei methodischen Ebenen Mikro-, Meso- und Makromethodik <span class="citation" data-cites="meyer2004">(vgl. <a href="#ref-meyer2004" role="doc-biblioref">Meyer 2004</a>)</span> des außerschulischen Lernens zu.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -373,32 +382,32 @@ Die emotionale Beteiligung variiert stark und ist oft eng mit dem Lerninhalt und
 </div>
 <p>Didaktische Konzepte für außerschulische Lernorte, insbesondere in Bezug auf Klimaresilienz, sollten darauf abzielen, Schüler:innen für Umweltfragen zu sensibilisieren und sie zu motivieren, eigenständig Veränderungen in ihren Lebenssituationen herbeizuführen. Die Lehrkräfte müssen daher den Unterricht nach Kriterien gestalten, die sicherstellen, dass die Situationen für die Schüler:innen aktuell und relevant sind, in ihren subkulturellen Lebenswelten real existieren und beeinflussbar sind. Der Lernprozess entsteht durch das Zusammenspiel von Situationsbezug und Handlungsorientierung, wobei die Schüler ihre eigene Betroffenheit nur dann wirklich erfahren, wenn die Lerninhalte eng mit ihrer Lebenswelt verknüpft sind. Insbesondere Umweltbildung sollte fächerübergreifend erfolgen, um die Perspektiven verschiedener Disziplinen zu integrieren und zu verdeutlichen, dass Umweltthemen alle Lebensbereiche betreffen. Hier ist das Fach Geographie hervorragend aufgestellt.</p>
 <p>Die Bedeutung außerschulischer Lernorte ist deshalb so groß, weil rein theoretisches Wissen nicht ausreicht, um Schüler zu aktivem Handeln zu bewegen. Außerschulische Lernorte bieten unverzichtbare praktische Erfahrungen. Diese Bildung sollte kritisch sein, die Schüler ermutigen, eigene Ideen einzubringen und die prinzipielle Wandelbarkeit und Subjektivität wissenschaftlicher Aussagen berücksichtigen und transparent machen.</p>
-<section id="planungsdreischritt" class="level3">
-<h3 class="anchored" data-anchor-id="planungsdreischritt">Planungsdreischritt</h3>
+<section id="planungsdreischritt" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="planungsdreischritt"><span class="header-section-number">3.1</span> Planungsdreischritt</h3>
 <p>Die methodische Planung des außerschulischen Lernens kann durch den sogenannten Planungsdreischritt vorgenommen werden, der auf den ersten Blick banal erscheint, sich aber als effektiv erweist <span class="citation" data-cites="burk1980">(<a href="#ref-burk1980" role="doc-biblioref">Burk und Claussen 1980</a>)</span> zu orientieren.</p>
 <p><img src="../images/dreischritt.webp" class="img-fluid quarto-figure quarto-figure-center" alt="Der Planungsdreischritt des außerschulischen Lernens verändert nach Sauerborn und Brühne (2020) und Burk und Claussen (1980), 81"> Nachfolgend ein exemplarisches dreistufiges Planungsschema an einem außerschulischen Lernort in einer Universitätskleinstadt mit Schwerpunkt auf der handlungsorientierten Nachbereitungsphase des Urban-Gardening-Projekts.:</p>
-<section id="vorbereitung" class="level5">
-<h5 class="anchored" data-anchor-id="vorbereitung">1. Vorbereitung</h5>
+<section id="vorbereitung" class="level5" data-number="3.1.0.1">
+<h5 data-number="3.1.0.1" class="anchored" data-anchor-id="vorbereitung"><span class="header-section-number">3.1.0.1</span> 1. Vorbereitung</h5>
 <p><strong>Ziele festlegen:</strong>. Die Schülerinnen und Schüler sollen die vielfältigen Aspekte des Urban Gardening, einschließlich seiner Vorteile und Herausforderungen, sowie seine Rolle für die Klimaresilienz und Nachhaltigkeit von Städten verstehen.</p>
 <p><strong>Einführung:</strong>. - Die Lehrkraft führt in die grundlegenden Konzepte des Urban Gardening ein, diskutiert positive Effekte wie Biodiversität und städtisches Mikroklima sowie Herausforderungen wie Ressourcenmanagement und Gentrifizierung. - Darstellung der Funktionalität von Urban Gardening in Bezug auf soziale, ästhetische, produktive und ökologische Aspekte.</p>
 <p><strong>Podiumsdiskussion:</strong>. - Expertinnen und Experten aus Stadtplanung, Umweltwissenschaften und Sozialarbeit diskutieren über Urban Gardening mit Fokus auf Klimaresilienz und urbane Grünachsen.</p>
 <p><strong>Rechercheaufgaben:</strong>. - Studenten recherchieren erfolgreiche Urban Gardening Projekte und deren Ansätze zur Lösung spezifischer urbaner Probleme, um Best Practices und innovative Ideen zu sammeln.</p>
 </section>
-<section id="lernort---urban-gardening-projekt-in-marburg" class="level5">
-<h5 class="anchored" data-anchor-id="lernort---urban-gardening-projekt-in-marburg">2. Lernort - Urban Gardening Projekt in Marburg</h5>
+<section id="lernort---urban-gardening-projekt-in-marburg" class="level5" data-number="3.1.0.2">
+<h5 data-number="3.1.0.2" class="anchored" data-anchor-id="lernort---urban-gardening-projekt-in-marburg"><span class="header-section-number">3.1.0.2</span> 2. Lernort - Urban Gardening Projekt in Marburg</h5>
 <p><strong>Beobachtung und kritische Analyse:</strong>. - Die Schüler beobachten und analysieren die angewandten Praktiken des Urban Gardening, einschließlich der Pflanzenauswahl, des Wassermanagements und der integrativen Designansätze. - Teilnahme an einer Führung, die sich speziell auf die Herausforderungen und Lösungen des Projekts konzentriert.</p>
 <p><strong>Praktische Aktivitäten:</strong>. - Die Schülerinnen und Schüler entwickeln alternative Nutzungskonzepte für den Garten, um den Raum optimal zu nutzen und verschiedene Bedürfnisse zu integrieren. - Die Schülerinnen und Schüler befragen Anwohnerinnen und Anwohner zu ihrer Akzeptanz und Beteiligung.</p>
 </section>
-<section id="nachbereitung" class="level5">
-<h5 class="anchored" data-anchor-id="nachbereitung">3. Nachbereitung</h5>
+<section id="nachbereitung" class="level5" data-number="3.1.0.3">
+<h5 data-number="3.1.0.3" class="anchored" data-anchor-id="nachbereitung"><span class="header-section-number">3.1.0.3</span> 3. Nachbereitung</h5>
 <p><strong>Analyse und Anwendung des Gelernten:</strong>. - Die Schüler entwickeln eigenständige Projekte, die auf den gewonnenen Erkenntnissen basieren, um den Garten zu verbessern oder neue urbane Gartenprojekte zu planen. - Interaktive Präsentationen ihrer Projekte durch Führungen, bei denen sie ihre Vorschläge und Veränderungen im realen Gartenkontext demonstrieren.</p>
 <p><strong>Beteiligung der Gemeinschaft:</strong>. - Durchführung von Planungsworkshops, in denen die Schüler ihre Ideen und Projekte der lokalen Gemeinschaft vorstellen und aktiv Feedback einholen. - Übernahme von Patenschaften für Teile des Gartens, um langfristige Verantwortung und kontinuierliches Engagement zu fördern.</p>
 <p><strong>Förderung von Reflexion und kritischem Denken:</strong>. - Schüler führen Reflexionstagebücher und nehmen an Debatten über kritische Themen des urbanen Gärtnerns teil. - Erstellung von digitalen Portfolios oder Blogs, um den Projektfortschritt zu dokumentieren und die Ergebnisse einer breiteren Öffentlichkeit zugänglich zu machen.</p>
 <p>Dieser umfassende Ansatz ermöglicht es den Schülern, sich aktiv an der Gestaltung und Verbesserung ihrer Lernumgebung zu beteiligen und gleichzeitig einen tieferen Einblick in die komplexen Zusammenhänge urbaner Ökosysteme und deren Management zu gewinnen.</p>
 </section>
 </section>
-<section id="granulare-ausplanung" class="level3">
-<h3 class="anchored" data-anchor-id="granulare-ausplanung">Granulare Ausplanung</h3>
+<section id="granulare-ausplanung" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="granulare-ausplanung"><span class="header-section-number">3.2</span> Granulare Ausplanung</h3>
 <p>Mehrstufige und granulare Modelle des außerschulischen Lernprozesses können in der Praxis zwar als schwer umsetzbar und für den Lernprozess als problematisch angesehen werden. Dennoch ist es in vielen Situationen hilfreich, die Grobplanung nach <span class="citation" data-cites="burk1980">Burk und Claussen (<a href="#ref-burk1980" role="doc-biblioref">1980</a>)</span> in eine Feinplanung zu überführen.</p>
 <p>Die folgende Übersicht zeigt beispielhaft und schematisch, welche Arten der Handlungsorientierung an diesen außerschulischen Lernorten vermittelt werden sollten. Vor allem die Bedeutung der Vor- und Nachbereitung wird noch einmal deutlich.</p>
 <div class="quarto-figure quarto-figure-center">
@@ -409,8 +418,8 @@ Die emotionale Beteiligung variiert stark und ist oft eng mit dem Lerninhalt und
 </div>
 </section>
 </section>
-<section id="resumè" class="level2">
-<h2 class="anchored" data-anchor-id="resumè">Resumè</h2>
+<section id="resumè" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="resumè"><span class="header-section-number">4</span> Resumè</h2>
 <p>In der Praxis des außerschulischen Lernens verliert das ursprüngliche pädagogische Konzept oft seine Struktur und verliert sich in einem ideologisch gefärbten Meinungsgewirr, das der Schule, dem Unterricht und vor allem den Kindern und Jugendlichen wenig hilft. Lehrer und Lehramtsanwärter empfinden die ständige Diskussion in der Bildungsforschung oft als ermüdend und nicht zielführend. Dennoch wird außerschulisches Lernen von Bildungsexperten als wirksame Methode anerkannt, die aktivierendes und handlungsorientiertes Lernen unterstützt. Es erscheint notwendig, das außerschulische Lernen wiederzubeleben und als festen Bestandteil der Bildungspraxis zu etablieren, um den Schülern authentische Erfahrungen und eine lebensweltlich bereicherte Bildung zu ermöglichen. Gerade die Kombination von erfahrungsbasiertem und systematischem Lernen bietet die Möglichkeit, eine zukunftsorientierte und qualitativ hochwertige Bildung zu gewährleisten.</p>
 
 

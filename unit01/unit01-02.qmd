@@ -71,7 +71,7 @@ Die Bedeutung außerschulischer Lernorte ist deshalb so groß, weil rein theoret
 
 Die methodische Planung des außerschulischen Lernens kann durch den sogenannten Planungsdreischritt vorgenommen werden, der auf den ersten Blick banal erscheint, sich aber als effektiv erweist [@burk1980] zu orientieren. 
 
-![Der Planungsdreischritt des außerschulischen Lernens verändert nach @sauerborn2020 und @burk1980](../images/dreischritt.webp){fig-align="left" }
+![Der Planungsdreischritt des außerschulischen Lernens verändert nach @sauerborn2020 und @burk1980](../images/dreischritt.webp){fig-align="center" }
 
 Mehrstufige und granulare Modelle des außerschulischen Lernprozesses können in der Praxis als schwer umsetzbar und für den Lernprozess als problematisch angesehen werden. Dennoch ist es in vieln Situatione hilfreich die Grobplanung nach @burk1980 in eine Feinplanung zu überführen.
 

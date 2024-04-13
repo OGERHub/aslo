@@ -71,13 +71,13 @@ Die Bedeutung außerschulischer Lernorte ist deshalb so groß, weil rein theoret
 
 Die methodische Planung des außerschulischen Lernens kann durch den sogenannten Planungsdreischritt vorgenommen werden, der auf den ersten Blick banal erscheint, sich aber als effektiv erweist [@burk1980] zu orientieren. 
 
-![Der Planungsdreischritt des außerschulischen Lernens verändert nach @sauerborn2020 und @burk1980](../images/dreischritt.webp){fig-align="center" }
+![Der Planungsdreischritt des außerschulischen Lernens verändert nach @sauerborn2020 und @burk1980, 81](../images/dreischritt.webp){fig-align="center" }
 
 Mehrstufige und granulare Modelle des außerschulischen Lernprozesses können in der Praxis als schwer umsetzbar und für den Lernprozess als problematisch angesehen werden. Dennoch ist es in vieln Situatione hilfreich die Grobplanung nach @burk1980 in eine Feinplanung zu überführen.
 
 Die folgende Übersicht zeigt beispielhaft, welche Arten der Handlungsorientierung an diesen außerschulischen Lernorten vermittelt werden sollen.  Vor allem die Bedeutung der Vor- und Nachbereitung wird noch einmal deutlich. 
 
-![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens verändert nach @sauerborn2020](../images/sauerflow.svg){fig-align="center" width=40%}
+![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens verändert nach @sauerborn2020, 91](../images/sauerflow.svg){fig-align="center" width=40%}
 ## Resumè
 
 In der Praxis des außerschulischen Lernens verliert das ursprüngliche pädagogische Konzept oft seine Struktur und verliert sich in einem ideologisch gefärbten Meinungsgewirr, das der Schule, dem Unterricht und vor allem den Kindern und Jugendlichen wenig hilft. Lehrer und Lehramtsanwärter empfinden die ständige Diskussion in der Bildungsforschung oft als ermüdend und nicht zielführend. Dennoch wird außerschulisches Lernen von Bildungsexperten als wirksame Methode anerkannt, die aktivierendes und handlungsorientiertes Lernen unterstützt. Es erscheint notwendig, das außerschulische Lernen wiederzubeleben und als festen Bestandteil der Bildungspraxis zu etablieren, um den Schülern authentische Erfahrungen und eine lebensweltlich bereicherte Bildung zu ermöglichen.  Gerade die Kombination von erfahrungsbasiertem und systematischem Lernen bietet die Möglichkeit, eine zukunftsorientierte und qualitativ hochwertige Bildung zu gewährleisten.

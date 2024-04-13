@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs/
 website:
+  bread-crumbs: false
   open-graph: true
   page-navigation: true  
   title: "Außerschulische Lernorte"
@@ -79,16 +80,16 @@ website:
 ##format: dokuwiki
 execute:
   freeze: auto
-format:
+format: 
   html: 
       code-overflow: wrap
       toc-title: "Inhalt"
-      number-sections: false
+      number-sections: true
       highlight-style: github
-      theme: 
-         light: cerulean #css/html-inrae.css
-         dark: [lumen, css/theme-dark.scss]
-      code-background: true
+      theme:
+       light: cerulean #css/html-inrae.css
+       dark: [lumen, css/theme-dark.scss]
+      # code-background: true
       code-copy: true
       css: css/styles.css
       toc: true

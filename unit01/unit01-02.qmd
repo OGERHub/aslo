@@ -5,7 +5,13 @@ title-block-banner-color: black
 bibliography: unit01-01.bib
 lang: de
 comments: false
+format:
+  html:
+    include-before-body: ../css/stars.html
 ---
+
+
+
 
 ## Einführung
 
@@ -129,6 +135,7 @@ Die folgende Übersicht zeigt beispielhaft und schematisch, welche Arten der Han
 ## Resumè
 
 In der Praxis des außerschulischen Lernens verliert das ursprüngliche pädagogische Konzept oft seine Struktur und verliert sich in einem ideologisch gefärbten Meinungsgewirr, das der Schule, dem Unterricht und vor allem den Kindern und Jugendlichen wenig hilft. Lehrer und Lehramtsanwärter empfinden die ständige Diskussion in der Bildungsforschung oft als ermüdend und nicht zielführend. Dennoch wird außerschulisches Lernen von Bildungsexperten als wirksame Methode anerkannt, die aktivierendes und handlungsorientiertes Lernen unterstützt. Es erscheint notwendig, das außerschulische Lernen wiederzubeleben und als festen Bestandteil der Bildungspraxis zu etablieren, um den Schülern authentische Erfahrungen und eine lebensweltlich bereicherte Bildung zu ermöglichen.  Gerade die Kombination von erfahrungsbasiertem und systematischem Lernen bietet die Möglichkeit, eine zukunftsorientierte und qualitativ hochwertige Bildung zu gewährleisten.
+
 
 
 

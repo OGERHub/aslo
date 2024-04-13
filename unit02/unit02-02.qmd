@@ -2,12 +2,24 @@
 title: "Quarto Markdown"
 title-block-banner: ../images/publish-header.png
 title-block-banner-color: black
+
+toc: true
+format: sketchy-html
 ---
 # Inhalte veröffentlichen mit Markdown und Quarto
 
 ## Online Editoren
 
 
- [StackIt](https://stackedit.io/)
+ 
 
- [Dillinger](https://dillinger.io/)
+ 
+
+
+| [editor]{.highlight}  | platform |
+|--------|--------|
+| [StackIt](https://stackedit.io/){.circle}  | [app]{.strike}    |
+| [Dillinger](https://dillinger.io/)   | [app]{.cross}   |
+
+
+: Fruit prices {.striped .hover .warning}

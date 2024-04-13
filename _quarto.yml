@@ -42,7 +42,7 @@ website:
       - text: "---"   
       - section: "Ausserschulische Lernorte"
         contents: 
-         - href: unit99/tag-1.qmd
+          - href: unit99/tag-1.qmd
             text: "Folien Blocktag 1"      
           - href: unit99/tag-2.qmd
             text: "Folien Blocktag 2"    

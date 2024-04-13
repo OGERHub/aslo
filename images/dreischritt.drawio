@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T08:53:34.191Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sjlm61G1k9UXNI_3p0ME" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T09:15:58.278Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XB-4WFufkEHWxoCNa-4W" version="24.2.5" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1221" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="60da8b9f42644d3a-18" value="Vorbereitung" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="596" y="425" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-19" value="&lt;div&gt;&amp;nbsp;auf die außerschulische Lernumgebung und&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;das Lernen vor Ort&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-19" value="&lt;div&gt;&amp;nbsp;motiviert und leitet hin auf die die Inhalte und spezifischen Herausforderungen der außerschulischen Lernumgebung und&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;das Lernen vor Ort&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="597" y="715" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="60da8b9f42644d3a-25" value="Durchführung" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="876" y="425" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-26" value="&lt;div&gt;handelnde Auseinandersetzung am Lernort,&lt;/div&gt;&lt;div&gt;Ausgestaltung des Lernprozesses&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-26" value="&lt;div&gt;Arrangiert leitet an und begleitet die handelnde Auseinandersetzung am Lernort,&lt;/div&gt;&lt;div&gt;sowie die Ausgestaltung des Lernprozesses&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="877" y="715" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-27" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="60da8b9f42644d3a-32" value="Nachbereitung" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1156" y="425" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-33" value="&lt;div&gt;&lt;div&gt;Auswertung, Reflektion und Festigung der&amp;nbsp;&lt;/div&gt;&lt;div&gt;Erlebnisse, Eindrücke und Erfahrungen&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-33" value="&lt;div&gt;&lt;div&gt;Auswertung, Reflexion und Festigung der&amp;nbsp;&lt;/div&gt;&lt;div&gt;Erlebnisse, Eindrücke und Erfahrungen. Entwicklung von Projekten etc.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1156" y="705" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-34" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">

@@ -65,17 +65,64 @@ Vor allem @sauerborn2020 bieten detaillierte Konzepte und Modelle und Methoden z
 
 ![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens [@sauerborn2020]](../images/sbaslo.png)
 
+
 Didaktische Konzepte für außerschulische Lernorte, insbesondere in Bezug auf Klimaresilienz, sollten darauf abzielen, Schüler:innen für Umweltfragen zu sensibilisieren und sie zu motivieren, eigenständig Veränderungen in ihren Lebenssituationen herbeizuführen. Die Lehrkräfte müssen daher den Unterricht nach Kriterien gestalten, die sicherstellen, dass die Situationen für die Schüler:innen aktuell und relevant sind, in ihren subkulturellen Lebenswelten real existieren und beeinflussbar sind. Der Lernprozess entsteht durch das Zusammenspiel von Situationsbezug und Handlungsorientierung, wobei die Schüler ihre eigene Betroffenheit nur dann wirklich erfahren, wenn die Lerninhalte eng mit ihrer Lebenswelt verknüpft sind. Insbesondere Umweltbildung sollte fächerübergreifend erfolgen, um die Perspektiven verschiedener Disziplinen zu integrieren und zu verdeutlichen, dass Umweltthemen alle Lebensbereiche betreffen. Hier ist das Fach Geographie hervorragend aufgestellt. 
 
 Die Bedeutung außerschulischer Lernorte ist deshalb so groß, weil rein theoretisches Wissen nicht ausreicht, um Schüler zu aktivem Handeln zu bewegen. Außerschulische Lernorte bieten unverzichtbare praktische Erfahrungen. Diese Bildung sollte kritisch sein, die Schüler ermutigen, eigene Ideen einzubringen und die prinzipielle Wandelbarkeit und Subjektivität wissenschaftlicher Aussagen berücksichtigen und transparent machen.
 
+### Planungsdreischritt
+
 Die methodische Planung des außerschulischen Lernens kann durch den sogenannten Planungsdreischritt vorgenommen werden, der auf den ersten Blick banal erscheint, sich aber als effektiv erweist [@burk1980] zu orientieren. 
 
 ![Der Planungsdreischritt des außerschulischen Lernens verändert nach @sauerborn2020 und @burk1980, 81](../images/dreischritt.webp){fig-align="center" }
+Nachfolgend ein exemplarisches dreistufiges Planungsschema, das die handlungsorientierte Nachbereitungsphase in das Urban Gardening-Projekt an einem außerschulischen Lernort in einer Universitätskleinstadt integriert:
 
-Mehrstufige und granulare Modelle des außerschulischen Lernprozesses können in der Praxis als schwer umsetzbar und für den Lernprozess als problematisch angesehen werden. Dennoch ist es in vieln Situatione hilfreich die Grobplanung nach @burk1980 in eine Feinplanung zu überführen.
+##### 1. Vorbereitung
 
-Die folgende Übersicht zeigt beispielhaft, welche Arten der Handlungsorientierung an diesen außerschulischen Lernorten vermittelt werden sollen.  Vor allem die Bedeutung der Vor- und Nachbereitung wird noch einmal deutlich. 
+**Ziele festlegen:**.
+Die Schülerinnen und Schüler sollen die vielfältigen Aspekte des Urban Gardening, einschließlich seiner Vorteile und Herausforderungen, sowie seine Rolle für die Klimaresilienz und Nachhaltigkeit von Städten verstehen.
+
+**Einführung:**.
+- Die Lehrkraft führt in die grundlegenden Konzepte des Urban Gardening ein, diskutiert positive Effekte wie Biodiversität und städtisches Mikroklima sowie Herausforderungen wie Ressourcenmanagement und Gentrifizierung.
+- Darstellung der Funktionalität von Urban Gardening in Bezug auf soziale, ästhetische, produktive und ökologische Aspekte.
+
+**Podiumsdiskussion:**.
+- Expertinnen und Experten aus Stadtplanung, Umweltwissenschaften und Sozialarbeit diskutieren über Urban Gardening mit Fokus auf Klimaresilienz und urbane Grünachsen.
+
+**Rechercheaufgaben:**.
+- Studenten recherchieren erfolgreiche Urban Gardening Projekte und deren Ansätze zur Lösung spezifischer urbaner Probleme, um Best Practices und innovative Ideen zu sammeln.
+
+##### 2. Lernort - Urban Gardening Projekt in Marburg
+
+**Beobachtung und kritische Analyse:**.
+- Die Schüler beobachten und analysieren die angewandten Praktiken des Urban Gardening, einschließlich der Pflanzenauswahl, des Wassermanagements und der integrativen Designansätze.
+- Teilnahme an einer Führung, die sich speziell auf die Herausforderungen und Lösungen des Projekts konzentriert.
+
+**Praktische Aktivitäten:**.
+- Die Schülerinnen und Schüler entwickeln alternative Nutzungskonzepte für den Garten, um den Raum optimal zu nutzen und verschiedene Bedürfnisse zu integrieren.
+- Die Schülerinnen und Schüler befragen Anwohnerinnen und Anwohner zu ihrer Akzeptanz und Beteiligung.
+
+##### 3. Nachbereitung
+
+**Analyse und Anwendung des Gelernten:**.
+- Die Schüler entwickeln eigenständige Projekte, die auf den gewonnenen Erkenntnissen basieren, um den Garten zu verbessern oder neue urbane Gartenprojekte zu planen.
+- Interaktive Präsentationen ihrer Projekte durch Führungen, bei denen sie ihre Vorschläge und Veränderungen im realen Gartenkontext demonstrieren.
+
+**Beteiligung der Gemeinschaft:**.
+- Durchführung von Planungsworkshops, in denen die Schüler ihre Ideen und Projekte der lokalen Gemeinschaft vorstellen und aktiv Feedback einholen.
+- Übernahme von Patenschaften für Teile des Gartens, um langfristige Verantwortung und kontinuierliches Engagement zu fördern.
+
+**Förderung von Reflexion und kritischem Denken:**.
+- Schüler führen Reflexionstagebücher und nehmen an Debatten über kritische Themen des urbanen Gärtnerns teil.
+- Erstellung von digitalen Portfolios oder Blogs, um den Projektfortschritt zu dokumentieren und die Ergebnisse einer breiteren Öffentlichkeit zugänglich zu machen.
+
+Dieser umfassende Ansatz ermöglicht es den Schülern, sich aktiv an der Gestaltung und Verbesserung ihrer Lernumgebung zu beteiligen und gleichzeitig einen tieferen Einblick in die komplexen Zusammenhänge urbaner Ökosysteme und deren Management zu gewinnen.
+
+### Granulare Ausplanung
+
+Mehrstufige und granulare Modelle des außerschulischen Lernprozesses können in der Praxis zwar als schwer umsetzbar und für den Lernprozess als problematisch angesehen werden. Dennoch ist es in vielen Situationen hilfreich, die Grobplanung nach @burk1980 in eine Feinplanung zu überführen.
+
+Die folgende Übersicht zeigt beispielhaft und schematisch, welche Arten der Handlungsorientierung an diesen außerschulischen Lernorten vermittelt werden sollten.  Vor allem die Bedeutung der Vor- und Nachbereitung wird noch einmal deutlich. 
 
 ![Beispielhafte methodische Möglichkeiten des außerschulischen Lernens verändert nach @sauerborn2020, 91](../images/sauerflow.svg){fig-align="center" width=40%}
 

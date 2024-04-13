@@ -3,7 +3,7 @@ title: "Begriffsklärung und Grundlagen"
 title-block-banner: ../images/banner2.png
 title-block-banner-color: black
 bibliography: unit01-01.bib
-
+lang: de
 comments: false
 ---
 

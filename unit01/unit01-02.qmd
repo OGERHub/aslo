@@ -1,19 +1,17 @@
 ---
 title: "Didaktische Konzepte"
-title-block-banner: ../images/banner2.png
-title-block-banner-color: black
+title-block-banner: ../images/asloug.png
+title-block-banner-color: lightyellow
 bibliography: unit01-01.bib
 lang: de
 comments: false
-format:
-  html:
-    include-before-body: ../css/stars.html
+
 ---
 
 
 
 
-## Einführung
+## Didaktische Konzepte - Ausserschulische Lernorte
 
 Der Bildungskontext außerschulischer Lernorte wird exemplarisch mit der folgenden praxisbasierten Mindmap skizziert. Sie dient dazu, allgemeine zentrale Begriffe und theoretische Grundlagen des Themenfeldes zu visualisieren und wesentliche Zusammenhänge aufzuzeigen. Die Abbildung zeigt die verschiedenen Zugänge zum Thema, darunter fachdidaktische Ansätze, spezifische Lehr-Lernformen und Lernstrukturen sowie einige Praxisbeispiele, die sich auf außerschulische Lernorte beziehen. Diese Elemente bilden den Hintergrund für die weitere Ausarbeitung konkreten Realisierungen außerschulischer Lernorte [@Freericks2017].
 

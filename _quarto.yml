@@ -11,15 +11,13 @@ website:
   search: 
     location: navbar
     type: textbox
-  page-footer:
-    background: light
-    center: |
-      [OGERhub (2024)](https://github.com/OGERhub/) | [Impressum](../unit00/impressum.html)
+  # page-footer: 
+  #   center: "[OGERhub (2024)](https://github.com/OGERhub/) | [Impressum](../unit00/impressum.html)"
   twitter-card:
     creator: "@gisma"
-  comments:
-   utterances:
-     repo: OGERhub/aslo
+  comments: false
+   # utterances:
+   #   repo: OGERhub/aslo
   navbar:
     logo: /images/thumbbanner.webp
     # left:
@@ -78,13 +76,16 @@ website:
           #   text: uav/Flight Planning
       - text: "---"
 ##format: dokuwiki
+
 execute:
   freeze: auto
 format: 
   html: 
+      include-after-body: ../css/banner-footer.html
+      include-in-header: ../css/banner-style.html
       code-overflow: wrap
       toc-title: "Inhalt"
-      number-sections: true
+      number-sections: false
       highlight-style: github
       theme:
        light: cerulean #css/html-inrae.css
@@ -93,7 +94,7 @@ format:
       code-copy: true
       css: css/styles.css
       toc: true
-      link-external-icon: true
+      link-external-icon: false
       link-external-newwindow: true
       link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
 # filters:

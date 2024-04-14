@@ -1,7 +1,7 @@
 ---
 title: "Begriffsklärung und Grundlagen"
 title-block-banner: ../images/begriffe-banner.png
-title-block-banner-color: darkblue
+title-block-banner-color: black
 bibliography: unit01-01.bib
 lang: de
 comments: false

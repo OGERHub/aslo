@@ -85,6 +85,34 @@ background-image: url(../images/publish-header.png);
 background-size: cover;
       }
 </style>
+<style>
+  .footer-wrapper {
+    position: relative;
+  }
+  .footer-banner {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    text-align: center;
+    line-height: 50px; /* Vertically centers text within the height */
+    color: darkred;
+    font-size: 12px; /* Smaller font size */
+    z-index: 1000;
+    overflow: hidden;
+    background: url('../images/banner2.png') repeat-x; 
+    opacity: 0.5;  /* Makes the image 50% fainter */
+    
+  }
+    
+  
+  .footer-banner a {
+    color: rgba(139, 0, 0, 1.0); /* Dark red with 80% opacity */
+    text-decoration: none;
+    padding: 0 10px;
+  }
+
+</style>
 
 
 <link rel="stylesheet" href="../css/styles.css">
@@ -274,17 +302,17 @@ background-size: cover;
     <h2 id="toc-title">Inhalt</h2>
    
   <ul>
-  <li><a href="#vorbemerkung" id="toc-vorbemerkung" class="nav-link active" data-scroll-target="#vorbemerkung"><span class="header-section-number">1</span> Vorbemerkung</a></li>
-  <li><a href="#das-exposé" id="toc-das-exposé" class="nav-link" data-scroll-target="#das-exposé"><span class="header-section-number">2</span> Das Exposé</a></li>
-  <li><a href="#beispielexposé" id="toc-beispielexposé" class="nav-link" data-scroll-target="#beispielexposé"><span class="header-section-number">3</span> Beispielexposé</a></li>
-  <li><a href="#exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg" id="toc-exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg" class="nav-link" data-scroll-target="#exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg"><span class="header-section-number">4</span> Exposé: Entsiegelung und urbane Biodiversität – Eine Feldstudie für Studierende in Marburg</a>
+  <li><a href="#vorbemerkung" id="toc-vorbemerkung" class="nav-link active" data-scroll-target="#vorbemerkung">Vorbemerkung</a></li>
+  <li><a href="#das-exposé" id="toc-das-exposé" class="nav-link" data-scroll-target="#das-exposé">Das Exposé</a></li>
+  <li><a href="#beispielexposé" id="toc-beispielexposé" class="nav-link" data-scroll-target="#beispielexposé">Beispielexposé</a></li>
+  <li><a href="#exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg" id="toc-exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg" class="nav-link" data-scroll-target="#exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg">Exposé: Entsiegelung und urbane Biodiversität – Eine Feldstudie für Studierende in Marburg</a>
   <ul class="collapse">
-  <li><a href="#einleitung-und-motivation" id="toc-einleitung-und-motivation" class="nav-link" data-scroll-target="#einleitung-und-motivation"><span class="header-section-number">4.1</span> 1. Einleitung und Motivation</a></li>
-  <li><a href="#zielsetzung" id="toc-zielsetzung" class="nav-link" data-scroll-target="#zielsetzung"><span class="header-section-number">4.2</span> 2. Zielsetzung</a></li>
-  <li><a href="#wissenschaftliche-grundlage" id="toc-wissenschaftliche-grundlage" class="nav-link" data-scroll-target="#wissenschaftliche-grundlage"><span class="header-section-number">4.3</span> 3. Wissenschaftliche Grundlage</a></li>
-  <li><a href="#lernorte-und-aktivierende-elemente" id="toc-lernorte-und-aktivierende-elemente" class="nav-link" data-scroll-target="#lernorte-und-aktivierende-elemente"><span class="header-section-number">4.4</span> 4. Lernorte und aktivierende Elemente</a></li>
-  <li><a href="#lernerfolg-der-teilnehmenden" id="toc-lernerfolg-der-teilnehmenden" class="nav-link" data-scroll-target="#lernerfolg-der-teilnehmenden"><span class="header-section-number">4.5</span> 5. Lernerfolg der Teilnehmenden</a></li>
-  <li><a href="#literatur" id="toc-literatur" class="nav-link" data-scroll-target="#literatur"><span class="header-section-number">4.6</span> Literatur</a></li>
+  <li><a href="#einleitung-und-motivation" id="toc-einleitung-und-motivation" class="nav-link" data-scroll-target="#einleitung-und-motivation">1. Einleitung und Motivation</a></li>
+  <li><a href="#zielsetzung" id="toc-zielsetzung" class="nav-link" data-scroll-target="#zielsetzung">2. Zielsetzung</a></li>
+  <li><a href="#wissenschaftliche-grundlage" id="toc-wissenschaftliche-grundlage" class="nav-link" data-scroll-target="#wissenschaftliche-grundlage">3. Wissenschaftliche Grundlage</a></li>
+  <li><a href="#lernorte-und-aktivierende-elemente" id="toc-lernorte-und-aktivierende-elemente" class="nav-link" data-scroll-target="#lernorte-und-aktivierende-elemente">4. Lernorte und aktivierende Elemente</a></li>
+  <li><a href="#lernerfolg-der-teilnehmenden" id="toc-lernerfolg-der-teilnehmenden" class="nav-link" data-scroll-target="#lernerfolg-der-teilnehmenden">5. Lernerfolg der Teilnehmenden</a></li>
+  <li><a href="#literatur" id="toc-literatur" class="nav-link" data-scroll-target="#literatur">Literatur</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -296,26 +324,26 @@ background-size: cover;
 
 
 
-<section id="vorbemerkung" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="vorbemerkung"><span class="header-section-number">1</span> Vorbemerkung</h2>
+<section id="vorbemerkung" class="level2">
+<h2 class="anchored" data-anchor-id="vorbemerkung">Vorbemerkung</h2>
 <p>Projektarbeiten fördern Schlüsselkompetenzen wie das Konzipieren und Umsetzen von Fragestellungen, das Entwickeln von Lösungsansätzen und die Fähigkeit, selbstständig und strukturiert im Team zu arbeiten. Darüber hinaus erfordern sie übergeordnete kommunikative und soziale Kompetenzen.</p>
 <p>Zu den Zielen von AsLo gehören das Verständnis für die Entwicklung klarer Bildungsziele für außerschulische Lernorte, d.h. für Ziele, die nicht ebenso gut oder besser im Klassenzimmer erreicht werden können. Außerdem die Fähigkeit, geeignete Lernorte zu identifizieren und die Lernenden zu aktivieren. Am Anfang eines AsLo-Projektes steht die Entwicklung einer klaren Zielsetzung, die auf Neugier, einem besonderen Interesse oder vorgegebenen Rahmenbedingungen basiert. Die Themenwahl sollte die eigenen Stärken und Interessen berücksichtigen und im vorgegebenen Zeitrahmen realistisch umsetzbar sein. Die Formulierung einer tragfähigen Zielsetzung und Fragestellung ist eine der anspruchsvollsten Aufgaben, da sie die Richtung des AsLo-Projekts verbindlich vorgibt und dessen Erfolg maßgeblich beeinflusst.</p>
 </section>
-<section id="das-exposé" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="das-exposé"><span class="header-section-number">2</span> Das Exposé</h2>
+<section id="das-exposé" class="level2">
+<h2 class="anchored" data-anchor-id="das-exposé">Das Exposé</h2>
 <p>Das Exposé dient als Instrument zur Konkretisierung der AsLo-Idee. Es umfasst die Motivation, die Fragestellung, die Ziele und den geplanten Umsetzungsweg auf Basis des aktuellen Forschungsstandes und der vor Ort verfügbaren Ressourcen. Das Konzept ist iterativ aufgebaut. Es umfasst die Formulierung der Motivation, die in eine Problemstellung, eine Fragestellung und Ziele mündet. Darauf folgt ein Überblick über die Umsetzung vor Ort inkl. der Orte und Aktivierungskonzepte. Ziel ist es, einen klaren und nachvollziehbaren Plan für die Durchführung des Projektes zu erstellen.</p>
 </section>
-<section id="beispielexposé" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="beispielexposé"><span class="header-section-number">3</span> Beispielexposé</h2>
+<section id="beispielexposé" class="level2">
+<h2 class="anchored" data-anchor-id="beispielexposé">Beispielexposé</h2>
 </section>
-<section id="exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg"><span class="header-section-number">4</span> Exposé: Entsiegelung und urbane Biodiversität – Eine Feldstudie für Studierende in Marburg</h2>
-<section id="einleitung-und-motivation" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="einleitung-und-motivation"><span class="header-section-number">4.1</span> 1. Einleitung und Motivation</h3>
+<section id="exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg" class="level2">
+<h2 class="anchored" data-anchor-id="exposé-entsiegelung-und-urbane-biodiversität-eine-feldstudie-für-studierende-in-marburg">Exposé: Entsiegelung und urbane Biodiversität – Eine Feldstudie für Studierende in Marburg</h2>
+<section id="einleitung-und-motivation" class="level3">
+<h3 class="anchored" data-anchor-id="einleitung-und-motivation">1. Einleitung und Motivation</h3>
 <p>Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). Dieses Exposé skizziert eine zweistündige Vor-Ort-Einheit für Studierende, die das Bewusstsein für die Auswirkungen von Entsiegelungsmaßnahmen in Marburg schärfen und praktisches Wissen vermitteln soll.</p>
 </section>
-<section id="zielsetzung" class="level3" data-number="4.2">
-<h3 data-number="4.2" class="anchored" data-anchor-id="zielsetzung"><span class="header-section-number">4.2</span> 2. Zielsetzung</h3>
+<section id="zielsetzung" class="level3">
+<h3 class="anchored" data-anchor-id="zielsetzung">2. Zielsetzung</h3>
 <p>Das Hauptziel dieser Einheit ist es, Studierenden praktische Einblicke in die positiven Effekte von Entsiegelungs- und Begrünungsprojekten auf das urbane Mikroklima und die Biodiversität zu geben. Die Studierenden sollen:</p>
 <ul>
 <li>Verständnis für die Notwendigkeit und die Methoden der Entsiegelung entwickeln.</li>
@@ -323,21 +351,21 @@ background-size: cover;
 <li>Fähigkeiten in der Identifiklation, Bewertung und Planung von Entsiegelungsprojekten erwerben.</li>
 </ul>
 </section>
-<section id="wissenschaftliche-grundlage" class="level3" data-number="4.3">
-<h3 data-number="4.3" class="anchored" data-anchor-id="wissenschaftliche-grundlage"><span class="header-section-number">4.3</span> 3. Wissenschaftliche Grundlage</h3>
+<section id="wissenschaftliche-grundlage" class="level3">
+<h3 class="anchored" data-anchor-id="wissenschaftliche-grundlage">3. Wissenschaftliche Grundlage</h3>
 <p>Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).</p>
 </section>
-<section id="lernorte-und-aktivierende-elemente" class="level3" data-number="4.4">
-<h3 data-number="4.4" class="anchored" data-anchor-id="lernorte-und-aktivierende-elemente"><span class="header-section-number">4.4</span> 4. Lernorte und aktivierende Elemente</h3>
+<section id="lernorte-und-aktivierende-elemente" class="level3">
+<h3 class="anchored" data-anchor-id="lernorte-und-aktivierende-elemente">4. Lernorte und aktivierende Elemente</h3>
 <p>Die Studierenden werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche […]. Aktivitäten umfassen:</p>
 <p>Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. […]</p>
 </section>
-<section id="lernerfolg-der-teilnehmenden" class="level3" data-number="4.5">
-<h3 data-number="4.5" class="anchored" data-anchor-id="lernerfolg-der-teilnehmenden"><span class="header-section-number">4.5</span> 5. Lernerfolg der Teilnehmenden</h3>
+<section id="lernerfolg-der-teilnehmenden" class="level3">
+<h3 class="anchored" data-anchor-id="lernerfolg-der-teilnehmenden">5. Lernerfolg der Teilnehmenden</h3>
 <p>Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in […] erreicht werden.</p>
 </section>
-<section id="literatur" class="level3" data-number="4.6">
-<h3 data-number="4.6" class="anchored" data-anchor-id="literatur"><span class="header-section-number">4.6</span> Literatur</h3>
+<section id="literatur" class="level3">
+<h3 class="anchored" data-anchor-id="literatur">Literatur</h3>
 <ol type="1">
 <li><span class="smallcaps">IPCC 2050, Report on a past that was a failure</span></li>
 <li><span class="smallcaps">Hinz und Kunz 1900. Biodiversität und Albedo ein ungleiches Paar, Journal of unpublished findings 1</span></li>
@@ -365,6 +393,13 @@ Formalia
 </section>
 
 </main> <!-- /main -->
+<div class="footer-banner">
+
+    <a href="https://github.com/OGERhub/" target="_blank">OGERhub (2024)</a> |
+    <a href="../unit00/impressum.html" target="_blank">Impressum</a>
+
+</div>
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -609,8 +644,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           if (link.getAttribute("rel") === null) {
             link.setAttribute("rel", "noopener");
           }
-          // default icon
-          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -925,8 +958,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<script src="https://utteranc.es/client.js" repo="OGERhub/aslo" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
-</script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="../unit01/unit01-02.html" class="pagination-link" aria-label="Didaktische Konzepte">
@@ -937,19 +968,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">
-<p><a href="https://github.com/OGERhub/">OGERhub (2024)</a> | <a href="../unit00/impressum.html">Impressum</a></p>
-</div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 

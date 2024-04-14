@@ -106,6 +106,34 @@ background-image: url(../images/banner2.png);
 background-size: cover;
       }
 </style>
+<style>
+  .footer-wrapper {
+    position: relative;
+  }
+  .footer-banner {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    text-align: center;
+    line-height: 50px; /* Vertically centers text within the height */
+    color: darkred;
+    font-size: 12px; /* Smaller font size */
+    z-index: 1000;
+    overflow: hidden;
+    background: url('../images/banner2.png') repeat-x; 
+    opacity: 0.5;  /* Makes the image 50% fainter */
+    
+  }
+    
+  
+  .footer-banner a {
+    color: rgba(139, 0, 0, 1.0); /* Dark red with 80% opacity */
+    text-decoration: none;
+    padding: 0 10px;
+  }
+
+</style>
 
 
 <link rel="stylesheet" href="../css/styles.css">
@@ -295,18 +323,18 @@ background-size: cover;
     <h2 id="toc-title">Inhalt</h2>
    
   <ul>
-  <li><a href="#einordnung-des-begriffs-außerschulisches-lernen" id="toc-einordnung-des-begriffs-außerschulisches-lernen" class="nav-link active" data-scroll-target="#einordnung-des-begriffs-außerschulisches-lernen"><span class="header-section-number">1</span> Einordnung des Begriffs “Außerschulisches Lernen”</a></li>
-  <li><a href="#didaktische-und-methodische-grundlagen" id="toc-didaktische-und-methodische-grundlagen" class="nav-link" data-scroll-target="#didaktische-und-methodische-grundlagen"><span class="header-section-number">2</span> Didaktische und Methodische Grundlagen</a></li>
-  <li><a href="#potenziale-außerschulischer-lernorte" id="toc-potenziale-außerschulischer-lernorte" class="nav-link" data-scroll-target="#potenziale-außerschulischer-lernorte"><span class="header-section-number">3</span> Potenziale außerschulischer Lernorte</a></li>
-  <li><a href="#herausforderungen-außerschulischer-lernorte" id="toc-herausforderungen-außerschulischer-lernorte" class="nav-link" data-scroll-target="#herausforderungen-außerschulischer-lernorte"><span class="header-section-number">4</span> Herausforderungen außerschulischer Lernorte</a></li>
-  <li><a href="#empirische-befunde" id="toc-empirische-befunde" class="nav-link" data-scroll-target="#empirische-befunde"><span class="header-section-number">5</span> Empirische Befunde</a>
+  <li><a href="#einordnung-des-begriffs-außerschulisches-lernen" id="toc-einordnung-des-begriffs-außerschulisches-lernen" class="nav-link active" data-scroll-target="#einordnung-des-begriffs-außerschulisches-lernen">Einordnung des Begriffs “Außerschulisches Lernen”</a></li>
+  <li><a href="#didaktische-und-methodische-grundlagen" id="toc-didaktische-und-methodische-grundlagen" class="nav-link" data-scroll-target="#didaktische-und-methodische-grundlagen">Didaktische und Methodische Grundlagen</a></li>
+  <li><a href="#potenziale-außerschulischer-lernorte" id="toc-potenziale-außerschulischer-lernorte" class="nav-link" data-scroll-target="#potenziale-außerschulischer-lernorte">Potenziale außerschulischer Lernorte</a></li>
+  <li><a href="#herausforderungen-außerschulischer-lernorte" id="toc-herausforderungen-außerschulischer-lernorte" class="nav-link" data-scroll-target="#herausforderungen-außerschulischer-lernorte">Herausforderungen außerschulischer Lernorte</a></li>
+  <li><a href="#empirische-befunde" id="toc-empirische-befunde" class="nav-link" data-scroll-target="#empirische-befunde">Empirische Befunde</a>
   <ul class="collapse">
-  <li><a href="#positive-aspekte" id="toc-positive-aspekte" class="nav-link" data-scroll-target="#positive-aspekte"><span class="header-section-number">5.1</span> Positive Aspekte</a></li>
-  <li><a href="#negative-aspekte" id="toc-negative-aspekte" class="nav-link" data-scroll-target="#negative-aspekte"><span class="header-section-number">5.2</span> Negative Aspekte</a></li>
-  <li><a href="#ambivalente-aspekte" id="toc-ambivalente-aspekte" class="nav-link" data-scroll-target="#ambivalente-aspekte"><span class="header-section-number">5.3</span> Ambivalente Aspekte</a></li>
-  <li><a href="#resumè" id="toc-resumè" class="nav-link" data-scroll-target="#resumè"><span class="header-section-number">5.4</span> Resumè</a></li>
+  <li><a href="#positive-aspekte" id="toc-positive-aspekte" class="nav-link" data-scroll-target="#positive-aspekte">Positive Aspekte</a></li>
+  <li><a href="#negative-aspekte" id="toc-negative-aspekte" class="nav-link" data-scroll-target="#negative-aspekte">Negative Aspekte</a></li>
+  <li><a href="#ambivalente-aspekte" id="toc-ambivalente-aspekte" class="nav-link" data-scroll-target="#ambivalente-aspekte">Ambivalente Aspekte</a></li>
+  <li><a href="#resumè" id="toc-resumè" class="nav-link" data-scroll-target="#resumè">Resumè</a></li>
   </ul></li>
-  <li><a href="#referenzen" id="toc-referenzen" class="nav-link" data-scroll-target="#referenzen"><span class="header-section-number">6</span> Referenzen</a></li>
+  <li><a href="#referenzen" id="toc-referenzen" class="nav-link" data-scroll-target="#referenzen">Referenzen</a></li>
   </ul>
 </nav>
     </div>
@@ -317,19 +345,19 @@ background-size: cover;
 
 
 
-<section id="einordnung-des-begriffs-außerschulisches-lernen" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="einordnung-des-begriffs-außerschulisches-lernen"><span class="header-section-number">1</span> Einordnung des Begriffs “Außerschulisches Lernen”</h2>
+<section id="einordnung-des-begriffs-außerschulisches-lernen" class="level2">
+<h2 class="anchored" data-anchor-id="einordnung-des-begriffs-außerschulisches-lernen">Einordnung des Begriffs “Außerschulisches Lernen”</h2>
 <p>Folgt man Pospiech <span class="citation" data-cites="pospiech2020begegnungen">(<a href="#ref-pospiech2020begegnungen" role="doc-biblioref">Pospiech u.&nbsp;a. 2020, 222f</a>.)</span>, so ist der Begriff des außerschulischen Lernens, also die Nutzung von Lerngelegenheiten außerhalb der Schule, tief in der pädagogischen Tradition verankert und reicht bis in die Aufklärung und Reformpädagogik zurück. Diese Praxis hat sich im Laufe der Zeit mit unterschiedlichen Begründungen weiterentwickelt <span class="citation" data-cites="thomas2009">(<a href="#ref-thomas2009" role="doc-biblioref">Thomas 2009, 283–87</a>)</span>, aber das Konzept als solches ist bis heute aktuell geblieben und gewinnt wieder an Interesse <span class="citation" data-cites="karpa2015">(<a href="#ref-karpa2015" role="doc-biblioref">Karpa und Lübbecke 2015, 1f</a>.)</span>. Der Begriff “außerschulischer Lernort” wird dabei breit und teilweise unscharf verwendet, was zu definitorischen Schwierigkeiten führt <span class="citation" data-cites="erhorn2016 SauerbornBrühne:2014">(<a href="#ref-erhorn2016" role="doc-biblioref">Erhorn und Schwier 2016, 7</a>; <a href="#ref-SauerbornBrühne:2014" role="doc-biblioref">Sauerborn und Brühne 2014, 11</a>)</span> und synonyme Bezeichnungen wie “Außenlernort” <span class="citation" data-cites="kestler2015">(<a href="#ref-kestler2015" role="doc-biblioref">Kestler 2015, 188</a>)</span> oder “Lernen außerhalb des Klassenzimmers” <span class="citation" data-cites="burk1980">(<a href="#ref-burk1980" role="doc-biblioref">Burk und Claussen 1980, 5</a>)</span> umfasst. Unter außerschulischen Lernorten werden Orte außerhalb des Schulgeländes verstanden, die Potenzial für schulisch geplantes Lernen bieten <span class="citation" data-cites="karpa2015">(<a href="#ref-karpa2015" role="doc-biblioref">Karpa und Lübbecke 2015, 7f</a>.)</span>, wobei dieses Potenzial von verschiedenen Faktoren wie schulpolitischen Rahmenbedingungen, am Lernort verfügbaren Inhalten, didaktischen Überlegungen und individuellen Faktoren abhängt.</p>
 <p>Diese Orte können sowohl über ein spezifisches Bildungsangebot verfügen (etwa Museen etc.) oder auch ohne ein solches für Lernzwecke genutzt werden, wobei das Hauptziel darin besteht, den Schülerinnen und Schülern Erfahrungen zu ermöglichen, die im Klassenzimmer nicht möglich sind <span class="citation" data-cites="thomas2009">(<a href="#ref-thomas2009" role="doc-biblioref">Thomas 2009, 284</a>)</span>.</p>
 <p>Außerschulisches Lernen findet folglich <em>nicht</em> wegen des Ortes an sich statt, sondern wegen der gleichzeitig gegebenen schulischen Relevanz des Ortes <span class="citation" data-cites="pech2008">(<a href="#ref-pech2008" role="doc-biblioref">Pech 2008</a>)</span>. Während so schulische Lernorte direkt in den Unterricht eingebunden sind, sind außerschulische Lernaktivitäten ohne direkten schulischen Bezug von der Definition außerschulischer Lernorte ausgeschlossen.</p>
 <p>Als außerschulischer Lernort kann prinzipiell jeder Ort dienen, der ein nutzbares Lernpotenzial aufweist, sofern er in schulische Lernprozesse eingebunden ist <span class="citation" data-cites="keck1993">(<a href="#ref-keck1993" role="doc-biblioref">Keck 1993, 148</a>)</span>.</p>
 </section>
-<section id="didaktische-und-methodische-grundlagen" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="didaktische-und-methodische-grundlagen"><span class="header-section-number">2</span> Didaktische und Methodische Grundlagen</h2>
+<section id="didaktische-und-methodische-grundlagen" class="level2">
+<h2 class="anchored" data-anchor-id="didaktische-und-methodische-grundlagen">Didaktische und Methodische Grundlagen</h2>
 <p>Die Einbeziehung außerschulischer Lernorte in den Unterricht bietet verschiedene Potenziale, ist aber auch mit Herausforderungen verbunden. Die wichtigsten Aspekte lassen sich in den folgenden Kategorien zusammenfassen:</p>
 </section>
-<section id="potenziale-außerschulischer-lernorte" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="potenziale-außerschulischer-lernorte"><span class="header-section-number">3</span> Potenziale außerschulischer Lernorte</h2>
+<section id="potenziale-außerschulischer-lernorte" class="level2">
+<h2 class="anchored" data-anchor-id="potenziale-außerschulischer-lernorte">Potenziale außerschulischer Lernorte</h2>
 <ul>
 <li><em>Erweiterung des pädagogischen Angebots</em>: Außerschulische Lernorte bieten Abwechslung und neue Lernwege, die die Motivation der Schülerinnen und Schüler steigern und die Lerneffektivität positiv beeinflussen können <span class="citation" data-cites="karpa2015">(<a href="#ref-karpa2015" role="doc-biblioref">Karpa und Lübbecke 2015</a>)</span>.</li>
 <li>L<em>ebenswelt- und Wissenschaftsbezug</em>: Diese Lernorte ermöglichen eine Annäherung an die Lebenswelt der Lernenden und bieten gleichzeitig einen Zugang zu wissenschaftspropädeutischen Ansätzen <span class="citation" data-cites="pries2011 budde2016">(<a href="#ref-pries2011" role="doc-biblioref">Pries und Wiesmüller 2011</a>; <a href="#ref-budde2016" role="doc-biblioref">Budde und Hummrich 2016</a>)</span>.</li>
@@ -337,8 +365,8 @@ background-size: cover;
 <li><em>Fächerübergreifendes Lernen</em>: Außerschulische Lernorte erfordern häufig eine fächerübergreifende Herangehensweise, die die Inhalte in einen größeren Kontext stellt und damit für die Schülerinnen und Schüler relevanter macht <span class="citation" data-cites="SauerbornBrühne:2014">(<a href="#ref-SauerbornBrühne:2014" role="doc-biblioref">Sauerborn und Brühne 2014</a>)</span>.</li>
 </ul>
 </section>
-<section id="herausforderungen-außerschulischer-lernorte" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="herausforderungen-außerschulischer-lernorte"><span class="header-section-number">4</span> Herausforderungen außerschulischer Lernorte</h2>
+<section id="herausforderungen-außerschulischer-lernorte" class="level2">
+<h2 class="anchored" data-anchor-id="herausforderungen-außerschulischer-lernorte">Herausforderungen außerschulischer Lernorte</h2>
 <ul>
 <li><em>Erhöhter Planungsaufwand</em>: Die Vorbereitung und Durchführung von Besuchen außerschulischer Lernorte erfordert einen deutlichen Mehraufwand für Lehrkräfte <span class="citation" data-cites="karpa2015">(<a href="#ref-karpa2015" role="doc-biblioref">Karpa und Lübbecke 2015</a>)</span>.</li>
 <li><em>Kognitive Überforderung</em>: Die Vielzahl neuer Eindrücke kann zu einer Überforderung führen, insbesondere wenn die Lernorte stark von der gewohnten Schulatmosphäre abweichen <span class="citation" data-cites="mandy2015">(<a href="#ref-mandy2015" role="doc-biblioref">Karpa und Merkel 2015</a>)</span>.</li>
@@ -352,26 +380,26 @@ background-size: cover;
 </figure>
 </div>
 </section>
-<section id="empirische-befunde" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="empirische-befunde"><span class="header-section-number">5</span> Empirische Befunde</h2>
+<section id="empirische-befunde" class="level2">
+<h2 class="anchored" data-anchor-id="empirische-befunde">Empirische Befunde</h2>
 <p>Die positiven und negativen Einflussfaktoren auf das ausserschulische Lernen sind empirisch gut untersucht. Die sinnvolle Gestaltung außerschulischer Lernorte steht in direktem Zusammenhang mit dem Erfolg oder Misserfolg von Unterrichtseinheiten:</p>
-<section id="positive-aspekte" class="level3" data-number="5.1">
-<h3 data-number="5.1" class="anchored" data-anchor-id="positive-aspekte"><span class="header-section-number">5.1</span> Positive Aspekte</h3>
+<section id="positive-aspekte" class="level3">
+<h3 class="anchored" data-anchor-id="positive-aspekte">Positive Aspekte</h3>
 <p>Wesentliche Bedeutung kommt der Vor- und Nachbereitung der außerschulischen Lernveranstaltungen zu:</p>
 <ul>
 <li><strong>Vorbereitung/Nachbereitung</strong>: Mehrere Studien betonen die Notwendigkeit einer gründlichen inhaltlichen und geographischen Vorbereitung und Nachbereitung um längerfristige Lerneffekte zu sichern und höhere Kompetenzniveaus zu erreichen <span class="citation" data-cites="delaney1967 orion1994 kubota1991 anderson1997 anderson2000 streller2015 wellington1990 rix1999 waltner2006 engeln2004">(<a href="#ref-delaney1967" role="doc-biblioref">Delaney 1967</a>; <a href="#ref-orion1994" role="doc-biblioref">Orion 1994</a>; <a href="#ref-kubota1991" role="doc-biblioref">Kubota und G. 1991</a>; <a href="#ref-anderson1997" role="doc-biblioref">Anderson und B. 1997</a>; <a href="#ref-anderson2000" role="doc-biblioref">Anderson u.&nbsp;a. 2000</a>; <a href="#ref-streller2015" role="doc-biblioref">Streller 2015</a>; <a href="#ref-wellington1990" role="doc-biblioref">Wellington 1990</a>; <a href="#ref-rix1999" role="doc-biblioref">Rix 1999</a>; <a href="#ref-waltner2006" role="doc-biblioref">Waltner 20&nbsp;n.&nbsp;Chr.</a>; <a href="#ref-engeln2004" role="doc-biblioref">Engeln 2004</a>)</span>.</li>
 <li><strong>Posive kurzfristige Effekte</strong>: Studien haben gezeigt, dass außerschulische Lernorte positive Effekte auf Werte, Einstellungen und fachliches Interesse der Schülerinnen und Schüler haben können, diese Effekte aber meist nur von kurzer Dauer sind, insbesondere dann falls keine Verfestigung und Ergebnissicherung betrieben wird <span class="citation" data-cites="itzekgreulich2014">(<a href="#ref-itzekgreulich2014" role="doc-biblioref">Itzek-Greulich 2014</a>)</span>.</li>
 </ul>
 </section>
-<section id="negative-aspekte" class="level3" data-number="5.2">
-<h3 data-number="5.2" class="anchored" data-anchor-id="negative-aspekte"><span class="header-section-number">5.2</span> Negative Aspekte</h3>
+<section id="negative-aspekte" class="level3">
+<h3 class="anchored" data-anchor-id="negative-aspekte">Negative Aspekte</h3>
 <ul>
 <li><strong>Hoher Aufwand und Kontrollprobleme</strong>: Niederhauser und <span class="citation" data-cites="rhyn2004">(<a href="#ref-rhyn2004" role="doc-biblioref">Rhyn und Niederhauser 2004</a>)</span> berichten, dass 57 Prozent der Lehrkräfte den hohen Aufwand und die schwer zu kontrollierenden Bedingungen als Herausforderung sehen.</li>
 <li><strong>Kognitive Überforderung</strong>: <span class="citation" data-cites="falk2012">(<a href="#ref-falk2012" role="doc-biblioref">Falk und Dierking 2012</a>)</span> thematisieren die Gefahr der kognitiven Überforderung in unbekannten Lernumgebungen, die die Lernfähigkeit der Schüler beeinträchtigen kann.</li>
 </ul>
 </section>
-<section id="ambivalente-aspekte" class="level3" data-number="5.3">
-<h3 data-number="5.3" class="anchored" data-anchor-id="ambivalente-aspekte"><span class="header-section-number">5.3</span> Ambivalente Aspekte</h3>
+<section id="ambivalente-aspekte" class="level3">
+<h3 class="anchored" data-anchor-id="ambivalente-aspekte">Ambivalente Aspekte</h3>
 <ul>
 <li>Die Kommunikation zwischen Experten und Laien an außerschulischen Lernorten bietet Chancen durch die Bereicherung des Lernsettings mit Fachwissen, birgt jedoch Herausforderungen durch mögliche Abstimmungsschwierigkeiten und Wissensasymmetrien, die die Interaktion komplizieren können.</li>
 <li>Experten müssen ihr Wissen zielgruppengerecht vermitteln, was variabel gelingt und oft als Machtasymmetrie wahrgenommen wird, wodurch Laien zögern, Fragen zu stellen <span class="citation" data-cites="bromme2004">(<a href="#ref-bromme2004" role="doc-biblioref">Bromme 2004</a>)</span>.</li>
@@ -384,19 +412,19 @@ background-size: cover;
 </figure>
 </div>
 </section>
-<section id="resumè" class="level3" data-number="5.4">
-<h3 data-number="5.4" class="anchored" data-anchor-id="resumè"><span class="header-section-number">5.4</span> Resumè</h3>
+<section id="resumè" class="level3">
+<h3 class="anchored" data-anchor-id="resumè">Resumè</h3>
 <p>Die Studien verdeutlichen die Notwendigkeit, der theoretischen und praktischen Auseinandersetzung mit außerschulischen Lernorten in der Lehrerbildung einen höheren Stellenwert einzuräumen und die didaktischen Ansätze entsprechend anzupassen; dies gilt insbesondere für eine <em><strong>angemessene Vor- und Nachbereitung</strong></em> sowie den <em><strong>sensiblen</strong></em> Einsatz von Expert*innen, um die Potenziale dieser Lernorte voll ausschöpfen zu können.</p>
 </section>
 </section>
-<section id="referenzen" class="level2" data-number="6">
+<section id="referenzen" class="level2">
 
 
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">6 Referenzen</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referenzen</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-anderson1997" class="csl-entry" role="listitem">
 Anderson, David; Lucas, und Keith B. 1997. <span>„: The Effectiveness of Orienting Students to the Physical Features of a Science Museum Prior to Visitation“</span>. <em>In: Research in Science Education, Nr. 27(4), 1997, S</em> 27 (4): 485–95.
 </div>
@@ -482,6 +510,13 @@ Waltner, Hartmut, Christine; Wiesner. 20&nbsp;n.&nbsp;Chr. <span>„<span>Physik
 Wellington, Jerry. 1990. <span>„Formal and Informal Learning in Science: The Role of the Interactive Science Centres“</span>. <em>In: Physics Education, Nr. 25, 1990, S</em> 25: 247–52.
 </div>
 </div></section></div></main> <!-- /main -->
+<div class="footer-banner">
+
+    <a href="https://github.com/OGERhub/" target="_blank">OGERhub (2024)</a> |
+    <a href="../unit00/impressum.html" target="_blank">Impressum</a>
+
+</div>
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -726,8 +761,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           if (link.getAttribute("rel") === null) {
             link.setAttribute("rel", "noopener");
           }
-          // default icon
-          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -1055,19 +1088,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">
-<p><a href="https://github.com/OGERhub/">OGERhub (2024)</a> | <a href="../unit00/impressum.html">Impressum</a></p>
-</div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 

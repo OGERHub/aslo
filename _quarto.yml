@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs/
 website:
-  favicon: /images/icon.png
+  favicon: images/icon.png
   bread-crumbs: false
   open-graph: true
   page-navigation: true  
@@ -20,7 +20,7 @@ website:
    # utterances:
    #   repo: OGERhub/aslo
   navbar:
-    logo: /images/logo.png
+    logo: images/log.png
     # left:
     #   - icon: question-square-fill
     #     text: FAQ

@@ -19,7 +19,7 @@ website:
    # utterances:
    #   repo: OGERhub/aslo
   navbar:
-    logo: /images/thumbbanner.webp
+    logo: /images/logo.png
     # left:
     #   - icon: question-square-fill
     #     text: FAQ

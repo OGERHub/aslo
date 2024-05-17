@@ -16,7 +16,7 @@ toc: true
 - [Quarto Get Started](https://quarto.org/docs/get-started/)
 - [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)
 
-Zur nahtlosen Nutzung ist es hilfreich einen entsprchenden Editor zu verwenden. Insbesondere `RStudio` bietet eine nahtlose Integration von `Quarto`.
+Für eine nahtlose Nutzung ist die Verwendung eines entsprechenden Editors hilfreich. Im Folgenden werden einige Empfehlungen gegeben.  Insbesondere `RStudio` bietet eine nahtlose Integration von `Quarto`. Sie können dann einfach die Vorlage am Ende dieser Seite in den Editor kopieren und auf dieser Basis Ihre AsLo erstellen. 
 
 
 ## Offline Editor RStudio
@@ -60,7 +60,7 @@ Das schaut dann in `Stackedit.io` bzw. `dillinger.io` wie folgt aus:
 Auf der GitHub Seite [awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) finden Sie eine Reihe weitrere Ressourcen rund um das Thema.
 
 
-## Template
+# Template
 
 Kopieren Sie dieses Template beginnend mit den drei Bindestrichen bis zum Ende und fügen Sie es in das Editierfenster einer der Markdown-Editoren ein, speichern Sie es
 dann als Datei z.B. unter dem Namen `Name_Name_Name_3.qmd` ab. Mit den Online-Editoren und z.B. Rstudio als Offline-Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen, insbesondere das Einbetten von Bildern und Grafiken, verwenden Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html).

@@ -3,7 +3,6 @@ project:
   output-dir: docs/
 website:
   favicon: /images/logo.png
-  bread-crumbs: false
   open-graph: true
   page-navigation: true  
   title: "Außerschulische Lernorte"

@@ -1,0 +1,66 @@
+---
+title: "Prüfungsleistung"
+title-block-banner: ../images/publish-header.png
+title-block-banner-color: black
+---
+
+## Vorbemerkung
+
+Im Rahmen der Prüfungsleistung sollen Sie Ihren AsLo für einen Oberstufenkurs nutzbar machen. Dafür sollen Sie nicht die Durchführung Ihres AsLo im Rahmen des Seminars verschriftlichen, sondern den Lernort aufsetzend auf Ihren Erfahungen im Seminar für die Schule mit einer entsprechenden Vor- und Nachbereitung konzipieren. Bedenken Sie bitte auch bei der Umsetzung für die Schule, dass zu den Zielen von AsLo die Entwicklung klarer Bildungsziele für außerschulische Lernorte gehören, d.h. von Zielen, die nicht ebenso gut oder besser im Klassenzimmer erreicht werden können. Außerdem die Fähigkeit, geeignete Lernorte zu identifizieren und die Lernenden zu aktivieren. Die Themenwahl sollte die eigenen Stärken und Interessen berücksichtigen. 
+
+Sie können Ihre Ausarbeitung entweder als Worddokument abgeben oder in Markdown verfassen (Abgabe in beiden Fällen im Ilias Ordner). Wenn Sie Ihren Beitrag in Markdown abgeben, werden wir ihn auf dieser Homepage veröffentlichen, um eine reale Nutzung zu ermöglich. Unter Ressourcen finden Sie ein Template, dass Sie nutzen können, wenn Ihr Beitrag veröffentlich werden soll und Sie nebenbei Ihre digitalen Kompetenzen entwickeln wollen.
+
+## Der Praxisbeitrag
+
+Der Praxisbeitrag soll Lehrkräften ermöglichen Ihr AsLo-Konzept möglichst reibungslos in der Praxis umzusetzten. Er sollte, wie das Exposé die Motivation, die Fragestellung und die Ziele auf Basis des aktuellen Forschungsstandes und der vor Ort verfügbaren Ressourcen, darstellen. Zusätzlich soll der Außerschulische Lernort inkusive der notwendigen Vor- und Nachbereitung für einen Oberstufenkurs konzipiert werden und unterstützendes Material angehängt werden. Dafür sollen die konkreten Lernorte in Marburg benannt und das Material an die örtlichen Gegebenheiten angepasst werden. Digitales Material kann verlinkt werden. Sie sollten im Text Bezüge zu dem Matrial herstellen, um zu verdeutlichen, wie das Matrial eingesetzt werden soll. Achten Sie auf eine angemessene Aktivierung der Schüler*innen bei der Konzipierung Ihres Lernortes.
+
+
+## Beispielbeitrag
+
+## Praxisbeitrag: Entsiegelung und urbane Biodiversität – Eine Feldstudie für einen Oberstufenkurs in Marburg
+
+### 1. Einleitung und Motivation
+
+Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). \[...\]
+Dieser Beitrag skizziert eine Unterrichtssequnz für einen Oberstufenkurs, der das Bewusstsein für die Auswirkungen von Entsiegelungsmaßnahmen in Marburg schärfen und praktisches Wissen vermitteln soll.
+
+### 2. Zielsetzung
+
+Das Hauptziel dieser Einheit ist es, Schüler/innen praktische Einblicke in die positiven Effekte von Entsiegelungs- und Begrünungsprojekten auf das urbane Mikroklima und die Biodiversität zu geben. Die Schüler/innen sollen:
+
+-   Ein Verständnis für die Notwendigkeit und die Methoden der Entsiegelung entwickeln.
+-   Die Bedeutung von urbaner Grünfläche für die Biodiversität und das Wohlbefinden der Stadtbevölkerung erkennen.
+-   Fähigkeiten in der Identifiklation, Bewertung und Planung von Entsiegelungsprojekten erwerben.
+
+### 3. Wissenschaftliche Grundlage
+
+Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).
+
+### 4. Vorbereitung des außerschulischen Lernortes
+Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsieglungsmaßen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass \[...\].
+
+Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem \[...\] (s.Material M1)
+
+### 5. Gestaltung des außerschulischen Lernens
+
+Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche \[...\]. Aktivitäten umfassen:
+
+Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. \[...\]
+
+### 6. Nachbereitung des außerschulischen Lernortes
+Die Ergebnisse des Lernortes sollen schließlich ausgwertet werden. \[...\] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu \[...\] (s. M4) 
+
+### 5. Lernerfolg der Teilnehmenden
+
+Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in \[...\] erreicht werden.
+
+### Literatur
+
+1.  [IPCC 2050, Report on a past that was a failure]{.smallcaps}
+2.  [Hinz und Kunz 1900. Biodiversität und Albedo ein ungleiches Paar, Journal of unpublished findings 1]{.smallcaps}
+3.  [Pat und Patachon 2000, Hitzeinseln und Grundwasser zwei ungleiche Zwillinge System, Journal of Applied Nonsense 2/12]{.smallcaps}
+
+::: {.callout-important appearance="simple" title="Formalia" icon="false"}
+-   maximal 3000 Worte / \~ 9 Seiten
+-   Upload in Ihre PG auf Marvin-Ilias bis zum . 23.55 Uhr als PDF: *Name_Name_Name_3.pdf*
+:::

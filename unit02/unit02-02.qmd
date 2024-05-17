@@ -4,7 +4,7 @@ title-block-banner: ../images/publish-header.png
 title-block-banner-color: black
 
 toc: true
-
+lightbox: true
 ---
 
 # Inhalte veröffentlichen mit Markdown und Quarto

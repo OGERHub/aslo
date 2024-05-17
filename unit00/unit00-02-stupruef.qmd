@@ -29,9 +29,9 @@ Pro Gruppe wird ein Beitrag abgegeben.
 
 Der gesamte Beitrag ohne Anhang soll ca 3.000 Wörter (+/-10%) umfassen und vollständige Literaturquellen enthalten. Aussagen müssen generell mit entsprechender Literatur belastbar belegt werden. Die Erfahrungen und Rückmeldungen aus den Übungen und der praktischen Erprobung sollen in die Erstellung des Beitrags einfließen. Der Beitrag muss eine Sachanalyse und eine didaktisch-methodische Analyse sowie die zu fördernden, zentralen Kompetenzen beinhalten. Der Anhang umfasst alle verwendeten Medien, sowie Screenshots digitaler Anwendungen und Lösungsvorschläge, die im Rahmen des Konzepts entwickelt wurden. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen.
 
-Der fertige Artikel ist als QMD-Dokument bis spätestens:: **xx.xx.2024** um **23:55 Uhr** in den entsprechenden Abgabe-Ordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?) hochzuladen und in folgender Form zu benennen:
+Der fertige Artikel ist als PDF/QMD-Dokument bis spätestens:: **30.09.2024** um **23:55 Uhr** in den entsprechenden Abgabe-Ordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?) hochzuladen und in folgender Form zu benennen:
 
-*Aslo_Name_Name_Name.pdf* (Bsp.: Aslo_Hinz_Kunz_Meier.qmd) <br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
+*Aslo_Name_Name_Name.pdf* (Bsp.: Aslo_Hinz_Kunz_Meier.<pdf><qmd><zip>) <br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
 
 ### Abgaben
 

@@ -22,7 +22,7 @@ Der Praxisbeitrag soll die Lehrkräfte in die Lage versetzen, ihr AsLo-Konzept u
 
 ### 1. Einleitung und Motivation
 
-Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). \[...\]
+Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). [...]
 Dieser Beitrag skizziert eine Unterrichtssequnz für einen Oberstufenkurs, der das Bewusstsein für die Auswirkungen von Entsiegelungsmaßnahmen in Marburg schärfen und praktisches Wissen vermitteln soll.
 
 ### 2. Zielsetzung
@@ -38,22 +38,22 @@ Das Hauptziel dieser Einheit ist es, Schüler/innen praktische Einblicke in die 
 Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).
 
 ### 4. Vorbereitung des außerschulischen Lernortes
-Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsieglungsmaßen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass \[...\].
+Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsieglungsmaßen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass [...].
 
-Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem \[...\] (s.Material M1)
+Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem [...] (s.Material M1)
 
 ### 5. Gestaltung des außerschulischen Lernens
 
-Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche \[...\]. Aktivitäten umfassen:
+Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche [...]. Aktivitäten umfassen:
 
-Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. \[...\]
+Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. [...]
 
 ### 6. Nachbereitung des außerschulischen Lernortes
-Die Ergebnisse des Lernortes sollen schließlich ausgwertet werden. \[...\] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu \[...\] (s. M4) 
+Die Ergebnisse des Lernortes sollen schließlich ausgwertet werden. [...] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu [...] (s. M4) 
 
 ### 5. Lernerfolg der Teilnehmenden
 
-Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in \[...\] erreicht werden.
+Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in [...] erreicht werden.
 
 ### Literatur
 
@@ -63,5 +63,9 @@ Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Vers
 
 ::: {.callout-important appearance="simple" title="Formalia" icon="false"}
 -   maximal 3000 Worte / \~ 9 Seiten
--   Upload in Ihre PG auf Marvin-Ilias bis zum . 23.55 Uhr als PDF: *Name_Name_Name_3.pdf*
+-   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum . 23.55 Uhr als:
+    - PDF: *Name_Name_Name_3.pdf*
+    - Markdown: *Name_Name_Name_3.zip*
+    
+     Die QMD-Datei besteht in der Regel aus der Markdown-Datei und den eingebetteten Grafiken, die sinnvollerweise in einem Ordner namens `images` gespeichert werden. Der Ordner und die QMD-Datei müssen dann gezippt als Archiv eingereicht werden. 
 :::

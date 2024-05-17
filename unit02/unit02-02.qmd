@@ -9,21 +9,61 @@ toc: true
 
 # Inhalte veröffentlichen mit Markdown und Quarto
 
-Quarto ist ein Open-Source-Tool, das die Erstellung und Veröffentlichung von wissenschaftlichen und technischen Dokumenten in nahezu allen Formaten wie HTML, PDF, Word und anderen ermöglicht. Die Integration von Code, Diagrammen und Formeln in Dokumente ist mühelos.  Quarto ist ideal für Hausarbeiten, da es flexible Formatierung und einfache Konvertierung zwischen verschiedenen Dateitypen bietet. Es ermöglicht auch das Einfügen von Literaturangaben und Zitaten. Insgesamt das derzeit beste Produktionswerkzeug für Texte und Medien. Sie können mit Hilfe eines der zahlreichen Editor-Werkzeugen vergleichbar arbeiten wie unter z.B. einem Office Programm. Die Vorteile sind derzeit unerreichbare Vielfalt in den Ausgabeformaten, einfachste Formatierung und unter Einbinduing von z.B. Google Drive oder GitHub extrem effizientes und kollaboratives Arbeiten in der Gruppe. 
+[Quarto](https://quarto.org/) ist ein Open-Source-Tool zur Erstellung und Veröffentlichung wissenschaftlicher und technischer Dokumente in nahezu allen Formaten wie HTML, PDF, Word und anderen. Die Integration von Code, Diagrammen und Formeln in Dokumente ist einfach.  Quarto ist ideal für Hausarbeiten, da es flexible Formatierung und einfache Konvertierung zwischen verschiedenen Dateitypen bietet. Es ermöglicht auch das Einfügen von Referenzen und Zitaten. Alles in allem das derzeit beste Produktionswerkzeug für Texte und Medien. Sie können mit einem der zahlreichen Editoren arbeiten, wie Sie es z.B. von einem Office-Programm gewohnt sind. Die Vorteile sind eine derzeit unerreichte Vielfalt an Ausgabeformaten, einfachste Formatierung und unter Einbindung von z.B. Google Drive oder GitHub extrem effizientes und kollaboratives Arbeiten in der Gruppe. 
 
 
 - [Quarto Einführungsvideo](https://www.youtube.com/watch?v=FBYcVThIuFc&ab_channel=Dr.BenjaminSchlegel)
-- [Quarto Homepage](https://quarto.org/)
 - [Quarto Get Started](https://quarto.org/docs/get-started/)
 - [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)
 
+Zur nahtlosen Nutzung ist es hilfreich einen entsprchenden Editor zu verwenden. Insbesondere `RStudio` bietet eine nahtlose Integration von `Quarto`.
+
+
+## Offline Editor RStudio
+
+[RStudio](https://posit.co/download/rstudio-desktop/) ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.
+
+In `RStudio` sieht die Seite je nachdem ob Sie `format: pdf` oder `format: html angeben` wie folgt aus:
+
+::: {layout-ncol=2}
+
+![RStudio Html](../images/rstudio-aslo-html.png)
+
+![RStudio PDF](../images/rstudio-aslo-pdf.png)
+
+
+:::
+
+Alsternativ ist zum Beispiel [GhostWriter](https://invent.kde.org/office/ghostwriter) ein einfacher und benutzerfreundlicher Offline-Markdown-Editor. Er verwendet einen doppelten Bildschirm: der linke Bildschirm ist der Editor und der rechte Bildschirm zeigt die gerenderte Datei. Er unterstützt viele verschiedene Markdown-Dialekte, z.B. GitHub, Sundown, pandoc etc. Das rechte Bild zeigt die gerenderte Datei mit der ausgewählten Syntax.
+
+
+## Online Editoren
+
+Die beiden gängigsten Browserbasierten MArkdown-Editoren sind [StackedIt](https://stackedit.io/)  und [Dillinger](https://dillinger.io/). Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.   
+
+
+Das schaut dann in `Stackedit.io` bzw. `dillinger.io` wie folgt aus:
+
+::: {layout-ncol=2}
+
+![Stackedit.io](../images/stackedit-aslo-html.png)
+
+
+![Dillinger.io](../images/dillinger-aslo-html.png)
+
+
+:::
+
+
+##  Weitere Editoren Konverter und Informationen
+
+Auf der GitHub Seite [awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) finden Sie eine Reihe weitrere Ressourcen rund um das Thema.
 
 
 ## Template
 
-Kopieren Sie dieses Template beginnend bei den drei bindestrichen bis zum ende und speichern Sie es als eine Datei unter z.B. dem Namen `AsLo_Burning-Fplace.qmd`. mit sowohl den Online Editoren als auch z.B. Rstudio als Offline Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen insbesondere das einbetten von Abbildungen und Grafiken nutzen Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html).
-
-Kopieren Sie folgendes [Template](../unit03/unit03-01,qmd) in einen der Markdown Edititoren und passen Sie entsprechend an.
+Kopieren Sie dieses Template beginnend mit den drei Bindestrichen bis zum Ende und fügen Sie es in das Editierfenster einer der Markdown-Editoren ein, speichern Sie es
+dann als Datei z.B. unter dem Namen `Name_Name_Name_3.qmd` ab. Mit den Online-Editoren und z.B. Rstudio als Offline-Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen, insbesondere das Einbetten von Bildern und Grafiken, verwenden Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html).
 
 ```Markdown
 ---
@@ -76,43 +116,6 @@ Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Vers
 2. Hinz und Kunz 1900, Biodiversität und Albedo ein ungleiches Paar, Journal of unpublished findings 1.
 3. Pat und Patachon 2000, Hitzeinseln und Grundwasser zwei ungleiche Zwillinge, Journal of Applied Nonsense 2/12.
 
-
-
 ```
-## Offline Editor RStudio
 
-[RStudio](https://posit.co/download/rstudio-desktop/) ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.
-
-In `RStudio` sieht die Seite je nachdem ob Sie `format: pdf` oder `format: html angeben` wie folgt aus:
-
-::: {layout-ncol=2}
-
-![RStudio Html](../images/rstudio-aslo-html.png)
-
-![RStudio PDF](../images/rstudio-aslo-pdf.png)
-
-
-:::
-
-## Online Editoren
-
-Die beiden gängigsten Browserbasierten MArkdown-Editoren sind [StackedIt](https://stackedit.io/)  und [Dillinger](https://dillinger.io/). Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.   
-
-
-Das schaut dann in `Stackedit.io` bzw. `dillinger.io` wie folgt aus:
-
-::: {layout-ncol=2}
-
-![Stackedit.io](../images/stackedit-aslo-html.png)
-
-
-![Dillinger.io](../images/dillinger-aslo-html.png)
-
-
-:::
-
-
-## Weitere Editoren Konverter und Informationen
-
-Auf der GitHub Seite [awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) finden Sie eine Reihe weitrere Ressourcen rund um das Thema.
 

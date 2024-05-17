@@ -61,11 +61,12 @@ website:
             text: "TaskCards"
           - href: unit02/unit02-02.qmd
             text: Quarto Markdown
-      - text: "---"
-      - section: "AsLo Projekte"
-        contents:
-          - href: unit03/unit03-01.qmd
-            text: "Projekt 1"
+          - href: unit02/unit02-03.qmd
+            text: "AsLo Template"            
+      # - text: "---"
+      # - section: "AsLo Projekte"
+      #   contents:
+
 
       #- text: "---"
       #- section: "Machine Learning"

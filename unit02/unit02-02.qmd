@@ -62,7 +62,7 @@ Auf der GitHub Seite [awesome-markdown-editors](https://github.com/mundimark/awe
 
 # Template
 
-Kopieren Sie dieses Template beginnend mit den drei Bindestrichen bis zum Ende und fügen Sie es in das Editierfenster einer der Markdown-Editoren ein, speichern Sie es
+Kopieren Sie nachfolgendes [Template](unit02-03.qmd) beginnend mit den drei Bindestrichen bis zum Ende und fügen Sie es in das Editierfenster einer der Markdown-Editoren ein, speichern Sie es
 dann als Datei z.B. unter dem Namen `Name_Name_Name_3.qmd` ab. Mit den Online-Editoren und z.B. Rstudio als Offline-Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen, insbesondere das Einbetten von Bildern und Grafiken, verwenden Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html).
 
 ```Markdown

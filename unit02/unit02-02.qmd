@@ -17,35 +17,24 @@ Quarto ist ein Open-Source-Tool, das die Erstellung und Veröffentlichung von wi
 - [Quarto Get Started](https://quarto.org/docs/get-started/)
 - [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)
 
-## Offline Editor RStudio
-
-RStudio ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.
-
-## Online Editoren
-
-| [editor]{.highlight}                      | platform       |
-|-------------------------------------------|----------------|
-| [StackIt](https://stackedit.io/){.circle} | [app]{.strike} |
-| [Dillinger](https://dillinger.io/)        | [app]{.cross}  |
-
-: Fruit prices {.striped .hover .warning}
-
 
 ## Template
 
 Kopieren Sie dieses Template beginnend bei den drei bindestrichen bis zum ende und speichern Sie es als eine Datei unter z.B. dem Namen `AsLo_Burning-Fplace.qmd`. mit sowohl den Online Editoren als auch z.B. Rstudio als Offline Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen insbesondere das einbetten von Abbildungen und Grafiken nutzen Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html).
 
-```
+Kopieren Sie folgendes [Template](../unit03/unit03-01,qmd) in einen der Markdown Edititoren und passen Sie entsprechend an.
+
+```Markdown
 ---
 title: "Praxisbeitrag: Entsiegelung und urbane Biodiversität – Eine Feldstudie für einen Oberstufenkurs in Marburg"
 author: "Dein Name"
 date: "Abgabedatum"
-format: pdf
+format: html
 ---
 
 ## 1. Einleitung und Motivation
 
-Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). \[...\]
+Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). [...]
 Dieser Beitrag skizziert eine Unterrichtssequenz für einen Oberstufenkurs, der das Bewusstsein für die Auswirkungen von Entsiegelungsmaßnahmen in Marburg schärfen und praktisches Wissen vermitteln soll.
 
 ## 2. Zielsetzung
@@ -62,23 +51,23 @@ Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die
 
 ## 4. Vorbereitung des außerschulischen Lernortes
 
-Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsiegelungsmaßnahmen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass \[...\].
+Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsiegelungsmaßnahmen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass [...].
 
-Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem \[...\] (siehe Material M1).
+Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem [...] (siehe Material M1).
 
 ## 5. Gestaltung des außerschulischen Lernens
 
-Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche \[...\]. Aktivitäten umfassen:
+Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche [...]. Aktivitäten umfassen:
 
-- Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. \[...\]
+- Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. [...]
 
 ## 6. Nachbereitung des außerschulischen Lernortes
 
-Die Ergebnisse des Lernortes sollen schließlich ausgewertet werden. \[...\] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu \[...\] (siehe Material M4).
+Die Ergebnisse des Lernortes sollen schließlich ausgewertet werden. [...] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu [...] (siehe Material M4).
 
 ## 7. Lernerfolg der Teilnehmenden
 
-Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in \[...\] erreicht werden.
+Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in [...] erreicht werden.
 
 ## Literatur
 
@@ -89,4 +78,36 @@ Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Vers
 
 
 ```
+## Offline Editor RStudio
 
+[RStudio](https://posit.co/download/rstudio-desktop/) ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.
+
+In `RStudio` sieht die Seite je nachdem ob Sie `format: pdf` oder `format: html angeben` wie folgt aus:
+
+::: {layout-ncol=2}
+
+![RStudio Html](../images/rstudio-aslo-html.png)
+
+![RStudio PDF](../images/rstudio-aslo-pdf.png)
+
+
+:::
+
+## Online Editoren
+
+Die beiden gängigsten Browserbasierten MArkdown-Editoren sind [StackedIt](https://stackedit.io/)  und [Dillinger](https://dillinger.io/). Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.   
+
+
+Das schaut dann in `Stackedit.io` bzw. `dillinger.io` wie folgt aus:
+
+::: {layout-ncol=2}
+
+![Stackedit.io](../images/stackedit-aslo-html.png)
+
+
+![Dillinger.io](../images/dillinger-aslo-html.png)
+
+
+:::
+
+Sie können also ähnlich arbeiten wie unter z.B. einem Office Programm nur in einer deutlich vielfältigeren und effizienteren Produktionsumgebung. 

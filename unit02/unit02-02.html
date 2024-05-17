@@ -36,11 +36,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="../site_libs/quarto-contrib/sketchy-annotate-0.0.1/annotate.js"></script>
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -85,12 +86,42 @@ background-image: url(../images/publish-header.png);
 background-size: cover;
       }
 </style>
+<style>
+  .footer-wrapper {
+    position: relative;
+  }
+  .footer-banner {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    text-align: center;
+    line-height: 50px; /* Vertically centers text within the height */
+    color: darkred;
+    font-size: 12px; /* Smaller font size */
+    z-index: 1000;
+    overflow: hidden;
+    background: url('../images/banner2.png') repeat-x; 
+    opacity: 0.5;  /* Makes the image 50% fainter */
+    
+  }
+    
+  
+  .footer-banner a {
+    color: rgba(139, 0, 0, 1.0); /* Dark red with 80% opacity */
+    text-decoration: none;
+    padding: 0 10px;
+  }
+
+</style>
 
 
-<link rel="stylesheet" href="_extensions/schochastics/sketchy/theme.css">
+<link rel="stylesheet" href="../css/styles.css">
 <meta property="og:title" content="Außerschulische Lernorte - Quarto Markdown">
+<meta property="og:description" content="">
 <meta property="og:site_name" content="Außerschulische Lernorte">
 <meta name="twitter:title" content="Außerschulische Lernorte - Quarto Markdown">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@gisma">
 <meta name="twitter:card" content="summary">
 </head>
@@ -167,6 +198,12 @@ background-size: cover;
   <div class="sidebar-item-container"> 
   <a href="../unit00/unit00-02-stupruef.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Studien- und Prüfungsleistung</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../unit99/pruefung.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Prüfungsleistung</span></a>
   </div>
 </li>
       </ul>
@@ -269,12 +306,14 @@ background-size: cover;
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Inhalt</h2>
    
   <ul>
   <li><a href="#inhalte-veröffentlichen-mit-markdown-und-quarto" id="toc-inhalte-veröffentlichen-mit-markdown-und-quarto" class="nav-link active" data-scroll-target="#inhalte-veröffentlichen-mit-markdown-und-quarto">Inhalte veröffentlichen mit Markdown und Quarto</a>
   <ul class="collapse">
+  <li><a href="#offline-editor-rstudio" id="toc-offline-editor-rstudio" class="nav-link" data-scroll-target="#offline-editor-rstudio">Offline Editor RStudio</a></li>
   <li><a href="#online-editoren" id="toc-online-editoren" class="nav-link" data-scroll-target="#online-editoren">Online Editoren</a></li>
+  <li><a href="#template" id="toc-template" class="nav-link" data-scroll-target="#template">Template</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -288,6 +327,17 @@ background-size: cover;
 
 <section id="inhalte-veröffentlichen-mit-markdown-und-quarto" class="level1">
 <h1>Inhalte veröffentlichen mit Markdown und Quarto</h1>
+<p>Quarto ist ein Open-Source-Tool, das die Erstellung und Veröffentlichung von wissenschaftlichen und technischen Dokumenten in nahezu allen Formaten wie HTML, PDF, Word und anderen ermöglicht. Die Integration von Code, Diagrammen und Formeln in Dokumente ist mühelos. Quarto ist ideal für Hausarbeiten, da es flexible Formatierung und einfache Konvertierung zwischen verschiedenen Dateitypen bietet. Es ermöglicht auch das Einfügen von Literaturangaben und Zitaten. Insgesamt das derzeit beste Produktionswerkzeug für Texte und Medien.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=FBYcVThIuFc&amp;ab_channel=Dr.BenjaminSchlegel">Quarto Einführungsvideo</a></li>
+<li><a href="https://quarto.org/">Quarto Homepage</a></li>
+<li><a href="https://quarto.org/docs/get-started/">Quarto Get Started</a></li>
+<li><a href="https://quarto.org/docs/authoring/markdown-basics.html">Quarto Markdown Basics</a></li>
+</ul>
+<section id="offline-editor-rstudio" class="level2">
+<h2 class="anchored" data-anchor-id="offline-editor-rstudio">Offline Editor RStudio</h2>
+<p>RStudio ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.</p>
+</section>
 <section id="online-editoren" class="level2">
 <h2 class="anchored" data-anchor-id="online-editoren">Online Editoren</h2>
 <table class="table-striped table-hover table-warning table">
@@ -309,12 +359,75 @@ background-size: cover;
 </tr>
 </tbody>
 </table>
+</section>
+<section id="template" class="level2">
+<h2 class="anchored" data-anchor-id="template">Template</h2>
+<p>Kopieren Sie dieses Template beginnend bei den drei bindestrichen bis zum ende und speichern Sie es als eine Datei unter z.B. dem Namen <code>AsLo_Burning-Fplace.qmd</code>. mit sowohl den Online Editoren als auch z.B. Rstudio als Offline Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen insbesondere das einbetten von Abbildungen und Grafiken nutzen Sie bitte <a href="https://quarto.org/docs/authoring/markdown-basics.html">Quarto Markdown Basics</a>.</p>
+<pre><code>---
+title: "Praxisbeitrag: Entsiegelung und urbane Biodiversität – Eine Feldstudie für einen Oberstufenkurs in Marburg"
+author: "Dein Name"
+date: "Abgabedatum"
+format: pdf
+---
+
+## 1. Einleitung und Motivation
+
+Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). \[...\]
+Dieser Beitrag skizziert eine Unterrichtssequenz für einen Oberstufenkurs, der das Bewusstsein für die Auswirkungen von Entsiegelungsmaßnahmen in Marburg schärfen und praktisches Wissen vermitteln soll.
+
+## 2. Zielsetzung
+
+Das Hauptziel dieser Einheit ist es, Schüler/innen praktische Einblicke in die positiven Effekte von Entsiegelungs- und Begrünungsprojekten auf das urbane Mikroklima und die Biodiversität zu geben. Die Schüler/innen sollen:
+
+- Ein Verständnis für die Notwendigkeit und die Methoden der Entsiegelung entwickeln.
+- Die Bedeutung von urbaner Grünfläche für die Biodiversität und das Wohlbefinden der Stadtbevölkerung erkennen.
+- Fähigkeiten in der Identifikation, Bewertung und Planung von Entsiegelungsprojekten erwerben.
+
+## 3. Wissenschaftliche Grundlage
+
+Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).
+
+## 4. Vorbereitung des außerschulischen Lernortes
+
+Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsiegelungsmaßnahmen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass \[...\].
+
+Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem \[...\] (siehe Material M1).
+
+## 5. Gestaltung des außerschulischen Lernens
+
+Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche \[...\]. Aktivitäten umfassen:
+
+- Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. \[...\]
+
+## 6. Nachbereitung des außerschulischen Lernortes
+
+Die Ergebnisse des Lernortes sollen schließlich ausgewertet werden. \[...\] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu \[...\] (siehe Material M4).
+
+## 7. Lernerfolg der Teilnehmenden
+
+Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in \[...\] erreicht werden.
+
+## Literatur
+
+1. IPCC 2099, Report on a past that was a failure.
+2. Hinz und Kunz 1900, Biodiversität und Albedo ein ungleiches Paar, Journal of unpublished findings 1.
+3. Pat und Patachon 2000, Hitzeinseln und Grundwasser zwei ungleiche Zwillinge, Journal of Applied Nonsense 2/12.
+
+
+</code></pre>
 
 
 </section>
 </section>
 
 </main> <!-- /main -->
+<div class="footer-banner">
+
+    <a href="https://github.com/OGERhub/" target="_blank">OGERhub (2024)</a> |
+    <a href="../unit00/impressum.html" target="_blank">Impressum</a>
+
+</div>
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -335,6 +448,150 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -396,7 +653,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/OGERhub\.github\.io\/aslo");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.quarto\.org\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -410,6 +667,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

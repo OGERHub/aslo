@@ -18,7 +18,7 @@ Der Praxisbeitrag soll die Lehrkräfte in die Lage versetzen, ihr AsLo-Konzept u
 
 ::: {.callout-important appearance="simple" title="Formalia" icon="false"}
 -   maximal 3000 Worte / \~ 9 Seiten
--   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum . 23.55 Uhr als:
+-   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum 30.09.2024 um 23.55 Uhr als:
     - PDF: *Name_Name_Name_3.pdf*
     - Markdown: *Name_Name_Name_3.zip*
     

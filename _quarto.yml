@@ -37,6 +37,7 @@ website:
         contents:
           - index.qmd
           - unit00/unit00-02-stupruef.qmd
+          - unit99/pruefung.qmd
           
       - text: "---"   
       - section: "Ausserschulische Lernorte"

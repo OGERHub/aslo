@@ -4,22 +4,89 @@ title-block-banner: ../images/publish-header.png
 title-block-banner-color: black
 
 toc: true
-format: sketchy-html
+
 ---
+
 # Inhalte veröffentlichen mit Markdown und Quarto
+
+Quarto ist ein Open-Source-Tool, das die Erstellung und Veröffentlichung von wissenschaftlichen und technischen Dokumenten in nahezu allen Formaten wie HTML, PDF, Word und anderen ermöglicht. Die Integration von Code, Diagrammen und Formeln in Dokumente ist mühelos.  Quarto ist ideal für Hausarbeiten, da es flexible Formatierung und einfache Konvertierung zwischen verschiedenen Dateitypen bietet. Es ermöglicht auch das Einfügen von Literaturangaben und Zitaten. Insgesamt das derzeit beste Produktionswerkzeug für Texte und Medien.
+
+
+- [Quarto Einführungsvideo](https://www.youtube.com/watch?v=FBYcVThIuFc&ab_channel=Dr.BenjaminSchlegel)
+- [Quarto Homepage](https://quarto.org/)
+- [Quarto Get Started](https://quarto.org/docs/get-started/)
+- [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)
+
+## Offline Editor RStudio
+
+RStudio ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.
 
 ## Online Editoren
 
-
- 
-
- 
-
-
-| [editor]{.highlight}  | platform |
-|--------|--------|
-| [StackIt](https://stackedit.io/){.circle}  | [app]{.strike}    |
-| [Dillinger](https://dillinger.io/)   | [app]{.cross}   |
-
+| [editor]{.highlight}                      | platform       |
+|-------------------------------------------|----------------|
+| [StackIt](https://stackedit.io/){.circle} | [app]{.strike} |
+| [Dillinger](https://dillinger.io/)        | [app]{.cross}  |
 
 : Fruit prices {.striped .hover .warning}
+
+
+## Template
+
+Kopieren Sie dieses Template beginnend bei den drei bindestrichen bis zum ende und speichern Sie es als eine Datei unter z.B. dem Namen `AsLo_Burning-Fplace.qmd`. mit sowohl den Online Editoren als auch z.B. Rstudio als Offline Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen insbesondere das einbetten von Abbildungen und Grafiken nutzen Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html).
+
+```
+---
+title: "Praxisbeitrag: Entsiegelung und urbane Biodiversität – Eine Feldstudie für einen Oberstufenkurs in Marburg"
+author: "Dein Name"
+date: "Abgabedatum"
+format: pdf
+---
+
+## 1. Einleitung und Motivation
+
+Städtische Hitzeinseln und Biodiversitätsverlust sind drängende Probleme, die durch zunehmende Flächenversiegelung in urbanen Gebieten verstärkt werden (IPCC 2099). \[...\]
+Dieser Beitrag skizziert eine Unterrichtssequenz für einen Oberstufenkurs, der das Bewusstsein für die Auswirkungen von Entsiegelungsmaßnahmen in Marburg schärfen und praktisches Wissen vermitteln soll.
+
+## 2. Zielsetzung
+
+Das Hauptziel dieser Einheit ist es, Schüler/innen praktische Einblicke in die positiven Effekte von Entsiegelungs- und Begrünungsprojekten auf das urbane Mikroklima und die Biodiversität zu geben. Die Schüler/innen sollen:
+
+- Ein Verständnis für die Notwendigkeit und die Methoden der Entsiegelung entwickeln.
+- Die Bedeutung von urbaner Grünfläche für die Biodiversität und das Wohlbefinden der Stadtbevölkerung erkennen.
+- Fähigkeiten in der Identifikation, Bewertung und Planung von Entsiegelungsprojekten erwerben.
+
+## 3. Wissenschaftliche Grundlage
+
+Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).
+
+## 4. Vorbereitung des außerschulischen Lernortes
+
+Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsiegelungsmaßnahmen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass \[...\].
+
+Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem \[...\] (siehe Material M1).
+
+## 5. Gestaltung des außerschulischen Lernens
+
+Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche \[...\]. Aktivitäten umfassen:
+
+- Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. \[...\]
+
+## 6. Nachbereitung des außerschulischen Lernortes
+
+Die Ergebnisse des Lernortes sollen schließlich ausgewertet werden. \[...\] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu \[...\] (siehe Material M4).
+
+## 7. Lernerfolg der Teilnehmenden
+
+Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in \[...\] erreicht werden.
+
+## Literatur
+
+1. IPCC 2099, Report on a past that was a failure.
+2. Hinz und Kunz 1900, Biodiversität und Albedo ein ungleiches Paar, Journal of unpublished findings 1.
+3. Pat und Patachon 2000, Hitzeinseln und Grundwasser zwei ungleiche Zwillinge, Journal of Applied Nonsense 2/12.
+
+
+
+```
+

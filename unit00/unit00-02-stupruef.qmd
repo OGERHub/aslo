@@ -11,17 +11,17 @@ Die Entwicklung und Durchführung einer außerschulischen Lerneinheit findet in 
 
 ### Studienleistung
 
-Die Studienleistung besteht:
+Die Studienleistung besteht aus:
 
-1. aus der Vorstellung der Konzeption der außerschulischen Lerneinheit, 
-2. der Teilnahme an der Präsentation von mindestens 5 anderen AsLos und Erstellung  jeweils eines kritisch reflexiven Reviews (Lerntagebuch für diese 5 AsLos) 
-3. aus der Durchführung der eigenen Lerneinheit\ 
+1.  der Vorstellung der Konzeption der eigenen außerschulischen Lerneinheit,
+2.  der Teilnahme an der Präsentation von mindestens 4 anderen AsLo-Terminen **und** Erstellung jeweils eines kritisch-reflexiven Reviews (Lerntagebuch) für diese 4 AsLos,
+3.  der Durchführung des eigenen AsLo-Termin
 
-Entwurf, Review und Durchführung finden als Gruppenleistung statt, die Teilnahme an den anderen Konzeptpräsentationen ist individuell möglich.
+Der Entwurf und Durchführung finden als Gruppenleistung statt, die Teilnahme an den anderen Konzeptpräsentationen und das Lerntagebuch sind individuell zu erbringen.
 
 ### Benotete Prüfungsleistung
 
-Die benotete Prüfungsleistung ist ein Online Artikel angelehnt an die beiträge der Zeitschrift [*Geographie heute*](https://www.friedrich-verlag.de/shop/sekundarstufe/erdkunde/fachzeitschriften/geographie-heute). 
+Die benotete Prüfungsleistung ist ein Online Artikel angelehnt an die beiträge der Zeitschrift [*Geographie heute*](https://www.friedrich-verlag.de/shop/sekundarstufe/erdkunde/fachzeitschriften/geographie-heute).
 
 Bei der Erstellung ist sowohl in der inhaltlichen Struktur als auch im Layout des eigenen Textes an diese [Vorlage](../templates/journals-examples-default.qmd) zu benutzen. Die Abfabe erfolgt als Quarto-Markdown-Datei einzureichen.
 
@@ -29,8 +29,7 @@ Pro Gruppe wird ein Beitrag abgegeben.
 
 Der gesamte Beitrag ohne Anhang soll ca 3.000 Wörter (+/-10%) umfassen und vollständige Literaturquellen enthalten. Aussagen müssen generell mit entsprechender Literatur belastbar belegt werden. Die Erfahrungen und Rückmeldungen aus den Übungen und der praktischen Erprobung sollen in die Erstellung des Beitrags einfließen. Der Beitrag muss eine Sachanalyse und eine didaktisch-methodische Analyse sowie die zu fördernden, zentralen Kompetenzen beinhalten. Der Anhang umfasst alle verwendeten Medien, sowie Screenshots digitaler Anwendungen und Lösungsvorschläge, die im Rahmen des Konzepts entwickelt wurden. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen.
 
-Der fertige Artikel ist als QMD-Dokument bis spätestens::
-**xx.xx.2024** um **23:55 Uhr** in den entsprechenden Abgabe-Ordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?) hochzuladen und in folgender Form zu benennen:
+Der fertige Artikel ist als QMD-Dokument bis spätestens:: **xx.xx.2024** um **23:55 Uhr** in den entsprechenden Abgabe-Ordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?) hochzuladen und in folgender Form zu benennen:
 
 *Aslo_Name_Name_Name.pdf* (Bsp.: Aslo_Hinz_Kunz_Meier.qmd) <br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
 

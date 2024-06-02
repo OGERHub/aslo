@@ -21,17 +21,42 @@ Der Entwurf und Durchführung finden als Gruppenleistung statt, die Teilnahme an
 
 ### Benotete Prüfungsleistung
 
-Die benotete Prüfungsleistung ist ein Online Artikel angelehnt an die beiträge der Zeitschrift [*Geographie heute*](https://www.friedrich-verlag.de/shop/sekundarstufe/erdkunde/fachzeitschriften/geographie-heute).
+Im Rahmen der Prüfungsleistung sollen Sie Ihren AsLo für einen Oberstufenkurs nutzbar machen. Dazu sollen Sie nicht die Durchführung Ihres AsLo im Rahmen des Seminars verschriftlichen, sondern den Lernort auf der Grundlage Ihrer Seminarerfahrungen für den schulischen Einsatz in der Oberstufe mit entsprechender Vor- und Nachbereitung konzipieren. Bitte bedenken Sie auch bei der Umsetzung für die Schule, dass es zu den Zielen von AsLo gehört, klare Bildungsziele für außerschulische Lernorte zu entwickeln, d.h. Ziele, die nicht ebenso gut oder besser im Klassenzimmer erreicht werden können, was zwingend die Fähigkeit erfordert, geeignete Lernorte zu identifizieren und die Lernenden zu aktivieren. Die Themenwahl sollte die eigenen Stärken und Interessen berücksichtigen. 
 
-Bei der Erstellung ist sowohl in der inhaltlichen Struktur als auch im Layout des eigenen Textes an diese [Vorlage](../templates/journals-examples-default.qmd) zu benutzen. Die Abfabe erfolgt als Quarto-Markdown-Datei einzureichen.
+Sie können Ihren Beitrag entweder als Word-Dokument oder als Markdown-Dokument einreichen (in beiden Fällen bitte im Ilias-Ordner). Wenn Sie Ihren Beitrag in Markdown einreichen, werden wir ihn auf dieser Homepage veröffentlichen, um eine konkrete Nutzung zu ermöglichen. Unter [Ressourcen](../unit02/unit02-02.qmd) finden Sie eine Vorlage, die Sie verwenden können, wenn Ihr Beitrag veröffentlicht werden soll und Sie gleichzeitig Ihre digitalen Kompetenzen weiterentwickeln möchten.
 
-Pro Gruppe wird ein Beitrag abgegeben.
+## Der Praxisbeitrag
+
+
+Der Praxisbeitrag soll die Lehrkräfte in die Lage versetzen, ihr AsLo-Konzept unter den gegebenen räumlichen Bedingungen möglichst reibungslos in die schulische Praxis umzusetzen. Er soll wie das Exposé die Motivation, die Fragestellung und die Ziele auf der Basis des aktuellen Forschungsstandes und der vor Ort vorhandenen Ressourcen darstellen. Die konkrete Umsetzung des außerschulischen Lernortes einschließlich der notwendigen Vor- und Nachbereitung ist für einen Oberstufenkurs zu konzipieren und mit unterstützenden Materialien zu versehen. Dazu sind die konkreten Lernorte in Marburg zu benennen und die Materialien an die örtlichen Gegebenheiten anzupassen. Digitale Materialien können verlinkt werden. Im Text sollte auf das Material verwiesen werden, um zu verdeutlichen, wie das Material eingesetzt werden soll. Achten Sie bei der Konzeption Ihres Lernortes auf eine angemessene Aktivierung der Schüler*innen.
 
 Der gesamte Beitrag ohne Anhang soll ca 3.000 Wörter (+/-10%) umfassen und vollständige Literaturquellen enthalten. Aussagen müssen generell mit entsprechender Literatur belastbar belegt werden. Die Erfahrungen und Rückmeldungen aus den Übungen und der praktischen Erprobung sollen in die Erstellung des Beitrags einfließen. Der Beitrag muss eine Sachanalyse und eine didaktisch-methodische Analyse sowie die zu fördernden, zentralen Kompetenzen beinhalten. Der Anhang umfasst alle verwendeten Medien, sowie Screenshots digitaler Anwendungen und Lösungsvorschläge, die im Rahmen des Konzepts entwickelt wurden. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen. Wenn gewünscht erfolgt die Bewertung als Gruppenleistung, andernfalls ist von jeder Person ein eigener vollständiger Artikel einzureichen.
 
-Der fertige Artikel ist als PDF/QMD-Dokument bis spätestens:: **30.09.2024** um **23:55 Uhr** in den entsprechenden Abgabe-Ordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?) hochzuladen und in folgender Form zu benennen:
 
-*Aslo_Name_Name_Name.pdf* (Bsp.: Aslo_Hinz_Kunz_Meier.<pdf><qmd><zip>) <br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
+::: {.callout-important appearance="simple" title="Formalia" icon="false"}
+-   maximal 3000 Worte (+/-10%)
+-   Struktur des [Template](../unit02/unit02-03.qmd)
+-   Erstellung als Quarto-Markdown 
+-   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum 30.09.2024 um 23.55 Uhr als:
+    - Markdown: *Name_Name_Name.zip*
+    
+     Die Quarto- Markdown-Datei besteht in der Regel aus der Markdown-Datei und den eingebetteten Grafiken, die sinnvollerweise in einem Ordner namens `images` gespeichert werden. Der Ordner und die QMD-Datei müssen dann gezippt als Archiv eingereicht werden. 
+:::
+
+## Ressourcen
+
+Sie finden unter dem Menupunkt [Ressourcen->Template](../unit02/unit02-03.qmd) eine Strukturvorlage für Ihre Arbeit. Unter dem Menupunkt [Ressourcen->Quarto Markdown](../unit02/unit02-02.qmd) finden Sie technische Hilfe für die Erstellung von Markdown Dokumenten.
+
+
+
+
+Pro Gruppe wird ein Beitrag abgegeben.
+
+
+
+Der fertige Artikel ist als QMD-Dokument bis spätestens:: **30.09.2024** um **23:55 Uhr** in den entsprechenden Abgabe-Ordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?) hochzuladen und in folgender Form zu benennen:
+
+*Aslo_Name_Name_Name.pdf* (Bsp.: Aslo_Hinz_Kunz_Meier.qmd<zip>) <br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
 
 ### Abgaben
 

@@ -61,3 +61,7 @@ Der fertige Artikel ist als QMD-Dokument bis spätestens:: **30.09.2024** um **2
 ### Abgaben
 
 Während des Kurses werden verschiedene Übungen Konzeptentwicklung, -entwurf und Review (Studienleistung) zu bearbeiten sein. Diese Inhalte und Übungen des Theorie- und Praxisteils sollen Sie auf die Prüfungsaufgabe vorbereiten. <br> Abgaben zu den Übungen sind daher konsekutiv und zwingend fristgerecht bis zum Folgetermin im dafür vorgesehenen Bereich auf ILIAS hochzuladen. <br>
+
+## Leitfaden zur Bewertung der Prüfungsleistung
+
+<iframe style="border:none" width="950" height="1280" src="https://docs.google.com/document/d/e/2PACX-1vQzz7W33uJOsuUh7fJ2wjliBY764-Edd71T3d2tGeuh5dJ8zZGE-8tgOTI9Adf4Jw/pub?embedded=true"></iframe>

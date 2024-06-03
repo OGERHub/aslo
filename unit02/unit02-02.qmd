@@ -62,8 +62,8 @@ Auf der GitHub Seite [awesome-markdown-editors](https://github.com/mundimark/awe
 
 # Template
 
-Kopieren Sie nachfolgendes [Template](unit02-03.qmd) beginnend mit den drei Bindestrichen bis zum Ende und fügen Sie es in das Editierfenster einer der Markdown-Editoren ein, speichern Sie es
-dann als Datei z.B. unter dem Namen `Name_Name_Name_3.qmd` ab. Mit den Online-Editoren und z.B. Rstudio als Offline-Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen, insbesondere das Einbetten von Bildern und Grafiken, verwenden Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html).
+Kopieren Sie nachfolgendes [Template](unit02-03.qmd) beginnend mit den drei Bindestrichen bis zum Ende und fügen Sie es in das Editierfenster des Markdown-Editors Ihrer Wahl ein, speichern Sie es
+dann als Datei z.B. unter dem Namen `Aslo_2024_Name_Name_Name.qmd` ab. Mit den Online-Editoren und z.B. Rstudio als Offline-Editor können Sie nun die Inhalte entsprechend bearbeiten und das Ergebnis direkt visuell sehen. Für weitere Formatierungen, insbesonderedie über die Menüunterstützung des verwendeten Editors hinausgehen, verwenden Sie bitte [Quarto Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html). Die Verwendung von Markdown ist besonders leistungsfähig wenn Sie sich einen [GitHub Account](https://docs.github.com/de/get-started/start-your-journey/creating-an-account-on-github) zulegen. Dann können Sie ihren Editor direkt mit der GitHub-Cloud verbinden und dort kollaborativ arbeiten.
 
 ```Markdown
 ---

@@ -9,6 +9,7 @@ website:
   title: "Außerschulische Lernorte"
   site-url: https://OGERhub.github.io/aslo
   repo-url: https://github.com/OGERhub/aslo
+  repo-actions: [edit]
   search: 
     location: navbar
     type: textbox

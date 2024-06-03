@@ -43,7 +43,7 @@ Der gesamte Beitrag ohne Anhang soll ca 3.000 Wörter (+/-10%) umfassen und voll
 
 ::: {.callout-important appearance="simple" title="Formalia" icon="false"}
 -   3000 Worte (+/-20%)
--   [Vorlage zur Erstellung als Quarto-Markdown ](../unit02/unit02-03.qmd)
+-   Erstellung als [Quarto-Markdown ](../unit02/unit02-03.qmd)
 -   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum **30.09.2024 um 23.55 Uhr** als:
 -   gezipptes Markdown + Abbildungen etc. mit der Benennung: **Aslo_2024_Name_Name_Name.zip**
 -   Eine Abgabe je Gruppe

@@ -45,14 +45,13 @@ Der gesamte Beitrag ohne Anhang soll ca 3.000 Wörter (+/-10%) umfassen und voll
 -   maximal 3000 Worte (+/-10%)
 -   [Vorlage zur Erstellung als Quarto-Markdown ](../unit02/unit02-03.qmd)
 -   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum **30.09.2024 um 23.55 Uhr** als:
--   gezipptes Markdown + abbildungen etc. mit der Benennung: *Aslo_2024_Name_Name_Name.zip*
--   Pro Gruppe ein Beitrag
+-   gezipptes Markdown + Abbildungen etc. mit der Benennung: **Aslo_2024_Name_Name_Name.zip**
+-   Eine Abgabe je Gruppe
 
 
 :::
 
 
-Anmerkung: Die Quarto- Markdown-Datei besteht in der Regel aus der Markdown-Datei und den eingebetteten Grafiken, die sinnvollerweise in einem Ordner namens `images` gespeichert werden. Der Ordner und die QMD-Datei müssen dann gezippt als Archiv eingereicht werden. 
 
 ## Ressourcen
 

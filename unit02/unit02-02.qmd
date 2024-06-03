@@ -95,6 +95,9 @@ Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die
 Aus den wissenschaftliches Grundlagen zu den Effekten von Entsieglungs- und Begrünungsprojekten auf das urbane Mikroklima geht hervor, dass folgende Prozesse entscheidend sind. [...]
 Damit diese Prozesse den Schüler/innen zugänglich werden, sollen sie am Lernort durch praktische Tätigkeit [...]. 
 
+![Einbinden von Bild1](images/bild1.png)
+![Einbinden von Bild2](images/bild2.png)
+
 ## 5. Vorbereitung des außerschulischen Lernortes
 
 Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsiegelungsmaßnahmen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass [...].
@@ -126,4 +129,13 @@ Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Vers
 
 ```
 
+## Hinweis
 
+::: {.callout-note appearance="simple" title="Hinweis" icon="false"}
+
+Die Quarto- Markdown-Datei besteht in der Regel aus der Markdown-Datei und den eingebetteten Grafiken, die sinnvollerweise z.B. in einem Unterordner namens */images* gespeichert werden:
+
+![Beispielhafte Struktur eines zu zippenden Abgabeordners](../images/abgabe.png){width=75%} 
+
+Die *Aslo_2024_Name_Name_Name.QMD*-Datei und der Unterordner der die Grafiken, Bilder etc. enthält, müssen als Archiv gezippt eingereicht werden. 
+:::

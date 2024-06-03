@@ -34,7 +34,7 @@ In `RStudio` sieht die Seite je nachdem ob Sie `format: pdf` oder `format: html 
 
 :::
 
-Alsternativ ist zum Beispiel [GhostWriter](https://invent.kde.org/office/ghostwriter) ein einfacher und benutzerfreundlicher Offline-Markdown-Editor. Er verwendet einen doppelten Bildschirm: der linke Bildschirm ist der Editor und der rechte Bildschirm zeigt die gerenderte Datei. Er unterstützt viele verschiedene Markdown-Dialekte, z.B. GitHub, Sundown, pandoc etc. Das rechte Bild zeigt die gerenderte Datei mit der ausgewählten Syntax.
+Alternativ ist zum Beispiel [GhostWriter](https://invent.kde.org/office/ghostwriter) ein einfacher und benutzerfreundlicher Offline-Markdown-Editor. Er verwendet einen doppelten Bildschirm: der linke Bildschirm ist der Editor und der rechte Bildschirm zeigt die gerenderte Datei. Er unterstützt viele verschiedene Markdown-Dialekte, z.B. GitHub, Sundown, pandoc etc..
 
 
 ## Online Editoren

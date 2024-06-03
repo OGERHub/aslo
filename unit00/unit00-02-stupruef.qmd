@@ -27,7 +27,7 @@ Während des Kurses werden verschiedene Übungen Konzeptentwicklung, -entwurf un
 
 Im Rahmen der Prüfungsleistung sollen Sie Ihren AsLo für einen Oberstufenkurs nutzbar machen. Dazu sollen Sie nicht die Durchführung Ihres AsLo im Rahmen des Seminars verschriftlichen, sondern den Lernort auf der Grundlage Ihrer Seminarerfahrungen für den schulischen Einsatz in der Oberstufe mit entsprechender Vor- und Nachbereitung konzipieren. Bitte bedenken Sie auch bei der Umsetzung für die Schule, dass es zu den Zielen von AsLo gehört, klare Bildungsziele für außerschulische Lernorte zu entwickeln, d.h. Ziele, die nicht ebenso gut oder besser im Klassenzimmer erreicht werden können, was zwingend die Fähigkeit erfordert, geeignete Lernorte zu identifizieren und die Lernenden zu aktivieren. Die Themenwahl sollte die eigenen Stärken und Interessen berücksichtigen. 
 
-Wir möchten dass Sie Ihren Beitragf als Markdown-Dokument einreichen (bitte im Ilias-Ordner). Sie können daraus ein nahezu beliebiges Dokumentformat erzeugen. Wir möchten Ihren Beitrag auf dieser Homepage veröffentlichen, um eine reale Nutzung für Marburger Lehrkräfte zu ermöglichen. 
+Bitte reichen Sie Ihren Beitrag als Markdown-Dokument ein (bitte im Ilias-Ordner). Das Markdown-Format (in unserem Fall Quarto-Markdown) ist die Grundlage, um daraus praktisch alle möglichen Dokumentformate zu erzeugen. Um den Marburger Lehrenden eine echte Nutzung zu ermöglichen, würden wir Ihren Beitrag gerne auf dieser Homepage veröffentlichen, die Markdown-Datei erlaubt dies ohne weitere Formatierung. 
 
 ::: {.callout-tip appearance="simple" icon="false"}
 

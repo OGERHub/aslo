@@ -43,13 +43,16 @@ Der gesamte Beitrag ohne Anhang soll ca 3.000 Wörter (+/-10%) umfassen und voll
 
 ::: {.callout-important appearance="simple" title="Formalia" icon="false"}
 -   maximal 3000 Worte (+/-10%)
--   Struktur des [Template](../unit02/unit02-03.qmd)
--   Erstellung als Quarto-Markdown 
--   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum 30.09.2024 um 23.55 Uhr als:
-    - Markdown: *Name_Name_Name.zip*
-    
-     Die Quarto- Markdown-Datei besteht in der Regel aus der Markdown-Datei und den eingebetteten Grafiken, die sinnvollerweise in einem Ordner namens `images` gespeichert werden. Der Ordner und die QMD-Datei müssen dann gezippt als Archiv eingereicht werden. 
+-   [Vorlage zur Erstellung als Quarto-Markdown ](../unit02/unit02-03.qmd)
+-   Upload in Ihren PG-Ordner auf Marvin-Ilias bis zum **30.09.2024 um 23.55 Uhr** als:
+-   gezipptes Markdown + abbildungen etc. mit der Benennung: *Aslo_2024_Name_Name_Name.zip*
+-   Pro Gruppe ein Beitrag
+
+
 :::
+
+
+Anmerkung: Die Quarto- Markdown-Datei besteht in der Regel aus der Markdown-Datei und den eingebetteten Grafiken, die sinnvollerweise in einem Ordner namens `images` gespeichert werden. Der Ordner und die QMD-Datei müssen dann gezippt als Archiv eingereicht werden. 
 
 ## Ressourcen
 
@@ -58,13 +61,7 @@ Sie finden unter dem Menupunkt [Ressourcen->Template](../unit02/unit02-03.qmd) e
 
 
 
-Pro Gruppe wird ein Beitrag abgegeben.
 
-
-
-Der fertige Artikel ist als QMD-Dokument bis spätestens:: **30.09.2024** um **23:55 Uhr** in den entsprechenden Abgabe-Ordner auf [ILIAS](https://ilias.uni-marburg.de/ilias.php?) hochzuladen und in folgender Form zu benennen:
-
-*Aslo_Name_Name_Name.pdf* (Bsp.: Aslo_Hinz_Kunz_Meier.qmd<zip>) <br> <br> Genaue Arbeitsanweisungen zu den Übungsaufgaben finden Sie hier im Lernmodul. <br>
 
 
 

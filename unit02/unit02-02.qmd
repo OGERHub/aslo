@@ -39,7 +39,7 @@ Alternativ ist zum Beispiel [GhostWriter](https://invent.kde.org/office/ghostwri
 
 ## Online Editoren
 
-Die beiden gängigsten Browserbasierten MArkdown-Editoren sind [StackedIt](https://stackedit.io/)  und [Dillinger](https://dillinger.io/). Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.   
+Die beiden gängigsten Browserbasierten Markdown-Editoren sind [StackedIt](https://stackedit.io/)  und [Dillinger](https://dillinger.io/). Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.   
 
 
 Das schaut dann in `Stackedit.io` bzw. `dillinger.io` wie folgt aus:

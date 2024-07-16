@@ -34,13 +34,28 @@ Das Hauptziel dieser Einheit ist es, Studierenden praktische Einblicke in die po
 
 Die Einheit basiert auf Studien, die die Kühlungseffekte von Grünflächen, die Erhöhung der Albedo durch helle und durchlässige Oberflächen und die positiven Auswirkungen auf die lokale Flora und Fauna dokumentieren (Hinz und Kunz 1900). Entsiegelung trägt zur Reduzierung der Hitzeinseln bei und fördert die Grundwasserneubildung (Pat und Patachon 2000).
 
-### 4. Lernorte und aktivierende Elemente
+### 4. Didaktische & methodische Analyse
+Aus den wissenschaftliches Grundlagen zu den Effekten von Entsieglungs- und Begrünungsprojekten auf das urbane Mikroklima geht hervor, dass folgende Prozesse entscheidend sind. [...]
+Damit diese Prozesse den Schüler/innen zugänglich werden, sollen sie am Lernort durch praktische Tätigkeit [...]. 
 
-Die Studierenden werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche \[...\]. Aktivitäten umfassen:
+![Einbinden von Bild1](images/bild1.png)
+![Einbinden von Bild2](images/bild2.png)
 
-Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. \[...\]
+### 5. Vorbereitung außerschulischer Lernort
+Vorbereitend auf die praktische Übung im Gelände, sollen die Schüler/innen den Einfluss von Entsiegelungsmaßnahmen auf das Mikroklima und die Biodiversität theoretisch erfassen. Zentral ist dabei, dass [...].
 
-### 5. Lernerfolg der Teilnehmenden
+Die Schüler/innen sollen auch das methodische Vorgehen vorbereiten, indem [...] (siehe Material M1).
+
+### 6. Gestaltung des außerschulishcen Lernortes
+
+Die Schüler/innen werden vor Ort Beispiele für erfolgreiche Entsiegelungsprojekte in Marburg untersuchen, wie die Gestaltung um die Elisabethkirche [...]. Aktivitäten umfassen:
+
+- Praktische Übungen zur Bewertung des Mikroklimas und der Biodiversität vor und nach der Entsiegelung. [...]
+
+### 7. Nachbereitung des außerschulischen Lernortes
+Die Ergebnisse des Lernortes sollen schließlich ausgewertet werden. [...] Daran anschließend soll der Lernort hinsichtlich seiner Anpassung an den Klimawandel bewertet werden. Dazu [...] (siehe Material M4).
+
+### 8. Lernerfolg der Teilnehmenden
 
 Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Verständnis der thematischen Inhalte und die Fähigkeit, eigene Lösungsansätze für Entsiegelungsmaßnahmen zu entwickeln, gemessen. Es soll ein Wissenszuwachs in \[...\] erreicht werden.
 

@@ -51,6 +51,6 @@ Der Erfolg der Einheit wird durch die aktive Teilnahme an Diskussionen, das Vers
 3.  [Pat und Patachon 2000, Hitzeinseln und Grundwasser zwei ungleiche Zwillinge System, Journal of Applied Nonsense 2/12]{.smallcaps}
 
 ::: {.callout-important appearance="simple" title="Formalia" icon="false"}
--   maximal 1000 Worte / \~ 3 Seiten
--   Upload in Ihre PG auf Marvin-Ilias bis zum 14.04. 23.55 Uhr als PDF: *Name_Name_Name_3.pdf*
+-   maximal 3000 Worte / \~ 9 Seiten
+-   Upload in Ihre PG auf Marvin-Ilias bis zum 30.09. 23.55 Uhr als PDF: *Name_Name_Name_3.pdf*
 :::

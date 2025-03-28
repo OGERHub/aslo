@@ -1,7 +1,7 @@
 ---
 title: "Außerschulische Lernorte"
-subtitle: "Sommersemester 2024"
-author: <P align="right"> Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach</P>
+subtitle: "Sommersemester 2025"
+author: <P align="right"> Rieke Ammoneit, Chris Reudenbach</P>
 #title-slide-attributes: 
 #  data-background-image: ../images/title-uni2.png
  # data-background-size: contain
@@ -23,17 +23,19 @@ lightbox: true
 
 Kurs besteht aus:
 
--   drei Blocktagen
+-   einem Blocktag zu Beginn (25.04.2025)
 
 -   Semesterbegleitender Veranstaltung
+
+-   einem Blocktag am Ende
 
 ::: r-stack
 ::: {data-id="box1" style="background: #61AA61; text-align: left; width: 750px; height: 180px; border-square: 200px; padding: 15px 5px 5px 35px; border-radius: 6px"}
 | |  |  |
 |------|------|------|
-| Dienstag:     | 10-12 Uhr     |  Dörfel    |
-| Donnerstag:     | 12-14 Uhr     | Ammoneit     |
-| Donnerstag:     | 14-16 Uhr     |  Reudenbach    |
+
+| Donnerstag:     | 12-14 Uhr     | Reudenbach     |
+| Donnerstag:     | 14-16 Uhr     |  Ammoneit    |
 :::
 :::
 
@@ -42,29 +44,40 @@ Kurs besteht aus:
 ### Studienleistung
 
 ::: {.callout-warning  appearance="simple"  icon=false}
-- Entwicklung und Durchführung eines Außerschulischen Lernorts für Ihre Kommiliton\*innen (60 Minuten) in Dreiergruppen
+Planung und Durchführung einer Exkursion auf universitärem Niveau zum gegebenen Thema  (60 Minuten + Reflexionsgespräch) in Dreiergruppen
 
-- Exkursionstagebuch, das Sie während der anderen Exkursionen führen
+
 :::
 
 ### Prüfungsleistung
 
 ::: {.callout-warning  appearance="simple"  icon=false}
-- Anpassung des Konzeptes für die Schule
+Portfolio bestehend aus:
 
-- Ausarbeitung und Veröffentlichung als Internetauftritt
+-   Eingangsreflexion (5%, Einzelleistung)
+-   Projektplan (2-teilig: Planung Exkursion, Erarbeitung Aslo) (5 %, Gruppenleistung)
+-   Lerntagebuch von mindestens vier Exkursionen (10%, Einzelleistung)
+-   **Ausarbeitung eines Aslos auf Oberstufenniveau auf Poster (15 %, Gruppenleistung)**
+-   Reflexion der Ergebnisse der Posterpräsentation (5 %, Gruppenleistung)
+-   **Flyer auf dem der ausgearbeitete AsLo durchführbar präsentiert wird (40%, Gruppenleistung)**
+-   **Gesamtreflexion (20%, Einzelleistung)**
+
 :::
 
-## Die Blocktage
+## Der Einführungsblocktag
 
-![](../images/Blocktermin_Zeiten.png){.lightbox width="75%" fig-align="center"}
+-   Der Blocktag morgen dient der thematischen Einführung. 
+-   Wir starten um 09:00 Uhr in der ehemaligen Geobibliothek.
+-   Von 13:00 bis 14:00 Uhr ist Mittagspause
+-   Wir enden spätestens um 17:00 Uhr
+
 
 
 ## Einverständniserklärung
 ::: {.callout-warning icon=false appearance="simple" }
 Bitte richten Sie nun ein Konto bei sich bei [Particifi](https://ars.particify.de/login) ein.
 
-Bitte geben sie uns zusätzlich auf ILIAS die Zustimmung, dass wir die Daten zu wissenschaftlichen Zwecken nutzen dürfen. Diese ist natürlich freiwillig aber wir begrüßen es ausdrücklich dass Sie uns bei der wissenschaftlichen Begleitung des Kurses unterstützen. 
+Bitte geben sie uns zusätzlich auf ILIAS die Zustimmung, dass wir die Daten zu wissenschaftlichen Zwecken nutzen dürfen. Diese ist natürlich freiwillig aber wir begrüßen es ausdrücklich, dass Sie uns bei der wissenschaftlichen Begleitung des Kurses unterstützen. 
 
 Bitte beantworten Sie die Fragen im folgendem *praticifi*:
 :::
@@ -103,295 +116,12 @@ Tauschen Sie sich nun mit Ihren Sitznachbar\*innen, und den Kommiliton\*innen, d
 :::
 
 
-## Übersicht über die Szenarien
+## Eingangsreflexion
 
-![](../images/img/Tag10.png)
 
-Melden Sie sich bitte bei Particifi an!
+## Zuteilung der Themen
 
+-   Bitte finden Sie sich nun in Dreierteams zusammen.
+-   Sie bekommen ein Thema und den dazugehörigen Termin zugelost. Sie können bis zum Ende der morgigen Veranstaltung bei Bedarf     Tauschpartner finden. Grundsätzlich gehen wir davon aus, dass Sie zu allen Terminen anwesend sein können und werden keinen        Tausch für Sie organisieren.
+-   Für jeden Thema finden Sie im Lernmodul Basisliteratur und Empfehlungen. Genauere Vorgaben folgen morgen. 
 
-## Wissenschaftliche Grundlagen
-
-Bearbeiten Sie die Aufgaben unter IPCC in Particifi.
-
-![](../images/img/Tag10.png)
-
-## Wissenschaftliche Grundlagen 1/4
-
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
-
-::: columns
-::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png){.lightbox width="75%" fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png)
-:::
-
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
-
--   Was bedeutet die Prozentzahl in Klammern in Sektion b)?
-
--   Was bedeuten die flächigen Einfärbungen in den Graphen?
-:::
-:::
-:::
-
-## Wissenschaftliche Grundlagen 2/4
-
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
-
-::: columns
-::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png){width="75%" fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png)
-:::
-
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   Welche Szenarien finden Sie in der Abbildung wieder?
-
--   Was bedeuten die flächigen Einfärbungen in den Graphen?
-
--   Haben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?
-
--   Was bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?
-:::
-:::
-:::
-## Wissenschaftliche Grundlagen 3/4
-
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
-<br>
-
-::: columns
-::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png){width="75%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png)
-:::
-
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
-
--   Wie warm wird es auf der Erde sein, wenn Sie 50 sind?
-
--   Was können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
-:::
-:::
-:::
-
-## Wissenschaftliche Grundlagen 4/4
-
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
-
-::: columns
-::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png){width="100%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png)
-:::
-
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   Was bedeutet die dargestellte Pfadentwicklung?
-
--   Was bedeutet diese Pfadentwicklung für die Bildungsarbeit?
-
--   Was bedeuten aktuelle politische Entwicklungen, konkret etwa die Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?
-
--   Auf welchem Pfad sehen Sie die Menschheit?
-:::
-:::
-:::
-## Lehrkraft in Zeiten unsicherer Zukünfte
-
-Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
-
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
-
--   Welche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?
-
--   Was motiviert Sie die neue Generationen auszubilden?
-
-
-::: 
-
-Machen Sie Notizen.
-
-## Resilienz
-
-Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, den Stress- und Schockwellen eines dramatischen, traumatischen und oft unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten, zu überleben und sich an sie anzupassen. Die Fähigkeit zum Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.
-
-## Resilienzdimensionen
-
--   Biologisch
-
--   Materiell
-
--   Sozial (einschließlich Kultur)
-
--   Kognitiv (Wissen und Verstehen)
-
--   Emotional
-
-^After Williamson, J. & Robinson, M. (2006). ‘ Psychosocial programs or programs aimed at general well-being?^
-
-
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-## Übung zur Reslienz im Zweierteam
-
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   In welcher Situationen sind Sie herausfordernd aus Ihren Routinen geraten und haben sich wieder stabilisiert?
-
--   Berichten Sie von einer Situation, die Ihnen im Gespräch mit Ihren Kommiliton\*innen nicht zu privat ist.
-
--   Was hat Ihnen dabei geholfen?
-:::
-
-## Übung zur persönlichen und gesellschaftlichen Resilienz
-
-
-Diskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.
-
-::: {.callout-tip  appearance="simple" title="Arbeitsauftrag" icon=false}
--   Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.
-::::
-
-
-## Vulnerabilität
-
-![](../images/img/Tag15.png){fig-align="center"}
-
-Das Ausmaß, in dem ein Individuum, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem nicht in der Lage ist, mit den Stress- und Schockwellen eines dramatischen, traumatischen und oft unerwarteten Ereignisses oder einer unerwarteten Entwicklung umzugehen.
-
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-## Klimawandelvulnerabilität
-
--   Ein Gefühl der Wehrlosigkeit
-
--   Körperlicher Zusammenbruch
-
--   Kultureller Zusammenbruch
-
--   Emotionale oder psychische Verletzung bzw. mangelnde Fähigkeit zum Coping
-
--   Zusammenbruch sozialer Strukturen und sozialer und ökologischer Prozesse
-
--   Unfähigkeit zur Adaption
-
--   Aggression und Konflikt
-
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-## Klimawandelresilienz
-
-Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und sich danach wieder aufzubauen. Merkmale der Resilienz:
-
--   Emotionale, psychologische und kulturelle Stabilität
-
--   Die Fähigkeit, positiv und hoffnungsvoll zu bleiben
-
--   Die Fähigkeit zur Anpassung und Transformation
-
--   Die Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.
-
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-## Resilienz vs. Vulnerabilität
-
-Der Grad der Resilienz und Vulnerabilität wird von der Art und dem Ausmaß der Klimabedrohung und dem Ausmaß abhängen, in dem Einzelpersonen, Gemeinschaften und Gesellschaften über die Zukunft nachgedacht und sich insbesondere auf den Umgang mit Schock und Unsicherheit vorbereitet haben.
-
-
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-## Institutionalisierung der Resilienz
-
-Fünf Handlungsprioritäten im Hyogo Framework for Action (HFA) Hyogo-Aktionsrahmen (HFA) 2005–2015: Aufbau der Widerstandsfähigkeit von Nationen und Gemeinschaften gegenüber Katastrophen
-
--   Die Reduzierung des Katastrophenrisikos zur nationalen und lokalen Priorität mit einer starken institutionellen Grundlage für die Umsetzung machen.
-
--   Katastrophenrisiken identifizieren, bewerten und überwachen und Frühwarnung verbessern.
-
--   Wissen, Innovation und Bildung auf allen Ebenen nutzen, um eine Kultur der Sicherheit und Widerstandsfähigkeit aufzubauen.
-
--   Zugrunde liegenden Risikofaktoren reduzieren.
-
--   Stärkung der Katastrophenvorsorge für eine wirksame Reaktion auf allen Ebenen.
-
-## Adaption 
-Zur Adaption gehört die Änderung der soziale und natürliche Umwelt, so dass die Auswirkungen
-der Gefahren des Klimawandels uns und unsere Lebensweise weniger stark treffen.
-Dazu gehört auch, positiven Aspekte des Klimawandels zu nutzen
-Es geht aber hauptächlich darum auf potenzielle Gefahr zu regaieren, indem wir unsere Anfälligkeit für reduzieren. 
-
-^Selby & Kagawa (2013)^
-
-## Strategien der Anpassung
-
-1.    Im Vorfeld Maßnahmen ergreifen, um Verluste zu vermeiden, zum Beispiel durch Baumaßnahmen
-Barrieren gegen den Anstieg des Meeresspiegels oder Aufforstung von Hängen, um Erdrutsche zu verhindern
-2.     Maßnahmen ergreifen, um Verluste zu reduzieren, beispielsweise durch dürreresistente Pflanzen bei Trockenheit
-3.     Verluste verteilen oder teilen, beispielsweise eine nationale Entlastungssteuer für Katstrophen einrichten
-4.    Die Art und Weise anpassen, wie eine Aktivität ausgeführt wird, beispielsweise das Mulchen von Erde um Wasserverlust reduzieren
-5.    Änderung des Standorts einer Tätigkeit, beispielsweise die Verlagerung der Landwirtschaft
-weg von steilen Berghängen und/oder dorthin, wo es eine sicherere Wasserquelle gibt
-6.  Wiederherstellung von Orten mit zweckdienlichem Schutz, beispielsweise Wiederaufbau einer heiligen Stätte an einem gefährlichen Ort mit Schutzmaßnahmen
-
-Inspiriert von: UNEP & UNFCCC, (2002). Information Kit zum Klimawandel, Informationsblatt zum Klimawandel 9.
-
-## Maladaption
-
-Fehlanpassungen (Maladaption) sind „Maßnahmen, die in erster Linie ergriffen werden, um die Verwundbarkeit gegenüber dem Klimawandel zu vermeiden oder zu verringern, die jedoch negative Auswirkungen auf andere Systeme, Sektoren oder soziale Gruppen haben oder deren Verwundbarkeit erhöhen“.
-
-^Barnett & O’Neill, 2013, S. 88.
-
-
-## Klimawandelbildung
-
-Bildung für:
-
-![Klimawandelbilung. Nach: UNEP, UNESCO 2011](../images/un4.png){fig-align="center"}
-
-
-## Resilienzbildung
-
-![Resilienzbildung](../images/resilienzhaus.png){fig-align="center"}
-
-
-
-Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen
-
-
-## Lehrkraft in Zeiten unsicherer Zukünfte
-
-Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
-
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
-
--   Welche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?
-
--   Was motiviert Sie die neue Generationen auszubilden?
-
-::: 
-
-::: {.callout-important  appearance="simple" title="Abgabe"}
-Formulieren Sie Ihre Notizen aus und laden Sie die Antworten bis 23:55 Uhr im Ilias-Ordner hoch.
-Bezeichnung: Nachname_1.pdf 
-Umfang:       beliebig
-Einzelabgabe für jeden Studierenden
-:::
-
-## Literatur
-Barnett, J., & O'Neill, S. J. (2013). Minimising the risk of maladaptation: a framework for analysis. Climate adaptation futures, 87-93.
-
-Deeb, A.  Et al. 2011. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners. UNEP.
-
-IPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001
-
-Pike,G . & Selby,D . (2011). In the Global Classroom.
-
-Selby, D., & Kagawa, F. (2013). Climate change in the classroom: UNESCO course for secondary teachers on climate change education for sustainable development.
-
-UNEP & UNFCCC, (2002). Information Kit zum Klimawandel,Informationsblatt zum Klimawandel 9.
-
-Williamson, J. & Robinson, M. (2006). Psychosocial programs or programs aimed at general well-being.

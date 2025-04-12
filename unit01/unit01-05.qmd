@@ -1,0 +1,31 @@
+---
+title: "Kompetenzmodell zur Bewertung"
+title-block-banner: ../images/learnjournal-header.png
+title-block-banner-color: black
+bibliography: unit01-01.bib
+comments: false
+lang: de
+
+---
+
+## Kompetenzmodell für außerschulische Lernorte auf der Grundlage der Raumbegriffe nach Wardenga
+
+
+Dieses Modell verknüpft die vier grundlegenden Raumkonzepte nach Wardenga mit zentralen Dimensionen für das Lernen an außerschulischen Lernorten zur Klimaresilienzbildung [@wardenga2002raeume]. Es versteht Raum nicht nur als physischen Ort, sondern als vielschichtige Lernstruktur, in der sich Erkenntnisprozesse mit wachsender Komplexität entfalten.
+
+Ein solcher Aufbau ermöglicht:
+- **differenziertes, niveaugerechtes Lernen** an außerschulischen Orten,
+- eine **Verknüpfung von Erfahrungslernen und wissenschaftlicher Bildung**,
+- und die Förderung einer **mündigen, handlungsfähigen raumbezogenen Urteilskraft**.
+
+Das Modell zeigt eine **progressive Entwicklung von Raumkompetenz** im geographischen Lernen außerhalb der Schule. Die **vier Raumverständnisse** bilden nicht nur didaktische Niveaustufen ab, sondern öffnen auch verschiedene Perspektiven auf einen Lernort – von der reinen Wahrnehmung über die funktionale Analyse bis zur kritischen Reflexion über gesellschaftliche Aushandlungsprozesse.
+
+
+| **Raumkonzept (Niveau)** | **Standort** | **Wissenschaftlichkeit** | **Lernziele** | **Aktivierung der Schüler:innen** | **Lokale Klimaanpassung** |
+|--------------------------|--------------|---------------------------|-----------------------------|-----------------------------------|
+| **1. Raum der Sinneswahrnehmung**  <br> *Beobachteter Ort als Einstieg* | Der Ort wird über Sinne erschlossen (sehen, fühlen, hören, riechen). Physischer Kontakt zum Raum steht im Vordergrund. | Erste Annäherung an geographische Phänomene, noch ohne systematische Modellbildung. | Erste Zugänge, Alltagsnähe, persönliche Betroffenheit stehen im Fokus. | Wahrnehmungsschärfung: Beobachten,  Fotografieren, subjektive Eindrücke dokumentieren. | Erste Wahrnehmung von z.B. Hitze, Trockenheit, Luftqualität – ohne Bewertung oder Lösungsorientierung.|
+| **2. Raum als Container**  <br> *Raum als abgeschlossene Einheit mit messbaren Eigenschaften* | Raum wird als klar begrenzter Ort verstanden, der analysierbare Merkmale (z. B. Temperatur, Versiegelung) aufweist. | Systematische Datenerhebung beginnt (z. B. Temperaturmessung, Vegetationsbestimmung). | Inhaltliche Bezüge zum Curriculum, der wird Raum als Untersuchungsobjekt verstanden. | Messen, Kartieren, Zuordnen: Schüler:innen erfassen Daten mit einfachen Methoden. | Klimaanpassung wird als bauliche oder technische Maßnahme sichtbar gemacht (z. B. Bäume, Entsiegelung, Gründach).|
+| **3. Raum als System von Lagebeziehungen**  <br> *Raum als funktional vernetztes Gefüge* | Lernort wird im Kontext seiner Beziehungen analysiert (z. B. Einfluss von Verkehr, Nachbarschaft, Wasserabfluss). | Anwendung wissenschaftlicher Modelle: Ursache-Wirkung, Wechselwirkungen, raumzeitliche Prozesse. | Verknüpfung von Ort, Prozess und Wirkung im Sinne komplexer Lernziele. | Analyse, Hypothesenbildung, Vergleiche mit Kartenmaterial, interaktive Stadtanalysen. | Anpassungsmaßnahmen werden funktional verstanden und bewertet (z. B. Schwammstadt, Begrünung, Verkehrsberuhigung).|
+| **4. Raum als Konstrukt**  <br> *Raum als soziales, politisches, kulturelles Produkt* | Raum wird als Ergebnis gesellschaftlicher Aushandlung und Konstruktion betrachtet (z. B. Nutzungskonflikte, Wahrnehmungen). | Kritisch-reflexive Auseinandersetzung: Raum als Deutungs- und Diskursraum, auch im wissenschaftlichen Kontext. | Fokus auf Klimawandelbildung, Partizipation, Gerechtigkeit. | Rollenspiele, Planspiele, partizipative Kartierungen, Entwicklung eigener tragfähiger Konzepte zur Umgestaltung. | Klimaanpassung wird als gesellschaftliche Herausforderung reflektiert: Wer profitiert? Wer ist verantwortlich? Welche gesellschaftlichen Spielräume sind vorhanden?|
+
+---

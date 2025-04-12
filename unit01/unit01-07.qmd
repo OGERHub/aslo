@@ -1,0 +1,442 @@
+
+---
+title: "WarmUp Klimaresilienz im urbanen Raum – Multiselect"
+format: 
+  html:
+    keep-html: true
+    theme: default
+    toc: true
+    toc-depth: 2
+lang: de
+---
+
+<!-- Stil -->
+<style>
+.quiz-box {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+.question {
+  margin: 10px 0;
+}
+button.answer {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1em;
+  text-align: left;
+  color: white;
+  background-color: #546e7a;
+}
+button.answer:hover {
+  filter: brightness(1.1);
+}
+.feedback {
+  font-weight: bold;
+  margin-top: 10px;
+}
+.reset-btn {
+  margin: 40px 0 20px 0;
+  padding: 10px 20px;
+  background: #f44336;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.quiz-box:nth-of-type(1) button.answer  { background-color: #FF7043; }
+.quiz-box:nth-of-type(2) button.answer  { background-color: #BDBDBD; }
+.quiz-box:nth-of-type(3) button.answer  { background-color: #66BB6A; }
+.quiz-box:nth-of-type(4) button.answer  { background-color: #EC407A; }
+.quiz-box:nth-of-type(5) button.answer  { background-color: #26C6DA; }
+.quiz-box:nth-of-type(6) button.answer  { background-color: #26A69A; }
+.quiz-box:nth-of-type(7) button.answer  { background-color: #42A5F5; }
+.quiz-box:nth-of-type(8) button.answer  { background-color: #8D6E63; }
+.quiz-box:nth-of-type(9) button.answer  { background-color: #AB47BC; }
+.quiz-box:nth-of-type(10) button.answer { background-color: #FFA726; }
+.quiz-box:nth-of-type(11) button.answer { background-color: #7E57C2; }
+.quiz-box:nth-of-type(12) button.answer { background-color: #789262; }
+</style>
+
+<!-- Buttons -->
+<button class="reset-btn" onclick="resetQuizSession()">🔁 Gib mir neue Fragen</button>
+
+
+<!-- Logik -->
+<script>
+function resetQuizSession() {
+  Object.keys(localStorage).forEach(key => {
+    if (key.startsWith("quizBox-")) {
+      localStorage.removeItem(key);
+    }
+  });
+  location.reload();
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  const quizBoxes = document.querySelectorAll(".quiz-box");
+
+  quizBoxes.forEach((quizBox, index) => {
+    const boxId = `quizBox-${index}`;
+    const savedIndex = localStorage.getItem(boxId);
+    const questions = quizBox.querySelectorAll(".question");
+
+    let selectedIndex;
+    if (savedIndex !== null) {
+      selectedIndex = parseInt(savedIndex);
+    } else {
+      selectedIndex = Math.floor(Math.random() * questions.length);
+      localStorage.setItem(boxId, selectedIndex);
+    }
+
+    questions.forEach((q, i) => {
+      if (i !== selectedIndex) {
+        q.style.display = "none";
+      }
+    });
+
+    questions.forEach((question) => {
+      const buttons = question.querySelectorAll("button.answer");
+      buttons.forEach(button => {
+        button.addEventListener("click", () => {
+          if (button.classList.contains("clicked")) return;
+          button.classList.add("clicked");
+          button.disabled = true;
+
+          const isCorrect = button.dataset.correct === "true";
+          button.style.backgroundColor = isCorrect ? "#2e7d32" : "#c62828";
+        });
+      });
+    });
+  });
+
+  document.getElementById("evaluate-btn").addEventListener("click", () => {
+    const allVisibleQuestions = Array.from(document.querySelectorAll(".question"))
+      .filter(q => q.style.display !== "none");
+
+    let allAnswered = true;
+    let score = 0;
+
+    allVisibleQuestions.forEach(question => {
+      const buttons = question.querySelectorAll("button.answer");
+      const correctAnswers = Array.from(buttons).filter(b => b.dataset.correct === "true");
+      const selectedAnswers = Array.from(buttons).filter(b => b.classList.contains("clicked"));
+
+      if (selectedAnswers.length === 0) {
+        allAnswered = false;
+      }
+
+      const feedback = question.querySelector(".feedback");
+      if (!feedback.innerText.trim()) {
+        const allCorrectSelected = correctAnswers.every(b => b.classList.contains("clicked"));
+        const anyIncorrectSelected = selectedAnswers.some(b => b.dataset.correct === "false");
+
+        if (allCorrectSelected && !anyIncorrectSelected) {
+          feedback.innerText = "✅ Alle richtigen Antworten erkannt!";
+          feedback.style.color = "green";
+          score++;
+        } else {
+          feedback.innerText = "❌ Nicht alle richtigen oder zusätzlich falsche Antworten gewählt.";
+          feedback.style.color = "crimson";
+        }
+      }
+    });
+
+    if (!allAnswered) {
+      alert("Bitte beantworte alle sichtbaren Fragen (mind. eine Auswahl), bevor du die Auswertung anzeigst.");
+      return;
+    }
+
+    const totalQuestions = allVisibleQuestions.length;
+    const percent = (score / totalQuestions) * 100;
+    let message = "";
+
+    if (percent >= 80) {
+      message = "🌟 Hervorragend! Du hast ein fundiertes Verständnis für klimaresiliente Stadtentwicklung.";
+    } else if (percent >= 50) {
+      message = "👍 Guter Einstieg! Es gibt noch Potenzial zur Vertiefung.";
+    } else {
+      message = "🔍 Noch Luft nach oben – wiederhole die Inhalte in Ruhe.";
+    }
+
+    const resultBox = document.getElementById("final-result");
+    resultBox.innerHTML = `
+      <h3>Dein Ergebnis</h3>
+      <p>${score} von ${totalQuestions} Punkten (${Math.round(percent)}%)</p>
+      <p>${message}</p>
+      <button onclick="location.reload()" style="margin-top: 20px; padding: 10px 20px; background: white; color: #2E7D32; border: none; border-radius: 8px; cursor: pointer; font-weight: bold;">🔄 Quiz neu starten</button>
+    `;
+    resultBox.scrollIntoView({ behavior: "smooth" });
+  });
+});
+</script>
+
+
+
+# 🌍 Mission Klima – Interaktives Multiselect-Quiz
+
+Testet euer Wissen rund um klimaresiliente Stadtentwicklung! Wählt alle richtigen Antworten und erhaltet direktes Feedback.
+
+::: {.quiz-box}
+### 🌇 Urbane Hitzeinseln
+
+<div class="question">
+<strong>Frage 1:</strong> Welche Maßnahmen tragen nachweislich zur Reduktion urbaner Hitzebelastung auf Schulhöfen bei? *(Mehrfachauswahl möglich)*  
+<button class="answer" data-correct="true">A) Flächige Entsiegelung und Einbringung bodengebundener Vegetation</button>
+<button class="answer" data-correct="true">B) Strategische Pflanzung großkroniger Bäume zur Verschattung und Transpiration</button>
+<button class="answer" data-correct="false">C) Farblich gestaltete Asphaltflächen mit niedriger Albedo</button>
+<button class="answer" data-correct="true">D) Helle Beläge aus Materialien mit hoher Reflexionsfähigkeit (z. B. helle Pflastersteine)</button>
+<button class="answer" data-correct="false">E) Installation temporärer Sprühnebelsysteme als primäre Maßnahme</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 2:</strong> Welche stadtklimatischen und baulichen Faktoren begünstigen die Ausbildung urbaner Wärmeinseln? *(Mehrfachauswahl möglich)*  
+<button class="answer" data-correct="true">A) Hohes Maß an Bodenversiegelung mit schlechter Wärmerückstrahlung</button>
+<button class="answer" data-correct="true">B) Enge Blockrandbebauung mit geringer Durchlüftung</button>
+<button class="answer" data-correct="true">C) Geringe Vegetationsdichte und eingeschränkte Verdunstungsflächen</button>
+<button class="answer" data-correct="false">D) Stadtnahe Wälder mit hoher Transpirationsleistung</button>
+<button class="answer" data-correct="false">E) Begrünte Innenhöfe mit Wasserelementen</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 3:</strong> Welche integrativen Maßnahmen gelten als besonders wirkungsvoll zur thermischen Resilienz urbaner Freiräume? *(Mehrfachauswahl möglich)*  
+<button class="answer" data-correct="true">A) Kombination aus Verschattung, Verdunstung, Reflexion und Luftzirkulation</button>
+<button class="answer" data-correct="true">B) Verwendung von Klimasimulationen bei der Gestaltung von Freiräumen</button>
+<button class="answer" data-correct="false">C) Verdichtung der Bebauung zur Schaffung von Wärmespeichervolumen</button>
+<button class="answer" data-correct="false">D) Priorisierung gestalterischer Elemente ohne thermofunktionale Wirkung</button>
+<button class="answer" data-correct="true">E) Multifunktionale Flächennutzung mit kühlenden Grün-Wasser-Elementen</button>
+<div class="feedback"></div>
+</div>
+
+:::
+
+
+
+::: {.quiz-box}
+
+### 🫁 Lufthygiene & gesundheitliche Resilienz
+
+<div class="question">
+<strong>Frage 1:</strong> In welchen städtischen Kontexten kumulieren typischerweise Emissionen verkehrsbedingter Luftschadstoffe?
+<button class="answer" data-correct="true">A) Straßenräume mit hoher Verkehrsfrequenz und geringer Durchlüftung</button>
+<button class="answer" data-correct="true">B) Straßenschluchten mit dichter Bebauung</button>
+<button class="answer" data-correct="false">C) Großzügige Parkanlagen mit altem Baumbestand</button>
+<button class="answer" data-correct="false">D) Fußgängerzonen mit wenig motorisiertem Verkehr</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 2:</strong> Welche Bevölkerungsgruppen gelten laut umweltmedizinischer Forschung als besonders vulnerabel gegenüber luftgetragenen Schadstoffen?
+<button class="answer" data-correct="true">A) Kinder im Vorschulalter aufgrund erhöhter Atemfrequenz</button>
+<button class="answer" data-correct="true">B) Ältere Menschen mit Vorerkrankungen des Herz-Kreislaufsystems</button>
+<button class="answer" data-correct="false">C) Erwachsene Nichtraucher</button>
+<button class="answer" data-correct="false">D) Berufspendler:innen mit kurzen Arbeitswegen</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 3:</strong> Welche kommunalen Maßnahmen tragen nachweislich zur Verbesserung der Luftqualität in urbanen Räumen bei?
+<button class="answer" data-correct="true">A) Ausbau verkehrsberuhigter Zonen mit emissionsarmer Mobilität</button>
+<button class="answer" data-correct="true">B) Förderung von Dach- und Fassadenbegrünung zur Partikelbindung</button>
+<button class="answer" data-correct="false">C) Konzentration von Verkehrsströmen auf Hauptverkehrsachsen</button>
+<button class="answer" data-correct="false">D) Subventionierung privater PKW-Stellplätze im Innenstadtbereich</button>
+<div class="feedback"></div>
+</div>
+:::
+
+
+
+::: {.quiz-box}
+
+### 🌳 Vegetation & Wald im urbanen Kontext
+<div class="question">
+<strong>Frage 1:</strong> Welche Leistungen erbringen urbane Wälder im Kontext der Klimaanpassung?
+<button class="answer" data-correct="true">A) Mikroklimatische Kühlung durch Transpiration und Verschattung</button>
+<button class="answer" data-correct="true">B) Erhöhung der Bodeninfiltration durch Laubschicht und Wurzelwerk</button>
+<button class="answer" data-correct="false">C) Verstärkung nächtlicher Hitzebelastung durch Luftstau</button>
+<button class="answer" data-correct="false">D) Versiegelung durch Waldbetretungswege</button>
+<button class="answer" data-correct="true">E) Förderung der Biodiversität durch strukturreiche Vegetation</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 2:</strong> Welche Herausforderungen bestehen bei der Integration von Wäldern in die urbane Planung?
+<button class="answer" data-correct="true">A) Flächennutzungskonflikte und langfristige Flächensicherung</button>
+<button class="answer" data-correct="true">B) Sicherstellung klimaresilienter Artenzusammensetzung</button>
+<button class="answer" data-correct="false">C) Verbot öffentlicher Nutzung</button>
+<button class="answer" data-correct="false">D) Entfernung von Altbäumen zur Emissionsverringerung</button>
+<button class="answer" data-correct="true">E) Erhalt der ökologischen Durchlässigkeit im urbanen Netz</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 3:</strong> Wie lässt sich die Bedeutung von Stadtwäldern für die Bevölkerung konkret vermitteln?
+<button class="answer" data-correct="true">A) Umweltbildungsangebote wie Waldpädagogik und Naturexkursionen</button>
+<button class="answer" data-correct="true">B) Integration in Schulcurricula und Stadtführungen</button>
+<button class="answer" data-correct="false">C) Rodung und Neuaufforstung als Lernbeispiel</button>
+<button class="answer" data-correct="true">D) Einbindung in partizipative Planungsprozesse</button>
+<button class="answer" data-correct="false">E) Zugangsbeschränkung für Schutzmaßnahmen</button>
+<div class="feedback"></div>
+</div>
+:::
+
+
+
+::: {.quiz-box}
+
+### 👵👶 Anpassung für vulnerable Gruppen
+<div class="question">
+<strong>Frage 1:</strong> Welche städtischen Bedingungen verschärfen die gesundheitlichen Risiken für vulnerable Gruppen bei Hitzeereignissen?
+<button class="answer" data-correct="true">A) Hoher Versiegelungsgrad ohne Beschattung</button>
+<button class="answer" data-correct="true">B) Fehlende öffentliche Trinkwasserversorgung</button>
+<button class="answer" data-correct="true">C) Lärmbelastung und Luftverschmutzung in Aufenthaltsbereichen</button>
+<button class="answer" data-correct="false">D) Barrierefreie Wegführung in Grünflächen</button>
+<button class="answer" data-correct="false">E) Nähe zu ÖPNV-Haltestellen</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 2:</strong> Welche Maßnahmen sind geeignet, um klimainduzierte Gesundheitsrisiken bei älteren Menschen zu reduzieren?
+<button class="answer" data-correct="true">A) Verschattete Ruheorte mit Sitzgelegenheiten</button>
+<button class="answer" data-correct="true">B) Informationskampagnen und Hitzewarnsysteme</button>
+<button class="answer" data-correct="false">C) Ausweitung von Parkmöglichkeiten</button>
+<button class="answer" data-correct="true">D) Ausbau wohnortnaher, begrünter Erholungsräume</button>
+<button class="answer" data-correct="false">E) Entsiegelung von Balkonen</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 3:</strong> Welche Methoden eignen sich zur partizipativen Erhebung von Belastungsschwerpunkten im Quartier?
+<button class="answer" data-correct="true">A) Stadtteilbegehungen mit Betroffenen</button>
+<button class="answer" data-correct="true">B) Kartierungsworkshops mit Pflegediensten und Einrichtungen</button>
+<button class="answer" data-correct="false">C) Auswertung von Shoppingverhalten</button>
+<button class="answer" data-correct="false">D) Begrünung nach Zufallsprinzip</button>
+<button class="answer" data-correct="true">E) Einsatz digitaler Beteiligungstools (z. B. Online-Map Feedback)</button>
+<div class="feedback"></div>
+</div>
+:::
+
+
+
+::: {.quiz-box}
+
+### 🚶‍♀️🚲 Mobilität & klimaangepasste Bewegung
+<div class="question">
+<strong>Frage 1:</strong> Welche Faktoren beeinflussen die thermische Aufenthaltsqualität auf Alltagswegen?
+<button class="answer" data-correct="true">A) Grad der Beschattung durch Vegetation oder Bebauung</button>
+<button class="answer" data-correct="true">B) Art der Bodenoberfläche (Albedo, Wasserdurchlässigkeit)</button>
+<button class="answer" data-correct="false">C) Nähe zu Parkhäusern</button>
+<button class="answer" data-correct="true">D) Luftbewegung durch Schneisenwirkung</button>
+<button class="answer" data-correct="false">E) Anzahl von Werbetafeln</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 2:</strong> Welche Strategien verbessern klimaangepasste Mobilität für Schüler:innen im Sommer?
+<button class="answer" data-correct="true">A) Begrünte, schattige Gehwege</button>
+<button class="answer" data-correct="true">B) Sichere Fahrradabstellanlagen in kühlen Bereichen</button>
+<button class="answer" data-correct="false">C) Verzicht auf schulische Bewegungsangebote</button>
+<button class="answer" data-correct="false">D) Schulbeginn in der Mittagszeit</button>
+<button class="answer" data-correct="true">E) Wasserstationen entlang der Wege</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 3:</strong> Wie kann die klimaangepasste Erreichbarkeit „kühler Orte“ im Quartier gestärkt werden?
+<button class="answer" data-correct="true">A) Identifikation und Ausschilderung klimatisch vorteilhafter Routen</button>
+<button class="answer" data-correct="true">B) Reduktion hitzebedingter Barrieren (z. B. unverschattete Großflächen)</button>
+<button class="answer" data-correct="true">C) Ausbau kleinklimatischer Infrastruktur wie Wasserflächen oder Baumpflanzungen</button>
+<button class="answer" data-correct="false">D) Bündelung aller Wege über zentrale Straßenachsen</button>
+<button class="answer" data-correct="false">E) Entfernung von Vegetation zur Reduktion von Pollenflug</button>
+<div class="feedback"></div>
+</div>
+:::
+
+
+
+::: {.quiz-box}
+### 🌬️ Kaltluft & Belüftung
+
+<div class="question">
+<strong>Frage 1:</strong> Welche klimatischen und topographischen Bedingungen fördern die nächtliche Kaltluftbildung in urbanen Räumen?
+<button class="answer" data-correct="true">A) Vegetationsreiche Senken mit geringer Bodenversiegelung</button>
+<button class="answer" data-correct="true">B) Flussniederungen mit ungestörtem Luftabfluss</button>
+<button class="answer" data-correct="false">C) Dicht bebaute Innenstädte mit Wärmespeicherung</button>
+<button class="answer" data-correct="false">D) Asphaltierte Hanglagen mit südlicher Exposition</button>
+<button class="answer" data-correct="false">E) Parkdecks auf Hochhäusern</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 2:</strong> Welche baulichen Strukturen behindern die Durchlüftung städtischer Räume signifikant?
+<button class="answer" data-correct="true">A) Blockrandbebauung ohne Durchströmungsmöglichkeiten</button>
+<button class="answer" data-correct="true">B) Engmaschige Hochhausstrukturen mit Ost-West-Ausrichtung</button>
+<button class="answer" data-correct="false">C) Aufgelockerte Bebauung entlang von Frischluftschneisen</button>
+<button class="answer" data-correct="false">D) Einzelstehende Pavillons mit geringer Baumasse</button>
+<button class="answer" data-correct="false">E) Urban Gardening Flächen auf Supermarktdächern</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 3:</strong> In welchen urban-klimatischen Szenarien ist eine effektive Belüftung essenziell zur Wahrung der Aufenthaltsqualität?
+<button class="answer" data-correct="true">A) Hitzewellen in dicht besiedelten Quartieren</button>
+<button class="answer" data-correct="true">B) Nächtliche Abkühlungsphasen zur Regeneration des Mikroklimas</button>
+<button class="answer" data-correct="false">C) Verkehrsspitzen im Berufsverkehr im Winter</button>
+<button class="answer" data-correct="false">D) Spätherbstliche Nebelereignisse in Parkanlagen</button>
+<button class="answer" data-correct="false">E) Frühmorgendliche Pollenausbreitung</button>
+<div class="feedback"></div>
+</div>
+:::
+
+
+
+::: {.quiz-box}
+
+### 💧 Niederschlagswasser & Resilienz
+<div class="question">
+<strong>Frage 1:</strong> Welche hydrologischen Herausforderungen ergeben sich für urbane Räume im Kontext zunehmender Starkregenereignisse?
+<button class="answer" data-correct="true">A) Überflutungen durch mangelnde Rückhalte- und Versickerungskapazität</button>
+<button class="answer" data-correct="true">B) Rückstau in der Kanalisation bei intensiven Niederschlägen</button>
+<button class="answer" data-correct="false">C) Verdunstung führt zur Überlastung der Bodenfilter</button>
+<button class="answer" data-correct="false">D) Langfristige Absenkung des Grundwasserspiegels nach Starkregen</button>
+<button class="answer" data-correct="true">E) Flächenhafte Abflüsse ohne natürliche Retention</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 2:</strong> Welche Oberflächenkonzepte gelten als besonders geeignet zur Förderung der dezentralen Regenwasserbewirtschaftung?
+<button class="answer" data-correct="true">A) Mulden-Rigolen-Systeme mit durchlässigen Belägen</button>
+<button class="answer" data-correct="true">B) Gründächer mit Retentions- und Verdunstungsfunktion</button>
+<button class="answer" data-correct="false">C) Versiegelte Stellflächen mit ableitenden Rinnen</button>
+<button class="answer" data-correct="true">D) Entsiegelte Freiflächen mit Vegetationsaufbau</button>
+<button class="answer" data-correct="false">E) Geschlossene Asphaltschichten ohne Gefälle</button>
+<div class="feedback"></div>
+</div>
+
+<div class="question">
+<strong>Frage 3:</strong> Mit welchen Maßnahmen kann urbaner Raum an die Zunahme von Starkregenereignissen angepasst werden?
+<button class="answer" data-correct="true">A) Integration von Regenwassermanagement in die Stadtplanung</button>
+<button class="answer" data-correct="true">B) Nutzung dezentraler Speicher- und Rückhaltesysteme</button>
+<button class="answer" data-correct="false">C) Maximierung versiegelter Verkehrsflächen zur schnellen Ableitung</button>
+<button class="answer" data-correct="true">D) Einbindung natürlicher Wasserwege in urbane Grünstrukturen</button>
+<button class="answer" data-correct="false">E) Erhöhung der Kanaldimensionen ohne Flächenentsiegelung</button>
+<div class="feedback"></div>
+</div>
+:::
+
+<button id="evaluate-btn" class="reset-btn" style="background: #4CAF50;">📊 Auswertung anzeigen</button>
+
+<!-- Ergebnisbox -->
+<div id="final-result" style="margin-top: 50px;"></div>
+
+<div id="final-result" style="margin-top: 50px;"></div>

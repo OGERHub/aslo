@@ -55,7 +55,7 @@ Planung und Durchführung einer Exkursion auf universitärem Niveau zum gegebene
 Portfolio bestehend aus:
 
 -   Eingangsreflexion (5%, Einzelleistung)
--   Projektplan (2-teilig: Planung Exkursion, Erarbeitung Aslo) (5 %, Gruppenleistung)
+-   Projektplan (5 %, Gruppenleistung)
 -   Lerntagebuch von mindestens vier Exkursionen (10%, Einzelleistung)
 -   **Ausarbeitung eines Aslos auf Oberstufenniveau auf Poster (15 %, Gruppenleistung)**
 -   Reflexion der Ergebnisse der Posterpräsentation (5 %, Gruppenleistung)
@@ -67,23 +67,18 @@ Portfolio bestehend aus:
 ## Der Einführungsblocktag
 
 -   Der Blocktag morgen dient der thematischen Einführung. 
--   Wir starten um 09:00 Uhr in der ehemaligen Geobibliothek.
--   Von 13:00 bis 14:00 Uhr ist Mittagspause
+-   Wir starten um 09:30 Uhr in der ehemaligen Geobibliothek.
+-   Wir machen Mittagspause
 -   Wir enden spätestens um 17:00 Uhr
 
 
 
 ## Einverständniserklärung
-::: {.callout-warning icon=false appearance="simple" }
-Bitte richten Sie nun ein Konto bei sich bei [Particifi](https://ars.particify.de/login) ein.
+
 
 Bitte geben sie uns zusätzlich auf ILIAS die Zustimmung, dass wir die Daten zu wissenschaftlichen Zwecken nutzen dürfen. Diese ist natürlich freiwillig aber wir begrüßen es ausdrücklich, dass Sie uns bei der wissenschaftlichen Begleitung des Kurses unterstützen. 
 
-Bitte beantworten Sie die Fragen im folgendem *praticifi*:
-:::
-<iframe src="https://partici.fi/13349343" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-[Partifici Befragung](https://partici.fi/13349343){.lightbox width="75%" fig-align="center"}
 
 
 

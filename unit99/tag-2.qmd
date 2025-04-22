@@ -1,7 +1,7 @@
 ---
 title: "Außerschulische Lernorte - Blocktag"
 subtitle: "Sommersemester 2025"
-author: <P align="right"> Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach</P>
+author: <P align="right"> Rieke Ammoneit, Chris Reudenbach</P>
 #title-slide-attributes: 
 #  data-background-image: ../images/title-uni2.png
  # data-background-size: contain

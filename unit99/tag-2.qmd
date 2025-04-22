@@ -251,10 +251,35 @@ Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klima
 
 
 ## Außerschulische Lernorte und Klimawandelbildung
--   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung für Klimanpassung zu leisten. (Chang & Wi, 2018; Davies et al., 2024; Harm & Lee, 2021; Morote et al., 2021)
 -   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der globalen Erwärmung. (Brown et al., 2023; Crandon et al., 2022; Ratinen, 2021)
+-   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung für Klimanpassung zu leisten. (Chang & Wi, 2018; Davies et al., 2024; Harm & Lee, 2021; Morote et al., 2021)
 -   Integrierende Systemperspektive definiert Fachlichkeit (DGFG, 2020) und entspricht Kernkonzepten, die für die Bewältigung dieser Zukunftsherausforderungen benötigt werden. (Chang & Wi, 2018; Harm & Lee, 2021)
 - Feldmethoden und außerschulisches Lernen erschließen die Kontextgebundenheit von Adaptionsmaßnahmen. (Rickards et al., 2024)
+
+## Herausforderungen der Klimaadaption - Kontextgebundenheit
+
+Die grundsätzliche Kontextgebundenheit von Adaptionsmaßnahmen bedeutet, dass abstrakte Erkenntnis erst auf das konkrete Setting angewendet werden muss (vgl. Rickards et al. 2024). Dies erfordert systemisches Denken. 
+
+1.    Abstrakte Erkenntnisse (allgemeine Konzepte) benennen und erläutern. 
+2.    Anhand gut gewählter Standtorte auf das konkrete Setting anwenden
+
+## Herausforderungen der Klimaadaption - Konvergenz
+Auch für die übergeordneten Ebenen sind neue Forschungszugänge erforderlich sind (vgl. Rickards et al. 2024). Ein Rückgriff auf vorhandenes Wissen ist daher notwendig, birgt aber die Gefahr, schematisch auf alte, nicht mehr gültige Lösungsstrategien zurückzugreifen (vgl. Abercrombie et al. 2023; Rickards et al. 2024). Diese Problemlage fordert den Kompetenzbereich der Konvergenzforschung (Convergence Research). 
+1.    Wenn nötig, Spannungsfelder benennen, an denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)
+
+## Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen
+Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Sie ist jedoch von der Herausforderung geprägt, dass die Akteur:innen in der Regel Planungssicherheit benötigen, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. Rickards et al. 2024). 
+1.    involvierte gesellschaftlichen Akteur*innen und ihre Interessen benennen. Geeigenet Standorte wählen an denen (potenzielle) Interessenskonflikte deutlich gemacht werden können. 
+
+## Herausforderung der Klimaadaption - Proaktives Handeln
+proaktives Handeln notwendig ist, um Adaptionsbemühungen voranzubringen. Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit wiederholt in den Hintergrund (vgl. Eisenack et al. 2014). 
+1.    welches Engagement ist sinnvoll?
+
+## Herausforderung der Klimaadaption - Gesamtgesellschaftlich denken
+Klimaadaption gesamtgesellschaftlich und nicht individuell zu denken, ist zwingend erforderlich, um die Resilienz einer Gesellschaft zu stärken (vgl. Colloff et al. 2017; Fedele et al. 2019; Wilson et al. 2020).
+1.    geeigenete Standorte finden, um individuelle und gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu machen. 
+  
+
 
 ## Lokale Klimaadaption - Klimaadaption in Marburg 
 
@@ -264,45 +289,34 @@ Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klima
 
 ## Ziel des Seminars
 
-Sie sollen lernen den Raum zu erschließen und für außerschulisches lernen aufzuarebiten, dabei  sollen Sie Ihren
-Kommiliton\*innen den Bedarf oder das Potenzial für eine Klimaadaption
-zu vermitteln, um die Resilienz der Gesellschaft zu stärken.
+Sie sollen lernen den Raum zu erschließen und für außerschulisches Lernen aufzuareibten, dabei  sollen Sie Ihren
+Kommiliton\*innen den Bedarf oder das Potenzial für eine Klimaadaption vermitteln und Lösungsstrategien für den Umgang mit Herausforderungen diskutieren, um die Resilienz der Gesellschaft zu stärken.
 
 -   Der Lernort soll zunächst auf universitärem Niveau erschlossen
     werden, d.h. Ihre Kommiliton\*innen sollen fachlich etwas zur
     Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.
 
 
-## Lehrkraft in Zeiten unsicherer Zukünfte
 
-Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung und die damit verbundenen unsicheren Zukunftsaussichten für Sie als werdende Erdkundelehrkraft bedeuten.
-
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
--   Welche Werte und Kompetenzen, wollen Sie im Kontext der globalen Erderwärmung vermitteln?
-
--   Welche Bedeutung hat die BNE für Ihre Überzeugung als Erdkundelehrkraft zu arbeiten?
-
--   Was motiviert Sie die neue Generationen auszubilden?
-
-::: 
-
-::: {.callout-important  appearance="simple" title="Abgabe"}
-Formulieren Sie Ihre Notizen aus und laden Sie die Antworten bis 23:55 Uhr im Ilias-Ordner hoch.
-Bezeichnung: Nachname_1.pdf 
-Umfang:       beliebig
-Einzelabgabe für jeden Studierenden
-:::
 
 ## Literatur
+Abercrombie, S., Stuart, D. L., Aslan, C. E., Souther, S. & Petersen, B. C. (2023). Training community engaged climate adaptation leaders using multiple case study analysis: insights from cognitive learning sciences. Frontiers in Climate, 5, Artikel 1196467, 1196467. https://doi.org/10.3389/fclim.2023.1196467
+
 Barnett, J., & O'Neill, S. J. (2013). Minimising the risk of maladaptation: a framework for analysis. Climate adaptation futures, 87-93.
 
 Chang, C.‑H. & Wi, A. (2018). Why the World Needs Geography Knowledge in Global Understanding: An Evaluation from a Climate Change Perspective. In A. Demirci, R. de Miguel González & S. W. Bednarz (Hrsg.), International Perspectives on Geographical Education. Geography education for global understanding (S. 29–42). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-319-77216-5_3
+
+Colloff, M. J., Martín-López, B., Lavorel, S., Locatelli, B., Gorddard, R., Longaretti, P.‑Y., Walters, G., van Kerkhoff, L., Wyborn, C., Coreau, A., Wise, R. M., Dunlop, M., Degeorges, P., Grantham, H., Overton, I. C., Williams, R. D., Doherty, M. D., Capon, T., Sanderson, T. & Murphy, H. T. (2017). An integrative research framework for enabling transformative adaptation. Environmental Science & Policy, 68, 87–96. https://doi.org/10.1016/j.envsci.2016.11.007
 
 Crandon, T. J., Scott, J. G., Charlson, F. J. & Thomas, H. J. (2022). A social–ecological perspective on climate anxiety in children and adolescents. Nature Climate Change, 12(2), 123–131. https://doi.org/10.1038/s41558-021-01251-y
 
 Davies, A. R., Hügel, S., Norman, A. & Ryan, G. (2024). Climate Smart: geography, place and climate change adaptation education. Geography, 109(1), 27–35. https://doi.org/10.1080/00167487.2024.2297611
 
 Deeb, A.  Et al. 2011. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners. UNEP.
+
+Eisenack, K., Moser, S. C., Hoffmann, E., Klein, R. J. T., Oberlack, C., Pechan, A., Rotter, M. & Termeer, Catrien J. A. M. (2014). Explaining and overcoming barriers to climate change adaptation. Nature Climate Change, 4(10), 867–872. https://doi.org/10.1038/nclimate2350
+
+Fedele, G., Donatti, C. I., Harvey, C. A., Hannah, L. & Hole, D. G. (2019). Transformative adaptation to climate change for sustainable social-ecological systems. Environmental Science & Policy, 101, 116–125. https://doi.org/10.1016/j.envsci.2019.07.001
 
 IPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001
 
@@ -321,6 +335,8 @@ Selby, D., & Kagawa, F. (2013). Climate change in the classroom: UNESCO course f
 UNEP & UNFCCC, (2002). Information Kit zum Klimawandel,Informationsblatt zum Klimawandel 9.
 
 Williamson, J. & Robinson, M. (2006). Psychosocial programs or programs aimed at general well-being.
+
+Wilson, R. S., Herziger, A., Hamilton, M. & Brooks, J. S. (2020). From incremental to transformative adaptation in individual responses to climate-exacerbated hazards. Nature Climate Change, 10(3), 200–208. https://doi.org/10.1038/s41558-020-0691-6
 
 
 ## Weiterer Ablauf

@@ -21,9 +21,11 @@ editor:
 # Herzlich Willkommen beim Blocktag
 
 Heute erwartet Sie:
--   eine Übersicht über aktuelle Klimaprognosen und Resilienzansätze
--   Einführung ins transformative Lernen
--   erste Übungen im Gelände
+
+
+  -   eine Übersicht über aktuelle Klimaprognosen und Resilienzansätze
+  -   Einführung ins transformative Lernen
+  -   erste Übungen im Gelände
 
 ## Übersicht über die Szenarien
 

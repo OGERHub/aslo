@@ -23,10 +23,7 @@ editor:
 Heute erwartet Sie:
 -   eine Übersicht über aktuelle Klimaprognosen und Resilienzansätze
 -   Einführung ins transformative Lernen
--   eine Exkursion
--   eine Diskussion über Gelingensbedingungen einer Exkursion
--   genauere Vorgaben für die Studienleistung
-
+-   erste Übungen im Gelände
 
 ## Übersicht über die Szenarien
 
@@ -174,17 +171,6 @@ Das Ausmaß, in dem ein Individuum, eine Gemeinschaft, eine Gesellschaft oder ei
 ^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
 
 
-## Übung zur persönlichen und gesellschaftlichen Resilienz
-
-
-Diskutieren Sie nun welche Faktoren, die zur persönlichen Resilienz beitragen auch zu gesellschaftlichen Resilienz beitragen.
-
-::: {.callout-tip  appearance="simple" title="Arbeitsauftrag" icon=false}
--   Notieren Sie Ihre Ergebnisse dann in der Wordcloud bei Particify.
-::::
-
-
-
 ## Klimawandelresilienz
 
 Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und sich danach wieder aufzubauen. Merkmale der Resilienz:
@@ -201,23 +187,8 @@ Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines �
 
 
 
-## Institutionalisierung der Resilienz
-
-Fünf Handlungsprioritäten im Hyogo Framework for Action (HFA) Hyogo-Aktionsrahmen (HFA) 2005–2015: Aufbau der Widerstandsfähigkeit von Nationen und Gemeinschaften gegenüber Katastrophen
-
--   Die Reduzierung des Katastrophenrisikos zur nationalen und lokalen Priorität mit einer starken institutionellen Grundlage für die Umsetzung machen.
-
--   Katastrophenrisiken identifizieren, bewerten und überwachen und Frühwarnung verbessern.
-
--   Wissen, Innovation und Bildung auf allen Ebenen nutzen, um eine Kultur der Sicherheit und Widerstandsfähigkeit aufzubauen.
-
--   Zugrunde liegenden Risikofaktoren reduzieren.
-
--   Stärkung der Katastrophenvorsorge für eine wirksame Reaktion auf allen Ebenen.
-
 ## Adaption 
-Zur Adaption gehört die Änderung der soziale und natürliche Umwelt, so dass die Auswirkungen
-der Gefahren des Klimawandels uns und unsere Lebensweise weniger stark treffen.
+Zur Adaption gehört die Änderung der soziale und natürliche Umwelt, so dass die Auswirkungen der Gefahren des Klimawandels uns und unsere Lebensweise weniger stark treffen.
 Dazu gehört auch, positiven Aspekte des Klimawandels zu nutzen
 Es geht aber hauptächlich darum auf potenzielle Gefahr zu regaieren, indem wir unsere Anfälligkeit für reduzieren. 
 
@@ -240,7 +211,7 @@ Inspiriert von: UNEP & UNFCCC, (2002). Information Kit zum Klimawandel, Informat
 
 Fehlanpassungen (Maladaption) sind „Maßnahmen, die in erster Linie ergriffen werden, um die Verwundbarkeit gegenüber dem Klimawandel zu vermeiden oder zu verringern, die jedoch negative Auswirkungen auf andere Systeme, Sektoren oder soziale Gruppen haben oder deren Verwundbarkeit erhöhen“.
 
-^Barnett & O’Neill, 2013, S. 88.
+^Barnett & O’Neill, 2013, S. 88.^
 
 
 ## Klimawandelbildung
@@ -256,7 +227,50 @@ Bildung für:
 
 
 
-Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen
+Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen.
+
+## Coping im Kontext des Klimawandels
+
+**Problem orientiertes coping**
+-   Fokussiert die Problemlösung durch das Individuum im Kontext des Klimawandels
+-   Problematisch, da sich das Problem nicht vom Individuum lösen lässt
+
+**Emotionales coping**
+-   Fokussiert die Emotionsregulation
+-   Vermeidung, Verleugung, Distanzierung
+-   Nur tragfähig bei kurfritigen Stressoren
+-   Im Kontext des Klimawandels nicht tragfähig, da Stressoren sich verschlimmern werden
+
+**Meaning-focused coping**
+-   Fokussiert gemeinschaftlicher Umgang
+-   Vertrauen in gesellschaftspolitische Akteure
+-   Aktive Aufrechterhaltung von Hoffnung
+-   positiver Zusammenhang mit konstruktivem Umgang mit Klimawandel
+
+^Ojala, 2020^
+
+
+## Außerschulische Lernorte und Klimawandelbildung
+-   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung für Klimanpassung zu leisten. (Chang & Wi, 2018; Davies et al., 2024; Harm & Lee, 2021; Morote et al., 2021)
+-   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der globalen Erwärmung. (Brown et al., 2023; Crandon et al., 2022; Ratinen, 2021)
+-   Integrierende Systemperspektive definiert Fachlichkeit (DGFG, 2020) und entspricht Kernkonzepten, die für die Bewältigung dieser Zukunftsherausforderungen benötigt werden. (Chang & Wi, 2018; Harm & Lee, 2021)
+- Feldmethoden und außerschulisches Lernen erschließen die Kontextgebundenheit von Adaptionsmaßnahmen. (Rickards et al., 2024)
+
+## Lokale Klimaadaption - Klimaadaption in Marburg 
+
+![](../images/KlimawandelStadt.png){fig-align="center"}
+
+
+
+## Ziel des Seminars
+
+Sie sollen lernen den Raum zu erschließen und für außerschulisches lernen aufzuarebiten, dabei  sollen Sie Ihren
+Kommiliton\*innen den Bedarf oder das Potenzial für eine Klimaadaption
+zu vermitteln, um die Resilienz der Gesellschaft zu stärken.
+
+-   Der Lernort soll zunächst auf universitärem Niveau erschlossen
+    werden, d.h. Ihre Kommiliton\*innen sollen fachlich etwas zur
+    Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.
 
 
 ## Lehrkraft in Zeiten unsicherer Zukünfte
@@ -282,11 +296,25 @@ Einzelabgabe für jeden Studierenden
 ## Literatur
 Barnett, J., & O'Neill, S. J. (2013). Minimising the risk of maladaptation: a framework for analysis. Climate adaptation futures, 87-93.
 
+Chang, C.‑H. & Wi, A. (2018). Why the World Needs Geography Knowledge in Global Understanding: An Evaluation from a Climate Change Perspective. In A. Demirci, R. de Miguel González & S. W. Bednarz (Hrsg.), International Perspectives on Geographical Education. Geography education for global understanding (S. 29–42). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-319-77216-5_3
+
+Crandon, T. J., Scott, J. G., Charlson, F. J. & Thomas, H. J. (2022). A social–ecological perspective on climate anxiety in children and adolescents. Nature Climate Change, 12(2), 123–131. https://doi.org/10.1038/s41558-021-01251-y
+
+Davies, A. R., Hügel, S., Norman, A. & Ryan, G. (2024). Climate Smart: geography, place and climate change adaptation education. Geography, 109(1), 27–35. https://doi.org/10.1080/00167487.2024.2297611
+
 Deeb, A.  Et al. 2011. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners. UNEP.
 
 IPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001
 
+Morote, Á.‑F., Hernández, M. & Olcina, J. (2021). Are Future School Teachers Qualified to Teach Flood Risk? An Approach from the Geography Discipline in the Context of Climate Change. Sustainability, 13(15), 8560. https://doi.org/10.3390/su13158560
+
+Ojala, M., Cunsolo, A., Ogunbode, C. A., & Middleton, J. 2021. Anxiety, worry, and grief in a time of environmental and climate crisis: A narrative review. Annual review of environment and resources, 46, 35-58.
+
 Pike,G . & Selby,D . (2011). In the Global Classroom.
+
+Ratinen, I. (2021). Students’ Knowledge of Climate Change, Mitigation and Adaptation in the Context of Constructive Hope. Education Sciences, 11(3), 103. https://doi.org/10.3390/educsci11030103
+
+Rickards, L. A., Alexandra, J., Denham, T. & Sanders, A. (2024). Five tensions in climate adaptation research. Frontiers in Climate, 5, Artikel 1215171, 1215171.
 
 Selby, D., & Kagawa, F. (2013). Climate change in the classroom: UNESCO course for secondary teachers on climate change education for sustainable development.
 
@@ -299,54 +327,6 @@ Williamson, J. & Robinson, M. (2006). Psychosocial programs or programs
 Wir treffen uns um 13:30 Uhr an der Hochwiese vor dem deutschen Haus und brechen auf eine Exkursion auf. 
 
 
-## Spurensuche
-
-::: {.callout-tip title="Arbeitsauftrag" icon="false"}
-Sie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren,
-Adaption und Maladaption suchen, d.h.:
-
--   alles, was von akuteller oder vergangener Adaptionsleistung zeugt
-    (gut und schlecht)
--   alles, was die Gesellschaft in Krisenzeiten in Ihrer
-    Handlungsfähigkeit zu stärken scheint
--   alles, was die vulnariabilität unseres Systems sichtbar macht
-
-Sie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen.
-Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task
-Cards.
-<iframe src="https://www.taskcards.de/#/board/5bf6b048-ad03-456a-8dd9-cd509b4a2467?token=170a8896-4624-4a6c-b60c-d7c2c86f2c78" style="border:0px;width:40%;height:250px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-:::
-
-## Kategorisierung vervollständigen
-
-Bitte vervollständigen Sie die Kategorisierung und Beschreibung Ihrer Spurenorte mit den Begriffen:
-*Resilienz*, *Maladaption* und *Vulnerabilität* hinsichtlich des 
-Bezugs zum **Klimawandel**. Bitte begründen Sie Ihre ihre Verschlagwortung in einem Satz.Verwenden Sie  folgende Schlüsselwörter:
-
-**Adaption, Maladaption, Adaptionsbedarf**
-
-| | |
-|------------------------------|------------|
-| Physisch (materielle) Umwelt | **physisch**   |
-| Soziale Raum                 | **sozial**     |
-| Ökonomischer Raum            | **ökonomisch** |
-| Ökologische Umwelt           | **ökologisch** |
-vgl.Pike & Selby *Interaction of Vulnerability*
-
-::: {.callout-tip  appearance="simple" title="Beispiel"}
-**Adaption, sozial, ökologisch**. 
-Der Springbrunnen auf dem kahlen Firmaneiplatz ist ein beliebter Treffpunkt für Familen mit kleinen Kindern und verbessert das Lokalklima
-:::
-## Bewertung der Beispiele
-
-::: {.callout-tip  appearance="simple" title="Aufgabenstellung"}
-- Bewerten Sie mindestens 20 der Beispiele anderer Gruppen.
-- Wählen Sie räumlich gut über die Stadt verteilte Beipiele aus.
-- Bewerten sie die Verschlagwortung und Begründung mit  1 bis 5 Sternen
-:::
-## Wirkfolgen des Klimawandels auf den urbanen Raum
-
-![](../images/KlimawandelStadt.png){fig-align="center"}
 
 ## Konzepte und Rahmenvorgaben
 
@@ -377,20 +357,6 @@ Der Springbrunnen auf dem kahlen Firmaneiplatz ist ein beliebter Treffpunkt für
 -   [Urban
     Gardening](https://www.uni-marburg.de/de/universitaet/profil/universitaetskultur/nachhaltigkeit/green-office/engagement/externe-initiativen/urban-gardening)
 
-## Vorgaben für den Lernort
 
-Ziel des Außerschulischen Lernortes soll es zunächst sein Ihren
-Kommiliton\*innen den Bedarf oder das Potenzial für eine Klimaadaption
-zu vermitteln, um die Resilienz der Gesellschaft zu stärken.
-
--   Der Lernort soll zunächst auf universitärem Niveau erschlossen
-    werden, d.h. Ihre Kommiliton\*innen sollen fachlich etwas zur
-    Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.
-
--   Sie können Beispiele für Adaption, Maladaption, Resilienz und
-    Vulnerabilität aufarbeiten.
-
--   Ihre Beispiele können das physische, ökologische, soziale oder
-    wirtschaftliche System betreffen, auch Schnittbereich sind möglich.
 
 

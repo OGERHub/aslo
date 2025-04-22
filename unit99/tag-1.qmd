@@ -23,7 +23,7 @@ lightbox: true
 
 Kurs besteht aus:
 
--   einem Blocktag zu Beginn (25.04.2025)
+-   zwei Blocktagen zu Beginn (25. & 26.04.2025)
 
 -   Semesterbegleitender Veranstaltung
 
@@ -116,12 +116,19 @@ Tauschen Sie sich nun mit Ihren Sitznachbar\*innen, und den Kommiliton\*innen, d
 :::
 
 
-## Eingangsreflexion
-
-
 ## Zuteilung der Themen
 
 -   Bitte finden Sie sich nun in Dreierteams zusammen.
 -   Sie bekommen ein Thema und den dazugehörigen Termin zugelost. Sie können bis zum Ende der morgigen Veranstaltung bei Bedarf     Tauschpartner finden. Grundsätzlich gehen wir davon aus, dass Sie zu allen Terminen anwesend sein können und werden keinen        Tausch für Sie organisieren.
--   Für jeden Thema finden Sie im Lernmodul Basisliteratur und Empfehlungen. Genauere Vorgaben folgen morgen. 
+-   Für jeden Thema finden Sie im Lernmodul Empfehlungen. Genauere Vorgaben folgen morgen. 
+
+
+
+## Eingangsreflexion
+
+
+## Blocktage
+
+Wir sehen uns morgen um 09:30 Uhr in der ehemaligen Geobib!
+
 

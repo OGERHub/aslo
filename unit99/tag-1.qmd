@@ -39,12 +39,24 @@ Kurs besteht aus:
 :::
 :::
 
+
+
+## Ihre Unterstützung zählt!
+
+
+Wenn Sie mögen, geben Sie uns bitte in ILIAS Ihr Einverständnis, Ihre Angaben für die wissenschaftliche Begleitung dieses Kurses nutzen zu dürfen.
+Ihre Perspektiven helfen uns, Lehrformate gezielter weiterzuentwickeln – für mehr Wirkung in Forschung, Lehre und Praxis.
+Die Teilnahme ist selbstverständlich freiwillig – wir freuen uns sehr, wenn Sie mitmachen!
+
+
+
+
 ## Studien- und Prüfungsleistung
 
 ### Studienleistung
 
 ::: {.callout-warning  appearance="simple"  icon=false}
-Planung und Durchführung einer Exkursion auf universitärem Niveau zum gegebenen Thema  (60 Minuten + Reflexionsgespräch) in Dreiergruppen
+Planung und Durchführung einer Exkursion auf universitärem Niveau zu dem vorgegebenen Thema (60 Minuten + Reflexionsgespräch) in Gruppen zu je drei Personen.
 
 
 :::
@@ -66,58 +78,48 @@ Portfolio bestehend aus:
 
 ## Der Einführungsblocktag
 
--   Der Blocktag morgen dient der thematischen Einführung. 
--   Wir starten um 09:30 Uhr in der ehemaligen Geobibliothek.
--   Wir machen Mittagspause
--   Wir enden spätestens um 17:00 Uhr
-
-
-
-## Einverständniserklärung
-
-
-Bitte geben sie uns zusätzlich auf ILIAS die Zustimmung, dass wir die Daten zu wissenschaftlichen Zwecken nutzen dürfen. Diese ist natürlich freiwillig aber wir begrüßen es ausdrücklich, dass Sie uns bei der wissenschaftlichen Begleitung des Kurses unterstützen. 
-
+- Der morgige Blocktag dient der thematischen Einführung. 
+- Wir beginnen um 9.30 Uhr in der alten Geobibliothek.
+- Wir machen eine Mittagspause - Wir enden spätestens um 17:00 Uhr
 
 
 
 
 ## Interaktive Einführung: Zukunftsvisionen
 
-Versuchen Sie Ihre Zukunft zu visualisieren. Welche Bilder und Vorstellungen haben Sie? 
 
-::: {.callout-tip  appearance="simple" title="Arbeitsauftrag" icon=false}
-Überlegen und zeichnen Sie  ohne sich mit anderen auszutauschen ein Bild , eine Skizze von Ihrer Zukunftsvision.
+::: {.callout-tip appearance="simple" title="Arbeitsauftrag" icon=false}
+Nehmen Sie sich einen Moment Zeit und halten Sie – ganz für sich allein – Ihre persönliche Zukunftsvision in einer Skizze oder einem Bild fest. Lassen Sie Ihre Gedanken schweifen und folgen Sie Ihrer Intuition, ohne sich vorab mit anderen abzustimmen. Welche Aspekte Ihrer Zukunft sind Ihnen besonders wichtig? Welchen Zeitraum möchten Sie in den Blick nehmen? Die gestalterische Umsetzung spielt dabei keine Rolle – im Mittelpunkt stehen Ihre Ideen. Sie haben 15 Minuten Zeit.
 
-
+<p style="text-align:center;">
+  <img src="/images/vision.webp" alt="Zukunftsvision" width="50%">
+</p>
 :::
-::: {.callout-tip  appearance="simple" title="Universale Vision" icon=false collapse=false}
-![](/images/vision.webp){width=50%}
-:::
-Sie sind frei in der Wahl Ihrer Schwerpunkte und Zeithorizonten. Die künstlerische oder handwerkliche Umsetzung ist dabei nicht wesentlich! 
 
-Sie haben 15 Minuten Zeit.
+
+
+
 
 ## Zukunftsvisionen
 
-Tauschen Sie sich nun mit Ihren Sitznachbar\*innen, und den Kommiliton\*innen, die hinter ihnen bzw. vor ihnen sitzen aus, so dass Sie ein Sechserteam bilden. Erklären Sie sich gegenseitig was auf Ihren Bildern zu sehen ist.
+Tauschen Sie sich nun mit Ihren Sitznachbarn und den hinter und vor Ihnen sitzenden Kommilitonen aus, so dass Sie ein Team von sechs Personen bilden. Erklären Sie sich gegenseitig, was auf Ihren Bildern zu sehen ist.
 
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
+::: {.callout-tip  appearance="simple" title="Leitfragen" icon=false}
+
 - Welche Gemeinsamkeiten stellen Sie fest?
 
 - Welche Unterschiede bestehen?
 
 - Spiegelt sich der Einfluss des Klimawandels in den Bildern wider? Wenn ja wie? Wenn nein, warum nicht?
+
 :::
 
 
 ## Zuteilung der Themen
 
--   Bitte finden Sie sich nun in Dreierteams zusammen.
--   Sie bekommen ein Thema und den dazugehörigen Termin zugelost. Sie können bis zum Ende der morgigen Veranstaltung bei Bedarf     Tauschpartner finden. Grundsätzlich gehen wir davon aus, dass Sie zu allen Terminen anwesend sein können und werden keinen        Tausch für Sie organisieren.
--   Für jeden Thema finden Sie im Lernmodul Empfehlungen. Genauere Vorgaben folgen morgen. 
-
-
+- Bitte finden Sie sich nun in Dreierteams zusammen.
+- Sie bekommen ein Thema und einen Termin zugelost. Bei Bedarf können Sie bis zum Ende der morgigen Veranstaltung Tauschpartner finden. Grundsätzlich gehen wir davon aus, dass Sie an allen Terminen anwesend sein können und organisieren keinen Tausch für Sie.
+- Zu jedem Thema finden Sie im Lernmodul Empfehlungen. Weitere Hinweise folgen morgen.
 
 ## Eingangsreflexion - Lehrkraft in Zeiten unsicherer Zukünfte
 
@@ -133,15 +135,14 @@ Diskutieren Sie mit Ihrem Nachbar/Ihrer Nachbarin was die globale Erderwärmung 
 ::: 
 
 ::: {.callout-important  appearance="simple" title="Abgabe"}
-Formulieren Sie Ihre Notizen aus und laden Sie die Antworten zusammen mit einem Scan Ihres Bildes bis 23:55 Uhr im Ilias-Ordner hoch.
-Bezeichnung: Nachname_1.pdf 
+Schreiben Sie Ihre Notizen auf und laden Sie die Antworten zusammen mit einem Scan Ihres Bildes bis 23:55 Uhr in den Ilias-Ordner hoch.
+Titel: Nachname_1.pdf
 Umfang:       beliebig
 Einzelabgabe für jeden Studierenden
 :::
 
 
-## Blocktage
 
-Wir sehen uns morgen um 09:30 Uhr in der ehemaligen Geobib!
 
+## 💡 Wir sehen uns morgen um 09:30 Uhr in der ehemaligen Geobib! {.center style="text-align: center;"} 
 

@@ -10,172 +10,203 @@ author: <P align="right"> Rieke Ammoneit, Chris Reudenbach</P>
 format:
   revealjs:
     theme: [../_extensions/metropolis-theme/metropolis.scss]
+    css: style.css     
     toc: false
     toc-depth: 2
     chalkboard: true
     menu: false
+    slide-number: true
+
+
 editor: 
   markdown: 
     wrap: 72
+
+bibliography: asloref.bib    
 ---
+
+
+
+
 # Herzlich Willkommen beim Blocktag
 
 Heute erwartet Sie:
 
+-   eine Übersicht über aktuelle Klimaprognosen und Resilienzansätze
+-   Einführung ins transformative Lernen
+-   erste Übungen im Gelände
 
-  -   eine Übersicht über aktuelle Klimaprognosen und Resilienzansätze
-  -   Einführung ins transformative Lernen
-  -   erste Übungen im Gelände
-
-## Übersicht über die Szenarien
+## 🧭 Übersicht über die Szenarien
 
 ![](../images/img/Tag10.png)
 
 Melden Sie sich bitte bei Particifi an!
 
-
-## Wissenschaftliche Grundlagen
+## 🔬 Wissenschaftliche Grundlagen
 
 Bearbeiten Sie die Aufgaben unter IPCC in Particifi.
 
 ![](../images/img/Tag10.png)
 
-## Wissenschaftliche Grundlagen 1/4
+## 🔬  Wissenschaftliche Grundlagen 1/4
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht
+in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende
+Abbildung.<br>
 
-::: columns
+:::::: columns
 ::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png){.lightbox width="75%" fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png)
+[![@IPCC2023](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png){.lightbox
+width="75%"
+fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png)
 :::
 
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
+:::: {.column width="60%"}
+::: {.callout-tip appearance="simple" title="Fragen" icon="false"}
 -   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
 
 -   Was bedeutet die Prozentzahl in Klammern in Sektion b)?
 
 -   Was bedeuten die flächigen Einfärbungen in den Graphen?
 :::
-:::
-:::
+::::
+::::::
 
-## Wissenschaftliche Grundlagen 2/4
+## 🔬 Wissenschaftliche Grundlagen 2/4
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht
+in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende
+Abbildung.<br>
 
-::: columns
+:::::: columns
 ::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png){width="75%" fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png)
+[![@IPCC2023](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png){width="75%"
+fig-align="center"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png)
 :::
 
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
+:::: {.column width="60%"}
+::: {.callout-tip appearance="simple" title="Fragen" icon="false"}
 -   Welche Szenarien finden Sie in der Abbildung wieder?
 
 -   Was bedeuten die flächigen Einfärbungen in den Graphen?
 
--   Haben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?
+-   Haben die implementierten politischen Vorgaben in der jüngeren
+    Vergangenheit die modellierte Wirkung erzielt?
 
--   Was bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?
+-   Was bedeutet der Blick in die jüngere Vergangenheit für unsere
+    Modellannahmen in der Zukunft?
 :::
-:::
-:::
-## Wissenschaftliche Grundlagen 3/4
+::::
+::::::
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
-<br>
+## 🔬 Wissenschaftliche Grundlagen 3/4
 
-::: columns
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht
+in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende
+Abbildung.<br> <br>
+
+:::::: columns
 ::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png){width="75%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png)
+[![@IPCC2023](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png){width="75%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png)
 :::
 
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
+:::: {.column width="60%"}
+::: {.callout-tip appearance="simple" title="Fragen" icon="false"}
 -   Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?
 
 -   Wie warm wird es auf der Erde sein, wenn Sie 50 sind?
 
--   Was können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?
+-   Was können Gründe dafür sein, dass sich die Erde in den oberen drei
+    Szenarien nach 2100 weiter erwärmt?
 :::
-:::
-:::
+::::
+::::::
 
-## Wissenschaftliche Grundlagen 4/4
+## 🔬 Wissenschaftliche Grundlagen 4/4
 
-Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br>
+Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht
+in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende
+Abbildung.<br>
 
-::: columns
+:::::: columns
 ::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png){width="100%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png)
+[![@IPCC2023](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png){width="100%"}](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png)
 :::
 
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
+:::: {.column width="60%"}
+::: {.callout-tip appearance="simple" title="Fragen" icon="false"}
 -   Was bedeutet die dargestellte Pfadentwicklung?
 
 -   Was bedeutet diese Pfadentwicklung für die Bildungsarbeit?
 
--   Was bedeuten aktuelle politische Entwicklungen, konkret etwa die Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?
+-   Was bedeuten aktuelle politische Entwicklungen, konkret etwa die
+    Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?
 
 -   Auf welchem Pfad sehen Sie die Menschheit?
 :::
-:::
-:::
-## Zukunftsvision
+::::
+::::::
+
+## 🔮 Zukunftsvision
 
 Diskutieren Sie nun das Zukunftsbild der IPCC.<br>
 
-::: columns
+:::::: columns
 ::: {.column width="30%"}
-[![Source: www.ipcc.ch AR6 Synthesis Report](https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_18_FAQ_18_2_1.png){width="100%"}](https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_18_FAQ_18_2_1.png)
+[![@IPCC2023](https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_18_FAQ_18_2_1.png){width="100%"}](https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_18_FAQ_18_2_1.png)
 :::
 
-::: {.column width="60%"}
-::: {.callout-tip  appearance="simple" title="Fragen" icon=false}
+:::: {.column width="60%"}
+::: {.callout-tip appearance="simple" title="Fragen" icon="false"}
 -   Wie ist das Bild zu interpretieren?
 
--   Inwiefern weicht das Bild von Ihrer gestern skizzierten Zukunftsvision ab?
+-   Inwiefern weicht das Bild von Ihrer gestern skizzierten
+    Zukunftsvision ab?
 
--   Lassen sich Ihre Zukunftsvisionen und die dargestellte Vision verbinden? Wenn ja, wie? Wenn nein, warum nicht?
+-   Lassen sich Ihre Zukunftsvisionen und die dargestellte Vision
+    verbinden? Wenn ja, wie? Wenn nein, warum nicht?
 :::
-:::
-:::
+::::
+::::::
+
+## 🛡 Resilienz & Vulnerabilität
+
+-   **Resilienz:** Die Fähigkeit eines Individuums, einer Gemeinschaft,
+    einer Gesellschaft oder eines Ökosystems, den Stress- und
+    Schockwellen eines dramatischen, traumatischen und oft
+    unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten,
+    zu überleben und sich an sie anzupassen. Die Fähigkeit zum
+    Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.
+
+-   **Vulnerabilität:** Das Ausmaß, in dem ein Individuum, eine
+    Gemeinschaft, eine Gesellschaft oder ein Ökosystem nicht in der Lage
+    ist, mit den Stress- und Schockwellen eines dramatischen,
+    traumatischen und oft unerwarteten Ereignisses oder einer
+    unerwarteten Entwicklung umzugehen.
+
+angepasst nach:
+
+@selby2011education
 
 
-
-## Resilienz & Vulnerabilität
-
-Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, den Stress- und Schockwellen eines dramatischen, traumatischen und oft unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten, zu überleben und sich an sie anzupassen. Die Fähigkeit zum Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.
-
-![](../images/img/Tag15.png){fig-align="center"}
-
-Das Ausmaß, in dem ein Individuum, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem nicht in der Lage ist, mit den Stress- und Schockwellen eines dramatischen, traumatischen und oft unerwarteten Ereignisses oder einer unerwarteten Entwicklung umzugehen.
-
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-## Resilienzdimensionen
+## 🧬 Resilienzdimensionen
 
 -   Biologisch
-
 -   Materiell
-
 -   Sozial (einschließlich Kultur)
-
 -   Kognitiv (Wissen und Verstehen)
-
 -   Emotional
 
-^After Williamson, J. & Robinson, M. (2006). ‘ Psychosocial programs or programs aimed at general well-being?^
+angepasst nach:
 
+@williamson2006wellbeing,  @selby2011education
 
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
+## ♻ Klimawandelresilienz
 
-
-## Klimawandelresilienz
-
-Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und sich danach wieder aufzubauen. Merkmale der Resilienz:
+Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder
+eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen,
+Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und
+sich danach wieder aufzubauen. Merkmale der Resilienz:
 
 -   Emotionale, psychologische und kulturelle Stabilität
 
@@ -183,198 +214,274 @@ Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines �
 
 -   Die Fähigkeit zur Anpassung und Transformation
 
--   Die Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.
+-   Die Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen
+    Zustand.
 
-^Adapted from Pike,G . & Selby,D . (2011). In the Global Classroom^
-
-
-
-## Adaption 
-Zur Adaption gehört die Änderung der soziale und natürliche Umwelt, so dass die Auswirkungen der Gefahren des Klimawandels uns und unsere Lebensweise weniger stark treffen.
-Dazu gehört auch, positiven Aspekte des Klimawandels zu nutzen
-Es geht aber hauptächlich darum auf potenzielle Gefahr zu regaieren, indem wir unsere Anfälligkeit für reduzieren. 
-
-^Selby & Kagawa (2013)^
-
-## Strategien der Anpassung
-
-1.    Im Vorfeld Maßnahmen ergreifen, um Verluste zu vermeiden, zum Beispiel durch Baumaßnahmen
-Barrieren gegen den Anstieg des Meeresspiegels oder Aufforstung von Hängen, um Erdrutsche zu verhindern
-2.     Maßnahmen ergreifen, um Verluste zu reduzieren, beispielsweise durch dürreresistente Pflanzen bei Trockenheit
-3.     Verluste verteilen oder teilen, beispielsweise eine nationale Entlastungssteuer für Katstrophen einrichten
-4.    Die Art und Weise anpassen, wie eine Aktivität ausgeführt wird, beispielsweise das Mulchen von Erde um Wasserverlust reduzieren
-5.    Änderung des Standorts einer Tätigkeit, beispielsweise die Verlagerung der Landwirtschaft
-weg von steilen Berghängen und/oder dorthin, wo es eine sicherere Wasserquelle gibt
-6.  Wiederherstellung von Orten mit zweckdienlichem Schutz, beispielsweise Wiederaufbau einer heiligen Stätte an einem gefährlichen Ort mit Schutzmaßnahmen
-
-Inspiriert von: UNEP & UNFCCC, (2002). Information Kit zum Klimawandel, Informationsblatt zum Klimawandel 9.
-
-## Maladaption
-
-Fehlanpassungen (Maladaption) sind „Maßnahmen, die in erster Linie ergriffen werden, um die Verwundbarkeit gegenüber dem Klimawandel zu vermeiden oder zu verringern, die jedoch negative Auswirkungen auf andere Systeme, Sektoren oder soziale Gruppen haben oder deren Verwundbarkeit erhöhen“.
-
-^Barnett & O’Neill, 2013, S. 88.^
+[@selby2011education] 
 
 
-## Klimawandelbildung
+## 🔄 Adaption
+
+- Zur Adaption gehören die Änderung der sozialen und natürlichen Umwelt, so
+dass die Auswirkungen der Gefahren des Klimawandels uns und unsere
+Lebensweise weniger stark treffen. 
+
+- Dazu gehört auch, positive Aspekte
+des Klimawandels zu nutzen. Es geht aber hauptächlich darum auf
+potenzielle Gefahr zu regaieren, indem wir unsere Anfälligkeit für diese
+reduzieren 
+
+[@SelbyKagawa2013].
+
+
+
+## 🛠 Strategien der Anpassung
+
+1.  Im Vorfeld Maßnahmen ergreifen, um Verluste zu vermeiden, zum
+    Beispiel durch Baumaßnahmen Barrieren gegen den Anstieg des
+    Meeresspiegels oder Aufforstung von Hängen, um Erdrutsche zu
+    verhindern
+
+2.  
+    Maßnahmen ergreifen, um Verluste zu reduzieren, beispielsweise durch dürreresistente Pflanzen bei Trockenheit
+    
+
+3.  Verluste verteilen oder teilen, beispielsweise eine nationale Entlastungssteuer für Katstrophen einrichten
+    
+4.  Die Art und Weise anpassen, wie eine Aktivität ausgeführt wird,
+    beispielsweise das Mulchen von Erde um Wasserverlust reduzieren
+
+5.  Änderung des Standorts einer Tätigkeit, beispielsweise die
+    Verlagerung der Landwirtschaft weg von steilen Berghängen und/oder
+    dorthin, wo es eine sicherere Wasserquelle gibt
+
+6.  Wiederherstellung von Orten mit zweckdienlichem Schutz,
+    beispielsweise Wiederaufbau einer heiligen Stätte an einem
+    gefährlichen Ort mit Schutzmaßnahmen
+
+[Inspiriert von: @UNEP_UNFCCC_2002]
+
+## 🚫 Maladaption
+
+Fehlanpassungen (Maladaption) sind:
+
+*"Maßnahmen, die in erster Linie
+ergriffen werden, um die Verwundbarkeit gegenüber dem Klimawandel zu
+vermeiden oder zu verringern, die jedoch negative Auswirkungen auf
+andere Systeme, Sektoren oder soziale Gruppen haben oder deren
+Verwundbarkeit erhöhen"*.
+
+[@barnett2013minimising  pp. 88]
+
+## 🎓 Klimawandelbildung
 
 Bildung für:
 
-![Klimawandelbilung. Nach: UNEP, UNESCO 2011](../images/un4.png){fig-align="center"}
+![Klimawandelbilung. verändert nach @unesco_unep_2011](../images/un4.png){fig-align="center"}
 
-
-## Resilienzbildung
+## 💪 Resilienzbildung
 
 ![Resilienzbildung](../images/resilienzhaus.png){fig-align="center"}
 
+Resilienzbildung soll die Individuen unterstützen resilient auf durch
+den Klimawandel bedingte Herausforderungen zu reagieren und zu einer
+resilienten Gesellschaft beitragen.
 
+## 💭 Coping im Kontext des Klimawandels
 
-Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen.
+- **Problem orientiertes coping** - Fokussiert die Problemlösung durch das
+Individuum im Kontext des Klimawandels - Problematisch, da sich das
+Problem nicht vom Individuum lösen lässt
 
-## Coping im Kontext des Klimawandels
+- **Emotionales coping** - Fokussiert die Emotionsregulation - Vermeidung,
+Verleugung, Distanzierung - Nur tragfähig bei kurfritigen Stressoren -
+Im Kontext des Klimawandels nicht tragfähig, da Stressoren sich
+verschlimmern werden
 
-**Problem orientiertes coping**
--   Fokussiert die Problemlösung durch das Individuum im Kontext des Klimawandels
--   Problematisch, da sich das Problem nicht vom Individuum lösen lässt
+- **Meaning-focused coping** - Fokussiert gemeinschaftlicher Umgang -
+Vertrauen in gesellschaftspolitische Akteure - Aktive Aufrechterhaltung
+von Hoffnung - positiver Zusammenhang mit konstruktivem Umgang mit
+Klimawandel
 
-**Emotionales coping**
--   Fokussiert die Emotionsregulation
--   Vermeidung, Verleugung, Distanzierung
--   Nur tragfähig bei kurfritigen Stressoren
--   Im Kontext des Klimawandels nicht tragfähig, da Stressoren sich verschlimmern werden
+@ojala2020trust
 
-**Meaning-focused coping**
--   Fokussiert gemeinschaftlicher Umgang
--   Vertrauen in gesellschaftspolitische Akteure
--   Aktive Aufrechterhaltung von Hoffnung
--   positiver Zusammenhang mit konstruktivem Umgang mit Klimawandel
+## 🏫 Außerschulische Lernorte und Klimawandelbildung
 
-^Ojala, 2020^
+  -   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der
+    globalen Erwärmung. (@BrownEtAl2023, @CrandonEtAl2022. @Ratinen2021)
+  -   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung
+    für Klimanpassung zu leisten. (@ChangWi2018, @DaviesEtAl2024, @HarmLee2021, @MoroteEtAl2021)
+  -   Integrierende Systemperspektive definiert Fachlichkeit (@DGfG2020)
+    und entspricht Kernkonzepten, die für die Bewältigung dieser
+    Zukunftsherausforderungen benötigt werden. (@ChangWi2018, @HarmLee2021)
+  -   Feldmethoden und außerschulisches Lernen erschließen die
+    Kontextgebundenheit von Adaptionsmaßnahmen. (@RickardsEtAl2024)
 
+## 🗺 Herausforderungen der Klimaadaption - Kontextgebundenheit
 
-## Außerschulische Lernorte und Klimawandelbildung
--   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der globalen Erwärmung. (Brown et al., 2023; Crandon et al., 2022; Ratinen, 2021)
--   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung für Klimanpassung zu leisten. (Chang & Wi, 2018; Davies et al., 2024; Harm & Lee, 2021; Morote et al., 2021)
--   Integrierende Systemperspektive definiert Fachlichkeit (DGFG, 2020) und entspricht Kernkonzepten, die für die Bewältigung dieser Zukunftsherausforderungen benötigt werden. (Chang & Wi, 2018; Harm & Lee, 2021)
-- Feldmethoden und außerschulisches Lernen erschließen die Kontextgebundenheit von Adaptionsmaßnahmen. (Rickards et al., 2024)
+  - Die grundsätzliche Kontextgebundenheit von Adaptionsmaßnahmen bedeutet,
+dass abstrakte Erkenntnis erst auf das konkrete Setting angewendet
+werden muss (vgl. @RickardsEtAl2024). 
 
-## Herausforderungen der Klimaadaption - Kontextgebundenheit
-
-Die grundsätzliche Kontextgebundenheit von Adaptionsmaßnahmen bedeutet, dass abstrakte Erkenntnis erst auf das konkrete Setting angewendet werden muss (vgl. Rickards et al. 2024). Dies erfordert systemisches Denken. 
-
-1.    Abstrakte Erkenntnisse (allgemeine Konzepte) benennen und erläutern. 
-2.    Anhand gut gewählter Standtorte auf das konkrete Setting anwenden
-
-## Herausforderungen der Klimaadaption - Konvergenz
-Auch für die übergeordneten Ebenen sind neue Forschungszugänge erforderlich sind (vgl. Rickards et al. 2024). Ein Rückgriff auf vorhandenes Wissen ist daher notwendig, birgt aber die Gefahr, schematisch auf alte, nicht mehr gültige Lösungsstrategien zurückzugreifen (vgl. Abercrombie et al. 2023; Rickards et al. 2024). Diese Problemlage fordert den Kompetenzbereich der Konvergenzforschung (Convergence Research). 
-1.    Wenn nötig, Spannungsfelder benennen, an denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)
-
-## Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen
-Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Sie ist jedoch von der Herausforderung geprägt, dass die Akteur:innen in der Regel Planungssicherheit benötigen, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. Rickards et al. 2024). 
-1.    involvierte gesellschaftlichen Akteur*innen und ihre Interessen benennen. Geeigenet Standorte wählen an denen (potenzielle) Interessenskonflikte deutlich gemacht werden können. 
-
-## Herausforderung der Klimaadaption - Proaktives Handeln
-proaktives Handeln notwendig ist, um Adaptionsbemühungen voranzubringen. Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit wiederholt in den Hintergrund (vgl. Eisenack et al. 2014). 
-1.    welches Engagement ist sinnvoll?
-
-## Herausforderung der Klimaadaption - Gesamtgesellschaftlich denken
-Klimaadaption gesamtgesellschaftlich und nicht individuell zu denken, ist zwingend erforderlich, um die Resilienz einer Gesellschaft zu stärken (vgl. Colloff et al. 2017; Fedele et al. 2019; Wilson et al. 2020).
-1.    geeigenete Standorte finden, um individuelle und gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu machen. 
+Dies erfordert systemisches Denken.
   
+-  Abstrakte Erkenntnisse (allgemeine Konzepte) benennen und erläutern.
+-  Anhand gut gewählter Standtorte auf das konkrete Setting anwenden
+
+## 🗺 Herausforderungen der Klimaadaption - Konvergenz
+
+- Auch für die übergeordneten Ebenen sind neue Forschungszugänge
+erforderlich sind (vgl. @RickardsEtAl2024). 
+- Ein Rückgriff auf vorhandenes Wissen ist daher notwendig, birgt aber die Gefahr,
+schematisch auf alte, nicht mehr gültige Lösungsstrategien
+zurückzugreifen (vgl. @abercrombie2023training, @RickardsEtAl2024).
 
 
-## Lokale Klimaadaption - Klimaadaption in Marburg 
+    - Diese Problemlage fordert den Kompetenzbereich der Konvergenzforschung
+(Convergence Research).
+
+    - Wenn nötig, Spannungsfelder benennen, an
+denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)
+
+## 🗺 Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen
+
+Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Sie ist jedoch von der Herausforderung geprägt, dass die Akteur:innen in der Regel Planungssicherheit benötigen, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. @RickardsEtAl2024). 
+
+- involvierte gesellschaftlichen Akteur\*innen und ihre Interessen benennen. 
+- Geeigenet Standorte wählen an denen (potenzielle) Interessenskonflikte deutlich gemacht werden können.
+
+
+## 🗺 Herausforderung der Klimaadaption - Proaktives Handeln
+
+Proaktives Handeln ist notwendig, um Adaptionsbemühungen voranzubringen.
+Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit wiederholt in den Hintergrund (vgl. @EisenackEtAl2014). 
+
+- welches Engagement ist sinnvoll?
+
+## 🗺 Herausforderung der Klimaadaption - Gesamtgesellschaftlich denken
+
+Klimaadaption gesamtgesellschaftlich und nicht individuell zu denken,
+ist zwingend erforderlich, um die Resilienz einer Gesellschaft zu
+stärken (vgl. @ColloffEtAl2017, @FedeleEtAl2019; @WilsonEtAl2020). 
+
+- geeigenete Standorte finden, um individuelle und
+gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu
+machen.
+
+##  🏘️️ Lokale Klimaadaption - Klimaadaption in Marburg
 
 ![](../images/KlimawandelStadt.png){fig-align="center"}
 
+## 🎯  Ziel des Seminars
+
+1. Sie sollen lernen, den Raum zu erschließen und für außerschulisches Lernen vorzubereiten, indem Sie Ihren Kommiliton*innen die Notwendigkeit bzw. das Potenzial der Klimaanpassung vermitteln und Lösungsstrategien für den Umgang mit den Herausforderungen diskutieren, um die Resilienz der Gesellschaft zu stärken.
+
+1. Der Lernort soll zunächst auf universitärer Ebene erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas über die Klimaresilienz bzw. -vulnerabilität Marburgs lernen.
 
 
-## Ziel des Seminars
-
-Sie sollen lernen den Raum zu erschließen und für außerschulisches Lernen aufzuareibten, dabei  sollen Sie Ihren
-Kommiliton\*innen den Bedarf oder das Potenzial für eine Klimaadaption vermitteln und Lösungsstrategien für den Umgang mit Herausforderungen diskutieren, um die Resilienz der Gesellschaft zu stärken.
-
--   Der Lernort soll zunächst auf universitärem Niveau erschlossen
-    werden, d.h. Ihre Kommiliton\*innen sollen fachlich etwas zur
-    Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.
-
+## 🕐 Weiterer Ablauf
 
 
 
-## Literatur
-Abercrombie, S., Stuart, D. L., Aslan, C. E., Souther, S. & Petersen, B. C. (2023). Training community engaged climate adaptation leaders using multiple case study analysis: insights from cognitive learning sciences. Frontiers in Climate, 5, Artikel 1196467, 1196467. https://doi.org/10.3389/fclim.2023.1196467
+Wir treffen uns um 13.30 Uhr an der Hochwiese vor dem Deutschen Haus und starten zu einer Exkursion.
 
-Barnett, J., & O'Neill, S. J. (2013). Minimising the risk of maladaptation: a framework for analysis. Climate adaptation futures, 87-93.
+## 📘 Konzepte und Rahmenvorgaben
 
-Chang, C.‑H. & Wi, A. (2018). Why the World Needs Geography Knowledge in Global Understanding: An Evaluation from a Climate Change Perspective. In A. Demirci, R. de Miguel González & S. W. Bednarz (Hrsg.), International Perspectives on Geographical Education. Geography education for global understanding (S. 29–42). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-319-77216-5_3
+Hier finden Sie eininge Links zu  Rahmenvorgaben und Konzepten  zu Klima und Stadtentwicklung 
 
-Colloff, M. J., Martín-López, B., Lavorel, S., Locatelli, B., Gorddard, R., Longaretti, P.‑Y., Walters, G., van Kerkhoff, L., Wyborn, C., Coreau, A., Wise, R. M., Dunlop, M., Degeorges, P., Grantham, H., Overton, I. C., Williams, R. D., Doherty, M. D., Capon, T., Sanderson, T. & Murphy, H. T. (2017). An integrative research framework for enabling transformative adaptation. Environmental Science & Policy, 68, 87–96. https://doi.org/10.1016/j.envsci.2016.11.007
+<div class="linkkarten-grid">
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Themen/Themenuebersicht/Klima-und-Umweltschutz/klima-und-umweltschutz_node.html" target="_blank" style="text-decoration:none;color:#007acc;">Klima- und Umweltschutz</a></h3>
+  <p>Themenseite des Bundes über Klima- und Umweltschutz in der Stadtentwicklung.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Publikationen/DE_Ressorforschung/klimagerechte_stadtentwicklung.pdf" target="_blank" style="text-decoration:none;color:#007acc;">Klimawandelgerechte Stadtentwicklung (PDF)</a></h3>
+  <p>Fachpublikation zu Konzepten und Beispielen für klimagerechte Planung.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank?kompass_tags_f_action=85070&page=5" target="_blank" style="text-decoration:none;color:#007acc;">Umweltbundesamt Tatenbank</a></h3>
+  <p>Datenbank mit Praxisbeispielen zur Klimaanpassung – sortierbar nach Themen.</p>
+</div>
+</div>
+</div>
 
-Crandon, T. J., Scott, J. G., Charlson, F. J. & Thomas, H. J. (2022). A social–ecological perspective on climate anxiety in children and adolescents. Nature Climate Change, 12(2), 123–131. https://doi.org/10.1038/s41558-021-01251-y
+## 🌿 Lokale Klima- und Umweltprojekte Marburg
 
-Davies, A. R., Hügel, S., Norman, A. & Ryan, G. (2024). Climate Smart: geography, place and climate change adaptation education. Geography, 109(1), 27–35. https://doi.org/10.1080/00167487.2024.2297611
+Hier finden Sie Materialien zu klimarelevanten Umweltprojekten in Marburg:
 
-Deeb, A.  Et al. 2011. Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners. UNEP.
+<div class="linkkarten-grid">
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.marburg.de/portal/seiten/integriertes-klimaschutzkonzept-der-stadt-marburg-900000629-23001.html" target="_blank" style="text-decoration:none;color:#007acc;">Integriertes Klimaschutzkonzept Marburg</a></h3>
+  <p>Strategiepapier der Stadt für eine nachhaltige Klimapolitik.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">📐</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.marburg.de/portal/seiten/klimaneutral-und-sozialvertraeglich-leitlinien-fuer-die-stadtentwicklung-900002968-23001.html" target="_blank" style="text-decoration:none;color:#007acc;">Leitlinien für klimaneutrale und sozialverträgliche Stadtentwicklung</a></h3>
+  <p>Visionen und Handlungsfelder für die Stadtplanung in Marburg.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🏘️</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2012/5_6/Inhalt/izr-5-6-2012-komplett-dl.pdf?__blob=publicationFile&v=1" target="_blank" style="text-decoration:none;color:#007acc;">Energie- und klimaeffiziente Quartiere – Beispiel Marburg (IZR-Artikel)</a></h3>
+  <p>Fachbeitrag über nachhaltige Quartiersentwicklung in der Stadt.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.marburg.de/portal/seiten/trinkwasser-als-klimaschutz-900001906-23001.html?rubrik=900000045" target="_blank" style="text-decoration:none;color:#007acc;">Trinkwasser als Klimaschutz</a></h3>
+  <p>Wie der sparsame Umgang mit Wasser den Klimaschutz unterstützt.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.marburg.de/portal/seiten/nachbarschaftsprojekte-im-klimaschutz-900002387-23001.html" target="_blank" style="text-decoration:none;color:#007acc;">Nachbarschaftsprojekte im Klimaschutz Marburg</a></h3>
+  <p>Lokale Initiativen und Bürgerengagement für ein besseres Klima.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🤝</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.bne-marburg.de/organisation/kollektiv-von-morgen-e-v/" target="_blank" style="text-decoration:none;color:#007acc;">kollektiv von MORGEN e.V.</a></h3>
+  <p>Verein für Bildung, Nachhaltigkeit und gesellschaftlichen Wandel.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">📐</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.bne-marburg.de/" target="_blank" style="text-decoration:none;color:#007acc;">BNE Marburg – Bildung für nachhaltige Entwicklung</a></h3>
+  <p>Zentrale Plattform für Nachhaltigkeitsprojekte in Bildung und Stadt.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🎠</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.spielplatztreff.de/spielplatz/maerchenspielplatz-in-marburg_4766" target="_blank" style="text-decoration:none;color:#007acc;">Märchenspielplatz – Spielplatztreff Marburg</a></h3>
+  <p>Ein besonderes Spielplatzprojekt mit Gemeinschaftscharakter.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌱</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.uni-marburg.de/de/universitaet/profil/universitaetskultur/nachhaltigkeit/green-office/engagement/externe-initiativen/urban-gardening" target="_blank" style="text-decoration:none;color:#007acc;">Urban Gardening an der Uni Marburg</a></h3>
+  <p>Studierende und Bürger</p>
+</div>
+</div>
+</div>
 
-Eisenack, K., Moser, S. C., Hoffmann, E., Klein, R. J. T., Oberlack, C., Pechan, A., Rotter, M. & Termeer, Catrien J. A. M. (2014). Explaining and overcoming barriers to climate change adaptation. Nature Climate Change, 4(10), 867–872. https://doi.org/10.1038/nclimate2350
 
-Fedele, G., Donatti, C. I., Harvey, C. A., Hannah, L. & Hole, D. G. (2019). Transformative adaptation to climate change for sustainable social-ecological systems. Environmental Science & Policy, 101, 116–125. https://doi.org/10.1016/j.envsci.2019.07.001
-
-IPCC, 2023: Summary for Policymakers. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34, doi: 10.59327/IPCC/AR6-9789291691647.001
-
-Morote, Á.‑F., Hernández, M. & Olcina, J. (2021). Are Future School Teachers Qualified to Teach Flood Risk? An Approach from the Geography Discipline in the Context of Climate Change. Sustainability, 13(15), 8560. https://doi.org/10.3390/su13158560
-
-Ojala, M., Cunsolo, A., Ogunbode, C. A., & Middleton, J. 2021. Anxiety, worry, and grief in a time of environmental and climate crisis: A narrative review. Annual review of environment and resources, 46, 35-58.
-
-Pike,G . & Selby,D . (2011). In the Global Classroom.
-
-Ratinen, I. (2021). Students’ Knowledge of Climate Change, Mitigation and Adaptation in the Context of Constructive Hope. Education Sciences, 11(3), 103. https://doi.org/10.3390/educsci11030103
-
-Rickards, L. A., Alexandra, J., Denham, T. & Sanders, A. (2024). Five tensions in climate adaptation research. Frontiers in Climate, 5, Artikel 1215171, 1215171.
-
-Selby, D., & Kagawa, F. (2013). Climate change in the classroom: UNESCO course for secondary teachers on climate change education for sustainable development.
-
-UNEP & UNFCCC, (2002). Information Kit zum Klimawandel,Informationsblatt zum Klimawandel 9.
-
-Williamson, J. & Robinson, M. (2006). Psychosocial programs or programs aimed at general well-being.
-
-Wilson, R. S., Herziger, A., Hamilton, M. & Brooks, J. S. (2020). From incremental to transformative adaptation in individual responses to climate-exacerbated hazards. Nature Climate Change, 10(3), 200–208. https://doi.org/10.1038/s41558-020-0691-6
-
-
-## Weiterer Ablauf
-Wir treffen uns um 13:30 Uhr an der Hochwiese vor dem deutschen Haus und brechen auf eine Exkursion auf. 
-
-
-
-## Konzepte und Rahmenvorgaben
-
--   [Klima- und
-    Umweltschutz](https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Themen/Themenuebersicht/Klima-und-Umweltschutz/klima-und-umweltschutz_node.html)
--   [Klimawandelgerechte
-    Stadtentwicklung](https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Publikationen/DE_Ressorforschung/klimagerechte_stadtentwicklung.pdf%3F__blob%3DpublicationFile%26v%3D1&ved=2ahUKEwiSnq3TobOFAxWe7LsIHaCCATAQFnoECDEQAQ&usg=AOvVaw1ooYsFSQLGcF2xTpoKPcgA)
--   [Umweltbundesamt
-    Tatenbank](https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank?kompass_tags_f_action=85070&page=5)
-
-## Marburg und Klimaschutz
-
--   [Integriertes Klimaschutzkonzept
-    Marburg](https://www.marburg.de/portal/seiten/integriertes-klimaschutzkonzept-der-stadt-marburg-900000629-23001.html)
--   [Klimaneutral und sozialverträglich: Leitlinien für die
-    Stadtentwicklung
-    Marburg](https://www.marburg.de/portal/seiten/klimaneutral-und-sozialvertraeglich-leitlinien-fuer-die-stadtentwicklung-900002968-23001.html)
--   [Energie- und klimaeffiziente Quartiere: Beispiel
-    Marburg](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2012/5_6/Inhalt/izr-5-6-2012-komplett-dl.pdf?__blob=publicationFile&v=1)
--   [Trinkwasser als
-    Klimaschutz](https://www.marburg.de/portal/seiten/trinkwasser-als-klimaschutz-900001906-23001.html?rubrik=900000045)
--   [Nachbarschaftsprojekte im Klimaschutz
-    Marburg](https://www.marburg.de/portal/seiten/nachbarschaftsprojekte-im-klimaschutz-900002387-23001.html)
--   [kollektiv von
-    MORGEN](https://www.bne-marburg.de/organisation/kollektiv-von-morgen-e-v/)
--   [BNE Marburg](https://www.bne-marburg.de/)
--   [Spielplatztreff](https://www.spielplatztreff.de/spielplatz/maerchenspielplatz-in-marburg_4766)
--   [Urban
-    Gardening](https://www.uni-marburg.de/de/universitaet/profil/universitaetskultur/nachhaltigkeit/green-office/engagement/externe-initiativen/urban-gardening)
-
-
-
-
+## 📖 Literatur

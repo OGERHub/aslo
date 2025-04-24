@@ -21,10 +21,8 @@ In dieser Übersicht werden raumbezogene und außerschulische Lernformate zur Kl
 | 🌇 **Urbane Hitzeinseln** | Versiegelte Schulhöfe, Wohnstraßen ohne Begrünung, aufgeheizte Plätze | Wie unterscheiden sich Oberflächentemperaturen? Welche Flächen sind besonders belastet? Wie könnte man kühlen? |
 | 🌿 **Vegetationsstress & Dürre** | Stadtparks mit Trockenschäden, Alleen, Rasenflächen auf Spielplätzen | Wie gesund ist die Vegetation? Welche Hinweise gibt sie auf Trockenstress? Was ist der Wert urbanen Grüns? |
 | 💧 **Niederschlagswasserkonzepte & urbane Wasserresilienz** | Schulhöfe mit Retention, Neubaugebiete, Senken, Unterführungen | Wie wird Regenwasser vor Ort bewirtschaftet? Welche Orte sind überflutungsgefährdet? Was kann verbessert werden? |
-| 🌍 **Boden & Wasserhaushalt** | Schulgelände, Parkwiesen, versiegelte Parkplätze, urbane Brachen | Wie versickerungsfähig ist der Boden? Welche Unterschiede gibt es je nach Nutzung? Was bedeutet das für Resilienz? |
 | 🌬️ **Kaltluftentstehung & urbane Belüftung** | Frischluftschneisen, Hanglagen, Flussniederungen | Wo und wie entsteht kühlere Luft? Wie bewegen sich Luftmassen durch die Stadt? Was beeinflusst Belüftung? |
 | 🫁 **Lufthygiene & gesundheitliche Resilienz** | Innenstadtquartiere, verkehrsreiche Straßen, pollenreiche Parks | Wie ist die Luftqualität? Wo ist sie besonders schlecht? Welche Gruppen sind besonders betroffen? Was kann man tun? |
-| 🧭 **Resilienz & Nutzungskonflikte** | Öffentliche Räume mit konkurrierenden Nutzungen (z. B. Spielplatz vs. Parkplatz) | Wer nutzt den Raum wie? Welche Nutzung wäre klimaresilienter? Wie lassen sich Konflikte kooperativ lösen? |
 | 🌳 **Vegetation & Wald im urbanen Kontext** | Stadtwälder, Waldränder, urbane Waldinseln, Forstlehrpfade | Wie wirken Wälder im Stadtklima? Welche Funktionen haben sie für Kühlung, Wasserhaushalt und Biodiversität? |
 | 👵👶 **Anpassung für vulnerable Gruppen** | Spielplätze, Seniorenwohnanlagen, Kitas, Haltestellenumfeld | Wer ist besonders betroffen durch Hitze oder schlechte Luft? Wie kann man Aufenthaltsqualität und Schutz verbessern? |
 | 🚶‍♀️🚲 **Mobilität & klimaangepasste Bewegung** | Schulwege, Radverbindungen, verkehrsberuhigte Straßenräume | Wie wirkt sich das Stadtklima auf Alltagsmobilität aus? Wo braucht es mehr Schatten, Luft oder Sicherheit? |
@@ -89,24 +87,6 @@ In dieser Übersicht werden raumbezogene und außerschulische Lernformate zur Kl
 
 ---
 
-### 🌍 Boden & Wasserhaushalt
-
-**Maßstab:** Mesoskala (Parzelle bis Quartier)
-
-**Lernorte:**  
-- Schulgelände mit verschiedenen Bodenarten (z. B. Schulgarten, Parkplatz)  
-- Parkwiesen, öffentliche Wiesen  
-- Urbane Brachen oder Kleingartenanlagen  
-
-**Aktivitäten:**  
-- Entnahme von Bodenproben und Analyse von Bodenart, Durchwurzelung, Feuchte  
-- Durchführung von Infiltrationstests mit verschiedenen Methoden (z. B. Ringinfiltrometer, Flaschenversuch)  
-- Vergleich von Versickerungsraten bei versiegelten und unversiegelten Flächen  
-- Kartierung von Nutzungsarten (z. B. versiegelt, bewachsen, brach) und deren klimarelevanten Eigenschaften  
-- Diskussion der Bedeutung des Bodens für den Wasserhaushalt, Kühlung und Stadtökologie  
-
----
-
 ### 🌬️ Kaltluftentstehung & urbane Belüftung
 
 **Maßstab:** Meso- bis Makroskala
@@ -142,23 +122,6 @@ In dieser Übersicht werden raumbezogene und außerschulische Lernformate zur Kl
 
 ---
 
-### 🧭 Resilienz & Nutzungskonflikte
-
-**Maßstab:** Mikroskala bis Quartiersebene
-
-**Lernorte:**  
-- Multifunktionale städtische Räume mit konkurrierenden Interessen (z. B. Spielplatz vs. Parkplatz in Düsseldorf-Bilk, Marktplätze, Parkflächen)  
-- Nachbarschaftszentren  
-- Öffentliche Plätze, Areale mit Pilotprojekten (z. B. Parklets, „Grüne Inseln“)  
-
-**Aktivitäten:**  
-- Beobachtung und Analyse unterschiedlicher Nutzungen im Tagesverlauf  
-- Partizipative Kartierung mit Anwohner:innen oder Schüler:innen (z. B. wem gehört der Raum?)  
-- Diskussion zu sozialer Gerechtigkeit und klimaresilienter Flächennutzung  
-- Rollenspiele und Planspiele zu Raumkonflikten und kooperativen Lösungen  
-- Entwicklung von Alternativen: Welche Nutzungen wären klimaresilient und gerecht?  
-
----
 
 ### 🌳 Vegetation & Wald im urbanen Kontext
 

@@ -7,12 +7,14 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.5.54">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.6.43">
 
-  <meta name="author" content=" Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach ">
-  <title>Außerschulische Lernorte – Außerschulische Lernorte - Tag 2</title>
+  <meta name="author" content="Rieke Ammoneit, Chris Reudenbach">
+  <title>Außerschulische Lernorte – Außerschulische Lernorte - Blocktag</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -30,212 +32,35 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-60cdeeb7d2dc798c7f46131f53470c1d.css">
+  <link rel="stylesheet" href="style.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
-  <style type="text/css">
-
-  .callout {
-    margin-top: 1em;
-    margin-bottom: 1em;  
-    border-radius: .25rem;
-  }
-
-  .callout.callout-style-simple { 
-    padding: 0em 0.5em;
-    border-left: solid #acacac .3rem;
-    border-right: solid 1px silver;
-    border-top: solid 1px silver;
-    border-bottom: solid 1px silver;
-    display: flex;
-  }
-
-  .callout.callout-style-default {
-    border-left: solid #acacac .3rem;
-    border-right: solid 1px silver;
-    border-top: solid 1px silver;
-    border-bottom: solid 1px silver;
-  }
-
-  .callout .callout-body-container {
-    flex-grow: 1;
-  }
-
-  .callout.callout-style-simple .callout-body {
-    font-size: 1rem;
-    font-weight: 400;
-  }
-
-  .callout.callout-style-default .callout-body {
-    font-size: 0.9rem;
-    font-weight: 400;
-  }
-
-  .callout.callout-titled.callout-style-simple .callout-body {
-    margin-top: 0.2em;
-  }
-
-  .callout:not(.callout-titled) .callout-body {
-      display: flex;
-  }
-
-  .callout:not(.no-icon).callout-titled.callout-style-simple .callout-content {
-    padding-left: 1.6em;
-  }
-
-  .callout.callout-titled .callout-header {
-    padding-top: 0.2em;
-    margin-bottom: -0.2em;
-  }
-
-  .callout.callout-titled .callout-title  p {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-  }
-    
-  .callout.callout-titled.callout-style-simple .callout-content  p {
-    margin-top: 0;
-  }
-
-  .callout.callout-titled.callout-style-default .callout-content  p {
-    margin-top: 0.7em;
-  }
-
-  .callout.callout-style-simple div.callout-title {
-    border-bottom: none;
-    font-size: .9rem;
-    font-weight: 600;
-    opacity: 75%;
-  }
-
-  .callout.callout-style-default  div.callout-title {
-    border-bottom: none;
-    font-weight: 600;
-    opacity: 85%;
-    font-size: 0.9rem;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-  }
-
-  .callout.callout-style-default div.callout-content {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-  }
-
-  .callout.callout-style-simple .callout-icon::before {
-    height: 1rem;
-    width: 1rem;
-    display: inline-block;
-    content: "";
-    background-repeat: no-repeat;
-    background-size: 1rem 1rem;
-  }
-
-  .callout.callout-style-default .callout-icon::before {
-    height: 0.9rem;
-    width: 0.9rem;
-    display: inline-block;
-    content: "";
-    background-repeat: no-repeat;
-    background-size: 0.9rem 0.9rem;
-  }
-
-  .callout-title {
-    display: flex
-  }
-    
-  .callout-icon::before {
-    margin-top: 1rem;
-    padding-right: .5rem;
-  }
-
-  .callout.no-icon::before {
-    display: none !important;
-  }
-
-  .callout.callout-titled .callout-body > .callout-content > :last-child {
-    padding-bottom: 0.5rem;
-    margin-bottom: 0;
-  }
-
-  .callout.callout-titled .callout-icon::before {
-    margin-top: .5rem;
-    padding-right: .5rem;
-  }
-
-  .callout:not(.callout-titled) .callout-icon::before {
-    margin-top: 1rem;
-    padding-right: .5rem;
-  }
-
-  /* Callout Types */
-
-  div.callout-note {
-    border-left-color: #4582ec !important;
-  }
-
-  div.callout-note .callout-icon::before {
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEU0lEQVRYCcVXTWhcVRQ+586kSUMMxkyaElstCto2SIhitS5Ek8xUKV2poatCcVHtUlFQk8mbaaziwpWgglJwVaquitBOfhQXFlqlzSJpFSpIYyXNjBNiTCck7x2/8/LeNDOZxDuEkgOXe++553zfefee+/OYLOXFk3+1LLrRdiO81yNqZ6K9cG0P3MeFaMIQjXssE8Z1JzLO9ls20MBZX7oG8w9GxB0goaPrW5aNMp1yOZIa7Wv6o2ykpLtmAPs/vrG14Z+6d4jpbSKuhdcSyq9wGMPXjonwmESXrriLzFGOdDBLB8Y6MNYBu0dRokSygMA/mrun8MGFN3behm6VVAwg4WR3i6FvYK1T7MHo9BK7ydH+1uurECoouk5MPRyVSBrBHMYwVobG2aOXM07sWrn5qgB60rc6mcwIDJtQrnrEr44kmy+UO9r0u9O5/YbkS9juQckLed3DyW2XV/qWBBB3ptvI8EUY3I9p/67OW+g967TNr3Sotn3IuVlfMLVnsBwH4fsnebJvyGm5GeIUA3jljERmrv49SizPYuq+z7c2H/jlGC+Ghhupn/hcapqmcudB9jwJ/3jvnvu6vu5lVzF1fXyZuZZ7U8nRmVzytvT+H3kilYvH09mLWrQdwFSsFEsxFVs5fK7A0g8gMZjbif4ACpKbjv7gNGaD8bUrlk8x+KRflttr22JEMRUbTUwwDQScyzPgedQHZT0xnx7ujw2jfVfExwYHwOsDTjLdJ2ebmeQIlJ7neo41s/DrsL3kl+W2lWvAga0tR3zueGr6GL78M3ifH0rGXrBC2aAR8uYcIA5gwV8zIE8onoh8u0Fca/ciF7j1uOzEnqcIm59sEXoGc0+z6+H45V1CvAvHcD7THztu669cnp+L0okAeIc6zjbM/24LgGM1gZk7jnRu1aQWoU9sfUOuhrmtaPIO3YY1KLLWZaEO5TKUbMY5zx8W9UJ6elpLwKXbsaZ4EFl7B4bMtDv0iRipKoDQT2sNQI9b1utXFdYisi+wzZ/ri/1m7QfDgEuvgUUEIJPq3DhX/5DWNqIXDOweC2wvIR90Oq3lDpdMIgD2r0dXvGdsEW5H6x6HLRJYU7C69VefO1x8Gde1ZFSJLfWS1jbCnhtOPxmpfv2LXOA2Xk2tvnwKKPFuZ/oRmwBwqRQDcKNeVQkYcOjtWVBuM/JuYw5b6isojIkYxyYAFn5K7ZBF10fea52y8QltAg6jnMqNHFBmGkQ1j+U43HMi2xMar1Nv0zGsf1s8nUsmUtPOOrbFIR8bHFDMB5zL13Gmr/kGlCkUzedTzzmzsaJXhYawnA3UmARpiYj5ooJZiUoxFRtK3X6pgNPv+IZVPcnwbOl6f+aBaO1CNvPW9n9LmCp01nuSaTRF2YxHqZ8DYQT6WsXT+RD6eUztwYLZ8rM+rcPxamv1VQzFUkzFXvkiVrySGQgJNvXHJAxiU3/NwiC03rSf05VBaPtu/Z7/B8Yn/w7eguloAAAAAElFTkSuQmCC');
-  }
-
-  div.callout-note.callout-style-default .callout-title {
-    background-color: #dae6fb
-  }
-
-  div.callout-important {
-    border-left-color: #d9534f !important;
-  }
-
-  div.callout-important .callout-icon::before {
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEKklEQVRYCcVXTWhcVRS+575MJym48A+hSRFr00ySRQhURRfd2HYjk2SSTokuBCkU2o0LoSKKraKIBTcuFCoidGFD08nkBzdREbpQ1EDNIv8qSGMFUboImMSZd4/f9zJv8ibJMC8xJQfO3HPPPef7zrvvvnvviIkpC9nsw0UttFunbUhpFzFtarSd6WJkStVMw5xyVqYTvkwfzuf/5FgtkVoB0729j1rjXwThS7Vio+Mo6DNnvLfahoZ+i/o32lULuJ3NNiz7q6+pyAUkJaFF6JwaM2lUJlV0MlnQn5aTRbEu0SEqHUa0A4AdiGuB1kFXRfVyg5d87+Dg4DL6m2TLAub60ilj7A1Ec4odSAc8X95sHh7+ZRPCFo6Fnp7HfU/fBng/hi10CjCnWnJjsxvDNxWw0NfV6Rv5GgP3I3jGWXumdTD/3cbEOP2ZbOZp69yniG3FQ9z1jD7bnBu9Fc2tKGC2q+uAJOQHBDRiZX1x36o7fWBs7J9ownbtO+n0/qWkvW7UPIfc37WgT6ZGR++EOJyeQDSb9UB+DZ1G6DdLDzyS+b/kBCYGsYgJbSQHuThGKRcw5xdeQf8YdNHsc6ePXrlSYMBuSIAFTGAtQo+VuALo4BX83N190NWZWbynBjhOHsmNfFWLeL6v+ynsA58zDvvAC8j5PkbOcXCMg2PZFk3q8MjI7WAG/Dp9AwP7jdGBOOQkAvlFUB+irtm16I1Zw9YBcpGTGXYmk3kQIC/Cds55l+iMI3jqhjAuaoe+am2Jw5GT3Nbz3CkE12NavmzN5+erJW7046n/CH1RO/RVa8lBLozXk9uqykkGAyRXLWlLv5jyp4RFsG5vGVzpDLnIjTWgnRy2Rr+tDKvRc7Y8AyZq10jj8DqXdnIRNtFZb+t/ZRtXcDiVnzpqx8mPcDWxgARUqx0W1QB9MeUZiNrV4qP+Ehc+BpNgATsTX8ozYKL2NtFYAHc84fG7ndxUPr+AR/iQSns7uSUufAymwDOb2+NjK27lEFocm/EE2WpyIy/Hi66MWuMKJn8RvxIcj87IM5Vh9663ziW36kR0HNenXuxmfaD8JC7tfKbrhFr7LiZCrMjrzTeGx+PmkosrkNzW94ObzwocJ7A1HokLolY+AvkTiD/q1H0cN48c5EL8Crkttsa/AXQVDmutfyku0E7jShx49XqV3MFK8IryDhYVbj7Sj2P2eBxwcXoe8T8idsKKPRcnZw1b+slFTubwUwhktrfnAt7J++jwQtLZcm3sr9LQrjRzz6cfMv9aLvgmnAGvpoaGLxM4mAEaLV7iAzQ3oU0IvD5x9ix3yF2RAAuYAOO2f7PEFWCXZ4C9Pb2UsgDeVnFSpbFK7/IWu7TPTvBqzbGdCHOJQSxiEjt6IyZmxQyEJHv6xyQsYk//moVFsN2zP6fRImjfq7/n/wFDguUQFNEwugAAAABJRU5ErkJggg==');
-  }
-
-  div.callout-important.callout-style-default .callout-title {
-    background-color: #f7dddc
-  }
-
-  div.callout-warning {
-    border-left-color: #f0ad4e !important;
-  }
-
-  div.callout-warning .callout-icon::before {
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAETklEQVRYCeVWW2gcVRg+58yaTUnizqbipZeX4uWhBEniBaoUX1Ioze52t7sRq6APio9V9MEaoWlVsFasRq0gltaAPuxms8lu0gcviE/FFOstVbSIxgcv6SU7EZqmdc7v9+9mJtNks51NTUH84ed889/PP+cmxP+d5FIbMJmNbpREu4WUkiTtCicKny0l1pIKmBzovF2S+hIJHX8iEu3hZJ5lNZGqyRrGSIQpq15AzF28jgpeY6yk6GVdrfFqdrD6Iw+QlB8g0YS2g7dyQmXM/IDhBhT0UCiRf59lfqmmDvzRt6kByV/m4JjtzuaujMUM2c5Z2d6JdKrRb3K2q6mA+oYVz8JnDdKPmmNthzkAk/lN63sYPgevrguc72aZX/L9C6x09GYyxBgCX4NlvyGUHOKELlm5rXeR1kchuChJt4SSwyddZRXgvwMGvYo4QSlk3/zkHD8UHxwVJA6zjZZqP8v8kK8OWLnIZtLyCAJagYC4rTGW/9Pqj92N/c+LUaAj27movwbi19tk/whRCIE7Q9vyI6yvRpftAKVTdUjOW40X3h5OXsKCdmFcx0xlLJoSuQngnrJe7Kcjm4OMq9FlC7CMmScQANuNvjfP3PjGXDBaUQmbp296S5L4DrpbrHN1T87ZVEZVCzg1FF0Ft+dKrlLukI+/c9ENo+TvlTDbYFvuKPtQ9+l052rXrgKoWkDAFnvh0wTOmYn8R5f4k/jN/fZiCM1tQx9jQQ4ANhqG4hiL0qIFTGViG9DKB7GYzgubnpofgYRwO+DFjh0Zin2m4b/97EDkXkc+f6xYAPX0KK2I/7fUQuwzuwo/L3AkcjugPNixC8cHf0FyPjWlItmLxWw4Ou9YsQCr5fijMGoD/zpdRy95HRysyXA74MWOnscpO4j2y3HAVisw85hX5+AFBRSHt4ShfLFkIMXTqyKFc46xdzQM6XbAi702a7sy04J0+feReMFKp5q9esYLCqAZYw/k14E/xcLLsFElaornTuJB0svMuJINy8xkIYuL+xPAlWRceH6+HX7THJ0djLUom46zREu7tTkxwmf/FdOZ/sh6Q8qvEAiHpm4PJ4a/doJe0gH1t+aHRgCzOvBvJedEK5OFE5jpm4AGP2a8Dxe3gGJ/pAutug9Gp6he92CsSsWBaEcxGx0FHytmIpuqGkOpldqNYQK8cSoXvd+xLxXADw0kf6UkJNFtdo5MOgaLjiQOQHcn+A6h5NuL2s0qsC2LOM75PcF3yr5STuBSAcGG+meA14K/CI21HcS4LBT6tv0QAh8Dr5l93AhZzG5ZJ4VxAqdZUEl9z7WJ4aN+svMvwHHL21UKTd1mqvChH7/Za5xzXBBKrUcB0TQ+Ulgkfbi/H/YT5EptrGzsEK7tR1B7ln9BBwckYfMiuSqklSznIuoIIOM42MQO+QnduCoFCI0bpkzjCjddHPN/F+2Yu+sd9bKNpVwHhbS3LluK/0zgfwD0xYI5dXuzlQAAAABJRU5ErkJggg==');
-  }
-
-  div.callout-warning.callout-style-default .callout-title {
-    background-color: #fcefdc
-  }
-
-  div.callout-tip {
-    border-left-color: #02b875 !important;
-  }
-
-  div.callout-tip .callout-icon::before {
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAADr0lEQVRYCe1XTWgTQRj9ZjZV8a9SPIkKgj8I1bMHsUWrqYLVg4Ue6v9BwZOxSYsIerFao7UiUryIqJcqgtpimhbBXoSCVxUFe9CTiogUrUp2Pt+3aUI2u5vdNh4dmMzOzHvvezuz8xNFM0mjnbXaNu1MvFWRXkXEyE6aYOYJpdW4IXuA4r0fo8qqSMDBU0v1HJUgVieAXxzCsdE/YJTdFcVIZQNMyhruOMJKXYFoLfIfIvVIMWdsrd+Rpd86ZmyzzjJmLStqRn0v8lzkb4rVIXvnpScOJuAn2ACC65FkPzEdEy4TPWRLJ2h7z4cArXzzaOdKlbOvKKX25Wl00jSnrwVxAg3o4dRxhO13RBSdNvH0xSARv3adTXbBdTf64IWO2vH0LT+cv4GR1DJt+DUItaQogeBX/chhbTBxEiZ6gftlDNXTrvT7co4ub5A6gp9HIcHvzTa46OS5fBeP87Qm0fQkr4FsYgVQ7Qg+ZayaDg9jhg1GkWj8RG6lkeSacrrHgDaxdoBiZPg+NXV/KifMuB6//JmYH4CntVEHy/keA6x4h4CU5oFy8GzrBS18cLJMXcljAKB6INjWsRcuZBWVaS3GDrqB7rdapVIeA+isQ57Eev9eCqzqOa81CY05VLd6SamW2wA2H3SiTbnbSxmzfp7WtKZkqy4mdyAlGx7ennghYf8voqp9cLSgKdqNfa6RdRsAAkPwRuJZNbpByn+RrJi1RXTwdi8RQF6ymDwGMAtZ6TVE+4uoKh+MYkcLsT0Hk8eAienbiGdjJHZTpmNjlbFJNKDVAp2fJlYju6IreQxQ08UJDNYdoLSl6AadO+fFuCQqVMB1NJwPm69T04Wv5WhfcWyfXQB+wXRs1pt+nCknRa0LVzSA/2B+a9+zQJadb7IyyV24YAxKp2Jqs3emZTuNnKxsah+uabKbMk7CbTgJx/zIgQYErIeTKRQ9yD9wxVof5YolPHqaWo7TD6tJlh7jQnK5z2n3+fGdggIOx2kaa2YI9QWarc5Ce1ipNWMKeSG4DysFF52KBmTNMmn5HqCFkwy34rDg05gDwgH3bBi+sgFhN/e8QvRn8kbamCOhgrZ9GJhFDgfcMHzFb6BAtjKpFhzTjwv1KCVuxHvCbsSiEz4CANnj84cwHdFXAbAOJ4LTSAawGWFn5tDhLMYz6nWeU2wJfIhmIJBefcd/A5FWQWGgrWzyORZ3Q6HuV+Jf0Bj+BTX69fm1zWgK7By1YTXchFDORywnfQ7GpzOo6S+qECrsx2ifVQAAAABJRU5ErkJggg==');
-  }
-
-  div.callout-tip.callout-style-default .callout-title {
-    background-color: #ccf1e3
-  }
-
-  div.callout-caution {
-    border-left-color: #fd7e14 !important;
-  }
-
-  div.callout-caution .callout-icon::before {
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAACV0lEQVRYCdVWzWoUQRCuqp2ICBLJXgITZL1EfQDBW/bkzUMUD7klD+ATSHBEfAIfQO+iXsWDxJsHL96EHAwhgzlkg8nBg25XWb0zIb0zs9muYYWkoKeru+vn664fBqElyZNuyh167NXJ8Ut8McjbmEraKHkd7uAnAFku+VWdb3reSmRV8PKSLfZ0Gjn3a6Xlcq9YGb6tADjn+lUfTXtVmaZ1KwBIvFI11rRXlWlatwIAAv2asaa9mlB9wwygiDX26qaw1yYPzFXg2N1GgG0FMF8Oj+VIx7E/03lHx8UhvYyNZLN7BwSPgekXXLribw7w5/c8EF+DBK5idvDVYtEEwMeYefjjLAdEyQ3M9nfOkgnPTEkYU+sxMq0BxNR6jExrAI31H1rzvLEfRIdgcv1XEdj6QTQAS2wtstEALLG1yEZ3QhH6oDX7ExBSFEkFINXH98NTrme5IOaaA7kIfiu2L8A3qhH9zRbukdCqdsA98TdElyeMe5BI8Rs2xHRIsoTSSVFfCFCWGPn9XHb4cdobRIWABNf0add9jakDjQJpJ1bTXOJXnnRXHRf+dNL1ZV1MBRCXhMbaHqGI1JkKIL7+i8uffuP6wVQAzO7+qVEbF6NbS0LJureYcWXUUhH66nLR5rYmva+2tjRFtojkM2aD76HEGAD3tPtKM309FJg5j/K682ywcWJ3PASCcycH/22u+Bh7Aa0ehM2Fu4z0SAE81HF9RkB21c5bEn4Dzw+/qNOyXr3DCTQDMBOdhi4nAgiFDGCinIa2owCEChUwD8qzd03PG+qdW/4fDzjUMcE1ZpIAAAAASUVORK5CYII=');
-  }
-
-  div.callout-caution.callout-style-default .callout-title {
-    background-color: #ffe5d0
-  }
-
-  </style>
   <style type="text/css">
     .reveal div.sourceCode {
       margin: 0;
@@ -323,11 +148,11 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="Außerschulische Lernorte - Tag 2 – Außerschulische Lernorte">
-<meta property="og:description" content="Sommersemester 2024">
+<meta property="og:title" content="Außerschulische Lernorte - Blocktag – Außerschulische Lernorte">
+<meta property="og:description" content="Sommersemester 2025">
 <meta property="og:site_name" content="Außerschulische Lernorte">
-<meta name="twitter:title" content="Außerschulische Lernorte - Tag 2 – Außerschulische Lernorte">
-<meta name="twitter:description" content="Sommersemester 2024">
+<meta name="twitter:title" content="Außerschulische Lernorte - Blocktag – Außerschulische Lernorte">
+<meta name="twitter:description" content="Sommersemester 2025">
 <meta name="twitter:creator" content="@gisma">
 <meta name="twitter:card" content="summary">
 </head>
@@ -336,169 +161,561 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Außerschulische Lernorte - Tag 2</h1>
-  <p class="subtitle">Sommersemester 2024</p>
+  <h1 class="title">Außerschulische Lernorte - Blocktag</h1>
+  <p class="subtitle">Sommersemester 2025</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-<p align="right"><br>
-Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach<br>
-</p> 
+Rieke Ammoneit, Chris Reudenbach 
 </div>
 </div>
 </div>
 
 </section>
-<section id="spurensuche" class="slide level2">
-<h2>Spurensuche</h2>
-<div title="Arbeitsauftrag">
-<div class="callout callout-tip no-icon callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<p><strong>Arbeitsauftrag</strong></p>
-</div>
-<div class="callout-content">
-<p>Sie sollen nun in Dreierteams Resilienz- und Vulnerabilitätsspuren, Adaption und Maladaption suchen, d.h.:</p>
+<section>
+<section id="herzlich-willkommen-beim-blocktag" class="title-slide slide level1 center">
+<h1>Herzlich Willkommen beim Blocktag</h1>
+<p>Heute erwartet Sie:</p>
 <ul>
-<li>alles, was von akuteller oder vergangener Adaptionsleistung zeugt (gut und schlecht)</li>
-<li>alles, was die Gesellschaft in Krisenzeiten in Ihrer Handlungsfähigkeit zu stärken scheint</li>
-<li>alles, was die vulnariabilität unseres Systems sichtbar macht</li>
+<li>eine Übersicht über aktuelle Klimaprognosen und Resilienzansätze</li>
+<li>erste Übungen im Gelände</li>
 </ul>
-<p>Sie haben 90 Minuten Zeit im zugeteilten Gebiet auf Spurensuche zugehen. Fotografieren und dokumentieren Sie die Spuren unmittelbar in den Task Cards. <iframe src="https://www.taskcards.de/#/board/5bf6b048-ad03-456a-8dd9-cd509b4a2467?token=170a8896-4624-4a6c-b60c-d7c2c86f2c78" style="border:0px;width:40%;height:250px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></p>
-</div>
-</div>
-</div>
-</div>
 </section>
-<section id="kategorisierung-vervollständigen" class="slide level2">
-<h2>Kategorisierung vervollständigen</h2>
-<p>Bitte vervollständigen Sie die Kategorisierung und Beschreibung Ihrer Spurenorte mit den Begriffen: <em>Resilienz</em>, <em>Maladaption</em> und <em>Vulnerabilität</em> hinsichtlich des Bezugs zum <strong>Klimawandel</strong>. Bitte begründen Sie Ihre ihre Verschlagwortung in einem Satz.Verwenden Sie folgende Schlüsselwörter:</p>
-<p><strong>Adaption, Maladaption, Adaptionsbedarf</strong></p>
-<table class="caption-top">
-<tbody>
-<tr class="odd">
-<td>Physisch (materielle) Umwelt</td>
-<td><strong>physisch</strong></td>
-</tr>
-<tr class="even">
-<td>Soziale Raum</td>
-<td><strong>sozial</strong></td>
-</tr>
-<tr class="odd">
-<td>Ökonomischer Raum</td>
-<td><strong>ökonomisch</strong></td>
-</tr>
-<tr class="even">
-<td>Ökologische Umwelt</td>
-<td><strong>ökologisch</strong></td>
-</tr>
-</tbody>
-</table>
-<p>vgl.Pike &amp; Selby <em>Interaction of Vulnerability</em></p>
-<div title="Beispiel">
-<div class="callout callout-tip callout-titled callout-style-simple">
+<section id="übersicht-über-die-szenarien" class="slide level2">
+<h2>🧭 Übersicht über die Szenarien</h2>
+
+<img data-src="../images/img/Tag10.png" class="r-stretch"><p>Melden Sie sich bitte bei Particifi an!</p>
+</section>
+<section id="wissenschaftliche-grundlagen" class="slide level2">
+<h2>🔬 Wissenschaftliche Grundlagen</h2>
+<p>Bearbeiten Sie die Aufgaben unter IPCC in Particifi.</p>
+
+<img data-src="../images/img/Tag10.png" class="r-stretch"></section>
+<section id="wissenschaftliche-grundlagen-14" class="slide level2">
+<h2>🔬 Wissenschaftliche Grundlagen 1/4</h2>
+<p>Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br></p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_CSB_2_Figure_1.png" style="width:75.0%"></p>
+<figcaption><span class="citation" data-cites="IPCC2023">Climate Change (IPCC) (<a href="#/literatur" role="doc-biblioref" onclick="">2023</a>)</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:60%;">
+<div title="Fragen">
+<div class="callout callout-tip no-icon callout-titled callout-style-simple">
 <div class="callout-body">
 <div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Beispiel</strong></p>
-</div>
-<div class="callout-content">
-<p><strong>Adaption, sozial, ökologisch</strong>. Der Springbrunnen auf dem kahlen Firmaneiplatz ist ein beliebter Treffpunkt für Familen mit kleinen Kindern und verbessert das Lokalklima</p>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="bewertung-der-beispiele" class="slide level2">
-<h2>Bewertung der Beispiele</h2>
-<div title="Aufgabenstellung">
-<div class="callout callout-tip callout-titled callout-style-simple">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Aufgabenstellung</strong></p>
+<p><strong>Fragen</strong></p>
 </div>
 <div class="callout-content">
 <ul>
-<li>Bewerten Sie mindestens 20 der Beispiele anderer Gruppen.</li>
-<li>Wählen Sie räumlich gut über die Stadt verteilte Beipiele aus.</li>
-<li>Bewerten sie die Verschlagwortung und Begründung mit 1 bis 5 Sternen</li>
+<li><p>Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?</p></li>
+<li><p>Was bedeutet die Prozentzahl in Klammern in Sektion b)?</p></li>
+<li><p>Was bedeuten die flächigen Einfärbungen in den Graphen?</p></li>
 </ul>
 </div>
 </div>
 </div>
 </div>
+</div></div>
 </section>
-<section id="wirkfolgen-des-klimawandels-auf-den-urbanen-raum" class="slide level2">
-<h2>Wirkfolgen des Klimawandels auf den urbanen Raum</h2>
+<section id="wissenschaftliche-grundlagen-24" class="slide level2">
+<h2>🔬 Wissenschaftliche Grundlagen 2/4</h2>
+<p>Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br></p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png"><img data-src="https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure5.png" class="quarto-figure quarto-figure-center" style="width:75.0%" alt="Climate Change (IPCC) (2023)"></a></p>
+</figure>
+</div>
+<figcaption><span class="citation" data-cites="IPCC2023">Climate Change (IPCC) (<a href="#/literatur" role="doc-biblioref" onclick="">2023</a>)</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:60%;">
+<div title="Fragen">
+<div class="callout callout-tip no-icon callout-titled callout-style-simple">
+<div class="callout-body">
+<div class="callout-title">
+<p><strong>Fragen</strong></p>
+</div>
+<div class="callout-content">
+<ul>
+<li><p>Welche Szenarien finden Sie in der Abbildung wieder?</p></li>
+<li><p>Was bedeuten die flächigen Einfärbungen in den Graphen?</p></li>
+<li><p>Haben die implementierten politischen Vorgaben in der jüngeren Vergangenheit die modellierte Wirkung erzielt?</p></li>
+<li><p>Was bedeutet der Blick in die jüngere Vergangenheit für unsere Modellannahmen in der Zukunft?</p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+<section id="wissenschaftliche-grundlagen-34" class="slide level2">
+<h2>🔬 Wissenschaftliche Grundlagen 3/4</h2>
+<p>Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br> <br></p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png"><img data-src="https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png" style="width:75.0%" alt="Climate Change (IPCC) (2023)"></a></p>
+<figcaption><span class="citation" data-cites="IPCC2023">Climate Change (IPCC) (<a href="#/literatur" role="doc-biblioref" onclick="">2023</a>)</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:60%;">
+<div title="Fragen">
+<div class="callout callout-tip no-icon callout-titled callout-style-simple">
+<div class="callout-body">
+<div class="callout-title">
+<p><strong>Fragen</strong></p>
+</div>
+<div class="callout-content">
+<ul>
+<li><p>Was bedeuten die 5 Szenarien? Wovon hängen Sie ab?</p></li>
+<li><p>Wie warm wird es auf der Erde sein, wenn Sie 50 sind?</p></li>
+<li><p>Was können Gründe dafür sein, dass sich die Erde in den oberen drei Szenarien nach 2100 weiter erwärmt?</p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+<section id="wissenschaftliche-grundlagen-44" class="slide level2">
+<h2>🔬 Wissenschaftliche Grundlagen 4/4</h2>
+<p>Diskutieren Sie nun die Zukunftsprognosen aus wissenschaftlicher Sicht in Zweierteams. Nutzen Sie hiefür als Grundlage die untenstehende Abbildung.<br></p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png"><img data-src="https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure6.png" style="width:100.0%" alt="Climate Change (IPCC) (2023)"></a></p>
+<figcaption><span class="citation" data-cites="IPCC2023">Climate Change (IPCC) (<a href="#/literatur" role="doc-biblioref" onclick="">2023</a>)</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:60%;">
+<div title="Fragen">
+<div class="callout callout-tip no-icon callout-titled callout-style-simple">
+<div class="callout-body">
+<div class="callout-title">
+<p><strong>Fragen</strong></p>
+</div>
+<div class="callout-content">
+<ul>
+<li><p>Was bedeutet die dargestellte Pfadentwicklung?</p></li>
+<li><p>Was bedeutet diese Pfadentwicklung für die Bildungsarbeit?</p></li>
+<li><p>Was bedeuten aktuelle politische Entwicklungen, konkret etwa die Ergebnisse der letzten Klimakonferenz für die Pfadentwicklung?</p></li>
+<li><p>Auf welchem Pfad sehen Sie die Menschheit?</p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+<section id="zukunftsvision" class="slide level2">
+<h2>🔮 Zukunftsvision</h2>
+<p>Diskutieren Sie nun das Zukunftsbild der IPCC.<br></p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_18_FAQ_18_2_1.png"><img data-src="https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_18_FAQ_18_2_1.png" style="width:100.0%" alt="Climate Change (IPCC) (2023)"></a></p>
+<figcaption><span class="citation" data-cites="IPCC2023">Climate Change (IPCC) (<a href="#/literatur" role="doc-biblioref" onclick="">2023</a>)</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:60%;">
+<div title="Fragen">
+<div class="callout callout-tip no-icon callout-titled callout-style-simple">
+<div class="callout-body">
+<div class="callout-title">
+<p><strong>Fragen</strong></p>
+</div>
+<div class="callout-content">
+<ul>
+<li><p>Wie ist das Bild zu interpretieren?</p></li>
+<li><p>Inwiefern weicht das Bild von Ihrer gestern skizzierten Zukunftsvision ab?</p></li>
+<li><p>Lassen sich Ihre Zukunftsvisionen und die dargestellte Vision verbinden? Wenn ja, wie? Wenn nein, warum nicht?</p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+<section id="resilienz-vulnerabilität" class="slide level2">
+<h2>🛡 Resilienz &amp; Vulnerabilität</h2>
+<ul>
+<li><p><strong>Resilienz:</strong> Die Fähigkeit eines Individuums, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, den Stress- und Schockwellen eines dramatischen, traumatischen und oft unvorhergesehenen Ereignisses oder einer Entwicklung standzuhalten, zu überleben und sich an sie anzupassen. Die Fähigkeit zum Wiederaufbau ist ein Zeichen der Widerstandsfähigkeit.</p></li>
+<li><p><strong>Vulnerabilität:</strong> Das Ausmaß, in dem ein Individuum, eine Gemeinschaft, eine Gesellschaft oder ein Ökosystem nicht in der Lage ist, mit den Stress- und Schockwellen eines dramatischen, traumatischen und oft unerwarteten Ereignisses oder einer unerwarteten Entwicklung umzugehen.</p></li>
+</ul>
+<p>angepasst nach:</p>
+<p><span class="citation" data-cites="selby2011education">David Selby and Kagawa (<a href="#/literatur" role="doc-biblioref" onclick="">2011</a>)</span></p>
+</section>
+<section id="resilienzdimensionen" class="slide level2">
+<h2>🧬 Resilienzdimensionen</h2>
+<ul>
+<li>Biologisch</li>
+<li>Materiell</li>
+<li>Sozial (einschließlich Kultur)</li>
+<li>Kognitiv (Wissen und Verstehen)</li>
+<li>Emotional</li>
+</ul>
+<p>angepasst nach:</p>
+<p><span class="citation" data-cites="williamson2006wellbeing">Williamson and Robinson (<a href="#/literatur" role="doc-biblioref" onclick="">2006</a>)</span>, <span class="citation" data-cites="selby2011education">David Selby and Kagawa (<a href="#/literatur" role="doc-biblioref" onclick="">2011</a>)</span></p>
+</section>
+<section id="klimawandelresilienz" class="slide level2">
+<h2>♻ Klimawandelresilienz</h2>
+<p>Die Fähigkeit einer Person, einer Gemeinschaft, einer Gesellschaft oder eines Ökosystems, die durch den Klimawandel verursachten Bedrohungen, Gefahren, Katastrophen, Erschütterungen und Belastungen zu überleben und sich danach wieder aufzubauen. Merkmale der Resilienz:</p>
+<ul>
+<li><p>Emotionale, psychologische und kulturelle Stabilität</p></li>
+<li><p>Die Fähigkeit, positiv und hoffnungsvoll zu bleiben</p></li>
+<li><p>Die Fähigkeit zur Anpassung und Transformation</p></li>
+<li><p>Die Geschwindigkeit und Robustheit bei Rückkehr zu einem stabilen Zustand.</p></li>
+</ul>
+<p><span class="citation" data-cites="selby2011education">(<a href="#/literatur" role="doc-biblioref" onclick="">David Selby and Kagawa 2011</a>)</span></p>
+</section>
+<section id="adaption" class="slide level2">
+<h2>🔄 Adaption</h2>
+<ul>
+<li><p>Zur Adaption gehören die Änderung der sozialen und natürlichen Umwelt, so dass die Auswirkungen der Gefahren des Klimawandels uns und unsere Lebensweise weniger stark treffen.</p></li>
+<li><p>Dazu gehört auch, positive Aspekte des Klimawandels zu nutzen. Es geht aber hauptächlich darum auf potenzielle Gefahr zu regaieren, indem wir unsere Anfälligkeit für diese reduzieren</p></li>
+</ul>
+<p><span class="citation" data-cites="SelbyKagawa2013">(<a href="#/literatur" role="doc-biblioref" onclick="">D. Selby and Kagawa 2013</a>)</span>.</p>
+</section>
+<section id="strategien-der-anpassung" class="slide level2">
+<h2>🛠 Strategien der Anpassung</h2>
+<ol type="1">
+<li><p>Im Vorfeld Maßnahmen ergreifen, um Verluste zu vermeiden, zum Beispiel durch Baumaßnahmen Barrieren gegen den Anstieg des Meeresspiegels oder Aufforstung von Hängen, um Erdrutsche zu verhindern</p></li>
+<li><p>Maßnahmen ergreifen, um Verluste zu reduzieren, beispielsweise durch dürreresistente Pflanzen bei Trockenheit</p></li>
+<li><p>Verluste verteilen oder teilen, beispielsweise eine nationale Entlastungssteuer für Katstrophen einrichten</p></li>
+<li><p>Die Art und Weise anpassen, wie eine Aktivität ausgeführt wird, beispielsweise das Mulchen von Erde um Wasserverlust reduzieren</p></li>
+<li><p>Änderung des Standorts einer Tätigkeit, beispielsweise die Verlagerung der Landwirtschaft weg von steilen Berghängen und/oder dorthin, wo es eine sicherere Wasserquelle gibt</p></li>
+<li><p>Wiederherstellung von Orten mit zweckdienlichem Schutz, beispielsweise Wiederaufbau einer heiligen Stätte an einem gefährlichen Ort mit Schutzmaßnahmen</p></li>
+</ol>
+<p><span class="citation" data-cites="UNEP_UNFCCC_2002">(Inspiriert von: <a href="#/literatur" role="doc-biblioref" onclick="">United Nations Environment Programme (UNEP) and United Nations Framework Convention on Climate Change (UNFCCC) 2002</a>)</span></p>
+</section>
+<section id="maladaption" class="slide level2">
+<h2>🚫 Maladaption</h2>
+<p>Fehlanpassungen (Maladaption) sind:</p>
+<p><em>“Maßnahmen, die in erster Linie ergriffen werden, um die Verwundbarkeit gegenüber dem Klimawandel zu vermeiden oder zu verringern, die jedoch negative Auswirkungen auf andere Systeme, Sektoren oder soziale Gruppen haben oder deren Verwundbarkeit erhöhen”</em>.</p>
+<p><span class="citation" data-cites="barnett2013minimising">(<a href="#/literatur" role="doc-biblioref" onclick="">Barnett and O’Neill 2013, 88</a>)</span></p>
+</section>
+<section id="klimawandelbildung" class="slide level2">
+<h2>🎓 Klimawandelbildung</h2>
+<p>Bildung für:</p>
+
+<img data-src="../images/un4.png" class="r-stretch quarto-figure-center"><p class="caption">Klimawandelbilung. verändert nach <span class="citation" data-cites="unesco_unep_2011">United Nations Educational, Scientific and Cultural Organization (UNESCO) and United Nations Environment Programme (UNEP) (<a href="#/literatur" role="doc-biblioref" onclick="">2011</a>)</span></p></section>
+<section id="resilienzbildung" class="slide level2">
+<h2>💪 Resilienzbildung</h2>
+
+<img data-src="../images/resilienzhaus.png" class="r-stretch quarto-figure-center"><p class="caption">Resilienzbildung</p><p>Resilienzbildung soll die Individuen unterstützen resilient auf durch den Klimawandel bedingte Herausforderungen zu reagieren und zu einer resilienten Gesellschaft beitragen.</p>
+</section>
+<section id="coping-im-kontext-des-klimawandels" class="slide level2">
+<h2>💭 Coping im Kontext des Klimawandels</h2>
+<ul>
+<li><p><strong>Problem orientiertes coping</strong> - Fokussiert die Problemlösung durch das Individuum im Kontext des Klimawandels - Problematisch, da sich das Problem nicht vom Individuum lösen lässt</p></li>
+<li><p><strong>Emotionales coping</strong> - Fokussiert die Emotionsregulation - Vermeidung, Verleugung, Distanzierung - Nur tragfähig bei kurfritigen Stressoren - Im Kontext des Klimawandels nicht tragfähig, da Stressoren sich verschlimmern werden</p></li>
+<li><p><strong>Meaning-focused coping</strong> - Fokussiert gemeinschaftlicher Umgang - Vertrauen in gesellschaftspolitische Akteure - Aktive Aufrechterhaltung von Hoffnung - positiver Zusammenhang mit konstruktivem Umgang mit Klimawandel</p></li>
+</ul>
+<p><span class="citation" data-cites="ojala2020trust">Ojala (<a href="#/literatur" role="doc-biblioref" onclick="">2020</a>)</span></p>
+</section>
+<section id="außerschulische-lernorte-und-klimawandelbildung" class="slide level2">
+<h2>🏫 Außerschulische Lernorte und Klimawandelbildung</h2>
+<ul>
+<li>Fehlvorstellungen erschweren einen konstruktiven Umgang mit der globalen Erwärmung. (<span class="citation" data-cites="BrownEtAl2023">Brown et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2023</a>)</span>, <span class="citation" data-cites="CrandonEtAl2022">Crandon et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2022</a>)</span>. <span class="citation" data-cites="Ratinen2021">Ratinen (<a href="#/literatur" role="doc-biblioref" onclick="">2021</a>)</span>)</li>
+<li>Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung für Klimanpassung zu leisten. (<span class="citation" data-cites="ChangWi2018">Chang and Wi (<a href="#/literatur" role="doc-biblioref" onclick="">2018</a>)</span>, <span class="citation" data-cites="DaviesEtAl2024">Davies et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2024</a>)</span>, <span class="citation" data-cites="HarmLee2021">Harm and Lee (<a href="#/literatur" role="doc-biblioref" onclick="">2021</a>)</span>, <span class="citation" data-cites="MoroteEtAl2021">Morote, Hernández, and Olcina (<a href="#/literatur" role="doc-biblioref" onclick="">2021</a>)</span>)</li>
+<li>Integrierende Systemperspektive definiert Fachlichkeit (<span class="citation" data-cites="DGfG2020">Deutsche Gesellschaft für Geographie (<a href="#/literatur" role="doc-biblioref" onclick="">2020</a>)</span>) und entspricht Kernkonzepten, die für die Bewältigung dieser Zukunftsherausforderungen benötigt werden. (<span class="citation" data-cites="ChangWi2018">Chang and Wi (<a href="#/literatur" role="doc-biblioref" onclick="">2018</a>)</span>, <span class="citation" data-cites="HarmLee2021">Harm and Lee (<a href="#/literatur" role="doc-biblioref" onclick="">2021</a>)</span>)</li>
+<li>Feldmethoden und außerschulisches Lernen erschließen die Kontextgebundenheit von Adaptionsmaßnahmen. (<span class="citation" data-cites="RickardsEtAl2024">Rickards et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2024</a>)</span>)</li>
+</ul>
+</section>
+<section id="herausforderungen-der-klimaadaption---kontextgebundenheit" class="slide level2">
+<h2>🗺 Herausforderungen der Klimaadaption - Kontextgebundenheit</h2>
+<ul>
+<li>Die grundsätzliche Kontextgebundenheit von Adaptionsmaßnahmen bedeutet, dass abstrakte Erkenntnis erst auf das konkrete Setting angewendet werden muss (vgl. <span class="citation" data-cites="RickardsEtAl2024">Rickards et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2024</a>)</span>).</li>
+</ul>
+<p>Dies erfordert systemisches Denken.</p>
+<ul>
+<li>Abstrakte Erkenntnisse (allgemeine Konzepte) benennen und erläutern.</li>
+<li>Anhand gut gewählter Standtorte auf das konkrete Setting anwenden</li>
+</ul>
+</section>
+<section id="herausforderungen-der-klimaadaption---konvergenz" class="slide level2">
+<h2>🗺 Herausforderungen der Klimaadaption - Konvergenz</h2>
+<ul>
+<li><p>Auch für die übergeordneten Ebenen sind neue Forschungszugänge erforderlich sind (vgl. <span class="citation" data-cites="RickardsEtAl2024">Rickards et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2024</a>)</span>).</p></li>
+<li><p>Ein Rückgriff auf vorhandenes Wissen ist daher notwendig, birgt aber die Gefahr, schematisch auf alte, nicht mehr gültige Lösungsstrategien zurückzugreifen (vgl. <span class="citation" data-cites="abercrombie2023training">Abercrombie et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2023</a>)</span>, <span class="citation" data-cites="RickardsEtAl2024">Rickards et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2024</a>)</span>).</p>
+<ul>
+<li><p>Diese Problemlage fordert den Kompetenzbereich der Konvergenzforschung (Convergence Research).</p></li>
+<li><p>Wenn nötig, Spannungsfelder benennen, an denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="herausforderungen-der-klimaadaption---kommunikation-mit-gesellschaftspolitischen-akteurinnen" class="slide level2">
+<h2>🗺 Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen</h2>
+<p>Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Sie ist jedoch von der Herausforderung geprägt, dass die Akteur:innen in der Regel Planungssicherheit benötigen, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. <span class="citation" data-cites="RickardsEtAl2024">Rickards et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2024</a>)</span>).</p>
+<ul>
+<li>involvierte gesellschaftlichen Akteur*innen und ihre Interessen benennen.</li>
+<li>Geeigenet Standorte wählen an denen (potenzielle) Interessenskonflikte deutlich gemacht werden können.</li>
+</ul>
+</section>
+<section id="herausforderung-der-klimaadaption---proaktives-handeln" class="slide level2">
+<h2>🗺 Herausforderung der Klimaadaption - Proaktives Handeln</h2>
+<p>Proaktives Handeln ist notwendig, um Adaptionsbemühungen voranzubringen. Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit wiederholt in den Hintergrund (vgl. <span class="citation" data-cites="EisenackEtAl2014">Eisenack et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2014</a>)</span>).</p>
+<ul>
+<li>welches Engagement ist sinnvoll?</li>
+</ul>
+</section>
+<section id="herausforderung-der-klimaadaption---gesamtgesellschaftlich-denken" class="slide level2">
+<h2>🗺 Herausforderung der Klimaadaption - Gesamtgesellschaftlich denken</h2>
+<p>Klimaadaption gesamtgesellschaftlich und nicht individuell zu denken, ist zwingend erforderlich, um die Resilienz einer Gesellschaft zu stärken (vgl. <span class="citation" data-cites="ColloffEtAl2017">Colloff et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2017</a>)</span>, <span class="citation" data-cites="FedeleEtAl2019">Fedele et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2019</a>)</span>; <span class="citation" data-cites="WilsonEtAl2020">Wilson et al. (<a href="#/literatur" role="doc-biblioref" onclick="">2020</a>)</span>).</p>
+<ul>
+<li>geeigenete Standorte finden, um individuelle und gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu machen.</li>
+</ul>
+</section>
+<section id="lokale-klimaadaption---klimaadaption-in-marburg" class="slide level2">
+<h2>🏘️️ Lokale Klimaadaption - Klimaadaption in Marburg</h2>
 
 <img data-src="../images/KlimawandelStadt.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="ziel-des-seminars" class="slide level2">
+<h2>🎯 Ziel des Seminars</h2>
+<ol type="1">
+<li><p>Sie sollen lernen, den Raum zu erschließen und für außerschulisches Lernen vorzubereiten, indem Sie Ihren Kommiliton*innen die Notwendigkeit bzw. das Potenzial der Klimaanpassung vermitteln und Lösungsstrategien für den Umgang mit den Herausforderungen diskutieren, um die Resilienz der Gesellschaft zu stärken.</p></li>
+<li><p>Der Lernort soll zunächst auf universitärer Ebene erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas über die Klimaresilienz bzw. -vulnerabilität Marburgs lernen.</p></li>
+</ol>
+</section>
+<section id="weiterer-ablauf" class="slide level2">
+<h2>🕐 Weiterer Ablauf</h2>
+<p>Wir treffen uns um 13.30 Uhr an der Hochwiese vor dem Deutschen Haus und starten zu einer Exkursion.</p>
+</section>
 <section id="konzepte-und-rahmenvorgaben" class="slide level2">
-<h2>Konzepte und Rahmenvorgaben</h2>
-<ul>
-<li><a href="https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Themen/Themenuebersicht/Klima-und-Umweltschutz/klima-und-umweltschutz_node.html">Klima- und Umweltschutz</a></li>
-<li><a href="https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Publikationen/DE_Ressorforschung/klimagerechte_stadtentwicklung.pdf%3F__blob%3DpublicationFile%26v%3D1&amp;ved=2ahUKEwiSnq3TobOFAxWe7LsIHaCCATAQFnoECDEQAQ&amp;usg=AOvVaw1ooYsFSQLGcF2xTpoKPcgA">Klimawandelgerechte Stadtentwicklung</a></li>
-<li><a href="https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank?kompass_tags_f_action=85070&amp;page=5">Umweltbundesamt Tatenbank</a></li>
-</ul>
+<h2>📘 Konzepte und Rahmenvorgaben</h2>
+<p>Hier finden Sie eininge Links zu Rahmenvorgaben und Konzepten zu Klima und Stadtentwicklung</p>
+<div class="linkkarten-grid">
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/DE/Themen/Themenuebersicht/Klima-und-Umweltschutz/klima-und-umweltschutz_node.html" target="_blank" style="text-decoration:none;color:#007acc;">Klima- und Umweltschutz</a>
+</h3>
+<p>
+Themenseite des Bundes über Klima- und Umweltschutz in der Stadtentwicklung.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Publikationen/DE_Ressorforschung/klimagerechte_stadtentwicklung.pdf" target="_blank" style="text-decoration:none;color:#007acc;">Klimawandelgerechte Stadtentwicklung (PDF)</a>
+</h3>
+<p>
+Fachpublikation zu Konzepten und Beispielen für klimagerechte Planung.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank?kompass_tags_f_action=85070&amp;page=5" target="_blank" style="text-decoration:none;color:#007acc;">Umweltbundesamt Tatenbank</a>
+</h3>
+<p>
+Datenbank mit Praxisbeispielen zur Klimaanpassung – sortierbar nach Themen.
+</p>
+</div>
+</div>
+</div>
 </section>
-<section id="marburg-und-klimaschutz" class="slide level2">
-<h2>Marburg und Klimaschutz</h2>
-<ul>
-<li><a href="https://www.marburg.de/portal/seiten/integriertes-klimaschutzkonzept-der-stadt-marburg-900000629-23001.html">Integriertes Klimaschutzkonzept Marburg</a></li>
-<li><a href="https://www.marburg.de/portal/seiten/klimaneutral-und-sozialvertraeglich-leitlinien-fuer-die-stadtentwicklung-900002968-23001.html">Klimaneutral und sozialverträglich: Leitlinien für die Stadtentwicklung Marburg</a></li>
-<li><a href="https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2012/5_6/Inhalt/izr-5-6-2012-komplett-dl.pdf?__blob=publicationFile&amp;v=1">Energie- und klimaeffiziente Quartiere: Beispiel Marburg</a></li>
-<li><a href="https://www.marburg.de/portal/seiten/trinkwasser-als-klimaschutz-900001906-23001.html?rubrik=900000045">Trinkwasser als Klimaschutz</a></li>
-<li><a href="https://www.marburg.de/portal/seiten/nachbarschaftsprojekte-im-klimaschutz-900002387-23001.html">Nachbarschaftsprojekte im Klimaschutz Marburg</a></li>
-<li><a href="https://www.bne-marburg.de/organisation/kollektiv-von-morgen-e-v/">kollektiv von MORGEN</a></li>
-<li><a href="https://www.bne-marburg.de/">BNE Marburg</a></li>
-<li><a href="https://www.spielplatztreff.de/spielplatz/maerchenspielplatz-in-marburg_4766">Spielplatztreff</a></li>
-<li><a href="https://www.uni-marburg.de/de/universitaet/profil/universitaetskultur/nachhaltigkeit/green-office/engagement/externe-initiativen/urban-gardening">Urban Gardening</a></li>
-</ul>
+<section id="lokale-klima--und-umweltprojekte-marburg" class="slide level2">
+<h2>🌿 Lokale Klima- und Umweltprojekte Marburg</h2>
+<p>Hier finden Sie Materialien zu klimarelevanten Umweltprojekten in Marburg:</p>
+<div class="linkkarten-grid">
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.marburg.de/portal/seiten/integriertes-klimaschutzkonzept-der-stadt-marburg-900000629-23001.html" target="_blank" style="text-decoration:none;color:#007acc;">Integriertes Klimaschutzkonzept Marburg</a>
+</h3>
+<p>
+Strategiepapier der Stadt für eine nachhaltige Klimapolitik.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">📐</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.marburg.de/portal/seiten/klimaneutral-und-sozialvertraeglich-leitlinien-fuer-die-stadtentwicklung-900002968-23001.html" target="_blank" style="text-decoration:none;color:#007acc;">Leitlinien für klimaneutrale und sozialverträgliche Stadtentwicklung</a>
+</h3>
+<p>
+Visionen und Handlungsfelder für die Stadtplanung in Marburg.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🏘️</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2012/5_6/Inhalt/izr-5-6-2012-komplett-dl.pdf?__blob=publicationFile&amp;v=1" target="_blank" style="text-decoration:none;color:#007acc;">Energie- und klimaeffiziente Quartiere – Beispiel Marburg (IZR-Artikel)</a>
+</h3>
+<p>
+Fachbeitrag über nachhaltige Quartiersentwicklung in der Stadt.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.marburg.de/portal/seiten/trinkwasser-als-klimaschutz-900001906-23001.html?rubrik=900000045" target="_blank" style="text-decoration:none;color:#007acc;">Trinkwasser als Klimaschutz</a>
+</h3>
+<p>
+Wie der sparsame Umgang mit Wasser den Klimaschutz unterstützt.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌍</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.marburg.de/portal/seiten/nachbarschaftsprojekte-im-klimaschutz-900002387-23001.html" target="_blank" style="text-decoration:none;color:#007acc;">Nachbarschaftsprojekte im Klimaschutz Marburg</a>
+</h3>
+<p>
+Lokale Initiativen und Bürgerengagement für ein besseres Klima.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🤝</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.bne-marburg.de/organisation/kollektiv-von-morgen-e-v/" target="_blank" style="text-decoration:none;color:#007acc;">kollektiv von MORGEN e.V.</a>
+</h3>
+<p>
+Verein für Bildung, Nachhaltigkeit und gesellschaftlichen Wandel.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">📐</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.bne-marburg.de/" target="_blank" style="text-decoration:none;color:#007acc;">BNE Marburg – Bildung für nachhaltige Entwicklung</a>
+</h3>
+<p>
+Zentrale Plattform für Nachhaltigkeitsprojekte in Bildung und Stadt.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🎠</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.spielplatztreff.de/spielplatz/maerchenspielplatz-in-marburg_4766" target="_blank" style="text-decoration:none;color:#007acc;">Märchenspielplatz – Spielplatztreff Marburg</a>
+</h3>
+<p>
+Ein besonderes Spielplatzprojekt mit Gemeinschaftscharakter.
+</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">🌱</span>
+<div class="linkkarte-content">
+<h3>
+<a href="https://www.uni-marburg.de/de/universitaet/profil/universitaetskultur/nachhaltigkeit/green-office/engagement/externe-initiativen/urban-gardening" target="_blank" style="text-decoration:none;color:#007acc;">Urban Gardening an der Uni Marburg</a>
+</h3>
+<p>
+Studierende und Bürger
+</p>
+</div>
+</div>
+</div>
 </section>
-<section id="vorgaben-für-den-lernort" class="slide level2">
-<h2>Vorgaben für den Lernort</h2>
-<p>Ziel des Außerschulischen Lernortes soll es zunächst sein Ihren Kommiliton*innen den Bedarf oder das Potenzial für eine Klimaadaption zu vermitteln, um die Resilienz der Gesellschaft zu stärken.</p>
-<ul>
-<li><p>Der Lernort soll zunächst auf universitärem Niveau erschlossen werden, d.h. Ihre Kommiliton*innen sollen fachlich etwas zur Klimaresilienz bzw. -vulnerabiltät Marburgs lernen.</p></li>
-<li><p>Sie können Beispiele für Adaption, Maladaption, Resilienz und Vulnerabilität aufarbeiten.</p></li>
-<li><p>Ihre Beispiele können das physische, ökologische, soziale oder wirtschaftliche System betreffen, auch Schnittbereich sind möglich.</p></li>
-</ul>
-</section>
-<section id="vorgaben-für-die-skizze" class="slide level2">
-<h2>Vorgaben für die Skizze</h2>
-<div title="Aufgabenstellung">
-<div class="callout callout-important no-icon callout-titled callout-style-simple">
-<div class="callout-body">
-<div class="callout-title">
-<p><strong>Aufgabenstellung</strong></p>
-</div>
-<div class="callout-content">
-<p>Die Skizze Ihres Dreierteams soll bis 23:55 Uhr heute Abend im Ilias-Ordner hochgeladen sein.</p>
-</div>
-</div>
-</div>
-</div>
-<p>Darin enthalten sollen sein:</p>
-<ul>
-<li>Thema:</li>
-<li>Ort:</li>
-<li>Ziel:</li>
-<li>Aktivierung der Teilnehmenden:</li>
-</ul>
+<section id="literatur" class="slide level2 smaller scrollable">
+<h2>📖 Literatur</h2>
 
-<div class="quarto-auto-generated-content">
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-abercrombie2023training" class="csl-entry" role="listitem">
+Abercrombie, Sarah, Diana L. Stuart, Camille E. Aslan, Sara Souther, and Barbara C. Petersen. 2023. <span>“Training Community Engaged Climate Adaptation Leaders Using Multiple Case Study Analysis: Insights from Cognitive Learning Sciences.”</span> <em>Frontiers in Climate</em> 5: 1196467. <a href="https://doi.org/10.3389/fclim.2023.1196467">https://doi.org/10.3389/fclim.2023.1196467</a>.
+</div>
+<div id="ref-barnett2013minimising" class="csl-entry" role="listitem">
+Barnett, Jon, and Saffron J. O’Neill. 2013. <span>“Minimising the Risk of Maladaptation: A Framework for Analysis.”</span> In <em>Climate Adaptation Futures</em>, edited by Jean P. Palutikof, Sarah L. Boulter, Andrew J. Ash, Mark Stafford Smith, Martin Parry, Marie Waschka, and Daniela Guitart, 87–93. Wiley-Blackwell. <a href="https://doi.org/10.1002/9781118529577.ch7">https://doi.org/10.1002/9781118529577.ch7</a>.
+</div>
+<div id="ref-BrownEtAl2023" class="csl-entry" role="listitem">
+Brown, A., S. Collado, G. W. Evans, and J. E. Loebach. 2023. <span>“Designing Learning Environments for Promoting Young People’s Constructive Coping with Climate Change.”</span> In <em>Advances in Child Development and Behavior</em>, edited by J. J. Lockman, 65:169–98. JAI. <a href="https://doi.org/10.1016/bs.acdb.2023.05.005">https://doi.org/10.1016/bs.acdb.2023.05.005</a>.
+</div>
+<div id="ref-ChangWi2018" class="csl-entry" role="listitem">
+Chang, C.-H., and A. Wi. 2018. <span>“Why the World Needs Geography Knowledge in Global Understanding: An Evaluation from a Climate Change Perspective.”</span> In <em>International Perspectives on Geographical Education</em>, edited by A. Demirci, R. de Miguel González, and S. W. Bednarz, 29–42. Springer Berlin Heidelberg. <a href="https://doi.org/10.1007/978-3-319-77216-5_3">https://doi.org/10.1007/978-3-319-77216-5_3</a>.
+</div>
+<div id="ref-IPCC2023" class="csl-entry" role="listitem">
+Climate Change (IPCC), Intergovernmental Panel on. 2023. <span>“Climate Change 2023: Synthesis Report. Contribution of Working Groups i, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.”</span> Edited by Hoesung Lee, Jim Skea, Aditi Mukherji, Ramón Pichs-Madruga, Andy Reisinger, Ko Barrett, and Diana Ürge-Vorsatz. Geneva, Switzerland: IPCC. <a href="https://doi.org/10.59327/IPCC/AR6-9789291691647.001">https://doi.org/10.59327/IPCC/AR6-9789291691647.001</a>.
+</div>
+<div id="ref-ColloffEtAl2017" class="csl-entry" role="listitem">
+Colloff, M. J., B. Martín-López, S. Lavorel, B. Locatelli, R. Gorddard, P.-Y. Longaretti, G. Walters, et al. 2017. <span>“An Integrative Research Framework for Enabling Transformative Adaptation.”</span> <em>Environmental Science &amp; Policy</em> 68: 87–96. <a href="https://doi.org/10.1016/j.envsci.2016.11.007">https://doi.org/10.1016/j.envsci.2016.11.007</a>.
+</div>
+<div id="ref-CrandonEtAl2022" class="csl-entry" role="listitem">
+Crandon, T. J., J. G. Scott, F. J. Charlson, and H. J. Thomas. 2022. <span>“A Social–Ecological Perspective on Climate Anxiety in Children and Adolescents.”</span> <em>Nature Climate Change</em> 12 (2): 123–31. <a href="https://doi.org/10.1038/s41558-021-01251-y">https://doi.org/10.1038/s41558-021-01251-y</a>.
+</div>
+<div id="ref-DaviesEtAl2024" class="csl-entry" role="listitem">
+Davies, A. R., S. Hügel, A. Norman, and G. Ryan. 2024. <span>“Climate Smart: Geography, Place and Climate Change Adaptation Education.”</span> <em>Geography</em> 109 (1): 27–35. <a href="https://doi.org/10.1080/00167487.2024.2297611">https://doi.org/10.1080/00167487.2024.2297611</a>.
+</div>
+<div id="ref-DGfG2020" class="csl-entry" role="listitem">
+Deutsche Gesellschaft für Geographie. 2020. <span>“Bildungsstandards Im Fach Geographie Für Den Mittleren Schulabschluss.”</span> <a href="https://geographie.de/wp-content/uploads/2020/09/Bildungsstandards_Geographie_2020_Web.pdf">https://geographie.de/wp-content/uploads/2020/09/Bildungsstandards_Geographie_2020_Web.pdf</a>.
+</div>
+<div id="ref-EisenackEtAl2014" class="csl-entry" role="listitem">
+Eisenack, K., S. C. Moser, E. Hoffmann, R. J. T. Klein, C. Oberlack, A. Pechan, M. Rotter, and C. J. A. M. Termeer. 2014. <span>“Explaining and Overcoming Barriers to Climate Change Adaptation.”</span> <em>Nature Climate Change</em> 4 (10): 867–72. <a href="https://doi.org/10.1038/nclimate2350">https://doi.org/10.1038/nclimate2350</a>.
+</div>
+<div id="ref-FedeleEtAl2019" class="csl-entry" role="listitem">
+Fedele, G., C. I. Donatti, C. A. Harvey, L. Hannah, and D. G. Hole. 2019. <span>“Transformative Adaptation to Climate Change for Sustainable Social-Ecological Systems.”</span> <em>Environmental Science &amp; Policy</em> 101: 116–25. <a href="https://doi.org/10.1016/j.envsci.2019.07.001">https://doi.org/10.1016/j.envsci.2019.07.001</a>.
+</div>
+<div id="ref-HarmLee2021" class="csl-entry" role="listitem">
+Harm, K., and W. Y. Lee. 2021. <span>“Exploring a Visualization-Based Geography Teaching Strategy for Climate Change Education.”</span> <em>Journal of the Korean Geographical Society</em> 56 (6): 657–73. <a href="https://doi.org/10.22776/kgs.2021.56.6.657">https://doi.org/10.22776/kgs.2021.56.6.657</a>.
+</div>
+<div id="ref-MoroteEtAl2021" class="csl-entry" role="listitem">
+Morote, Á.-F., M. Hernández, and J. Olcina. 2021. <span>“Are Future School Teachers Qualified to Teach Flood Risk? An Approach from the Geography Discipline in the Context of Climate Change.”</span> <em>Sustainability</em> 13 (15): 8560. <a href="https://doi.org/10.3390/su13158560">https://doi.org/10.3390/su13158560</a>.
+</div>
+<div id="ref-ojala2020trust" class="csl-entry" role="listitem">
+Ojala, Maria. 2020. <span>“To Trust or Not to Trust? Young People’s Trust in Climate Change Information Channels and Sources.”</span> <em>Environmental Education Research</em> 26 (7): 995–1013. <a href="https://doi.org/10.1080/13504622.2020.1822529">https://doi.org/10.1080/13504622.2020.1822529</a>.
+</div>
+<div id="ref-Ratinen2021" class="csl-entry" role="listitem">
+Ratinen, I. 2021. <span>“Students’ Knowledge of Climate Change, Mitigation and Adaptation in the Context of Constructive Hope.”</span> <em>Education Sciences</em> 11 (3): 103. <a href="https://doi.org/10.3390/educsci11030103">https://doi.org/10.3390/educsci11030103</a>.
+</div>
+<div id="ref-RickardsEtAl2024" class="csl-entry" role="listitem">
+Rickards, L. A., J. Alexandra, T. Denham, and A. Sanders. 2024. <span>“Five Tensions in Climate Adaptation Research.”</span> <em>Frontiers in Climate</em> 5: Artikel 1215171. <a href="https://doi.org/10.3389/fclim.2023.1215171">https://doi.org/10.3389/fclim.2023.1215171</a>.
+</div>
+<div id="ref-selby2011education" class="csl-entry" role="listitem">
+Selby, David, and Fumiyo Kagawa. 2011. <span>“Education and Climate Change: Living and Learning in Interesting Times.”</span> <em>Journal of Education for Sustainable Development</em> 5 (1): 37–50. <a href="https://doi.org/10.1177/097340821100500107">https://doi.org/10.1177/097340821100500107</a>.
+</div>
+<div id="ref-SelbyKagawa2013" class="csl-entry" role="listitem">
+Selby, D., and F. Kagawa. 2013. <em>Climate Change in the Classroom: UNESCO Course for Secondary Teachers</em>. UNESCO.
+</div>
+<div id="ref-unesco_unep_2011" class="csl-entry" role="listitem">
+United Nations Educational, Scientific and Cultural Organization (UNESCO), and United Nations Environment Programme (UNEP). 2011. <span>“Climate Change Starter’s Guidebook: An Issues Guide for Education Planners and Practitioners.”</span> UNESCO; UNEP. <a href="https://unesdoc.unesco.org/ark:/48223/pf0000190723">https://unesdoc.unesco.org/ark:/48223/pf0000190723</a>.
+</div>
+<div id="ref-UNEP_UNFCCC_2002" class="csl-entry" role="listitem">
+United Nations Environment Programme (UNEP), and United Nations Framework Convention on Climate Change (UNFCCC). 2002. <span>“Climate Change Information Kit.”</span> UNEP; UNFCCC. <a href="https://unfccc.int/resource/docs/publications/infokit_2002_en.pdf">https://unfccc.int/resource/docs/publications/infokit_2002_en.pdf</a>.
+</div>
+<div id="ref-williamson2006wellbeing" class="csl-entry" role="listitem">
+Williamson, John, and Malia Robinson. 2006. <span>“Psychosocial Interventions, or Integrated Programming for Well-Being?”</span> <em>Intervention</em> 4 (1): 4–25. <a href="https://psychotraumanet.org/sites/default/files/documents/int_059.pdf">https://psychotraumanet.org/sites/default/files/documents/int_059.pdf</a>.
+</div>
+<div id="ref-WilsonEtAl2020" class="csl-entry" role="listitem">
+Wilson, R. S., A. Herziger, M. Hamilton, and J. S. Brooks. 2020. <span>“From Incremental to Transformative Adaptation in Individual Responses to Climate-Exacerbated Hazards.”</span> <em>Nature Climate Change</em> 10 (3): 200–208. <a href="https://doi.org/10.1038/s41558-020-0691-6">https://doi.org/10.1038/s41558-020-0691-6</a>.
+</div>
+</div>
+</section></section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
 
 </div>
-</div>
-</section>
-    </div>
-  </div>
+</div></div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
   <script src="../site_libs/revealjs/dist/reveal.js"></script>
@@ -528,7 +745,8 @@ Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach<br>
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
-'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":false},
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":false},
 'chalkboard': {"buttons":true},
 'smaller': false,
  
@@ -550,7 +768,7 @@ Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach<br>
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -683,7 +901,7 @@ Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach<br>
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -788,8 +1006,6 @@ Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach<br>
       });
       clipboard.on('success', onCopySuccess);
       if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-        // For code content inside modals, clipBoardJS needs to be initialized with a container option
-        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
         const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
           text: getTextToCopy,
           container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -896,6 +1112,38 @@ Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach<br>
       }
     });
     </script>
+    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
+        }
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
+              </script>
     
 
 </body></html>

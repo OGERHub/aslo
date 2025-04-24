@@ -96,9 +96,6 @@ Sie sollen lernen, den Raum zu erschließen und Lernorte für außerschulisches 
 ::: {.callout-tip appearance="simple" title="Arbeitsauftrag" icon=false}
 Nehmen Sie sich einen Moment Zeit und halten Sie – ganz für sich allein – Ihre persönliche Zukunftsvision in einer Skizze oder einem Bild fest. Lassen Sie Ihre Gedanken schweifen und folgen Sie Ihrer Intuition, ohne sich vorab mit anderen abzustimmen. Welche Aspekte Ihrer Zukunft sind Ihnen besonders wichtig? Welchen Zeitraum möchten Sie in den Blick nehmen? Die gestalterische Umsetzung spielt dabei keine Rolle – im Mittelpunkt stehen Ihre Ideen. Sie haben 15 Minuten Zeit.
 
-<p style="text-align:center;">
-  <img src="/images/vision.webp" alt="Zukunftsvision" width="50%">
-</p>
 :::
 
 

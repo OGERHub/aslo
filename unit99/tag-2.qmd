@@ -1,7 +1,7 @@
 ---
 title: "Außerschulische Lernorte - Blocktag"
 subtitle: "Sommersemester 2025"
-author: <P align="right"> Rieke Ammoneit, Chris Reudenbach</P>
+author: "Rieke Ammoneit, Chris Reudenbach"
 #title-slide-attributes: 
 #  data-background-image: ../images/title-uni2.png
  # data-background-size: contain
@@ -33,7 +33,6 @@ bibliography: asloref.bib
 Heute erwartet Sie:
 
 -   eine Übersicht über aktuelle Klimaprognosen und Resilienzansätze
--   Einführung ins transformative Lernen
 -   erste Übungen im Gelände
 
 ## 🧭 Übersicht über die Szenarien

@@ -23,6 +23,7 @@ editor:
     wrap: 72
 
 bibliography: asloref.bib    
+link-citations: true
 ---
 
 

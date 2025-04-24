@@ -19,6 +19,7 @@ editor:
   markdown: 
     wrap: 72
 bibliography: asloref.bib   
+link-citations: true
 ---
 
 ## Raumkonzepte und außerschulisches Lernen

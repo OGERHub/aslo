@@ -220,6 +220,25 @@ sich danach wieder aufzubauen. Merkmale der Resilienz:
 [@selby2011education] 
 
 
+## 💭 Coping im Kontext des Klimawandels
+
+- **Problem orientiertes coping** - Fokussiert die Problemlösung durch das
+Individuum im Kontext des Klimawandels - Problematisch, da sich das
+Problem nicht vom Individuum lösen lässt
+
+- **Emotionales coping** - Fokussiert die Emotionsregulation - Vermeidung,
+Verleugung, Distanzierung - Nur tragfähig bei kurfritigen Stressoren -
+Im Kontext des Klimawandels nicht tragfähig, da Stressoren sich
+verschlimmern werden
+
+- **Meaning-focused coping** - Fokussiert gemeinschaftlicher Umgang -
+Vertrauen in gesellschaftspolitische Akteure - Aktive Aufrechterhaltung
+von Hoffnung - positiver Zusammenhang mit konstruktivem Umgang mit
+Klimawandel
+
+@ojala2020trust
+
+
 ## 🔄 Adaption
 
 - Zur Adaption gehören die Änderung der sozialen und natürlichen Umwelt, so
@@ -279,31 +298,20 @@ Bildung für:
 
 ![Klimawandelbilung. verändert nach @unesco_unep_2011](../images/un4.png){fig-align="center"}
 
-## 💪 Resilienzbildung
 
-![Resilienzbildung](../images/resilienzhaus.png){fig-align="center"}
+## Podiumsdiskussion
 
-Resilienzbildung soll die Individuen unterstützen resilient auf durch
-den Klimawandel bedingte Herausforderungen zu reagieren und zu einer
-resilienten Gesellschaft beitragen.
+Gruppe 1: Bildung für Nachhaltige Entwicklung (BNE): Argumentiert, dass BNE das Fundament für alle anderen Bildungsarten darstellt und eine ganzheitliche Perspektive zur Lösung der Klimakrise bietet.
 
-## 💭 Coping im Kontext des Klimawandels
+Gruppe 2: Bildung für Klimamitigation: Fokussiert sich darauf, dass der Klimaschutz als präventive Maßnahme die erste und dringlichste Antwort auf die Klimakrise darstellt.
 
-- **Problem orientiertes coping** - Fokussiert die Problemlösung durch das
-Individuum im Kontext des Klimawandels - Problematisch, da sich das
-Problem nicht vom Individuum lösen lässt
+Gruppe 3: Bildung für Klimaanpassung: Betont, dass die Anpassung an den bereits unvermeidbaren Klimawandel ebenso entscheidend für die langfristige Resilienz von Gesellschaften ist.
 
-- **Emotionales coping** - Fokussiert die Emotionsregulation - Vermeidung,
-Verleugung, Distanzierung - Nur tragfähig bei kurfritigen Stressoren -
-Im Kontext des Klimawandels nicht tragfähig, da Stressoren sich
-verschlimmern werden
+Gruppe 4: Bildung für Katastrophenprävention: Argumentiert, dass die Bildung in Bezug auf Katastrophenprävention und -management das unmittelbare Überleben und die Verringerung von Klimarisiken sichert.
 
-- **Meaning-focused coping** - Fokussiert gemeinschaftlicher Umgang -
-Vertrauen in gesellschaftspolitische Akteure - Aktive Aufrechterhaltung
-von Hoffnung - positiver Zusammenhang mit konstruktivem Umgang mit
-Klimawandel
+**Ordnen Sie sich einer Gruppe zu und bereiten Sie sich darauf vor in einer Podiumsdiskussion für Ihren Zugang den meisten Raum im neuen Curriculum zu bekommen.**
 
-@ojala2020trust
+
 
 ## 🏫 Außerschulische Lernorte und Klimawandelbildung
 

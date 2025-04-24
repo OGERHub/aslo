@@ -25,6 +25,12 @@ $selection-bg: #26351c;
 
 /*-- scss:rules --*/
 
+.reveal ul li::marker {
+  content: "– ";
+  font-size: 1em;
+  color: inherit; // oder ein eigener Farbwert
+}
+
 .reveal a {
   font-size: 1.0em;
 	line-height: 1.0em;
@@ -44,7 +50,7 @@ $selection-bg: #26351c;
 .reveal .slide ul li,
 .reveal .slide ol li {
 	font-weight: 200;
-	font-size: 1.0em;
+	font-size: .8em;
 }
 
 // maximum height of code blocks before scrolling is used

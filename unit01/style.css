@@ -1,0 +1,53 @@
+/* style.css */
+/* Zitate kleiner machen in Reveal.js */
+.citation {
+  font-size: 0.85em !important;  /* kleiner machen */
+  color: #666;                   /* optional grauer */
+}
+.csl-entry {
+  font-size: 0.85em !important;
+}
+
+.zitattitel {
+  font-size: 0.85em !important;
+  color: #666; /* optional */
+}
+
+.linkkarten-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1em;
+  margin-top: 2em;
+}
+
+.linkkarte {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 0.5em;
+      background-color: #f9f9f9;
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 0.5em;
+      font-size: 0.75em;
+      min-height: 100px;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      hyphens: auto;
+      flex-wrap: wrap;
+}
+.linkkarte-icon {
+  font-size: 1.9em;
+  line-height: 1.2;
+}
+.linkkarte-content h3 {
+  margin: 0;
+  font-size: 1.2em;
+  hyphens: auto;
+}
+.linkkarte-content p {
+  margin: 0.2em 0 0;
+  font-size: 1.0em;
+  hyphens: auto;
+  color: #444;
+}

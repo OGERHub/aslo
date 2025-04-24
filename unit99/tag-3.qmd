@@ -22,17 +22,90 @@ bibliography: asloref.bib
 link-citations: true
 ---
 
+
+## 🎯  Ziel des Seminars
+
+ - Ziel ist es, einen Ort zu identifizieren, der sich fachlich und didaktisch besonders gut für außerschulisches Lernen eignet. Sie sollen aufzeigen, welches Potenzial dieser Ort im Hinblick auf Klimaanpassung bietet und welche Herausforderungen sich dort stellen. Gemeinsam entwickeln Sie Strategien, um diese Herausforderungen zu vermitteln und die Resilienz der Gesellschaft zu stärken.
+ - Dabei erfolgt die Erschließung des Lernorts zunächst auf universitärer Ebene: Ihre Kommiliton:innen sollen am Beispiel Marburgs fundierte Einsichten in Klimaresilienz und -vulnerabilität gewinnen.
+
+
+## 🏫 Außerschulische Lernorte und Klimawandelbildung
+
+  -   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der
+    globalen Erwärmung. (@BrownEtAl2023, @CrandonEtAl2022. @Ratinen2021)
+  -   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung
+    für Klimanpassung zu leisten. (@ChangWi2018, @DaviesEtAl2024, @HarmLee2021, @MoroteEtAl2021)
+  -   Integrierende Systemperspektive definiert Fachlichkeit (@DGfG2020)
+    und entspricht Kernkonzepten, die für die Bewältigung dieser
+    Zukunftsherausforderungen benötigt werden. (@ChangWi2018, @HarmLee2021)
+  -   Feldmethoden und außerschulisches Lernen erschließen die
+    Kontextgebundenheit von Adaptionsmaßnahmen. (@RickardsEtAl2024)
+
+## 🗺 Herausforderungen der Klimaadaption - Kontextgebundenheit
+
+Die grundsätzliche Kontextgebundenheit von Adaptionsmaßnahmen bedeutet,
+dass abstrakte Erkenntnis erst auf das konkrete Setting angewendet
+werden muss (vgl. @RickardsEtAl2024). 
+
+Was beutetet das für die Exkursion?
+  
+  - Abstrakte Erkenntnisse (allgemeine Konzepte) benennen und erläutern.
+  - Anhand gut gewählter Standorte auf das konkrete Setting anwenden
+
+## 🗺 Herausforderungen der Klimaadaption - Konvergenz
+
+Auch für die übergeordneten Ebenen sind neue Forschungszugänge
+erforderlich sind (vgl. @RickardsEtAl2024). Ein Rückgriff auf vorhandenes Wissen ist daher notwendig, birgt aber die Gefahr,
+schematisch auf alte, nicht mehr gültige Lösungsstrategien
+zurückzugreifen (vgl. @abercrombie2023training, @RickardsEtAl2024).
+
+Was beutetet das für die Exkursion?
+
+  - Diese Problemlage fordert den Kompetenzbereich der Konvergenzforschung (Convergence Research).
+
+  - Wenn nötig, Spannungsfelder benennen, an denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)
+
+## 🗺 Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen
+
+Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Sie ist jedoch von der Herausforderung geprägt, dass die Akteur:innen in der Regel Planungssicherheit benötigen, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. @RickardsEtAl2024). 
+
+Was beutetet das für die Exkursion?
+
+  - involvierte gesellschaftlichen Akteur\*innen und ihre Interessen benennen. 
+  - Geeigenet Standorte wählen an denen (potenzielle) Interessenskonflikte deutlich gemacht werden können.
+
+
+## 🗺 Herausforderung der Klimaadaption - Proaktives Handeln
+
+Proaktives Handeln ist notwendig, um Adaptionsbemühungen voranzubringen.
+Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit wiederholt in den Hintergrund (vgl. @EisenackEtAl2014). 
+
+Was beutetet das für die Exkursion?
+
+  - welches Engagement ist sinnvoll?
+
+## 🗺 Herausforderung der Klimaadaption - Gesamtgesellschaftlich denken
+
+Klimaadaption gesamtgesellschaftlich und nicht individuell zu denken,
+ist zwingend erforderlich, um die Resilienz einer Gesellschaft zu
+stärken (vgl. @ColloffEtAl2017, @FedeleEtAl2019; @WilsonEtAl2020). 
+
+Was beutetet das für die Exkursion?
+
+  - geeigenete Standorte finden, um individuelle und gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu machen.
+
+
 ## Raumkonzepte und außerschulisches Lernen
 
 Die vier grundlegenden Raumkonzepte nach @wardenga2002raeume sollen für das Lernen an außerschulischen Lernorten zur Klimaresilienzbildung genutzt werden. 
 Raum ist dabei nicht nur ein physischen Ort, sondern als vielschichtige Lernstruktur zu verstehen, in der sich Erkenntnisprozesse mit wachsender Komplexität entfalten.
 
-Die **vier Raumverständnisse** bilden nicht nur didaktische Niveaustufen ab, sondern öffnen auch verschiedene Perspektiven auf einen Lernort – von der reinen Wahrnehmung über die funktionale Analyse bis zur kritischen Reflexion über gesellschaftliche Aushandlungsprozesse.
+Die **vier Raumkonzepte** bilden nicht nur didaktische Niveaustufen ab, sondern öffnen auch verschiedene Perspektiven auf einen Lernort – von der reinen Wahrnehmung über die funktionale Analyse bis zur kritischen Reflexion über gesellschaftliche Aushandlungsprozesse.
 
 Dadurch wird eine  **progressive Entwicklung von Raumkompetenz** im geographischen Lernen außerhalb der Schule ermöglicht.
 
 
-## Raum der Sinneswahrnehmung
+## 1. Raum der Sinneswahrnehmung
 
 Beobachteter Ort als Einstieg:
 
@@ -42,7 +115,7 @@ Beobachteter Ort als Einstieg:
  - *Aktivierung*: Die Fähigkeit den Realraum wahrzunehmen wird systematisch gefördert (z.B. werden SuS angleitet zu beobachten,  fotografieren oder subjektive Eindrücke dokumentieren). 
  - *lokale Klimaanpassung*: Eine subjetive Wahrnehmung  von relevanten Größen z.B. Hitze, Trockenheit, Luftqualität – ohne Bewertung oder Lösungsorientierung wird ermöglicht.
 
-## Raum als Container 
+## 2. Raum als Container 
 
 Raum als abgeschlossene Einheit mit messbaren Eigenschaften:
 
@@ -52,7 +125,7 @@ Raum als abgeschlossene Einheit mit messbaren Eigenschaften:
  - *Aktivierung*: Die Kompetenzen der Schüler:innen werden in der Datenerfassung mit einfachen Methoden gefördert (z.B. Messen, Kartieren, Zuordnen) 
  - *lokale Klimaanpassung*: Klimaanpassung wird als bauliche oder technische Maßnahme sichtbar gemacht (z. B. Bäume, Entsiegelung, Gründach).
 
-## Raum als System von Lagebeziehungen
+## 3. Raum als System von Lagebeziehungen
 
 Raum als funktional vernetztes Gefüge:
 
@@ -63,7 +136,7 @@ Raum als funktional vernetztes Gefüge:
  - *lokale Klimaanpassung*: Anpassungsmaßnahmen werden funktional verstanden und bewertet (z. B. Schwammstadt, Begrünung, Verkehrsberuhigung).
  
 
-## Raum als Konstrukt
+## 4. Raum als Konstrukt
 
 Raum als soziales, politisches, kulturelles Produkt:
 

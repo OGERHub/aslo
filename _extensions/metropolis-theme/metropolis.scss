@@ -27,7 +27,7 @@ $selection-bg: #26351c;
 
 .reveal a {
   font-size: 1.0em;
-	line-height: 1.2em;
+	line-height: 1.0em;
 	color: #eb811b;
 	font-weight: 300;
 }
@@ -38,7 +38,7 @@ $selection-bg: #26351c;
 
 .reveal p {
 	font-weight: 300;
-	font-size: 1.0em;
+	font-size: .8em;
 }
 
 .reveal .slide ul li,
@@ -219,3 +219,4 @@ iframe {
 .reveal .progress {
 	color: #23373b;
 }
+

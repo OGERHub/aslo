@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Markdown → Quarto Linkkarten</title>
+  <style>
+    body { font-family: sans-serif; max-width: 1000px; margin: auto; padding: 1em; }
+    textarea, pre { width: 100%; font-family: monospace; }
+    textarea { height: 200px; }
+    .btn { padding: 0.5em 1em; margin-top: 1em; font-size: 1em; cursor: pointer; }
+    .linkkarten-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 0.5em;
+      margin-top: 1.5em;
+    }
+    .linkkarte {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 0.5em;
+      background-color: #f9f9f9;
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 0.5em;
+      font-size: 0.75em;
+      min-height: 100px;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      hyphens: auto;
+      flex-wrap: wrap;
+    }
+    .linkkarte-icon {
+      font-size: 1em;
+      line-height: 1.2;
+      width: 1.5em;
+      text-align: center;
+      flex-shrink: 0;
+    }
+    .linkkarte-content {
+      flex: 1;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      hyphens: auto;
+    }
+    .linkkarte-content h3,
+    .linkkarte-content p {
+      margin: 0.2em 0 0;
+      font-size: 0.75em;
+      color: #444;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      hyphens: auto;
+    }
+    #source-output-wrapper {
+      margin-top: 2em;
+      position: relative;
+    }
+    #source-output {
+      white-space: pre-wrap;
+      background: #f0f0f0;
+      padding: 1em;
+      border-radius: 8px;
+      border: 1px dashed #ccc;
+      font-size: 0.7em;
+    }
+    #copy-btn {
+      position: absolute;
+      top: -2.2em;
+      right: 0;
+      font-size: 0.7em;
+      padding: 0.3em 0.6em;
+      border: none;
+      background: #007acc;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🔁 Markdown-Linkliste → Quarto Linkkarten</h1>
+<p>Füge deine einfache Linkliste im Format ein:</p>
+<pre>
+- 🔗 **[Titel](URL)**  
+  *Kommentarzeile zur Beschreibung*
+</pre>
+
+<textarea id="input" placeholder="Füge deine Linkliste hier ein..."></textarea>
+<button class="btn" onclick="convert()">🚀 Konvertieren</button>
+
+<h2>🧾 Ergebnis (Gerenderte Karten)</h2>
+<div id="output"></div>
+
+<h2>📄 Quelltext (zum Einfügen in .qmd)</h2>
+<div id="source-output-wrapper">
+  <button id="copy-btn" onclick="copySource()">📋 Kopieren</button>
+  <pre id="source-output"></pre>
+</div>
+
+<script>
+function clean(text) {
+  return text.replace(/^[-🔗\s]*/, "")
+             .replace(/\*\*/g, "")
+             .replace(/^\s+|\s+$/g, "");
+}
+
+function getIcon(title) {
+  const t = title.toLowerCase();
+  if (t.includes("spielplatz")) return "🎠";
+  if (t.includes("urban") || t.includes("garten")) return "🌱";
+  if (t.includes("klimaschutz") || t.includes("klima") || t.includes("umwelt")) return "🌍";
+  if (t.includes("quartier")) return "🏘️";
+  if (t.includes("leitlinie") || t.includes("entwicklung") || t.includes("stadt")) return "📐";
+  if (t.includes("bildung") || t.includes("bne")) return "📚";
+  if (t.includes("trinkwasser")) return "🚰";
+  if (t.includes("kollektiv")) return "🤝";
+  if (t.includes("datenbank") || t.includes("tatenbank")) return "📊";
+  if (t.includes("pdf")) return "📄";
+  return "🔗";
+}
+function convert() {
+  const input = document.getElementById("input").value;
+  const lines = input.split(/\n/);
+  let htmlOutput = "<div class=\"linkkarten-grid\">\n";
+  let sourceOutput = "<div class=\"linkkarten-grid\">\n";
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const linkMatch = line.match(/\[(.*?)\]\((.*?)\)/);
+    const commentMatch = lines[i+1] && lines[i+1].match(/\*([^*]*)\*/);
+
+    if (linkMatch) {
+      const title = clean(linkMatch[1]);
+      const url = linkMatch[2];
+      const comment = commentMatch ? clean(commentMatch[1]) : "";
+      const icon = getIcon(title);
+
+      const cardHTML = `<div class=\"linkkarte\">\n<span class=\"linkkarte-icon\">${icon}</span>\n<div class=\"linkkarte-content\">\n  <h3><a href=\"${url}\" target=\"_blank\" style=\"text-decoration:none;color:#007acc;\">${title}</a></h3>\n  <p>${comment}</p>\n</div>\n</div>\n`;
+
+      htmlOutput += cardHTML;
+      sourceOutput += cardHTML.replace(/\"/g, '"');
+
+      if (commentMatch) i++;
+    }
+  }
+
+  htmlOutput += "</div>\n";
+  sourceOutput += "</div>\n";
+
+  document.getElementById("output").innerHTML = htmlOutput.trim();
+  document.getElementById("source-output").textContent = sourceOutput.trim();
+}
+
+function copySource() {
+  const text = document.getElementById("source-output").textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById("copy-btn");
+    btn.textContent = "✅ Kopiert!";
+    setTimeout(() => { btn.textContent = "📋 Kopieren"; }, 1500);
+  });
+}
+</script>
+
+</body>
+</html>
+	

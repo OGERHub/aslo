@@ -1,0 +1,31 @@
+---
+title: "Kompetenzmodell zur Bewertung"
+title-block-banner: ../images/learnjournal-header.png
+title-block-banner-color: black
+bibliography: unit01-01.bib
+comments: false
+lang: de
+
+---
+
+## Kompetenzmodell für außerschulische Lernorte auf der Grundlage der Raumbegriffe nach Wardenga
+
+
+Dieses Modell verknüpft die vier grundlegenden Raumkonzepte nach Wardenga mit zentralen Dimensionen für das Lernen an außerschulischen Lernorten zur Klimaresilienzbildung [@wardenga2002raeume]. Es versteht Raum nicht nur als physischen Ort, sondern als vielschichtige Lernstruktur, in der sich Erkenntnisprozesse mit wachsender Komplexität entfalten.
+
+Ein solcher Aufbau ermöglicht:
+- **differenziertes, niveaugerechtes Lernen** an außerschulischen Orten,
+- eine **Verknüpfung von Erfahrungslernen und wissenschaftlicher Bildung**,
+- und die Förderung einer **mündigen, handlungsfähigen raumbezogenen Urteilskraft**.
+
+Das Modell zeigt eine **progressive Entwicklung von Raumkompetenz** im geographischen Lernen außerhalb der Schule. Die **vier Raumverständnisse** bilden nicht nur didaktische Niveaustufen ab, sondern öffnen auch verschiedene Perspektiven auf einen Lernort – von der reinen Wahrnehmung über die funktionale Analyse bis zur kritischen Reflexion über gesellschaftliche Aushandlungsprozesse.
+
+
+| **Raumkonzept (Niveau)** | **Standort** | **Wissenschaftlichkeit** | **Lernziele** | **Aktivierung der Schüler:innen** | **Lokale Klimaanpassung** |
+|--------------------------|--------------|---------------------------|-----------------------------|-----------------------------------|
+| **1. Raum der Sinneswahrnehmung**  <br> *Beobachteter Ort als Einstieg* | Der Realraum wird über Sinne erschlossen (sehen, fühlen, hören, riechen). | Fachlich wird eine erste Annäherung an geographische Phänomene noch ohne systematische Modellbildung begründet. | Es werden Lernziele formuliert, die erste Zugänge, Alltagsnähe oder persönliche Betroffenheit fokussieren. | Die Fähigkeit den Realraum wahrzunehmen wird systematisch gefördert (z.B. werden SuS angleitet zu beobachten,  fotografieren oder subjektive Eindrücke dokumentieren). | Eine subjetive Wahrnehmung  von relevanten Größen z.B. Hitze, Trockenheit, Luftqualität – ohne Bewertung oder Lösungsorientierung wird ermöglicht.|
+| **2. Raum als Container**  <br> *Raum als abgeschlossene Einheit mit messbaren Eigenschaften* | Der Lernort wird als räumlich Einheit mit analysierbaren Merkmale definiert und entsprechend begründet eingegrenzt (z. B. Temperatur, Versiegelung). | Fachlich wird eine systematische Datenerhebung begründet (z. B. Temperaturmessung, Vegetationsbestimmung). | Es werden Lernziele formuliert, die dem Raum unter Einbezug curricularer Vorgaben zum Untersuchungsobjekt machen. | Die Kompetenzen der Schüler:innen werden in der Datenerfassung mit einfachen Methoden gefördert (z.B. Messen, Kartieren, Zuordnen) | Klimaanpassung wird als bauliche oder technische Maßnahme sichtbar gemacht (z. B. Bäume, Entsiegelung, Gründach).|
+| **3. Raum als System von Lagebeziehungen**  <br> *Raum als funktional vernetztes Gefüge* | Der Lernort wird im Kontext seiner Beziehungen analysiert (z. B. Einfluss von Verkehr, Nachbarschaft, Wasserabfluss). | In der fachliche Begründung raumzeitliche Prozesse werden wissenschaftliche Modelle angewendet. | Es werden komplexe Lernziele formuliert, die das Verständnis von raumzeitliche Prozesse für den Lernort konkretisieren. | Die  Analyse, Hypothesenbildung, Vergleiche mit Kartenmaterial, interaktive Stadtanalysen. | Anpassungsmaßnahmen werden funktional verstanden und bewertet (z. B. Schwammstadt, Begrünung, Verkehrsberuhigung).|
+| **4. Raum als Konstrukt**  <br> *Raum als soziales, politisches, kulturelles Produkt* | Der Lernort wird als Ergebnis gesellschaftlicher Aushandlung und Konstruktion betrachtet (z. B. Nutzungskonflikte, Wahrnehmungen). | Fachlich wird der Raum als Deutungs- und Diskursraum unter Einbezug einer wissenschaftlichen Betrachtungsweise erschlossen. | Es werden Lernziele formuliert, die Partizipation und Klimaresileinz fördern. | Die Schüler:innen werden darin gefördert eigene tragfähige Konzepte der Raumgestaltung zu entwickeln (z.B. durch Rollenspiele, Planspiele, partizipative Kartierungen). | Klimaanpassung wird als gesellschaftliche Herausforderung reflektiert: Wer profitiert? Wer ist verantwortlich? Welche gesellschaftlichen Spielräume sind vorhanden?|
+
+---

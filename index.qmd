@@ -1,12 +1,16 @@
 ---
 title: ""
 open-graph:
-  description: "Außerschulische Lernorte 2024"
+  description: "Außerschulische Lernorte 2025"
   image: images/banneraslo.png
 twitter-card:
-  description: "Außerschulische Lernorte 2024"
+  description: "Außerschulische Lernorte 2025"
   image: images/banneraslo.png
 comments: false
+include-in-header: 
+  - css/banner-style.html
+include-after-body: 
+  - css/banner-footer.html
 
 ---
 

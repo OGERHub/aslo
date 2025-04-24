@@ -1,7 +1,7 @@
 ---
 title: "Außerschulische Lernorte - Tag 3"
-subtitle: "Sommersemester 2024"
-author: <P align="right"> Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reudenbach</P>
+subtitle: "Sommersemester 2025"
+author: <P align="right"> Rieke Ammoneit, Chris Reudenbach</P>
 #title-slide-attributes: 
 #  data-background-image: ../images/title-uni2.png
  # data-background-size: contain
@@ -10,6 +10,7 @@ author: <P align="right"> Rieke Ammoneit, Leoni Dörfel, Jonas Obert, Chris Reud
 format:
   revealjs:
     theme: [../_extensions/metropolis-theme/metropolis.scss]
+    css: style.css  
     toc: false
     toc-depth: 2
     chalkboard: true
@@ -17,72 +18,132 @@ format:
 editor: 
   markdown: 
     wrap: 72
+bibliography: asloref.bib   
+link-citations: true
 ---
 
-## Reflexion Skizze -  Risiken und Anpassungstrategien Klimawandel
-- Was ist die grundsätzliche Idee Ihres AsLos in Bezug auf Risiken und Anpassungstrategien des Klimawandel in Marburg?
-- Was ist der explizite  Zusammenhang mit dem *Handlungskonzept Klimaanpassung Marburg*?
-- Welche Kategorie (Adaption, Maladaption, Adaptionsbedarf) thematisieren Sie vor Ort?
-- Ist das fokussierte Problem auf der lokalen oder regionalen Skalenebene als wirksam zu bearbeiten?
-- Für wie relevant halten Sie das adressierte Thema für die Klimaresilienz in Marburg?
-- Ist das Exkursionsziel am gewählten außerschulischen Lernort erfahrbar?
-- Lässt sich das Ziel des AsLo zuverlässig im Gelände besser als im Seminarraum erreichen?
+## Raumkonzepte und außerschulisches Lernen
+
+Die vier grundlegenden Raumkonzepte nach @wardenga2002raeume sollen für das Lernen an außerschulischen Lernorten zur Klimaresilienzbildung genutzt werden. 
+Raum ist dabei nicht nur ein physischen Ort, sondern als vielschichtige Lernstruktur zu verstehen, in der sich Erkenntnisprozesse mit wachsender Komplexität entfalten.
+
+Die **vier Raumverständnisse** bilden nicht nur didaktische Niveaustufen ab, sondern öffnen auch verschiedene Perspektiven auf einen Lernort – von der reinen Wahrnehmung über die funktionale Analyse bis zur kritischen Reflexion über gesellschaftliche Aushandlungsprozesse.
+
+Dadurch wird eine  **progressive Entwicklung von Raumkompetenz** im geographischen Lernen außerhalb der Schule ermöglicht.
 
 
+## Raum der Sinneswahrnehmung
+
+Beobachteter Ort als Einstieg:
+
+ - *Standort*: Der Realraum wird über Sinne erschlossen (sehen, fühlen, hören, riechen). 
+ - *Wissenschaftlichkeit*: Fachlich wird eine erste Annäherung an geographische Phänomene noch ohne systematische Modellbildung begründet.
+ - *Lernziele*: Es werden Lernziele formuliert, die erste Zugänge, Alltagsnähe oder persönliche Betroffenheit fokussieren. 
+ - *Aktivierung*: Die Fähigkeit den Realraum wahrzunehmen wird systematisch gefördert (z.B. werden SuS angleitet zu beobachten,  fotografieren oder subjektive Eindrücke dokumentieren). 
+ - *lokale Klimaanpassung*: Eine subjetive Wahrnehmung  von relevanten Größen z.B. Hitze, Trockenheit, Luftqualität – ohne Bewertung oder Lösungsorientierung wird ermöglicht.
+
+## Raum als Container 
+
+Raum als abgeschlossene Einheit mit messbaren Eigenschaften:
+
+ - *Standort*: Der Lernort wird als räumlich Einheit mit analysierbaren Merkmale definiert und entsprechend begründet eingegrenzt (z. B. Temperatur, Versiegelung). 
+ - *Wissenschaftlichkeit*: Fachlich wird eine systematische Datenerhebung begründet (z. B. Temperaturmessung, Vegetationsbestimmung).  
+ - *Lernziele*: Es werden Lernziele formuliert, die dem Raum unter Einbezug curricularer Vorgaben zum Untersuchungsobjekt machen. 
+ - *Aktivierung*: Die Kompetenzen der Schüler:innen werden in der Datenerfassung mit einfachen Methoden gefördert (z.B. Messen, Kartieren, Zuordnen) 
+ - *lokale Klimaanpassung*: Klimaanpassung wird als bauliche oder technische Maßnahme sichtbar gemacht (z. B. Bäume, Entsiegelung, Gründach).
+
+## Raum als System von Lagebeziehungen
+
+Raum als funktional vernetztes Gefüge:
+
+ - *Standort*: Der Lernort wird im Kontext seiner Beziehungen analysiert (z. B. Einfluss von Verkehr, Nachbarschaft, Wasserabfluss). 
+ - *Wissenschaftlichkeit*: In der fachliche Begründung raumzeitliche Prozesse werden wissenschaftliche Modelle angewendet.
+ - *Lernziele*: Es werden komplexe Lernziele formuliert, die das Verständnis von raumzeitliche Prozesse für den Lernort konkretisieren. 
+ - *Aktivierung*: Die  Analyse, Hypothesenbildung, Vergleiche mit Kartenmaterial, interaktive Stadtanalysen. 
+ - *lokale Klimaanpassung*: Anpassungsmaßnahmen werden funktional verstanden und bewertet (z. B. Schwammstadt, Begrünung, Verkehrsberuhigung).
+ 
+
+## Raum als Konstrukt
+
+Raum als soziales, politisches, kulturelles Produkt:
+
+ - *Standort*: Der Lernort wird als Ergebnis gesellschaftlicher Aushandlung und Konstruktion - betrachtet (z. B. Nutzungskonflikte, Wahrnehmungen). 
+ - *Wissenschaftlichkeit*: Fachlich wird der Raum als Deutungs- und Diskursraum unter Einbezug einer wissenschaftlichen Betrachtungsweise erschlossen. 
+ - *Lernziele*: Es werden Lernziele formuliert, die Partizipation und Klimaresileinz fördern.
+ - *Aktivierung*: Die Schüler:innen werden darin gefördert eigene tragfähige Konzepte der Raumgestaltung zu entwickeln (z.B. durch Rollenspiele, Planspiele, partizipative Kartierungen). 
+ - *lokale Klimaanpassung*: Klimaanpassung wird als gesellschaftliche Herausforderung reflektiert: Wer profitiert? Wer ist verantwortlich? Welche gesellschaftlichen Spielräume sind vorhanden?
+
+
+## Geeignete Standorte finden
+Sie sollen nun erste Ideen für geeignete Standorte sammeln. Überlegen Sie dazu zunächst: 
+
+ - Was ist die Grundidee Ihres AsLos in Bezug auf Risiken und Anpassungsstrategien an den Klimawandel in Marburg?
+ - Auf welcher Maßstabsebene kann Ihr Thema effektiv bearbeitet werden?
+
+Gehen Sie dann nach draußen und suchen Sie Ideen für geeignete Standorte für Ihr Thema.
+Fotografieren Sie die Orte, um sie später im Seminar vorstellen zu können. 
+Diskutieren Sie dabei die Eignung Ihrer Standorte für die Bearbeitung des Themas im Hinblick auf die vier Raumkonzepte.
+
+## Studienleistung Exkursion
+
+Im Rahmen Ihrer Exkursion sollen Sie sich auf *Standort, Wissenschaftlichkeit und lokale Klimaanpassung* konzentrieren, konkret sollen Sie: 
+
+ - Ihr Thema auf wissenschaftlichem Niveau in der Relevanz für Ihre Standorte erläutern 
+ - Dazu sollen explizit geeignete Standorte ausgewählt und umfassend aufbereitet werden 
+ - Die Relevanz soll erlebbar gemacht werden, auf Aktivierungen, die nicht dem universitären Niveau entsprechen, soll zugunsten der Informationsvermittlung verzichtet werden 
+ - Sie müssen zu diesem Zeitpunkt noch keine Lernziele formulieren.
 
 ## Risiken und Anpassungstrategien Klimawandel in Marburg
 
 Materialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und Marburg.
 
-- [Die Risiken des Klimawandels für Deutschland](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/2022_fachbroschure_die_risiken_des_klimawandels_fur_deutschland_220218.pdf)
-- [Handlungskonzept Klimaanpassung Marburg](https://www.marburg.de/downloads/datei/YTc4ZTA3YzdkZTIzMTE4Y2lPUmtobENPVHRtdUJ5R1ArdDFDc2p4NW5lU1NmTTlZN0k1OUNHakxON3ZOTkVHWml0VnVNZ0JTQ0x1Q29JZkFacUlUU1dMMFJnTU5XNTIzSUlpY0Ziby84R3d3RVhYdkpBbWxkY3N6Rmh4NWxHdFZqQzRWaGFJbWM2bEd1VkdWSlB1VHJianlPMHh5aTU1VklHTlordz09)
-- [Webmap HKM](https://webmap.marburg.de/MarburgWebMap/online/?lon&lon=8.785952700572098&lat=50.79813399929995&zoom=13&select=true&loadlayers=lage_lageinformationen)
+<div class="linkkarten-grid">
+<div class="linkkarte">
+<span class="linkkarte-icon"> 📄 </span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/2022_fachbroschure_die_risiken_des_klimawandels_fur_deutschland_220218.pdf" target="_blank" style="text-decoration:none;color:#007acc;">Die Risiken des Klimawandels für Deutschland</a></h3>
+  <p>Fachbroschüre des Umweltbundesamts mit fundierten Informationen zu Klimarisiken.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon">📘</span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.marburg.de/downloads/datei/YTc4ZTA3YzdkZTIzMTE4Y2lPUmtobENPVHRtdUJ5R1ArdDFDc2p4NW5lU1NmTTlZN0k1OUNHakxON3ZOTkVHWml0VnVNZ0JTQ0x1Q29JZkFacUlUU1dMMFJnTU5XNTIzSUlpY0Ziby84R3d3RVhYdkpBbWxkY3N6Rmh4NWxHdFZqQzRWaGFJbWM2bEd1VkdWSlB1VHJianlPMHh5aTU1VklHTlordz09" target="_blank" style="text-decoration:none;color:#007acc;">Handlungskonzept Klimaanpassung Marburg</a></h3>
+  <p>Strategisches Konzept zur Anpassung der Stadt Marburg an den Klimawandel.</p>
+</div>
+</div>
+<div class="linkkarte">
+<span class="linkkarte-icon"> 🗺️ </span>
+<div class="linkkarte-content">
+  <h3><a href="https://webmap.marburg.de/MarburgWebMap/online/?lon&lon=8.785952700572098&lat=50.79813399929995&zoom=13&select=true&loadlayers=lage_lageinformationen" target="_blank" style="text-decoration:none;color:#007acc;">Webmap HKM</a></h3>
+  <p>Interaktive Karte zur Visualisierung der Maßnahmen aus dem Handlungskonzept.</p>
+</div>
+</div>
+</div>
 
-## Vorgaben für die Skizze
+## Vorgaben für den Projektplan
 
 ::: {.callout-important     appearance="simple" title="Aufgabenstellung" icon=false}
 
-Die Skizze Ihres Teams soll um 12:00 Uhr in den Seminargruppen 
-vorgestellt werden.
+Der Projektplan Ihrer Gruppe muss bis zum 04.05.2025 23:55 Uhr im Ordner Ilias hochgeladen sein.
 :::
 
-Darin enthalten sollen sein:
+Der Projektplan muss enthalten: 
 
--   Zielsetzung:
--   Lernort(e):
--   Thematische und fachliche Einordnung anhand des Handlungskonzept Klimaanpassung Marburg
+- notwendige Arbeitsschritte 
+- Deadlines 
+- Benennung verantwortlicher Gruppenmitglieder 
 
-## Das Exposé
+Bitte beachten Sie, dass zur Vorbereitung Ihres Lernortes folgende Arbeiten notwendig sind:
 
-- Entwicklung von Schlüsselkompetenzen: Fragestellungen konzipieren und umsetzen, Lösungen entwickeln, Teamarbeit und Selbständigkeit.
-Komplementäre, kommunikative und soziale Fähigkeiten.
-- Fokussierung auf spezifische Bildungsziele außerhalb des Klassenzimmers.
-- Identifizierung geeigneter außerschulischer Lernorte und Aktivierung der Teilnehmenden.
-- Bedeutung einer fundierten Zielsetzung auf der Basis individueller Interessen und realer Rahmenbedingungen.
+- Wissenschaftliche Grundlagenrecherche (universitäre Lehrbücher oder wissenschaftliche Artikel) 
+- Grundlegende Recherche der lokalen Gegebenheiten für Marburg (z.B. Handlungskonzept, lokal skalierte Modellrechnungen, Zeitungsartikel) 
+- Intensive Recherche der lokalen Gegebenheiten an Ihren Standorten (Kontaktaufnahme mit relevanten Akteur:innen) - Kartierungen, Messungen, Befragungen vor Ort zur Erprobung für die Durchführung mit der Seminargruppe.
 
-## Exposé als Instrument zur Präzisierung der AsLo-Idee.
 
-- *Inhalt:* Motivation, Fragestellung, Ziele, geplanter Weg zur Umsetzung.
-- *Basis:* aktueller Forschungsstand und lokale Ressourcen.
-- *Iterativer Aufbau:* Von der Motivation über die Problem- und Fragestellung zu den Zielen.
-- *Überblick über die praktische Umsetzung:* Orte und Aktivierungsmethoden.
-- *Ziel:* Erstellung eines klaren, nachvollziehbaren Projektplans.
-
-## Beispielhafte Struktur
-
-- 1. Einleitung und Motivation
-
-- 2. Zielsetzung
-
-- 3. Wissenschaftliche Grundlage
-
-- 4. Lernorte und aktivierende Elemente
-
-- 5. Erwarteter Lernerfolg der Teilnehmenden
-
-- 6. Literatur
-
-### Umfang
+## Umfang
 
 - maximal 1000 Worte / ~ 3 Seiten
 - Upload Ilias als PDF:  *Name_Name_Name_3.pdf*
+
+## Literatur

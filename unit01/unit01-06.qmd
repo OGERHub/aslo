@@ -1,0 +1,196 @@
+---
+title: "Themenfelder zur Klimaresilienz und Anpassung im urbanen Raum"
+title-block-banner: ../images/learnjournal-header.png
+title-block-banner-color: black
+bibliography: unit01-01.bib
+comments: false
+lang: de
+
+---
+
+## Zielsetzung
+
+In dieser Übersicht werden raumbezogene und außerschulische Lernformate zur Klimaresilienzbildung im urbanen Raum - insbesondere für die Hochschul- und Lehrerbildung - vorgestellt. Sie verbindet konkrete Lernaktivitäten mit Raumbezügen und methodischen Ansätzen auf unterschiedlichen Maßstabsebenen (Mikro bis Meso).
+
+
+
+## 🧭 Themenfelder & Raumbezug – Übersicht
+
+| Thema | Raumbezug (Lernort) | Mögliche Fragestellungen |
+|-----------------|-------------------------|------------------------------|
+| 🌇 **Urbane Hitzeinseln** | Versiegelte Schulhöfe, Wohnstraßen ohne Begrünung, aufgeheizte Plätze | Wie unterscheiden sich Oberflächentemperaturen? Welche Flächen sind besonders belastet? Wie könnte man kühlen? |
+| 🌿 **Vegetationsstress & Dürre** | Stadtparks mit Trockenschäden, Alleen, Rasenflächen auf Spielplätzen | Wie gesund ist die Vegetation? Welche Hinweise gibt sie auf Trockenstress? Was ist der Wert urbanen Grüns? |
+| 💧 **Niederschlagswasserkonzepte & urbane Wasserresilienz** | Schulhöfe mit Retention, Neubaugebiete, Senken, Unterführungen | Wie wird Regenwasser vor Ort bewirtschaftet? Welche Orte sind überflutungsgefährdet? Was kann verbessert werden? |
+| 🌬️ **Kaltluftentstehung & urbane Belüftung** | Frischluftschneisen, Hanglagen, Flussniederungen | Wo und wie entsteht kühlere Luft? Wie bewegen sich Luftmassen durch die Stadt? Was beeinflusst Belüftung? |
+| 🫁 **Lufthygiene & gesundheitliche Resilienz** | Innenstadtquartiere, verkehrsreiche Straßen, pollenreiche Parks | Wie ist die Luftqualität? Wo ist sie besonders schlecht? Welche Gruppen sind besonders betroffen? Was kann man tun? |
+| 🌳 **Vegetation & Wald im urbanen Kontext** | Stadtwälder, Waldränder, urbane Waldinseln, Forstlehrpfade | Wie wirken Wälder im Stadtklima? Welche Funktionen haben sie für Kühlung, Wasserhaushalt und Biodiversität? |
+| 👵👶 **Anpassung für vulnerable Gruppen** | Spielplätze, Seniorenwohnanlagen, Kitas, Haltestellenumfeld | Wer ist besonders betroffen durch Hitze oder schlechte Luft? Wie kann man Aufenthaltsqualität und Schutz verbessern? |
+| 🚶‍♀️🚲 **Mobilität & klimaangepasste Bewegung** | Schulwege, Radverbindungen, verkehrsberuhigte Straßenräume | Wie wirkt sich das Stadtklima auf Alltagsmobilität aus? Wo braucht es mehr Schatten, Luft oder Sicherheit? |
+
+------------------------------------------------------------------------
+
+## Lernformate nach Themenfeldern
+
+### 🌇 Urbane Hitzeinseln
+
+**Maßstab:** Mikroklimaebene (Objekt- bis Blockmaßstab)
+
+**Lernorte:**  
+- Schulgelände ohne Baumbestand (z. B. versiegelte Schulhöfe)  
+- Quartiersplätze mit hoher Versiegelung  
+- Haltestellenumfeld  
+- Aufgeheizte Spiel- oder Parkflächen  
+
+**Aktivitäten:**  
+- Messung und Vergleich von Oberflächentemperaturen auf Asphalt, Pflaster, Vegetation, Spielplätzen usw.  
+- Beobachtung und Dokumentation von Schattenverläufen im Tagesverlauf  
+- Nutzung mobiler Messgeräte oder Wärmebildkameras  
+- Bewertung stadtklimatischer Belastung und Wahrnehmung durch Anwohner:innen oder Schüler:innen  
+- Entwicklung konkreter Vorschläge für Beschattung, Begrünung oder Entsiegelung  
+
+---
+
+### 🌿 Vegetationsstress & Dürre
+
+**Maßstab:** Mesoskala (Quartier bis Stadtteil)
+
+**Lernorte:**  
+- Stadtparks mit Trockenschäden  
+- Alleen mit jüngeren Straßenbäumen  
+- Trockene Rasenflächen auf Spiel- und Sportplätzen  
+- Grünzüge in verdichteten Quartieren  
+
+**Aktivitäten:**  
+- Vegetationskartierung: visuelle Einschätzung von Kronenzustand, Laubverfärbung, Totholzanteil  
+- Erhebung bodenklimatischer Parameter wie Bodenfeuchte oder Verdichtungsgrad  
+- Analyse von Pflegemaßnahmen und Bewässerungskonzepten (z. B. Gespräche mit dem Grünflächenamt)  
+- Vergleich hitzebelasteter und geschützter Vegetationsflächen  
+- Reflexion über den Wert urbaner Vegetation für Klimaresilienz und Lebensqualität  
+
+---
+
+### 💧 Niederschlagswasserkonzepte & urbane Wasserresilienz
+
+**Maßstab:** Mikroskala bis Quartiersebene
+
+**Lernorte:**  
+- Schulhöfe mit Versickerungssystemen  
+- Neubauquartiere mit Schwammstadtprinzip (z. B. Oberbillwerder, Hamburg)  
+- Senken, Unterführungen und versiegelte Blockinnenhöfe  
+
+**Aktivitäten:**  
+- Analyse von Regenwasserbewirtschaftung (z. B. Retention, Gründächer, Rigolen)  
+- Nutzung von Starkregengefahrenkarten (z. B. kommunale Geoportale)  
+- Vor-Ort-Begehung potenzieller Überflutungsorte und Wasserpfade  
+- Einfache Modellversuche & Geländeskizzen  
+- Entwicklung eigener Maßnahmenvorschläge zur Anpassung  
+
+---
+
+### 🌬️ Kaltluftentstehung & urbane Belüftung
+
+**Maßstab:** Meso- bis Makroskala
+
+**Lernorte:**  
+- Frischluftschneisen  
+- Stadtränder und Flussterrassen  
+- Schulstandorte in Hanglage  
+
+**Aktivitäten:**  
+- Analyse von Luftströmungen anhand von Stadtklimakarten  
+- Erkundung und Skizzierung von Belüftungspfaden  
+- Messung von Temperaturunterschieden zwischen offenen und bebauten Flächen  
+- Modellversuche zur Darstellung von Kaltluftentstehung  
+
+---
+
+### 🫁 Lufthygiene & gesundheitliche Resilienz
+
+**Maßstab:** Mikroskala bis Quartier
+
+**Lernorte:**  
+- Innenstadtquartiere  
+- Verkehrreiche Straßen  
+- Pollenreiche Stadtparks  
+- Schulumfeld, öffentliche Grünräume  
+
+**Aktivitäten:**  
+- Messung von Feinstaub und Luftqualität (mobil/digital)  
+- Pollenflugkalender und lokale Vegetation analysieren  
+- Diskussion zu Umweltgerechtigkeit und vulnerablen Gruppen  
+- Entwicklung von Maßnahmen zur Verbesserung der Lufthygiene (z. B. Begrünung, Verkehrsberuhigung)  
+
+---
+
+
+### 🌳 Vegetation & Wald im urbanen Kontext
+
+**Maßstab:** Mesoskala bis Stadtebene
+
+**Lernorte:**  
+- Stadtwälder, Waldränder, Mischwaldflächen im Stadtnahbereich  
+- Forstlehrpfade oder Schulwälder  
+- Urbane Waldinseln in Parks oder an Verkehrsachsen  
+
+**Aktivitäten:**  
+- Analyse von Artenvielfalt, Baumartenverteilung, Altersstruktur  
+- Messung von Temperaturdämpfung durch Baumbestand im Vergleich zu offenen Flächen  
+- Erkundung von Boden- und Wasserhaushalt im Waldbestand (z. B. Feuchtemessung, Mulchschichten, Versickerung)  
+- Diskussion über die Rolle von Stadtwäldern für Kühlung, Luftreinigung, Naherholung und Biodiversität  
+- Erstellung eines Steckbriefs zum „Klima-Wald“ der Stadt (inkl. schützender und gefährdeter Funktionen)  
+
+---
+
+### 👵👶 Anpassung für vulnerable Bevölkerungsgruppen (Kinder, Ältere)
+
+**Maßstab:** Quartiersebene
+
+**Lernorte:**  
+- Spielplätze, Kitas, Schulhöfe  
+- Seniorenwohnanlagen, barrierefreie Grünflächen  
+- Haltestellen, Fußwege in stark versiegelten Quartieren  
+
+**Aktivitäten:**  
+- Erhebung klimatischer Belastungen im Tagesverlauf (z. B. Hitzestress auf Spielplätzen)  
+- Analyse von Schattenangebot, Aufenthaltsqualität, Barrierefreiheit  
+- Interviews oder partizipative Beobachtungen mit betroffenen Gruppen (z. B. Betreuungseinrichtungen, Familienzentren)  
+- Entwicklung von niedrigschwelligen Anpassungsideen (z. B. Trinkwasserstellen, mobile Verschattung, sensorgesteuerte Bewässerung)  
+- Reflexion: Wer ist wie stark betroffen? Was ist gerecht?  
+
+---
+
+### 🚶‍♀️🚲 Mobilität & klimaangepasste Stadtbewegung
+
+**Maßstab:** Mikro- bis Mesoskala
+
+**Lernorte:**  
+- Schulwege, Fuß- und Radverbindungen  
+- Öffentliche Verkehrsknotenpunkte (Bahnhof, Haltestellen, Park&Ride)  
+- Straßenräume mit neuen Verkehrsberuhigungen oder Begrünungsmaßnahmen  
+
+**Aktivitäten:**  
+- Kartierung hitzebelasteter vs. schattiger Verkehrswege  
+- Messung von Aufenthaltsqualität entlang von Schulwegen (Temperatur, Geräusch, Luftqualität)  
+- Analyse der Erreichbarkeit von „kühlen Orten“ für nicht-motorisierte Verkehrsteilnehmende  
+- Vergleich alter und neuer Mobilitätskonzepte (z. B. Pop-up-Bikelanes, grüne Parkstreifen)  
+- Entwicklung eigener klimafreundlicher Mobilitätsrouten für den Alltag  
+
+---
+
+## Eingesetzte Methoden
+
+### Klassisch
+
+-   Kartierung & Geländeskizzen (analog oder digital)
+-   Temperatur-Zeitreihen, Klimadiagramme
+-   Bodeninfiltrationstest, Thermometereinsatz
+
+### Digital & mobil
+
+-   Mobile Datenerhebung mit GPS (z. B. ArcGIS Field Maps, EpiCollect5)
+-   Nutzung offener Geodaten (OpenStreetMap, Umweltportale, DWD-Viewer)
+-   Luftbildanalyse & Satellitendaten (Sentinel, Google Earth)
+-   3D-Stadtmodelle & Virtual Reality (z. B. terrain.party, F4Map)
+-   Partizipative Online-Mapping-Tools (z. B. uMap, Padlet-Karten)
+
+------------------------------------------------------------------------

@@ -9,3 +9,4 @@ linkkarten_konverter <- function() {
     utils::browseURL(pfad_absolut)
   }
 }
+options(quarto.preview = FALSE)

@@ -1,4 +1,3 @@
-
 ---
 title: "WarmUp Klimaresilienz im urbanen Raum – Multiselect"
 format: 

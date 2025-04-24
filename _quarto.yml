@@ -3,7 +3,7 @@ project:
   output-dir: docs/
 website:
   favicon: /images/logo.png
-  #bread-crumbs: false
+  bread-crumbs: false
   open-graph: true
   page-navigation: true  
   title: "Außerschulische Lernorte"
@@ -85,8 +85,8 @@ execute:
   freeze: auto
 format: 
   html: 
-      include-after-body: ../css/banner-footer.html
-      include-in-header: ../css/banner-style.html
+      include-after-body: css/banner-footer.html
+      include-in-header: css/banner-style.html
       code-overflow: wrap
       toc-title: "Inhalt"
       number-sections: false

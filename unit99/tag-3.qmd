@@ -40,7 +40,7 @@ link-citations: true
   -   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der
     globalen Erwärmung. (@BrownEtAl2023, @CrandonEtAl2022. @Ratinen2021)
 
-## 🗺 Herausforderungen der Klimaadaption - Kontextgebundenheit
+## 🗺️ Herausforderungen der Klimaadaption - Kontextgebundenheit
 
 Die grundsätzliche Kontextgebundenheit von Adaptionsmaßnahmen bedeutet,
 dass abstrakte Erkenntnis erst auf das konkrete Setting angewendet
@@ -51,7 +51,7 @@ Was bedeutet das für die Exkursion?
   - Abstrakte Erkenntnisse (allgemeine Konzepte) benennen und erläutern.
   - Anhand gut gewählter Standorte auf das konkrete Setting anwenden
 
-## 🗺 Herausforderungen der Klimaadaption - Konvergenz
+## 🗺️ Herausforderungen der Klimaadaption - Konvergenz
 
 Auch für die übergeordneten Ebenen sind neue Forschungszugänge
 erforderlich sind (vgl. @RickardsEtAl2024). Ein Rückgriff auf vorhandenes Wissen ist daher notwendig, birgt aber die Gefahr,
@@ -62,7 +62,7 @@ Was bedeutet das für die Exkursion?
 
   - Wenn nötig, Spannungsfelder benennen, an denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)
 
-## 🗺 Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen
+## 🗺️ Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen
 
 Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Allerdings benötigen Akteur:innen in der Regel Planungssicherheit, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. @RickardsEtAl2024). 
 
@@ -82,7 +82,7 @@ Was bedeutet das für die Exkursion?
   - geeigenete Standorte finden, um individuelle und gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu machen.
 
 
-## 🗺 Herausforderung der Klimaadaption - Proaktives Handeln
+## 🗺️ Herausforderung der Klimaadaption - Proaktives Handeln
 
 Proaktives Handeln ist notwendig, um Adaptionsbemühungen voranzubringen.
 Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit in den Hintergrund (vgl. @EisenackEtAl2014). 

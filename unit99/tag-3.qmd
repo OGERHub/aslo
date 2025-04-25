@@ -23,10 +23,10 @@ link-citations: true
 ---
 
 
-## 🎯  Ziel des Seminars
+## 🎯  Ziel der Studienleistung
 
  - Ziel ist es, einen Ort zu identifizieren, der sich fachlich und didaktisch besonders gut für außerschulisches Lernen eignet. Sie sollen aufzeigen, welches Potenzial dieser Ort im Hinblick auf Klimaanpassung bietet und welche Herausforderungen sich dort stellen. Gemeinsam entwickeln Sie Strategien, um diese Herausforderungen zu vermitteln und die Resilienz der Gesellschaft zu stärken.
- - Dabei erfolgt die Erschließung des Lernorts zunächst auf universitärer Ebene: Ihre Kommiliton:innen sollen am Beispiel Marburgs fundierte Einsichten in Klimaresilienz und -vulnerabilität gewinnen.
+ - Dabei erfolgt die Erschließung des Lernorts im Kontext der Studienleistung auf universitärer Ebene: Ihre Kommiliton:innen sollen am Beispiel Marburgs fundierte Einsichten in Klimaresilienz und -vulnerabilität gewinnen.
 
 
 ## 🏫 Außerschulische Lernorte und Klimawandelbildung
@@ -156,49 +156,11 @@ Gehen Sie nach draußen und suchen Sie geeignete Orte für Ihr Thema.
 </div>
 
 
-## Studienleistung Exkursion
-
-Im Rahmen Ihrer Exkursion sollen Sie sich auf *Standort, Wissenschaftlichkeit und lokale Klimaanpassung* konzentrieren, konkret sollen Sie: 
-
- - Ihr Thema auf wissenschaftlichem Niveau in der Relevanz für Ihre Standorte erläutern 
- - Dazu sollen explizit geeignete Standorte ausgewählt und umfassend aufbereitet werden 
- - Die Relevanz soll erlebbar gemacht werden, auf Aktivierungen, die nicht dem universitären Niveau entsprechen, soll zugunsten der Informationsvermittlung verzichtet werden 
 
 
-## Risiken und Anpassungstrategien Klimawandel in Marburg
-
-Materialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und Marburg.
-
-<div class="linkkarten-grid">
-<div class="linkkarte">
-<span class="linkkarte-icon"> 📄 </span>
-<div class="linkkarte-content">
-  <h3><a href="https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/2022_fachbroschure_die_risiken_des_klimawandels_fur_deutschland_220218.pdf" target="_blank" style="text-decoration:none;color:#007acc;">Die Risiken des Klimawandels für Deutschland</a></h3>
-  <p>Fachbroschüre des Umweltbundesamts mit fundierten Informationen zu Klimarisiken.</p>
-</div>
-</div>
-<div class="linkkarte">
-<span class="linkkarte-icon">📘</span>
-<div class="linkkarte-content">
-  <h3><a href="https://www.marburg.de/downloads/datei/YTc4ZTA3YzdkZTIzMTE4Y2lPUmtobENPVHRtdUJ5R1ArdDFDc2p4NW5lU1NmTTlZN0k1OUNHakxON3ZOTkVHWml0VnVNZ0JTQ0x1Q29JZkFacUlUU1dMMFJnTU5XNTIzSUlpY0Ziby84R3d3RVhYdkpBbWxkY3N6Rmh4NWxHdFZqQzRWaGFJbWM2bEd1VkdWSlB1VHJianlPMHh5aTU1VklHTlordz09" target="_blank" style="text-decoration:none;color:#007acc;">Handlungskonzept Klimaanpassung Marburg</a></h3>
-  <p>Strategisches Konzept zur Anpassung der Stadt Marburg an den Klimawandel.</p>
-</div>
-</div>
-<div class="linkkarte">
-<span class="linkkarte-icon"> 🗺️ </span>
-<div class="linkkarte-content">
-  <h3><a href="https://webmap.marburg.de/MarburgWebMap/online/?lon&lon=8.785952700572098&lat=50.79813399929995&zoom=13&select=true&loadlayers=lage_lageinformationen" target="_blank" style="text-decoration:none;color:#007acc;">Webmap HKM</a></h3>
-  <p>Interaktive Karte zur Visualisierung der Maßnahmen aus dem Handlungskonzept.</p>
-</div>
-</div>
-</div>
 
 ## Vorgaben für den Projektplan
 
-::: {.callout-important     appearance="simple" title="Aufgabenstellung" icon=false}
-
-Der Projektplan Ihrer Gruppe muss bis zum 04.05.2025 23:55 Uhr im Ordner Ilias hochgeladen sein.
-:::
 
 
 Eine Vorlage für den Projektplan finden Sie unter `7. Synthese der Ergebnisse` unter dem unten angegebenen Link. Dort findet sich auch eine ausführliche methodische Hilfestellung in Form des Konzepts des Problemorientierten Lernens, das sich gut zur Unterstützung der Projektdurchführung eignet.
@@ -211,10 +173,12 @@ Eine Vorlage für den Projektplan finden Sie unter `7. Synthese der Ergebnisse` 
 </div>
 </div>
 
+::: {.callout-important     appearance="simple" title="Deadline Teilabgabe Projektplan" icon=false}
 
-## Umfang
+Der Projektplan Ihrer Gruppe muss bis zum 04.05.2025 23:55 Uhr im Ordner Ilias hochgeladen sein.
+:::
 
-- maximal 1000 Worte / ~ 3 Seiten
-- Upload Ilias als PDF:  *Name_Name_Name_3.pdf*
+
+
 
 ## Literatur

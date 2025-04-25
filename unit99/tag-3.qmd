@@ -28,7 +28,7 @@ link-citations: true
  - Dabei erfolgt die Erschließung des Lernorts im Kontext der Studienleistung auf universitärer Ebene: Ihre Kommiliton:innen sollen am Beispiel Marburgs fundierte Einsichten in Klimaresilienz und -vulnerabilität gewinnen.
 
 
-## 🏫 Außerschulische Lernorte und Klimawandelbildung
+## 🏕️ Außerschulische Lernorte und Klimawandelbildung
 
   -   Integrierende Systemperspektive definiert Fachlichkeit (@DGfG2020)
     und entspricht Kernkonzepten, die für die Bewältigung dieser

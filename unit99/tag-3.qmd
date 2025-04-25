@@ -147,15 +147,22 @@ Raum als soziales, politisches, kulturelles Produkt:
  - *lokale Klimaanpassung*: Klimaanpassung wird als gesellschaftliche Herausforderung reflektiert: Wer profitiert? Wer ist verantwortlich? Welche gesellschaftlichen Spielräume sind vorhanden?
 
 
-## Geeignete Standorte finden
-Sie sollen nun erste Ideen für geeignete Standorte sammeln. Überlegen Sie dazu zunächst: 
+## Geeignete Standorte finden - Vorgehensweise
 
- - Was ist die Grundidee Ihres AsLos in Bezug auf Risiken und Anpassungsstrategien an den Klimawandel in Marburg?
- - Auf welcher Maßstabsebene kann Ihr Thema effektiv bearbeitet werden?
+Da die Grundidee des ASLO-Themas komplex ist und sowohl das fachwissenschaftliche Wissen als auch Kenntnisse über geeignete Standorte begrenzt sind, ist ein strukturiertes, zielgerichtetes Vorgehen bei der Standortsuche notwendig.
 
-Gehen Sie dann nach draußen und suchen Sie Ideen für geeignete Standorte für Ihr Thema.
-Fotografieren Sie die Orte, um sie später im Seminar vorstellen zu können. 
-Diskutieren Sie dabei die Eignung Ihrer Standorte für die Bearbeitung des Themas im Hinblick auf die vier Raumkonzepte.
+::: {.callout-important     appearance="simple" title="Aufgabenstellung" icon=false}
+Gehen Sie nach draußen und suchen Sie geeignete Orte für Ihr Thema..
+:::
+
+
+<div class="linkkarte">
+<span class="linkkarte-icon"> 📄 </span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.taskcards.de/#/board/44206f9d-81ba-477d-845d-7a45de75d98e?token=39cb006b-0705-45f6-964f-610d8a44ae79" target="_blank" style="text-decoration:none;color:#007acc;"> Methodische Hilfestellung Themenklärung und Standortsuche</a></h3>
+  <p>Identifikation und Abgrenzung des Themas durch Bestimmung klimatischer Prozesse und Raumeigenschaften sowie Definition von Kriterien zur Auswahl geeigneter Standorte basierend auf Struktur, Belastung, Nutzung und Entwicklungspotenzialen.</p>
+</div>
+</div>
 
 ## Studienleistung Exkursion
 

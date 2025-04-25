@@ -61,13 +61,11 @@ zurückzugreifen (vgl. @abercrombie2023training, @RickardsEtAl2024).
 
 Was beutetet das für die Exkursion?
 
-  - Diese Problemlage fordert den Kompetenzbereich der Konvergenzforschung (Convergence Research).
-
   - Wenn nötig, Spannungsfelder benennen, an denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)
 
 ## 🗺 Herausforderungen der Klimaadaption - Kommunikation mit gesellschaftspolitischen Akteur:innen
 
-Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Sie ist jedoch von der Herausforderung geprägt, dass die Akteur:innen in der Regel Planungssicherheit benötigen, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. @RickardsEtAl2024). 
+Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Allerdings benötigen Akteur:innen in der Regel Planungssicherheit, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. @RickardsEtAl2024). 
 
 Was beutetet das für die Exkursion?
 
@@ -110,9 +108,7 @@ Dadurch wird eine  **progressive Entwicklung von Raumkompetenz** im geographisch
 Beobachteter Ort als Einstieg:
 
  - *Standort*: Der Realraum wird über Sinne erschlossen (sehen, fühlen, hören, riechen). 
- - *Wissenschaftlichkeit*: Fachlich wird eine erste Annäherung an geographische Phänomene noch ohne systematische Modellbildung begründet.
- - *Lernziele*: Es werden Lernziele formuliert, die erste Zugänge, Alltagsnähe oder persönliche Betroffenheit fokussieren. 
- - *Aktivierung*: Die Fähigkeit den Realraum wahrzunehmen wird systematisch gefördert (z.B. werden SuS angleitet zu beobachten,  fotografieren oder subjektive Eindrücke dokumentieren). 
+ - *Wissenschaftlichkeit*:  erste Annäherung an geographische Phänomene noch ohne systematische Modellbildung
  - *lokale Klimaanpassung*: Eine subjetive Wahrnehmung  von relevanten Größen z.B. Hitze, Trockenheit, Luftqualität – ohne Bewertung oder Lösungsorientierung wird ermöglicht.
 
 ## 2. Raum als Container 
@@ -121,8 +117,6 @@ Raum als abgeschlossene Einheit mit messbaren Eigenschaften:
 
  - *Standort*: Der Lernort wird als räumlich Einheit mit analysierbaren Merkmale definiert und entsprechend begründet eingegrenzt (z. B. Temperatur, Versiegelung). 
  - *Wissenschaftlichkeit*: Fachlich wird eine systematische Datenerhebung begründet (z. B. Temperaturmessung, Vegetationsbestimmung).  
- - *Lernziele*: Es werden Lernziele formuliert, die dem Raum unter Einbezug curricularer Vorgaben zum Untersuchungsobjekt machen. 
- - *Aktivierung*: Die Kompetenzen der Schüler:innen werden in der Datenerfassung mit einfachen Methoden gefördert (z.B. Messen, Kartieren, Zuordnen) 
  - *lokale Klimaanpassung*: Klimaanpassung wird als bauliche oder technische Maßnahme sichtbar gemacht (z. B. Bäume, Entsiegelung, Gründach).
 
 ## 3. Raum als System von Lagebeziehungen
@@ -131,8 +125,6 @@ Raum als funktional vernetztes Gefüge:
 
  - *Standort*: Der Lernort wird im Kontext seiner Beziehungen analysiert (z. B. Einfluss von Verkehr, Nachbarschaft, Wasserabfluss). 
  - *Wissenschaftlichkeit*: In der fachliche Begründung raumzeitliche Prozesse werden wissenschaftliche Modelle angewendet.
- - *Lernziele*: Es werden komplexe Lernziele formuliert, die das Verständnis von raumzeitliche Prozesse für den Lernort konkretisieren. 
- - *Aktivierung*: Die  Analyse, Hypothesenbildung, Vergleiche mit Kartenmaterial, interaktive Stadtanalysen. 
  - *lokale Klimaanpassung*: Anpassungsmaßnahmen werden funktional verstanden und bewertet (z. B. Schwammstadt, Begrünung, Verkehrsberuhigung).
  
 
@@ -142,8 +134,6 @@ Raum als soziales, politisches, kulturelles Produkt:
 
  - *Standort*: Der Lernort wird als Ergebnis gesellschaftlicher Aushandlung und Konstruktion - betrachtet (z. B. Nutzungskonflikte, Wahrnehmungen). 
  - *Wissenschaftlichkeit*: Fachlich wird der Raum als Deutungs- und Diskursraum unter Einbezug einer wissenschaftlichen Betrachtungsweise erschlossen. 
- - *Lernziele*: Es werden Lernziele formuliert, die Partizipation und Klimaresileinz fördern.
- - *Aktivierung*: Die Schüler:innen werden darin gefördert eigene tragfähige Konzepte der Raumgestaltung zu entwickeln (z.B. durch Rollenspiele, Planspiele, partizipative Kartierungen). 
  - *lokale Klimaanpassung*: Klimaanpassung wird als gesellschaftliche Herausforderung reflektiert: Wer profitiert? Wer ist verantwortlich? Welche gesellschaftlichen Spielräume sind vorhanden?
 
 
@@ -152,7 +142,7 @@ Raum als soziales, politisches, kulturelles Produkt:
 Da die Grundidee des ASLO-Themas komplex ist und sowohl das fachwissenschaftliche Wissen als auch Kenntnisse über geeignete Standorte begrenzt sind, ist ein strukturiertes, zielgerichtetes Vorgehen bei der Standortsuche notwendig.
 
 ::: {.callout-important     appearance="simple" title="Aufgabenstellung" icon=false}
-Gehen Sie nach draußen und suchen Sie geeignete Orte für Ihr Thema..
+Gehen Sie nach draußen und suchen Sie geeignete Orte für Ihr Thema.
 :::
 
 
@@ -164,6 +154,8 @@ Gehen Sie nach draußen und suchen Sie geeignete Orte für Ihr Thema..
 </div>
 </div>
 
+:::
+
 ## Studienleistung Exkursion
 
 Im Rahmen Ihrer Exkursion sollen Sie sich auf *Standort, Wissenschaftlichkeit und lokale Klimaanpassung* konzentrieren, konkret sollen Sie: 
@@ -171,7 +163,7 @@ Im Rahmen Ihrer Exkursion sollen Sie sich auf *Standort, Wissenschaftlichkeit un
  - Ihr Thema auf wissenschaftlichem Niveau in der Relevanz für Ihre Standorte erläutern 
  - Dazu sollen explizit geeignete Standorte ausgewählt und umfassend aufbereitet werden 
  - Die Relevanz soll erlebbar gemacht werden, auf Aktivierungen, die nicht dem universitären Niveau entsprechen, soll zugunsten der Informationsvermittlung verzichtet werden 
- - Sie müssen zu diesem Zeitpunkt noch keine Lernziele formulieren.
+
 
 ## Risiken und Anpassungstrategien Klimawandel in Marburg
 

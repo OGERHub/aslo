@@ -31,15 +31,15 @@ link-citations: true
 
 ## 🏫 Außerschulische Lernorte und Klimawandelbildung
 
-  -   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der
-    globalen Erwärmung. (@BrownEtAl2023, @CrandonEtAl2022. @Ratinen2021)
-  -   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung
-    für Klimanpassung zu leisten. (@ChangWi2018, @DaviesEtAl2024, @HarmLee2021, @MoroteEtAl2021)
   -   Integrierende Systemperspektive definiert Fachlichkeit (@DGfG2020)
     und entspricht Kernkonzepten, die für die Bewältigung dieser
     Zukunftsherausforderungen benötigt werden. (@ChangWi2018, @HarmLee2021)
+  -   Die Geographie hat ein großes Potenzial, einen Beitrag zur Bildung
+    für Klimanpassung zu leisten. (@ChangWi2018, @DaviesEtAl2024, @HarmLee2021, @MoroteEtAl2021)
   -   Feldmethoden und außerschulisches Lernen erschließen die
     Kontextgebundenheit von Adaptionsmaßnahmen. (@RickardsEtAl2024)
+  -   Fehlvorstellungen erschweren einen konstruktiven Umgang mit der
+    globalen Erwärmung. (@BrownEtAl2023, @CrandonEtAl2022. @Ratinen2021)
 
 ## 🗺 Herausforderungen der Klimaadaption - Kontextgebundenheit
 
@@ -47,7 +47,7 @@ Die grundsätzliche Kontextgebundenheit von Adaptionsmaßnahmen bedeutet,
 dass abstrakte Erkenntnis erst auf das konkrete Setting angewendet
 werden muss (vgl. @RickardsEtAl2024). 
 
-Was beutetet das für die Exkursion?
+Was bedeutet das für die Exkursion?
   
   - Abstrakte Erkenntnisse (allgemeine Konzepte) benennen und erläutern.
   - Anhand gut gewählter Standorte auf das konkrete Setting anwenden
@@ -59,7 +59,7 @@ erforderlich sind (vgl. @RickardsEtAl2024). Ein Rückgriff auf vorhandenes Wisse
 schematisch auf alte, nicht mehr gültige Lösungsstrategien
 zurückzugreifen (vgl. @abercrombie2023training, @RickardsEtAl2024).
 
-Was beutetet das für die Exkursion?
+Was bedeutet das für die Exkursion?
 
   - Wenn nötig, Spannungsfelder benennen, an denen die vorgestellten Konzepte zu kurz greifen (Was wissen wir nicht?)
 
@@ -67,30 +67,31 @@ Was beutetet das für die Exkursion?
 
 Die Kommunikation mit gesellschaftspolitischen Akteur:innen kann die Tendenz zur Übersimplifizierung vermeiden. Allerdings benötigen Akteur:innen in der Regel Planungssicherheit, die aufgrund der Unsicherheiten in der Entwicklung und der Neuartigkeit von Strategien nicht mit notwendiger Zuverlässigkeit gewährleistet werden kann (vgl. @RickardsEtAl2024). 
 
-Was beutetet das für die Exkursion?
+Was bedeutet das für die Exkursion?
 
-  - involvierte gesellschaftlichen Akteur\*innen und ihre Interessen benennen. 
-  - Geeigenet Standorte wählen an denen (potenzielle) Interessenskonflikte deutlich gemacht werden können.
+  - involvierte gesellschaftlichen Akteur:innen und ihre Interessen benennen. 
+  - Auswahl geeigeneter Standorte wo (potenzielle) Interessenskonflikte deutlich gemacht werden können.
+
+
+## 🗺 Herausforderung der Klimaadaption - Gesamtgesellschaftlich denken
+
+Zur Stärkung der Resilienz einer Gesellschaft ist es zwingend erforderlich Klimaadaption gesamtgesellschaftlich und nicht individuell zu denken.
+ (vgl. @ColloffEtAl2017, @FedeleEtAl2019; @WilsonEtAl2020). 
+
+Was bedeutet das für die Exkursion?
+
+  - geeigenete Standorte finden, um individuelle und gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu machen.
 
 
 ## 🗺 Herausforderung der Klimaadaption - Proaktives Handeln
 
 Proaktives Handeln ist notwendig, um Adaptionsbemühungen voranzubringen.
-Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit wiederholt in den Hintergrund (vgl. @EisenackEtAl2014). 
+Ohne aktive Bemühung tritt notwendige Adaption zugunsten von Planungssicherheit in den Hintergrund (vgl. @EisenackEtAl2014). 
 
-Was beutetet das für die Exkursion?
+Was bedeutet das für die Exkursion?
 
-  - welches Engagement ist sinnvoll?
+  - welches gesellschaftpolitische Engagement erscheint für erfolgreiche Adaptionsmassnahmensinnvoll?
 
-## 🗺 Herausforderung der Klimaadaption - Gesamtgesellschaftlich denken
-
-Klimaadaption gesamtgesellschaftlich und nicht individuell zu denken,
-ist zwingend erforderlich, um die Resilienz einer Gesellschaft zu
-stärken (vgl. @ColloffEtAl2017, @FedeleEtAl2019; @WilsonEtAl2020). 
-
-Was beutetet das für die Exkursion?
-
-  - geeigenete Standorte finden, um individuelle und gesamtgesellschaftliche Interessen bezgl. der Resilienz sichtbar zu machen.
 
 
 ## Raumkonzepte und außerschulisches Lernen
@@ -199,17 +200,16 @@ Materialien zu den Klimarisiken und Handlungsempfehlungen für Deutschland und M
 Der Projektplan Ihrer Gruppe muss bis zum 04.05.2025 23:55 Uhr im Ordner Ilias hochgeladen sein.
 :::
 
-Der Projektplan muss enthalten: 
 
-- notwendige Arbeitsschritte 
-- Deadlines 
-- Benennung verantwortlicher Gruppenmitglieder 
+Eine Vorlage für den Projektplan finden Sie unter `7. Synthese der Ergebnisse` unter dem unten angegebenen Link. Dort findet sich auch eine ausführliche methodische Hilfestellung in Form des Konzepts des Problemorientierten Lernens, das sich gut zur Unterstützung der Projektdurchführung eignet.
 
-Bitte beachten Sie, dass zur Vorbereitung Ihres Lernortes folgende Arbeiten notwendig sind:
-
-- Wissenschaftliche Grundlagenrecherche (universitäre Lehrbücher oder wissenschaftliche Artikel) 
-- Grundlegende Recherche der lokalen Gegebenheiten für Marburg (z.B. Handlungskonzept, lokal skalierte Modellrechnungen, Zeitungsartikel) 
-- Intensive Recherche der lokalen Gegebenheiten an Ihren Standorten (Kontaktaufnahme mit relevanten Akteur:innen) - Kartierungen, Messungen, Befragungen vor Ort zur Erprobung für die Durchführung mit der Seminargruppe.
+<div class="linkkarte">
+<span class="linkkarte-icon"> 📄 </span>
+<div class="linkkarte-content">
+  <h3><a href="https://www.taskcards.de/#/board/44206f9d-81ba-477d-845d-7a45de75d98e?token=d426fed9-c983-418d-bc3f-9c9b93d8d9c5" target="_blank" style="text-decoration:none;color:#007acc;"> Methodische Hilfestellung Projektentwicklung und Projektplan</a></h3>
+  <p>Das Problemorientierte Lernen als Schema zur Bearbeitung komplexer Projekte</p>
+</div>
+</div>
 
 
 ## Umfang

@@ -16,6 +16,7 @@ format:
     chalkboard: true
     menu: true
     mermaid: {}
+    diagram: true
     
 editor: 
   markdown: 
@@ -158,29 +159,37 @@ Gehen Sie nach draußen und suchen Sie geeignete Orte für Ihr Thema.
 ## Das Problemorientierte Lernen
 
 
-```{mermaid}
-flowchart TB
-    Begriffe_klären(("Begriffe klären")) --> Problem_beschreiben(("Problem beschreiben"))
-    Problem_beschreiben --> Brainstorming(("Brainstorming"))
-    Brainstorming --> Strukturieren_Ordnung(("Strukturieren & Ordnung"))
-    Strukturieren_Ordnung --> Lernziele_formulieren(("Lernziele formulieren"))
-    Lernziele_formulieren --> Recherchephase(("Recherchephase"))
-    Recherchephase --> Ergebnisse_zusammenführen(("Ergebnisse zusammenführen"))
-    Ergebnisse_zusammenführen --> Reflexion_Anwendung(("Reflexion & Anwendung"))
-    Reflexion_Anwendung -.-> Begriffe_klären
+```{dot}
+digraph PBL {
+    graph [layout=neato, splines=true, overlap=false];
+    node [shape=ellipse, width=2.5, height=1.5, style=filled, fontname="Helvetica", fontsize=18];
 
-    style Begriffe_klären fill:#f9f,stroke:#333,stroke-width:2px
-    style Problem_beschreiben fill:#f9f,stroke:#333,stroke-width:2px
-    style Brainstorming fill:#bbf,stroke:#333,stroke-width:2px
-    style Strukturieren_Ordnung fill:#bbf,stroke:#333,stroke-width:2px
-    style Lernziele_formulieren fill:#bfb,stroke:#333,stroke-width:2px
-    style Recherchephase fill:#bfb,stroke:#333,stroke-width:2px
-    style Ergebnisse_zusammenführen fill:#fbb,stroke:#333,stroke-width:2px
-    style Reflexion_Anwendung fill:#fbb,stroke:#333,stroke-width:2px
+    // Erstes Segment (Farbe Blau)
+    "Problem beschreiben" [pos="0,2!", fillcolor=yellow];
+    "Brainstorming" [pos="1.4,1.4!", fillcolor=orange];
+    "Strukturieren & Ordnung" [pos="2,0!", fillcolor=orange];
+    "Lernziele formulieren" [pos="1.4,-1.4!", fillcolor=orange];
+
+    // Zweites Segment (Farbe Grün)
+    "Recherchephase" [pos="0,-2!", fillcolor=lightskyblue];
+    "Ergebnisse zusammenführen" [pos="-1.4,-1.4!", fillcolor=red];
+    "Reflexion & Anwendung" [pos="-2,0!", fillcolor=lightgreen];
+    "Begriffe klären" [pos="-1.4,1.4!", fillcolor=yellow];
+
+    // Fluss
+    "Problem beschreiben" -> "Brainstorming";
+    "Brainstorming" -> "Strukturieren & Ordnung";
+    "Strukturieren & Ordnung" -> "Lernziele formulieren";
+    "Lernziele formulieren" -> "Recherchephase";
+    "Recherchephase" -> "Ergebnisse zusammenführen";
+    "Ergebnisse zusammenführen" -> "Reflexion & Anwendung";
+    "Reflexion & Anwendung" -> "Begriffe klären";
+    "Begriffe klären" -> "Problem beschreiben";
+}
+
 
 
 ```
-
 
 
 ## Vorgaben für den Projektplan

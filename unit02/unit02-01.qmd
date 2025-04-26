@@ -7,7 +7,7 @@ title-block-banner: ../images/taskcard-header.png
 # TaskCards
 ### Organisiere Ideen und Orte
 
-<iframe src="https://www.taskcards.de/#/board/5bf6b048-ad03-456a-8dd9-cd509b4a2467?token=170a8896-4624-4a6c-b60c-d7c2c86f2c78" style="border:0px;width:100%;height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://www.taskcards.de/#/board/44206f9d-81ba-477d-845d-7a45de75d98e?token=d426fed9-c983-418d-bc3f-9c9b93d8d9c5" style="border:0px;width:100%;height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ### Scan den Zugang mit deinem mobilen Gerät
 ![](/images/qrtaskcard.png){width=50%}

@@ -15,6 +15,8 @@ format:
     toc-depth: 2
     chalkboard: true
     menu: true
+    mermaid: {}
+    
 editor: 
   markdown: 
     wrap: 72
@@ -155,6 +157,31 @@ Gehen Sie nach draußen und suchen Sie geeignete Orte für Ihr Thema.
 </div>
 
 
+## Das Problemorientierte Lernen
+
+
+```{mermaid}
+flowchart TB
+    Begriffe_klären(("Begriffe klären")) --> Problem_beschreiben(("Problem beschreiben"))
+    Problem_beschreiben --> Brainstorming(("Brainstorming"))
+    Brainstorming --> Strukturieren_Ordnung(("Strukturieren & Ordnung"))
+    Strukturieren_Ordnung --> Lernziele_formulieren(("Lernziele formulieren"))
+    Lernziele_formulieren --> Recherchephase(("Recherchephase"))
+    Recherchephase --> Ergebnisse_zusammenführen(("Ergebnisse zusammenführen"))
+    Ergebnisse_zusammenführen --> Reflexion_Anwendung(("Reflexion & Anwendung"))
+    Reflexion_Anwendung -.-> Begriffe_klären
+
+    style Begriffe_klären fill:#f9f,stroke:#333,stroke-width:2px
+    style Problem_beschreiben fill:#f9f,stroke:#333,stroke-width:2px
+    style Brainstorming fill:#bbf,stroke:#333,stroke-width:2px
+    style Strukturieren_Ordnung fill:#bbf,stroke:#333,stroke-width:2px
+    style Lernziele_formulieren fill:#bfb,stroke:#333,stroke-width:2px
+    style Recherchephase fill:#bfb,stroke:#333,stroke-width:2px
+    style Ergebnisse_zusammenführen fill:#fbb,stroke:#333,stroke-width:2px
+    style Reflexion_Anwendung fill:#fbb,stroke:#333,stroke-width:2px
+
+
+```
 
 
 

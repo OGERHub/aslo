@@ -168,7 +168,7 @@ digraph PBL {
     "Problem beschreiben" [pos="0,2!", fillcolor=yellow];
     "Brainstorming" [pos="1.4,1.4!", fillcolor=orange];
     "Strukturieren & Ordnung" [pos="2,0!", fillcolor=orange];
-    "Lernziele formulieren" [pos="1.4,-1.4!", fillcolor=orange];
+    "Ziele formulieren und fokussieren" [pos="1.4,-1.4!", fillcolor=orange];
 
     // Zweites Segment (Farbe Grün)
     "Recherchephase" [pos="0,-2!", fillcolor=lightskyblue];
@@ -179,7 +179,7 @@ digraph PBL {
     // Fluss
     "Problem beschreiben" -> "Brainstorming";
     "Brainstorming" -> "Strukturieren & Ordnung";
-    "Strukturieren & Ordnung" -> "Lernziele formulieren";
+    "Strukturieren & Ordnung" -> "Ziele formulieren und fokussieren";
     "Lernziele formulieren" -> "Recherchephase";
     "Recherchephase" -> "Ergebnisse zusammenführen";
     "Ergebnisse zusammenführen" -> "Reflexion & Anwendung";

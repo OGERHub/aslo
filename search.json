@@ -11,7 +11,7 @@
     "href": "templates/slides-template.html#bullets",
     "title": "YOUR TITLE",
     "section": "Bullets",
-    "text": "Bullets\nRemove the incremental ::: bracketed div for plain lists\n\n\nthe quick\nbrown fox\njumps over\nthe lazy dog"
+    "text": "Bullets\nRemove the incremental ::: bracketed div for plain lists\n\nthe quick\nbrown fox\njumps over\nthe lazy dog"
   },
   {
     "objectID": "templates/slides-template.html#columns",
@@ -706,7 +706,7 @@
     "href": "unit02/unit02-02.html",
     "title": "Quarto Markdown",
     "section": "",
-    "text": "Quarto ist ein Open-Source-Tool zur Erstellung und Veröffentlichung wissenschaftlicher und technischer Dokumente in nahezu allen Formaten wie HTML, PDF, Word und anderen. Die Integration von Code, Diagrammen und Formeln in Dokumente ist einfach. Quarto ist ideal für Hausarbeiten, da es flexible Formatierung und einfache Konvertierung zwischen verschiedenen Dateitypen bietet. Es ermöglicht auch das Einfügen von Referenzen und Zitaten. Alles in allem das derzeit beste Produktionswerkzeug für Texte und Medien. Sie können mit einem der zahlreichen Editoren arbeiten, wie Sie es z.B. von einem Office-Programm gewohnt sind. Die Vorteile sind eine derzeit unerreichte Vielfalt an Ausgabeformaten, einfachste Formatierung und unter Einbindung von z.B. Google Drive oder GitHub extrem effizientes und kollaboratives Arbeiten in der Gruppe.\n\nQuarto Einführungsvideo\nQuarto Get Started\nQuarto Markdown Basics\n\nFür eine nahtlose Nutzung ist die Verwendung eines entsprechenden Editors hilfreich. Im Folgenden werden einige Empfehlungen gegeben. Insbesondere RStudio bietet eine nahtlose Integration von Quarto. Sie können dann einfach die Vorlage am Ende dieser Seite in den Editor kopieren und auf dieser Basis Ihre AsLo erstellen.\n\n\nRStudio ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.\nIn RStudio sieht die Seite je nachdem ob Sie format: pdf oder format: html angeben wie folgt aus:\n\n\n\n\n\n\n\n\n\nRStudio Html\n\n\n\n\n\n\n\nRStudio PDF\n\n\n\n\n\nAlternativ ist zum Beispiel GhostWriter ein einfacher und benutzerfreundlicher Offline-Markdown-Editor. Er verwendet einen doppelten Bildschirm: der linke Bildschirm ist der Editor und der rechte Bildschirm zeigt die gerenderte Datei. Er unterstützt viele verschiedene Markdown-Dialekte, z.B. GitHub, Sundown, pandoc etc..\n\n\n\nDie beiden gängigsten Browserbasierten Markdown-Editoren sind StackedIt und Dillinger. Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.\nDas schaut dann in Stackedit.io bzw. dillinger.io wie folgt aus:\n\n\n\n\n\n\n\n\n\nStackedit.io\n\n\n\n\n\n\n\nDillinger.io\n\n\n\n\n\n\n\n\nAuf der GitHub Seite awesome-markdown-editors finden Sie eine Reihe weitrere Ressourcen rund um das Thema.",
+    "text": "Quarto ist ein Open-Source-Tool zur Erstellung und Veröffentlichung wissenschaftlicher und technischer Dokumente in nahezu allen Formaten wie HTML, PDF, Word und anderen. Die Integration von Code, Diagrammen und Formeln in Dokumente ist einfach. Quarto ist ideal für Hausarbeiten, da es flexible Formatierung und einfache Konvertierung zwischen verschiedenen Dateitypen bietet. Es ermöglicht auch das Einfügen von Referenzen und Zitaten. Alles in allem das derzeit beste Produktionswerkzeug für Texte und Medien. Sie können mit einem der zahlreichen Editoren arbeiten, wie Sie es z.B. von einem Office-Programm gewohnt sind. Die Vorteile sind eine derzeit unerreichte Vielfalt an Ausgabeformaten, einfachste Formatierung und unter Einbindung von z.B. Google Drive oder GitHub extrem effizientes und kollaboratives Arbeiten in der Gruppe.\n\nQuarto Einführungsvideo\nQuarto Get Started\nQuarto Markdown Basics\n\nFür eine nahtlose Nutzung ist die Verwendung eines entsprechenden Editors hilfreich. Im Folgenden werden einige Empfehlungen gegeben. Insbesondere RStudio bietet eine nahtlose Integration von Quarto. Sie können dann einfach die Vorlage am Ende dieser Seite in den Editor kopieren und auf dieser Basis Ihre AsLo erstellen.\n\n\nRStudio ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.\nIn RStudio sieht die Seite je nachdem ob Sie format: pdf oder format: html angeben wie folgt aus:\n\n\n\n\n\n\nRStudio Html\n\n\n\n\n\n\n\nRStudio PDF\n\n\n\n\n\nAlternativ ist zum Beispiel GhostWriter ein einfacher und benutzerfreundlicher Offline-Markdown-Editor. Er verwendet einen doppelten Bildschirm: der linke Bildschirm ist der Editor und der rechte Bildschirm zeigt die gerenderte Datei. Er unterstützt viele verschiedene Markdown-Dialekte, z.B. GitHub, Sundown, pandoc etc..\n\n\n\nDie beiden gängigsten Browserbasierten Markdown-Editoren sind StackedIt und Dillinger. Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.\nDas schaut dann in Stackedit.io bzw. dillinger.io wie folgt aus:\n\n\n\n\n\n\nStackedit.io\n\n\n\n\n\n\n\nDillinger.io\n\n\n\n\n\n\n\n\nAuf der GitHub Seite awesome-markdown-editors finden Sie eine Reihe weitrere Ressourcen rund um das Thema.",
     "crumbs": [
       "Ressourcen",
       "Quarto Markdown"
@@ -717,7 +717,7 @@
     "href": "unit02/unit02-02.html#offline-editor-rstudio",
     "title": "Quarto Markdown",
     "section": "",
-    "text": "RStudio ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.\nIn RStudio sieht die Seite je nachdem ob Sie format: pdf oder format: html angeben wie folgt aus:\n\n\n\n\n\n\n\n\n\nRStudio Html\n\n\n\n\n\n\n\nRStudio PDF\n\n\n\n\n\nAlternativ ist zum Beispiel GhostWriter ein einfacher und benutzerfreundlicher Offline-Markdown-Editor. Er verwendet einen doppelten Bildschirm: der linke Bildschirm ist der Editor und der rechte Bildschirm zeigt die gerenderte Datei. Er unterstützt viele verschiedene Markdown-Dialekte, z.B. GitHub, Sundown, pandoc etc..",
+    "text": "RStudio ist ideal für Quarto, da es eine integrierte Entwicklungsumgebung bietet, die speziell für die Arbeit mit Quarto-Dokumenten optimiert ist. Es ermöglicht die direkte Vorschau und Bearbeitung von Quarto-Dateien, was den Workflow erheblich vereinfacht. Zudem unterstützt RStudio die nahtlose Einbindung von Code und Text, wodurch die Erstellung von dynamischen und interaktiven Dokumenten erleichtert wird.\nIn RStudio sieht die Seite je nachdem ob Sie format: pdf oder format: html angeben wie folgt aus:\n\n\n\n\n\n\nRStudio Html\n\n\n\n\n\n\n\nRStudio PDF\n\n\n\n\n\nAlternativ ist zum Beispiel GhostWriter ein einfacher und benutzerfreundlicher Offline-Markdown-Editor. Er verwendet einen doppelten Bildschirm: der linke Bildschirm ist der Editor und der rechte Bildschirm zeigt die gerenderte Datei. Er unterstützt viele verschiedene Markdown-Dialekte, z.B. GitHub, Sundown, pandoc etc..",
     "crumbs": [
       "Ressourcen",
       "Quarto Markdown"
@@ -728,7 +728,7 @@
     "href": "unit02/unit02-02.html#online-editoren",
     "title": "Quarto Markdown",
     "section": "",
-    "text": "Die beiden gängigsten Browserbasierten Markdown-Editoren sind StackedIt und Dillinger. Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.\nDas schaut dann in Stackedit.io bzw. dillinger.io wie folgt aus:\n\n\n\n\n\n\n\n\n\nStackedit.io\n\n\n\n\n\n\n\nDillinger.io",
+    "text": "Die beiden gängigsten Browserbasierten Markdown-Editoren sind StackedIt und Dillinger. Einfach das Template anstelle des Begrüßungstextes einfügen und los gehts.\nDas schaut dann in Stackedit.io bzw. dillinger.io wie folgt aus:\n\n\n\n\n\n\nStackedit.io\n\n\n\n\n\n\n\nDillinger.io",
     "crumbs": [
       "Ressourcen",
       "Quarto Markdown"
@@ -1163,7 +1163,7 @@
     "href": "unit99/tag-3.html#das-problemorientierte-lernen",
     "title": "Außerschulische Lernorte - Tag 3",
     "section": "Das Problemorientierte Lernen",
-    "text": "Das Problemorientierte Lernen\n\n\n\n\n\n\n\nPBL\n\n\n\nProblem beschreiben\n\nProblem beschreiben\n\n\n\nBrainstorming\n\nBrainstorming\n\n\n\nProblem beschreiben-&gt;Brainstorming\n\n\n\n\n\nStrukturieren & Ordnung\n\nStrukturieren & Ordnung\n\n\n\nBrainstorming-&gt;Strukturieren & Ordnung\n\n\n\n\n\nLernziele formulieren\n\nLernziele formulieren\n\n\n\nStrukturieren & Ordnung-&gt;Lernziele formulieren\n\n\n\n\n\nRecherchephase\n\nRecherchephase\n\n\n\nLernziele formulieren-&gt;Recherchephase\n\n\n\n\n\nErgebnisse zusammenführen\n\nErgebnisse zusammenführen\n\n\n\nRecherchephase-&gt;Ergebnisse zusammenführen\n\n\n\n\n\nReflexion & Anwendung\n\nReflexion & Anwendung\n\n\n\nErgebnisse zusammenführen-&gt;Reflexion & Anwendung\n\n\n\n\n\nBegriffe klären\n\nBegriffe klären\n\n\n\nReflexion & Anwendung-&gt;Begriffe klären\n\n\n\n\n\nBegriffe klären-&gt;Problem beschreiben",
+    "text": "Das Problemorientierte Lernen\n\n\n\n\n\n\n\nPBL\n\n\n\nProblem beschreiben\n\nProblem beschreiben\n\n\n\nBrainstorming\n\nBrainstorming\n\n\n\nProblem beschreiben-&gt;Brainstorming\n\n\n\n\n\nStrukturieren & Ordnung\n\nStrukturieren & Ordnung\n\n\n\nBrainstorming-&gt;Strukturieren & Ordnung\n\n\n\n\n\nZiele formulieren und fokussieren\n\nZiele formulieren und fokussieren\n\n\n\nStrukturieren & Ordnung-&gt;Ziele formulieren und fokussieren\n\n\n\n\n\nRecherchephase\n\nRecherchephase\n\n\n\nErgebnisse zusammenführen\n\nErgebnisse zusammenführen\n\n\n\nRecherchephase-&gt;Ergebnisse zusammenführen\n\n\n\n\n\nReflexion & Anwendung\n\nReflexion & Anwendung\n\n\n\nErgebnisse zusammenführen-&gt;Reflexion & Anwendung\n\n\n\n\n\nBegriffe klären\n\nBegriffe klären\n\n\n\nReflexion & Anwendung-&gt;Begriffe klären\n\n\n\n\n\nBegriffe klären-&gt;Problem beschreiben\n\n\n\n\n\nLernziele formulieren\n\nLernziele formulieren\n\n\n\nLernziele formulieren-&gt;Recherchephase",
     "crumbs": [
       "Außerschulische Lernorte",
       "Folien Blocktag 3"
@@ -1245,7 +1245,7 @@
     "href": "templates/metro-template.html#incremental-lists",
     "title": "Quarto demo presentation",
     "section": "Incremental Lists",
-    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
+    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\nFirst item\nSecond item\nThird item\n\n\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
   },
   {
     "objectID": "templates/metro-template.html#fragments",
@@ -1322,21 +1322,21 @@
     "href": "templates/metro-template.html#themes",
     "title": "Quarto demo presentation",
     "section": "Themes",
-    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
+    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
   },
   {
     "objectID": "templates/metro-template.html#easy-navigation",
     "href": "templates/metro-template.html#easy-navigation",
     "title": "Quarto demo presentation",
     "section": "Easy Navigation",
-    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
+    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
   },
   {
     "objectID": "templates/metro-template.html#chalkboard",
     "href": "templates/metro-template.html#chalkboard",
     "title": "Quarto demo presentation",
     "section": "Chalkboard",
-    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
+    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
   },
   {
     "objectID": "templates/metro-template.html#point-of-view",

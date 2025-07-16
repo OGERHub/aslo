@@ -49,7 +49,9 @@ website:
           - href: unit01/unit01-06.qmd
             text: "Themenfelder zur Klimaresilienz"
           - href: unit01/unit01-02.qmd
-            text: "Didaktische Konzepte"
+            text: "Didaktische Konzepte"            
+
+            
 
       - text: "---"
 
@@ -59,10 +61,12 @@ website:
             text: "Quiz zur Klimaresilienz"
           - href: unit02/unit02-01.qmd
             text: "TaskCards"
-          - href: unit02/unit02-02.qmd
-            text: "Quarto Markdown"
-          - href: unit02/unit02-03.qmd
-            text: "AsLo Template"
+          - href: unit02/unit02-08.qmd
+            text: "Didaktische Konzepte"            
+#          - href: unit02/unit02-02.qmd
+#            text: "Quarto Markdown"
+#          - href: unit02/unit02-03.qmd
+#            text: "AsLo Template"
 
       - text: "---"
 

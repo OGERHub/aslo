@@ -26,10 +26,9 @@ Die Inhalte und Übungen des Theorie- und Praxisteils sollen Sie auf die Erstell
 1.  (einzeln) Eingangsreflexion (5%)
 2.  (Gruppe) Projektplan (2-teilig: Planung Exkursion, Erarbeitung Aslo (5 %))
 3.  (einzeln) Lerntagebuch von mindestens vier Exkursionen (10%)
-4.  (Gruppe) Ausarbeitung eines Aslos auf Oberstufenniveau auf Poster (15 %)
-5.  (Gruppe) Reflexion der Ergebnisse der Posterpräsentation (5 %)
-6.  (Gruppe) Flyer auf dem der ausgearbeitete AsLo durchführbar präsentiert wird (40%)
-7.  (einzeln) Gesamtreflexion (20%)
+4.  (Gruppe) Ausarbeitung eines Aslos a
+
+uf Oberstufenniveau auf Poster (15 %) 5. (Gruppe) Reflexion der Ergebnisse der Posterpräsentation (5 %) 6. (Gruppe) Flyer auf dem der ausgearbeitete AsLo durchführbar präsentiert wird (40%) 7. (einzeln) Gesamtreflexion (20%)
 
 ### Von der Exkursion zum außerschulische Lernort
 
@@ -43,10 +42,45 @@ Ihr Poster soll folgende Inhalte umfassen:
 
 -   Eine fachliche Aufarbeitung des Exkursionsgegenstandes, die die Bedeutung des Themas für die Klimaresilienz Marburgs diskutiert.
 
--   Kompetenzziele, eines für jede Ebene (Sinneswahrnehmung, Container, Lagebeziehung, Konstruktion) des Kompetenzmodells <https://ogerhub.github.io/aslo/unit01/unit01-05.html>
+-   Kompetenzziele, eines für jede Ebene (Sinneswahrnehmung, Container, Lagebeziehung, Konstruktion) des Kompetenzmodells [Kompetenzmodells](https://ogerhub.github.io/aslo/unit01/unit01-05.html)
 
--   methodsiche Entscheidungen (s. [https://ogerhub.github.io/aslo/unit01/unit01-02.html](#0 "s. hier")), spezifische Lernorte und konkrete Aufgaben (Material kann per QR-Code zur Verfügung gestellt werden), die die Kompetenzen geziel fördern
+-   [Methodische Ansätze](https://ogerhub.github.io/aslo/unit01/unit01-02.html) exemplarisch auch [Quiz](https://ogerhub.github.io/aslo/unit01/unit01-07.html), Spezifische Lernorte und konkrete Aufgaben (Material kann per QR-Code/[Taskcards](https://ogerhub.github.io/aslo/unit02/unit02-01.html) etc.zur Verfügung gestellt werden), die die Kompetenzen gezielt fördern\[\],
 
 -   Hinweise zur erforderlichen Vor- und Nachbereitung des Lernortes im Klassenraum.
 
 Finden Sie eine geeignete Weise in der sich Ihre Inhalte knapp und dicht darstellen lassen, vergessen Sie dabei nicht wissenschaftliche Quellen einzubinden.
+
+
+#### Formaler Ablauf Posterpräsentation
+
+- Mindestens 1 Mitglied der Gruppe MUSS anwesend sein 
+- 45 Minuten Posterwalk
+- Pause 
+- Posterpitch (beide Gruppen per Los nacheinander je 2 Minuten Vortrag gemeinsame kontrastierende Disklussion 6 Minuten) 
+- offne Fragen
+
+## Reflexion Poster
+
+Donnerstag 17.04.2025 wird das Template der Posterreflexion in Ilias eingestellt
+
+Abgabe: **Donnerstag 24.07.2025 bis 23.59 Uhr**
+
+
+## Flyer 
+
+Die Welt der Flyer reicht vom einfachen [Flugblatt](https://de.wikipedia.org/wiki/Flugblatt) über den schlichten aber vielfältigen [Leporello](https://de.wikipedia.org/wiki/Leporello_(Heft)) bis hin zu komplexeren [Falttechniken](https://de.wikipedia.org/wiki/Falzen_%28Papiertechnik%29#Falzarten). Ihr Flyer soll als ansprechendes und nutzbares Handout für Lehrer:innen und deren praktische Durchführung Ihres AsLos dienen. 
+
+Wir geben ausdrücklich kein Format, keine Größe und keinen Umfang vor. Jenseits der in den Office-Paketen verfügbaren Vorlagen gibt es auch gute Online-Plattformen [z.B. Canva](https://www.canva.com/) oder auch schlichte [Formatvorlagen für Word](https://fachlehrerin.wordpress.com/2014/02/24/vorlagen-fur-flyer-in-word-wickelfalz-zickzackfalz-und-fensterfalz/), die diese Aufgabe ansprechend unterstützen. 
+
+Selbstredend sollte es eine sinnvolle Fortschreibung und Weiterentwicklung des Posterinhalts sein. Auf der Seite [Didaktische Konzepte](https://ogerhub.github.io/aslo/docs/unit01/unit01-02.html) finden Sie für die Ausgestaltung und Begründung eine umfangreiche Auswahl. Als Grundgliederung können Sie den [Planungs-Dreischritt](file:///home/creu/edu/ogerhub/aslo/docs/unit01/unit01-02.html#planungsdreischritt) nutzen. 
+
+**Bitte beachten Sie der Fokus liegt auf dem Lernort und seiner Ausgestaltung**
+
+
+## Gesamtreflexion
+
+Am **Donnerstag 24.07.2025** nach der Posterpräsentation wird das Template der Gesamtreflexion in Ilias eingestellt
+
+## Abgabetermin:
+
+Finaler Abgabetermin für Flyer & Gesamtreflexion: **Sonntag 17.08.2025 bis 23.59 Uhr**

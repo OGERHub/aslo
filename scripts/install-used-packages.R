@@ -3,7 +3,7 @@
 install.packages("stringr", repos = "https://cloud.r-project.org")
 
 # Optional: häufig genutzte Basispakete direkt installieren
-install.packages("tidyverse", repos = "https://cloud.r-project.org")
+#install.packages("tidyverse", repos = "https://cloud.r-project.org")
 
 
 qmd_files <- list.files(pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE)

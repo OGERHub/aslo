@@ -38,7 +38,7 @@ revealjs-plugins:
 ```{r}
 #| echo: false
 options(tidyverse.quiet=TRUE)
-library(tidyverse)
+#library(tidyverse)
 ```
 
 ## { background-image="preview-image-mof.png" background-opacity="0.7" background-size="contain"  } 
@@ -119,14 +119,6 @@ Overflowed content will be scrollable on this slide.
 #| fig.width: 16
 #| output-location: column
 # ^^ could be fragment, slide, column, column-fragment
-ggplot() +
-  geom_point(
-    data = mtcars,
-    aes(wt, mpg),
-    color = "goldenrod"
-  ) +
-  labs(
-    title = "Some Dots"
-  ) 
+plot(mtcars)
 ```
 

@@ -53,7 +53,7 @@ This is a slide with a background image
 
 ## Bullets 
 
-Remove the incremental ::: bracketed div for plain lists
+Remove the incremental  bracketed div for plain lists
 
 ::: {.incremental}
 - the quick
